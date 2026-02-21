@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#060608">
+    <meta name="description" content="Mettlestate EA FC Mobile League — standings, fixtures, results &amp; admin. Syncs to GitHub.">
+    <title>Mettlestate × EA FC Mobile League</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;0,400;0,600;0,700;0,900;1,700&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div class="noise-overlay"></div>
+
+<!-- GitHub sync status (slides down when syncing) -->
+<div id="sync-bar" class="sync-bar hidden" role="status" aria-live="polite">
+    <span id="sync-icon" aria-hidden="true"><i class="fas fa-circle-notch fa-spin"></i></span>
+    <span id="sync-msg">Syncing to GitHub…</span>
+</div>
+
+<div class="app-container">
+
+    <!-- SIDEBAR -->
+    <aside class="sidebar">
+        <div class="logo-area">
+            <img src="assets/logo.png" alt="Mettlestate Logo" class="logo-badge">
+            <h1>METTLE<span>STATE</span></h1>
+            <p class="logo-sub">× EA FC MOBILE LEAGUE</p>
+            <div class="season-tag">BY ASTRAL REIGN</div>
+        </div>
+        <nav>
+            <button class="nav-btn active" data-tab="dashboard"><i class="fas fa-trophy"></i><span>Standings</span></button>
+            <button class="nav-btn" data-tab="fixtures"><i class="fas fa-futbol"></i><span>Fixtures</span></button>
+            <button class="nav-btn" data-tab="results"><i class="fas fa-check-double"></i><span>Results</span></button>
+            <button class="nav-btn" data-tab="players"><i class="fas fa-users"></i><span>Players</span></button>
+            <button class="nav-btn" data-tab="rules"><i class="fas fa-scroll"></i><span>Rules</span></button>
+            <button class="nav-btn" data-tab="admin"><i class="fas fa-shield-halved"></i><span>Admin</span></button>
+        </nav>
+        <div class="sidebar-footer">
+            <div id="gh-status-dot" class="status-dot status-local" title="Not connected to GitHub"></div>
+            <span id="gh-status-label">Local only</span>
+        </div>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+
+        <!-- ====== STANDINGS ====== -->
+        <section id="dashboard" class="tab-content active">
+            <div class="page-header">
+                <div>
+                    <h2>LEAGUE STANDINGS</h2>
+                    <p class="page-subtitle">Live rankings · Updated in real-time</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn-outline" onclick="downloadLeaderboardImage()"><i class="fas fa-camera"></i> Export Image</button>
+                    <button class="btn-outline" onclick="exportData()"><i class="fas fa-download"></i> Backup</button>
+                </div>
+            </div>
+            <div id="podium-area" class="podium-area" style="display:none"></div>
+            <div class="table-wrap">
+                <table id="leaderboardTable">
+                    <thead>
+                        <tr>
+                            <th class="th-pos">POS</th>
+                            <th>PLAYER</th>
+                            <th title="Played">P</th>
+                            <th title="Wins">W</th>
+                            <th title="Draws">D</th>
+                            <th title="Losses">L</th>
+                            <th title="Goals For">GF</th>
+                            <th title="Goals Against">GA</th>
+                            <th title="Goal Difference">GD</th>
+                            <th title="Points">PTS</th>
+                            <th title="Form">FORM</th>
+                        </tr>
+                    </thead>
+                    <tbody id="leaderboardBody"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ====== FIXTURES ====== -->
+        <section id="fixtures" class="tab-content">
+            <div class="page-header">
+                <div>
+                    <h2>FIXTURES</h2>
+                    <p class="page-subtitle">Pending matches · Awaiting results</p>
+                </div>
+                <div class="header-actions">
+                    <button class="btn-outline" onclick="downloadFixtureImage()"><i class="fas fa-camera"></i> Export Image</button>
+                </div>
+            </div>
+            <div id="fixtures-grid" class="cards-grid"></div>
+        </section>
+
+        <!-- ====== RESULTS ====== -->
+        <section id="results" class="tab-content">
+            <div class="page-header">
+                <div>
+                    <h2>RESULTS</h2>
+                    <p class="page-subtitle">Completed matches · Full history</p>
+                </div>
+            </div>
+            <div id="results-list" class="results-list"></div>
+        </section>
+
+        <!-- ====== PLAYERS ====== -->
+        <section id="players" class="tab-content">
+            <div class="page-header">
+                <div>
+                    <h2>PLAYERS</h2>
+                    <p class="page-subtitle"><span id="player-count">0</span> registered participants</p>
+                </div>
+            </div>
+            <div class="table-wrap">
+                <table id="playerMgmtTable">
+                    <thead>
+                        <tr>
+                            <th>#</th><th>NAME</th><th>IN-GAME USERNAME</th><th>CONTACT</th><th>STATS</th><th>ACTION</th>
+                        </tr>
+                    </thead>
+                    <tbody id="playerMgmtBody"></tbody>
+                </table>
+            </div>
+        </section>
+
+        <!-- ====== RULES ====== -->
+        <section id="rules" class="tab-content">
+            <div class="page-header">
+                <div>
+                    <h2>LEAGUE RULES</h2>
+                    <p class="page-subtitle">Official regulations · Season 1</p>
+                </div>
+                <button class="btn-outline" onclick="downloadRulesImage()"><i class="fas fa-camera"></i> Export Rules</button>
+            </div>
+            <div class="rules-page" id="rules-content">
+
+                <!-- BRAND HEADER -->
+                <div class="rules-brand-header">
+                    <div class="rules-brand-left">
+                        <img src="assets/logo.png" alt="Mettlestate Logo" class="rules-brand-logo">
+                        <div>
+                            <div class="rules-brand-name">METTLESTATE <span>&times; EA FC MOBILE</span></div>
+                            <div class="rules-brand-url"><i class="fas fa-globe"></i> mettlestate.com</div>
+                        </div>
+                    </div>
+                    <div class="rules-season-badge">SEASON 1</div>
+                </div>
+
+                <!-- POINTS SYSTEM BANNER -->
+                <div class="rules-points-banner">
+                    <div class="rules-points-item win"><span class="rules-points-num">3</span><span class="rules-points-label">WIN</span></div>
+                    <div class="rules-points-divider"></div>
+                    <div class="rules-points-item draw"><span class="rules-points-num">1</span><span class="rules-points-label">DRAW</span></div>
+                    <div class="rules-points-divider"></div>
+                    <div class="rules-points-item loss"><span class="rules-points-num">0</span><span class="rules-points-label">LOSS</span></div>
+                    <div class="rules-points-divider"></div>
+                    <div class="rules-points-item info"><span class="rules-points-num" style="font-size:1.1rem;">GD</span><span class="rules-points-label">TIEBREAKER</span></div>
+                </div>
+
+                <div class="rules-grid">
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-calendar-alt"></i> FIXTURES &amp; SCHEDULING</h3>
+                        <ul>
+                            <li>Fixtures are sent between <strong>00:00&#8211;10:00 SAST (GMT+2)</strong>, Monday to Saturday, excluding cup days and public holidays.</li>
+                            <li>Deadline for results is <strong class="clr-red">23:59 same day. NO LATE SUBMISSIONS ACCEPTED.</strong></li>
+                            <li>You <strong>cannot</strong> send a first message to your opponent after <strong>19:00</strong>.</li>
+                            <li>Fixtures display the first <strong>4 letters</strong> of each opponent&#39;s WhatsApp username.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-camera"></i> RESULT SUBMISSION</h3>
+                        <ul>
+                            <li>Submit a <strong>screenshot of your result</strong> within a <strong class="clr-yellow">15-minute grace period</strong> after the match.</li>
+                            <li>If contact was attempted, submit <strong>screenshot evidence</strong> within a <strong class="clr-yellow">6-hour grace period</strong> &#8212; only after 19:00, not earlier.</li>
+                            <li>If nothing is submitted when the grace period ends, the game is a <strong class="clr-yellow">draw</strong>.</li>
+                            <li>Tag <strong>both admins</strong> in the Mettlestate group when submitting results or evidence.</li>
+                            <li><strong class="clr-red">All league messages must go on the Mettlestate group.</strong> No direct messaging.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-user-slash"></i> NO-SHOWS &amp; FORFEITS</h3>
+                        <ul>
+                            <li>If an opponent doesn&#39;t arrive at the agreed time &#8212; <strong class="clr-red">automatic forfeit</strong> after a <strong>10-minute grace</strong>.</li>
+                            <li>If your opponent sets a time and is <strong>30 minutes late</strong>, you are awarded the win.</li>
+                            <li>Submit evidence of attempted contact between <strong>20:00&#8211;20:15</strong> to be awarded the win. No discussions during this window &#8212; evidence only.</li>
+                            <li>Failure to follow this results in a <strong>forfeit or draw</strong> at admin discretion.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-clock"></i> POSTPONEMENTS</h3>
+                        <ul>
+                            <li>Each player may postpone <strong>2 matches per month</strong> (including your opponent postponing against you).</li>
+                            <li>Exceptions are made for valid reasons (broken phone, family emergency, etc.).</li>
+                            <li>If one opponent falls asleep and <strong>both submit screenshot evidence</strong>, the result is a <strong class="clr-yellow">draw or postponement</strong> at admin discretion.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-wifi"></i> DISCONNECTIONS</h3>
+                        <ul>
+                            <li>If disconnected, immediately report to the league admin and your opponent to arrange a rematch.</li>
+                            <li>If network is the cause, provide <strong>3&#8211;5 screenshots</strong> at the 10-minute in-game mark, or a video if possible.</li>
+                            <li>If a goal was scored before the lag, the match replays with a <strong>handicap scoreline</strong>.</li>
+                            <li><strong class="clr-red">No evidence = straight forfeit. No excuses.</strong></li>
+                            <li>Notify organisers <strong>before</strong> the match if using the in-game network tester. First 2 matches = network test; 3rd match = actual game.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section rules-section--danger">
+                        <h3><i class="fas fa-ban"></i> STRICTLY PROHIBITED</h3>
+                        <ul>
+                            <li><strong class="clr-red">KickOff Glitch</strong> &#8212; forbidden. Caught with proof = forfeit.</li>
+                            <li><strong class="clr-red">Cross Spamming</strong> &#8212; max <strong>5 attempts per match</strong>. Exceeded with proof = forfeit.</li>
+                            <li><strong class="clr-red">Lob Ball Spamming</strong> &#8212; max <strong>5 attempts per match</strong>. Exceeded with proof = forfeit.</li>
+                            <li><strong class="clr-red">Passive Playing / Time-Wasting</strong> &#8212; wasting <strong>10 minutes game-time</strong> with possession = loss. Requires 3 screenshots or a short video as evidence.</li>
+                            <li>Breaching Mettlestate community or general rules = <strong class="clr-red">removal by admins</strong>.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section">
+                        <h3><i class="fas fa-gavel"></i> DISPUTES &amp; ADMIN</h3>
+                        <ul>
+                            <li>All disputes are handled by the <strong>organisers, helpers, and admin</strong>. Raise it in the group.</li>
+                            <li>Admin decisions are <strong>final</strong>.</li>
+                            <li>Rules may be updated between seasons at organiser discretion.</li>
+                            <li>Visit <a href="https://mettlestate.com" target="_blank" class="rules-link">mettlestate.com</a> for Mettlestate community and general rules.</li>
+                        </ul>
+                    </div>
+
+                    <div class="rules-section rules-section--highlight">
+                        <h3><i class="fas fa-handshake"></i> ASTRAL FRIENDLY LEAGUE &#8212; ADDENDUM</h3>
+                        <p class="rules-note">The following additional rules apply specifically to the <strong>Mettlestate &times; Astral Friendly League</strong>:</p>
+                        <ul>
+                            <li>You have <strong>23 hours (00:00&#8211;23:00)</strong> to play. Unplayed games = <strong class="clr-yellow">draw</strong>.</li>
+                            <li>Proof of attempted contact must be submitted between <strong>20:00&#8211;20:15</strong> to be awarded the win for a no-show.</li>
+                            <li><strong class="clr-red">LATE RESULTS OR REPORTS ARE NOT ACCEPTED.</strong></li>
+                            <li>Report agreed match times to organisers between <strong>20:00&#8211;20:15</strong>. No discussions during this window.</li>
+                            <li>All standard conduct rules (passive play, cross spam, kick-off glitch) apply here too.</li>
+                        </ul>
+                    </div>
+
+                </div>
+
+                <div class="rules-footer">
+                    Powered by <a href="https://mettlestate.com" target="_blank">mettlestate.com</a> &nbsp;&bull;&nbsp; #MettlestateLeague
+                </div>
+
+            </div>
+        </section>
+        
+        <!-- ====== ADMIN ====== -->
+        <section id="admin" class="tab-content">
+            <div class="page-header">
+                <div>
+                    <h2>ADMIN PANEL</h2>
+                    <p class="page-subtitle">League management · Restricted access</p>
+                </div>
+            </div>
+
+            <div class="admin-grid">
+
+                <!-- GITHUB CONFIG -->
+                <div class="admin-card admin-card--github">
+                    <div class="admin-card-icon" style="background:rgba(255,255,255,0.05); border-color:rgba(255,255,255,0.1); color:#fff;"><i class="fab fa-github"></i></div>
+                    <h3>GitHub Sync</h3>
+                    <p>Connect to your repo so all data and match images are committed automatically on every change.</p>
+                    <input type="text"     id="ghOwner"  placeholder="Username / Org  (e.g. mettlestate)">
+                    <input type="text"     id="ghRepo"   placeholder="Repository name  (e.g. eafc-league)">
+                    <input type="text"     id="ghBranch" placeholder="Branch  (default: main)" value="main">
+                    <input type="password" id="ghToken"  placeholder="Personal Access Token (repo scope)">
+                    <div class="gh-token-hint"><i class="fas fa-lock"></i> Token is stored in your browser only — never sent anywhere except GitHub's API.</div>
+                    <button class="btn-primary" onclick="saveGitHubConfig()"><i class="fab fa-github"></i> Save & Connect</button>
+                    <button class="btn-danger"  onclick="disconnectGitHub()">Disconnect</button>
+                    <div id="gh-connect-status" class="gh-status-msg"></div>
+                </div>
+
+                <!-- LOG SCORE + IMAGE UPLOAD -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-edit"></i></div>
+                    <h3>Log Score</h3>
+                    <p>Record the result and optionally attach a screenshot as evidence.</p>
+                    <select id="scoreFixtureSelect" class="styled-select"></select>
+                    <div class="score-inputs">
+                        <input type="number" id="scoreHome" min="0" placeholder="Home">
+                        <span class="score-dash">—</span>
+                        <input type="number" id="scoreAway" min="0" placeholder="Away">
+                    </div>
+                    <!-- Image upload -->
+                    <input type="file" id="matchImageInput" accept="image/*" class="file-input">
+                    <label for="matchImageInput" class="btn-file-label" id="matchImageLabel">
+                        <i class="fas fa-image"></i> Attach Screenshot (optional)
+                    </label>
+                    <div id="match-image-preview-wrap" style="display:none; margin-bottom:8px;">
+                        <img id="match-image-preview" src="" alt="preview" style="width:100%; border-radius:6px; border:1px solid var(--border); max-height:160px; object-fit:cover;">
+                        <button onclick="clearMatchImage()" style="background:rgba(255,59,59,0.12); color:var(--red); border:1px solid rgba(255,59,59,0.25); padding:5px 10px; font-size:0.75rem; width:100%; margin-top:4px; margin-bottom:0;">
+                            <i class="fas fa-times"></i> Remove Image
+                        </button>
+                    </div>
+                    <button class="btn-secondary" onclick="logScore()">Log Result</button>
+                </div>
+
+                <!-- IMPORT PLAYERS -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-file-import"></i></div>
+                    <h3>Import Players</h3>
+                    <p>Upload a <code>.txt</code> file. Format per line: <code>Name, Username, Phone</code></p>
+                    <input type="file" id="playerImport" accept=".txt" class="file-input">
+                    <label for="playerImport" class="btn-file-label"><i class="fas fa-folder-open"></i> Choose File</label>
+                    <span id="file-chosen">No file chosen</span>
+                    <button class="btn-primary" onclick="processImport()">Import Players</button>
+                </div>
+
+                <!-- GENERATE FIXTURES -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-shuffle"></i></div>
+                    <h3>Generate Fixtures</h3>
+                    <p>Create random matchday pairings from the registered player pool.</p>
+                    <select id="matchday-select" class="styled-select">
+                        <option value="random">Random Pairs</option>
+                        <option value="roundrobin">Round Robin (All vs All)</option>
+                    </select>
+                    <button class="btn-primary" onclick="generateDraw()">Generate Draw</button>
+                    <button class="btn-danger"  onclick="clearData()">Reset Entire League</button>
+                </div>
+
+                <!-- MANUAL MATCH -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-plus-circle"></i></div>
+                    <h3>Manual Match</h3>
+                    <p>Manually schedule a specific fixture between two players.</p>
+                    <input type="text" id="p1Input" placeholder="Player 1 Username" list="player-list-p1">
+                    <datalist id="player-list-p1"></datalist>
+                    <input type="text" id="p2Input" placeholder="Player 2 Username" list="player-list-p2">
+                    <datalist id="player-list-p2"></datalist>
+                    <button class="btn-secondary" onclick="addManualMatch()">Add Fixture</button>
+                </div>
+
+                <!-- ADD SINGLE PLAYER -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-user-plus"></i></div>
+                    <h3>Add Single Player</h3>
+                    <p>Manually add a single participant to the league.</p>
+                    <input type="text" id="addName"     placeholder="Full Name">
+                    <input type="text" id="addUsername" placeholder="In-Game Username">
+                    <input type="text" id="addPhone"    placeholder="Phone / Contact">
+                    <button class="btn-secondary" onclick="addSinglePlayer()">Add Player</button>
+                </div>
+
+                <!-- DATA MANAGEMENT -->
+                <div class="admin-card">
+                    <div class="admin-card-icon"><i class="fas fa-database"></i></div>
+                    <h3>Data Management</h3>
+                    <p>Backup or restore league data as JSON.</p>
+                    <button class="btn-outline" onclick="exportData()"><i class="fas fa-download"></i> Export JSON Backup</button>
+                    <input type="file" id="importBackup" accept=".json" style="display:none">
+                    <button class="btn-outline" onclick="document.getElementById('importBackup').click()"><i class="fas fa-upload"></i> Restore Backup</button>
+                    <button class="btn-outline" id="btn-force-sync" onclick="forceSyncToGitHub()" style="margin-top:4px; display:none;"><i class="fab fa-github"></i> Force Sync Now</button>
+                </div>
+
+                <!-- MATCH EVIDENCE VIEWER (admin only) -->
+                <div class="admin-card admin-card--wide">
+                    <div class="admin-card-icon"><i class="fas fa-photo-film"></i></div>
+                    <h3>Match Evidence</h3>
+                    <p>Screenshots submitted with results. Only visible here in Admin.</p>
+                    <div id="evidence-grid" class="evidence-grid">
+                        <p style="color:var(--muted); font-size:0.85rem;">No evidence images yet.</p>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+    </main>
+</div>
+
+<!-- POSTER ELEMENTS (body-level, hidden — used for html2canvas) -->
+<div id="fixture-capture-area" class="export-poster" style="position:absolute;top:0;left:-9999px;z-index:-1;visibility:hidden;">
+    <div class="poster-top-bar"></div>
+    <div class="poster-header">
+        <div class="poster-logo-text">METTLESTATE</div>
+        <div class="poster-title">MATCHDAY FIXTURES</div>
+        <div class="poster-sub">EA FC MOBILE LEAGUE · SEASON 1</div>
+    </div>
+    <div id="poster-fixture-list" class="poster-match-list"></div>
+    <div class="poster-footer"><span>#Mettlestate x League</span><span></span></div>
+    <div class="poster-bottom-bar"></div>
+</div>
+
+<div id="lb-capture-area" class="export-poster lb-poster" style="position:absolute;top:0;left:-9999px;z-index:-1;visibility:hidden;">
+    <div class="poster-top-bar"></div>
+    <div class="poster-header">
+        <div class="poster-logo-text">METTLESTATE</div>
+        <div class="poster-title">LEAGUE STANDINGS</div>
+        <div class="poster-sub">EA FC MOBILE LEAGUE · SEASON 1</div>
+    </div>
+    <div id="poster-lb-table" class="poster-lb-content"></div>
+    <div class="poster-footer"><span>#MettlestateLeague</span><span>@Astral Reign</span></div>
+    <div class="poster-bottom-bar"></div>
+</div>
+
+<div id="rules-capture-area" class="export-poster" style="position:absolute;top:0;left:-9999px;z-index:-1;visibility:hidden;padding-bottom:20px;">
+    <div class="poster-top-bar"></div>
+    <div class="poster-header">
+        <div class="poster-logo-text">METTLESTATE</div>
+        <div class="poster-title">LEAGUE RULES</div>
+        <div class="poster-sub">EA FC MOBILE LEAGUE · SEASON 1</div>
+    </div>
+    <div id="poster-rules-content" style="padding:30px 50px;"></div>
+    <div class="poster-footer"><span>#MettlestateLeague</span><span>@Astral Reign</span></div>
+    <div class="poster-bottom-bar"></div>
+</div>
+
+<!-- MODAL -->
+<div id="modal-overlay" class="modal-overlay" onclick="closeModal()">
+    <div class="modal-box" onclick="event.stopPropagation()">
+        <button class="modal-close" onclick="closeModal()"><i class="fas fa-times"></i></button>
+        <div id="modal-body"></div>
+    </div>
+</div>
+
+<!-- IMAGE LIGHTBOX -->
+<div id="lightbox" class="lightbox" onclick="closeLightbox()">
+    <div class="lightbox-inner">
+        <img id="lightbox-img" src="" alt="">
+        <div id="lightbox-caption"></div>
+    </div>
+</div>
+
+<!-- TOAST -->
+<div id="toast" class="toast"></div>
+
+<script src="js/github.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
