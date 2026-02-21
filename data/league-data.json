@@ -1,6 +1,207 @@
 {
-  "players": [],
-  "fixtures": [],
+  "players": [
+    {
+      "name": "Thandobhaze0023",
+      "username": "bhaze",
+      "phone": "0679687240",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Sailor",
+      "username": "Sailor",
+      "phone": "0677514331",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Sibonelo_Kheswa",
+      "username": "KING_KHESWA.",
+      "phone": "0607557805",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Lukie",
+      "username": "Lukie",
+      "phone": "0684782614",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Sihle",
+      "username": "ExequielThwala",
+      "phone": "0797363716",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "XWRLD",
+      "username": "XWRLD_REAPERS",
+      "phone": "0750656258",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "RoyalAM",
+      "username": "RoyalAM",
+      "phone": "0781276230",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Ctaum",
+      "username": "Ctaum-cpt",
+      "phone": "0764797158",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "uSONGO oMNYAMA",
+      "username": "E1even-Starz",
+      "phone": "0661750311",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Sibusiso Makhanye",
+      "username": "Yungboyshlime",
+      "phone": "0810878650",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "SMANGALISO",
+      "username": "SMANGALISO",
+      "phone": "0780070989",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "Reginald Frank Thornton",
+      "username": "RFT07",
+      "phone": "0820658330",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    },
+    {
+      "name": "HyperDrive27",
+      "username": "HyperDrive27",
+      "phone": "0724904785",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
+    }
+  ],
+  "fixtures": [
+    {
+      "home": "RoyalAM",
+      "away": "ExequielThwala",
+      "id": 1771663563121
+    },
+    {
+      "home": "Lukie",
+      "away": "XWRLD_REAPERS",
+      "id": 1771663563123
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Sailor",
+      "id": 1771663563125
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "SMANGALISO",
+      "id": 1771663563127
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "id": 1771663563129
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Ctaum-cpt",
+      "id": 1771663563131
+    }
+  ],
   "results": [],
-  "lastUpdated": "2026-02-21T08:44:22.677Z"
+  "lastUpdated": "2026-02-21T08:46:03.121Z"
 }
