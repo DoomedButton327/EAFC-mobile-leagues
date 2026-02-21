@@ -2,7 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <meta name="theme-color" content="#060608">
+    <meta name="description" content="Mettlestate EA FC Mobile League — standings, fixtures, results &amp; admin. Syncs to GitHub.">
     <title>Mettlestate × EA FC Mobile League</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,9 +17,9 @@
 
 <div class="noise-overlay"></div>
 
-<!-- GITHUB SYNC STATUS BAR -->
-<div id="sync-bar" class="sync-bar hidden">
-    <span id="sync-icon"><i class="fas fa-circle-notch fa-spin"></i></span>
+<!-- GitHub sync status (slides down when syncing) -->
+<div id="sync-bar" class="sync-bar hidden" role="status" aria-live="polite">
+    <span id="sync-icon" aria-hidden="true"><i class="fas fa-circle-notch fa-spin"></i></span>
     <span id="sync-msg">Syncing to GitHub…</span>
 </div>
 
