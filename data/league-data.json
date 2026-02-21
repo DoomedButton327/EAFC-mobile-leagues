@@ -4,14 +4,16 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "Sailor",
@@ -150,14 +152,16 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "Reginald Frank Thornton",
@@ -190,13 +194,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "SMANGALISO",
-      "away": "bhaze",
-      "id": 1771664557487
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "Ctaum-cpt",
@@ -227,7 +225,13 @@
       "away": "RoyalAM",
       "result": "draw",
       "id": 1771664567529
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "bhaze",
+      "result": "home",
+      "id": 1771664568728
     }
   ],
-  "lastUpdated": "2026-02-21T09:02:48.132Z"
+  "lastUpdated": "2026-02-21T09:02:49.332Z"
 }
