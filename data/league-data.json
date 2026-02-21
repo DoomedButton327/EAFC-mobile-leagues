@@ -17,14 +17,16 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "Sibonelo_Kheswa",
@@ -58,14 +60,16 @@
       "name": "Sihle",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "XWRLD",
@@ -180,11 +184,6 @@
   ],
   "fixtures": [
     {
-      "home": "Sailor",
-      "away": "ExequielThwala",
-      "id": 1771664557481
-    },
-    {
       "home": "XWRLD_REAPERS",
       "away": "HyperDrive27",
       "id": 1771664557483
@@ -212,7 +211,13 @@
       "away": "E1even-Starz",
       "result": "away",
       "id": 1771664562132
+    },
+    {
+      "home": "Sailor",
+      "away": "ExequielThwala",
+      "result": "home",
+      "id": 1771664564058
     }
   ],
-  "lastUpdated": "2026-02-21T09:02:42.732Z"
+  "lastUpdated": "2026-02-21T09:02:44.662Z"
 }
