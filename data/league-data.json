@@ -112,15 +112,16 @@
       "name": "Ctaum",
       "username": "Ctaum-cpt",
       "phone": "0764797158",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 3,
+      "points": 4,
       "gf": 0,
       "ga": 0,
       "form": [
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -142,14 +143,15 @@
       "name": "Sibusiso Makhanye",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "points": 1,
+      "points": 2,
       "gf": 0,
       "ga": 0,
       "form": [
+        "D",
         "D"
       ]
     },
@@ -211,11 +213,6 @@
       "home": "E1even-Starz",
       "away": "XWRLD_REAPERS",
       "id": 1771664669034
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "Ctaum-cpt",
-      "id": 1771664669040
     }
   ],
   "results": [
@@ -272,7 +269,13 @@
       "away": "RoyalAM",
       "result": "draw",
       "id": 1771664675726
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "id": 1771664676421
     }
   ],
-  "lastUpdated": "2026-02-21T09:04:36.327Z"
+  "lastUpdated": "2026-02-21T09:04:37.024Z"
 }
