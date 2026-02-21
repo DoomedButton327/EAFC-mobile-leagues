@@ -4,32 +4,34 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 0,
       "losses": 2,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 2,
       "ga": 0,
       "form": [
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 4,
       "gf": 0,
-      "ga": 0,
+      "ga": 2,
       "form": [
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -213,11 +215,6 @@
   ],
   "fixtures": [
     {
-      "home": "bhaze",
-      "away": "Sailor",
-      "id": 1771664719686
-    },
-    {
       "home": "E1even-Starz",
       "away": "SMANGALISO",
       "id": 1771664719688
@@ -323,7 +320,16 @@
       "awayGoals": 0,
       "id": 1771664744909,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_XWRLD_REAPERS_1771664743684.png"
+    },
+    {
+      "home": "bhaze",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1771664756445,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Sailor_1771664755675.jpg"
     }
   ],
-  "lastUpdated": "2026-02-21T09:05:48.251Z"
+  "lastUpdated": "2026-02-21T09:05:58.856Z"
 }
