@@ -35,14 +35,16 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Lukie",
@@ -94,14 +96,15 @@
       "name": "RoyalAM",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "points": 1,
+      "points": 2,
       "gf": 0,
       "ga": 0,
       "form": [
+        "D",
         "D"
       ]
     },
@@ -210,11 +213,6 @@
       "id": 1771664669034
     },
     {
-      "home": "KING_KHESWA.",
-      "away": "RoyalAM",
-      "id": 1771664669038
-    },
-    {
       "home": "Yungboyshlime",
       "away": "Ctaum-cpt",
       "id": 1771664669040
@@ -268,7 +266,13 @@
       "away": "ExequielThwala",
       "result": "draw",
       "id": 1771664674988
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1771664675726
     }
   ],
-  "lastUpdated": "2026-02-21T09:04:35.591Z"
+  "lastUpdated": "2026-02-21T09:04:36.327Z"
 }
