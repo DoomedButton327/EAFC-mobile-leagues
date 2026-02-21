@@ -1196,3 +1196,248 @@ select option { background: var(--bg-2); }
   border-radius: 6px;
   overflow: hidden;
 }
+
+/* ============================================================
+   RULES PAGE — REDESIGN
+   ============================================================ */
+
+.rules-page {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+/* ---- BRAND HEADER ---- */
+.rules-brand-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: linear-gradient(135deg, var(--bg-2), var(--bg-1));
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--orange);
+  border-radius: var(--radius);
+  padding: 1.2rem 1.5rem;
+  gap: 1rem;
+}
+
+.rules-brand-left {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.rules-brand-logo {
+  width: 48px; height: 48px;
+  background: var(--orange);
+  clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+  display: flex; align-items: center; justify-content: center;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900;
+  font-size: 1.4rem;
+  color: #fff;
+  flex-shrink: 0;
+}
+
+.rules-brand-name {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900;
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  line-height: 1.1;
+}
+.rules-brand-name span { color: var(--orange); }
+
+.rules-brand-url {
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin-top: 3px;
+  letter-spacing: 1px;
+}
+.rules-brand-url i { margin-right: 4px; color: var(--orange); }
+
+.rules-season-badge {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.75rem;
+  letter-spacing: 3px;
+  color: var(--orange);
+  background: rgba(255,78,0,0.1);
+  border: 1px solid rgba(255,78,0,0.3);
+  padding: 5px 14px;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+
+/* ---- POINTS BANNER ---- */
+.rules-points-banner {
+  display: flex;
+  align-items: center;
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+}
+
+.rules-points-item {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+  gap: 4px;
+}
+
+.rules-points-item.win   { background: rgba(0,255,135,0.05); }
+.rules-points-item.draw  { background: rgba(255,214,0,0.05); }
+.rules-points-item.loss  { background: rgba(255,59,59,0.05); }
+.rules-points-item.info  { background: rgba(255,78,0,0.05); }
+
+.rules-points-num {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 900;
+  font-size: 2rem;
+  line-height: 1;
+}
+.win  .rules-points-num { color: var(--green); }
+.draw .rules-points-num { color: var(--yellow); }
+.loss .rules-points-num { color: var(--red); }
+.info .rules-points-num { color: var(--orange); }
+
+.rules-points-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.65rem;
+  letter-spacing: 2.5px;
+  color: var(--muted);
+  text-transform: uppercase;
+}
+
+.rules-points-divider {
+  width: 1px;
+  height: 50px;
+  background: var(--border);
+  flex-shrink: 0;
+}
+
+/* ---- RULES GRID ---- */
+.rules-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 1rem;
+}
+
+/* ---- RULES SECTION (overrides old style with better look) ---- */
+.rules-page .rules-section {
+  background: var(--bg-1);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 1.4rem;
+  position: relative;
+  overflow: hidden;
+  transition: border-color 0.2s;
+}
+
+.rules-page .rules-section::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, var(--orange), transparent);
+}
+
+.rules-page .rules-section--danger { border-color: rgba(255,59,59,0.25); }
+.rules-page .rules-section--danger::before { background: linear-gradient(90deg, var(--red), transparent); }
+
+.rules-page .rules-section--highlight { border-color: rgba(0,191,255,0.25); }
+.rules-page .rules-section--highlight::before { background: linear-gradient(90deg, var(--blue), transparent); }
+
+.rules-page .rules-section h3 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--orange);
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.rules-page .rules-section--danger h3 { color: var(--red); }
+.rules-page .rules-section--highlight h3 { color: var(--blue); }
+
+.rules-page .rules-section ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+}
+
+.rules-page .rules-section ul li {
+  font-size: 0.87rem;
+  color: var(--muted-2);
+  line-height: 1.55;
+  padding-left: 16px;
+  position: relative;
+}
+
+.rules-page .rules-section ul li::before {
+  content: '›';
+  position: absolute;
+  left: 0;
+  color: var(--orange);
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.rules-page .rules-section--danger  ul li::before { color: var(--red); }
+.rules-page .rules-section--highlight ul li::before { color: var(--blue); }
+
+.rules-page .rules-section ul li strong { color: var(--text); }
+
+.rules-note {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-bottom: 10px;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+.rules-link {
+  color: var(--orange);
+  text-decoration: none;
+  font-weight: 600;
+  border-bottom: 1px solid rgba(255,78,0,0.3);
+  transition: border-color 0.2s;
+}
+.rules-link:hover { border-color: var(--orange); }
+
+/* ---- RULES FOOTER ---- */
+.rules-footer {
+  text-align: center;
+  font-size: 0.78rem;
+  color: var(--muted);
+  padding: 1rem 0 0.5rem;
+  letter-spacing: 1px;
+  border-top: 1px solid var(--border);
+  margin-top: 0.5rem;
+}
+
+.rules-footer a {
+  color: var(--orange);
+  text-decoration: none;
+}
+
+.rules-footer a:hover { text-decoration: underline; }
+
+/* ---- MOBILE RULES ---- */
+@media (max-width: 680px) {
+  .rules-grid { grid-template-columns: 1fr; }
+  .rules-brand-header { flex-direction: column; align-items: flex-start; gap: 0.75rem; }
+  .rules-points-banner { flex-wrap: wrap; }
+  .rules-points-item { min-width: 40%; }
+  .rules-points-divider { display: none; }
+}
