@@ -90,14 +90,16 @@
       "name": "RoyalAM",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Ctaum",
@@ -133,14 +135,16 @@
       "name": "Sibusiso Makhanye",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "SMANGALISO",
@@ -188,11 +192,6 @@
   ],
   "fixtures": [
     {
-      "home": "Yungboyshlime",
-      "away": "RoyalAM",
-      "id": 1771664557485
-    },
-    {
       "home": "SMANGALISO",
       "away": "bhaze",
       "id": 1771664557487
@@ -222,7 +221,13 @@
       "away": "HyperDrive27",
       "result": "away",
       "id": 1771664565842
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1771664567529
     }
   ],
-  "lastUpdated": "2026-02-21T09:02:46.445Z"
+  "lastUpdated": "2026-02-21T09:02:48.132Z"
 }
