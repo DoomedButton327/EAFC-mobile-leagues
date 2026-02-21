@@ -137,124 +137,51 @@
                 </div>
                 <button class="btn-outline" onclick="downloadRulesImage()"><i class="fas fa-camera"></i> Export Rules</button>
             </div>
-            <div class="rules-page" id="rules-content">
-
-                <!-- BRAND HEADER -->
-                <div class="rules-brand-header">
-                    <div class="rules-brand-left">
-                        <div class="rules-brand-logo">M</div>
-                        <div>
-                            <div class="rules-brand-name">METTLESTATE <span>&times; EA FC MOBILE</span></div>
-                            <div class="rules-brand-url"><i class="fas fa-globe"></i> mettlestate.com</div>
-                        </div>
-                    </div>
-                    <div class="rules-season-badge">SEASON 1</div>
+            <div class="rules-container" id="rules-content">
+                <div class="rules-section">
+                    <h3><i class="fas fa-futbol"></i> MATCH FORMAT</h3>
+                    <ul>
+                        <li>All matches are played on EA FC Mobile.</li>
+                        <li>Each match consists of standard-length halves.</li>
+                        <li>Matches must be played within <strong>72 hours</strong> of being scheduled.</li>
+                        <li>Both players must agree on a match time via the group chat.</li>
+                    </ul>
                 </div>
-
-                <!-- POINTS SYSTEM BANNER -->
-                <div class="rules-points-banner">
-                    <div class="rules-points-item win"><span class="rules-points-num">3</span><span class="rules-points-label">WIN</span></div>
-                    <div class="rules-points-divider"></div>
-                    <div class="rules-points-item draw"><span class="rules-points-num">1</span><span class="rules-points-label">DRAW</span></div>
-                    <div class="rules-points-divider"></div>
-                    <div class="rules-points-item loss"><span class="rules-points-num">0</span><span class="rules-points-label">LOSS</span></div>
-                    <div class="rules-points-divider"></div>
-                    <div class="rules-points-item info"><span class="rules-points-num" style="font-size:1.1rem;">GD</span><span class="rules-points-label">TIEBREAKER</span></div>
+                <div class="rules-section">
+                    <h3><i class="fas fa-star"></i> POINTS SYSTEM</h3>
+                    <ul>
+                        <li><strong class="clr-green">Win</strong> — 3 Points</li>
+                        <li><strong class="clr-yellow">Draw</strong> — 1 Point each</li>
+                        <li><strong class="clr-red">Loss</strong> — 0 Points</li>
+                        <li>Tiebreaker: Goal Difference → Goals For → Head-to-Head</li>
+                    </ul>
                 </div>
-
-                <div class="rules-grid">
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-calendar-alt"></i> FIXTURES &amp; SCHEDULING</h3>
-                        <ul>
-                            <li>Fixtures are sent between <strong>00:00&#8211;10:00 SAST (GMT+2)</strong>, Monday to Saturday, excluding cup days and public holidays.</li>
-                            <li>Deadline for results is <strong class="clr-red">23:59 same day. NO LATE SUBMISSIONS ACCEPTED.</strong></li>
-                            <li>You <strong>cannot</strong> send a first message to your opponent after <strong>19:00</strong>.</li>
-                            <li>Fixtures display the first <strong>4 letters</strong> of each opponent&#39;s WhatsApp username.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-camera"></i> RESULT SUBMISSION</h3>
-                        <ul>
-                            <li>Submit a <strong>screenshot of your result</strong> within a <strong class="clr-yellow">15-minute grace period</strong> after the match.</li>
-                            <li>If contact was attempted, submit <strong>screenshot evidence</strong> within a <strong class="clr-yellow">6-hour grace period</strong> &#8212; only after 19:00, not earlier.</li>
-                            <li>If nothing is submitted when the grace period ends, the game is a <strong class="clr-yellow">draw</strong>.</li>
-                            <li>Tag <strong>both admins</strong> in the Mettlestate group when submitting results or evidence.</li>
-                            <li><strong class="clr-red">All league messages must go on the Mettlestate group.</strong> No direct messaging.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-user-slash"></i> NO-SHOWS &amp; FORFEITS</h3>
-                        <ul>
-                            <li>If an opponent doesn&#39;t arrive at the agreed time &#8212; <strong class="clr-red">automatic forfeit</strong> after a <strong>10-minute grace</strong>.</li>
-                            <li>If your opponent sets a time and is <strong>30 minutes late</strong>, you are awarded the win.</li>
-                            <li>Submit evidence of attempted contact between <strong>20:00&#8211;20:15</strong> to be awarded the win. No discussions during this window &#8212; evidence only.</li>
-                            <li>Failure to follow this results in a <strong>forfeit or draw</strong> at admin discretion.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-clock"></i> POSTPONEMENTS</h3>
-                        <ul>
-                            <li>Each player may postpone <strong>2 matches per month</strong> (including your opponent postponing against you).</li>
-                            <li>Exceptions are made for valid reasons (broken phone, family emergency, etc.).</li>
-                            <li>If one opponent falls asleep and <strong>both submit screenshot evidence</strong>, the result is a <strong class="clr-yellow">draw or postponement</strong> at admin discretion.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-wifi"></i> DISCONNECTIONS</h3>
-                        <ul>
-                            <li>If disconnected, immediately report to the league admin and your opponent to arrange a rematch.</li>
-                            <li>If network is the cause, provide <strong>3&#8211;5 screenshots</strong> at the 10-minute in-game mark, or a video if possible.</li>
-                            <li>If a goal was scored before the lag, the match replays with a <strong>handicap scoreline</strong>.</li>
-                            <li><strong class="clr-red">No evidence = straight forfeit. No excuses.</strong></li>
-                            <li>Notify organisers <strong>before</strong> the match if using the in-game network tester. First 2 matches = network test; 3rd match = actual game.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section rules-section--danger">
-                        <h3><i class="fas fa-ban"></i> STRICTLY PROHIBITED</h3>
-                        <ul>
-                            <li><strong class="clr-red">KickOff Glitch</strong> &#8212; forbidden. Caught with proof = forfeit.</li>
-                            <li><strong class="clr-red">Cross Spamming</strong> &#8212; max <strong>5 attempts per match</strong>. Exceeded with proof = forfeit.</li>
-                            <li><strong class="clr-red">Lob Ball Spamming</strong> &#8212; max <strong>5 attempts per match</strong>. Exceeded with proof = forfeit.</li>
-                            <li><strong class="clr-red">Passive Playing / Time-Wasting</strong> &#8212; wasting <strong>10 minutes game-time</strong> with possession = loss. Requires 3 screenshots or a short video as evidence.</li>
-                            <li>Breaching Mettlestate community or general rules = <strong class="clr-red">removal by admins</strong>.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section">
-                        <h3><i class="fas fa-gavel"></i> DISPUTES &amp; ADMIN</h3>
-                        <ul>
-                            <li>All disputes are handled by the <strong>organisers, helpers, and admin</strong>. Raise it in the group.</li>
-                            <li>Admin decisions are <strong>final</strong>.</li>
-                            <li>Rules may be updated between seasons at organiser discretion.</li>
-                            <li>Visit <a href="https://mettlestate.com" target="_blank" class="rules-link">mettlestate.com</a> for Mettlestate community and general rules.</li>
-                        </ul>
-                    </div>
-
-                    <div class="rules-section rules-section--highlight">
-                        <h3><i class="fas fa-handshake"></i> ASTRAL FRIENDLY LEAGUE &#8212; ADDENDUM</h3>
-                        <p class="rules-note">The following additional rules apply specifically to the <strong>Mettlestate &times; Astral Friendly League</strong>:</p>
-                        <ul>
-                            <li>You have <strong>23 hours (00:00&#8211;23:00)</strong> to play. Unplayed games = <strong class="clr-yellow">draw</strong>.</li>
-                            <li>Proof of attempted contact must be submitted between <strong>20:00&#8211;20:15</strong> to be awarded the win for a no-show.</li>
-                            <li><strong class="clr-red">LATE RESULTS OR REPORTS ARE NOT ACCEPTED.</strong></li>
-                            <li>Report agreed match times to organisers between <strong>20:00&#8211;20:15</strong>. No discussions during this window.</li>
-                            <li>All standard conduct rules (passive play, cross spam, kick-off glitch) apply here too.</li>
-                        </ul>
-                    </div>
-
+                <div class="rules-section">
+                    <h3><i class="fas fa-camera"></i> RESULT SUBMISSION</h3>
+                    <ul>
+                        <li>The winning player must post a screenshot of the final score in the group chat.</li>
+                        <li>The admin will then confirm and log the result.</li>
+                        <li>Disputed results will be reviewed by the admin panel.</li>
+                    </ul>
                 </div>
-
-                <div class="rules-footer">
-                    Powered by <a href="https://mettlestate.com" target="_blank">mettlestate.com</a> &nbsp;&bull;&nbsp; #MettlestateLeague
+                <div class="rules-section">
+                    <h3><i class="fas fa-ban"></i> CONDUCT</h3>
+                    <ul>
+                        <li>No abuse, harassment, or unsportsmanlike behaviour.</li>
+                        <li>Rage-quitting before 85 minutes will count as a loss (0-3).</li>
+                        <li>Consistent no-shows may result in removal from the league.</li>
+                        <li>Admin decisions are final.</li>
+                    </ul>
                 </div>
-
-            </div></div>
+                <div class="rules-section">
+                    <h3><i class="fas fa-trophy"></i> PRIZES & STANDINGS</h3>
+                    <ul>
+                        <li>Top 3 players at season end will be recognised on the Mettlestate platform.</li>
+                        <li>Prizes (if applicable) will be announced per season.</li>
+                        <li>The admin reserves the right to update rules between seasons.</li>
+                    </ul>
+                </div>
+            </div>
         </section>
 
         <!-- ====== ADMIN ====== -->
@@ -391,7 +318,7 @@
         <div class="poster-sub">EA FC MOBILE LEAGUE · SEASON 1</div>
     </div>
     <div id="poster-fixture-list" class="poster-match-list"></div>
-    <div class="poster-footer"><span>#MettlestateLeague</span><span>@Mettlestate</span></div>
+    <div class="poster-footer"><span>#Mettlestate x League</span><span></span></div>
     <div class="poster-bottom-bar"></div>
 </div>
 
