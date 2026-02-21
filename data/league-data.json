@@ -75,14 +75,16 @@
       "name": "XWRLD",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "RoyalAM",
@@ -172,22 +174,19 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     }
   ],
   "fixtures": [
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "HyperDrive27",
-      "id": 1771664557483
-    },
     {
       "home": "Yungboyshlime",
       "away": "RoyalAM",
@@ -217,7 +216,13 @@
       "away": "ExequielThwala",
       "result": "home",
       "id": 1771664564058
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "HyperDrive27",
+      "result": "away",
+      "id": 1771664565842
     }
   ],
-  "lastUpdated": "2026-02-21T09:02:44.662Z"
+  "lastUpdated": "2026-02-21T09:02:46.445Z"
 }
