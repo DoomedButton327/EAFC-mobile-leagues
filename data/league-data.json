@@ -207,7 +207,38 @@
       ]
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Ctaum-cpt",
+      "away": "Sailor",
+      "id": 1771663156948
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "KING_KHESWA.",
+      "id": 1771663156950
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "SMANGALISO",
+      "id": 1771663156952
+    },
+    {
+      "home": "RFT07",
+      "away": "RoyalAM",
+      "id": 1771663156954
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Lukie",
+      "id": 1771663156956
+    },
+    {
+      "home": "bhaze",
+      "away": "HyperDrive27",
+      "id": 1771663156958
+    }
+  ],
   "results": [
     {
       "home": "Yungboyshlime",
@@ -282,5 +313,5 @@
       "id": 1771662072458
     }
   ],
-  "lastUpdated": "2026-02-21T08:38:51.745Z"
+  "lastUpdated": "2026-02-21T08:39:16.948Z"
 }
