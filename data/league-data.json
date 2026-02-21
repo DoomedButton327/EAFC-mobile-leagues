@@ -20,15 +20,16 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 3,
+      "points": 4,
       "gf": 0,
       "ga": 0,
       "form": [
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -161,15 +162,16 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 3,
+      "points": 4,
       "gf": 0,
       "ga": 0,
       "form": [
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -205,13 +207,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "SMANGALISO",
-      "away": "Sailor",
-      "id": 1771664669032
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "Ctaum-cpt",
@@ -278,7 +274,13 @@
       "away": "XWRLD_REAPERS",
       "result": "draw",
       "id": 1771664677378
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Sailor",
+      "result": "draw",
+      "id": 1771664678153
     }
   ],
-  "lastUpdated": "2026-02-21T09:04:37.980Z"
+  "lastUpdated": "2026-02-21T09:04:38.756Z"
 }
