@@ -81,15 +81,16 @@
       "name": "XWRLD",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
       "form": [
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -128,15 +129,16 @@
       "name": "uSONGO oMNYAMA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 3,
+      "points": 4,
       "gf": 0,
       "ga": 0,
       "form": [
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -208,11 +210,6 @@
       "home": "SMANGALISO",
       "away": "Sailor",
       "id": 1771664669032
-    },
-    {
-      "home": "E1even-Starz",
-      "away": "XWRLD_REAPERS",
-      "id": 1771664669034
     }
   ],
   "results": [
@@ -275,7 +272,13 @@
       "away": "Ctaum-cpt",
       "result": "draw",
       "id": 1771664676421
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "id": 1771664677378
     }
   ],
-  "lastUpdated": "2026-02-21T09:04:37.024Z"
+  "lastUpdated": "2026-02-21T09:04:37.980Z"
 }
