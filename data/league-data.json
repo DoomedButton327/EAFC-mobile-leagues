@@ -170,7 +170,38 @@
       "form": []
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Ctaum-cpt",
+      "away": "RFT07",
+      "id": 1771664557477
+    },
+    {
+      "home": "Lukie",
+      "away": "E1even-Starz",
+      "id": 1771664557479
+    },
+    {
+      "home": "Sailor",
+      "away": "ExequielThwala",
+      "id": 1771664557481
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "HyperDrive27",
+      "id": 1771664557483
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RoyalAM",
+      "id": 1771664557485
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "bhaze",
+      "id": 1771664557487
+    }
+  ],
   "results": [],
-  "lastUpdated": "2026-02-21T09:02:31.503Z"
+  "lastUpdated": "2026-02-21T09:02:38.080Z"
 }
