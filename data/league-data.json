@@ -95,14 +95,16 @@
       "name": "Ctaum",
       "username": "Ctaum-cpt",
       "phone": "0764797158",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "uSONGO oMNYAMA",
@@ -147,14 +149,16 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "HyperDrive27",
@@ -171,11 +175,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ctaum-cpt",
-      "away": "RFT07",
-      "id": 1771664557477
-    },
     {
       "home": "Lukie",
       "away": "E1even-Starz",
@@ -202,6 +201,13 @@
       "id": 1771664557487
     }
   ],
-  "results": [],
-  "lastUpdated": "2026-02-21T09:02:38.080Z"
+  "results": [
+    {
+      "home": "Ctaum-cpt",
+      "away": "RFT07",
+      "result": "home",
+      "id": 1771664559853
+    }
+  ],
+  "lastUpdated": "2026-02-21T09:02:40.457Z"
 }
