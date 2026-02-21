@@ -43,14 +43,16 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "Sihle",
@@ -110,14 +112,16 @@
       "name": "uSONGO oMNYAMA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "Sibusiso Makhanye",
@@ -176,11 +180,6 @@
   ],
   "fixtures": [
     {
-      "home": "Lukie",
-      "away": "E1even-Starz",
-      "id": 1771664557479
-    },
-    {
       "home": "Sailor",
       "away": "ExequielThwala",
       "id": 1771664557481
@@ -207,7 +206,13 @@
       "away": "RFT07",
       "result": "home",
       "id": 1771664559853
+    },
+    {
+      "home": "Lukie",
+      "away": "E1even-Starz",
+      "result": "away",
+      "id": 1771664562132
     }
   ],
-  "lastUpdated": "2026-02-21T09:02:40.457Z"
+  "lastUpdated": "2026-02-21T09:02:42.732Z"
 }
