@@ -46,8 +46,7 @@ Full Name, InGameUsername, PhoneNumber
 
 Example:
 ```
-Thandobhaze0023, bhaze, 0679687240
-Sailor, Sailor, 0677514331
+astral_reign, astral, 0123456789
 ```
 
 ## ⚙️ Admin Controls
