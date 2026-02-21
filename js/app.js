@@ -505,18 +505,38 @@ async function saveGitHubConfig() {
     GH.save(owner, repo, branch, token);
     const test = await GH.testConnection();
 
-    if (test.ok) {
-        statusEl.textContent = '✓ ' + test.msg;
-        statusEl.className = 'gh-status-msg gh-status-ok';
-        toast('GitHub connected! Syncing data…', 'success');
-        // Push current local data to GitHub immediately
-        await GH.syncData(players, fixtures, results);
-        GH.updateStatusUI();
-    } else {
+    if (!test.ok) {
         statusEl.textContent = '✗ ' + test.msg;
         statusEl.className = 'gh-status-msg gh-status-error';
         toast('Connection failed: ' + test.msg, 'error');
+        return;
     }
+
+    statusEl.textContent = '✓ Connected — checking for remote data…';
+    statusEl.className = 'gh-status-msg gh-status-ok';
+
+    // ALWAYS pull remote data first before doing anything.
+    // This prevents a fresh device/browser (with empty memory) from
+    // overwriting the real GitHub data with an empty commit.
+    const remote = await GH.loadRemoteData();
+
+    if (remote && (remote.players?.length || remote.fixtures?.length || remote.results?.length)) {
+        // Remote has real data — load it, never overwrite
+        if (remote.players)  players  = remote.players;
+        if (remote.fixtures) fixtures = remote.fixtures;
+        if (remote.results)  results  = remote.results;
+        saveLocalOnly();
+        renderAll();
+        statusEl.textContent = '✓ Loaded ' + players.length + ' players from GitHub';
+        toast('Connected & data loaded from GitHub!', 'success');
+    } else {
+        // Remote is empty or file doesn\'t exist yet — safe to push local data up
+        await GH.syncData(players, fixtures, results);
+        statusEl.textContent = '✓ Connected — local data pushed to GitHub';
+        toast('Connected! Local data pushed to GitHub.', 'success');
+    }
+
+    GH.updateStatusUI();
 }
 
 function disconnectGitHub() {
