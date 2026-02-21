@@ -4,14 +4,15 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
       "ga": 0,
       "form": [
+        "L",
         "L"
       ]
     },
@@ -167,15 +168,16 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 0,
       "form": [
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -195,11 +197,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RFT07",
-      "away": "bhaze",
-      "id": 1771664669030
-    },
     {
       "home": "SMANGALISO",
       "away": "Sailor",
@@ -262,7 +259,13 @@
       "away": "bhaze",
       "result": "home",
       "id": 1771664568728
+    },
+    {
+      "home": "RFT07",
+      "away": "bhaze",
+      "result": "home",
+      "id": 1771664671194
     }
   ],
-  "lastUpdated": "2026-02-21T09:04:29.634Z"
+  "lastUpdated": "2026-02-21T09:04:31.797Z"
 }
