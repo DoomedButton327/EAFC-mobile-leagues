@@ -272,22 +272,60 @@
       "gf": 0,
       "ga": 0,
       "form": []
-    },
-    {
-      "name": "A H 〽️ A D",
-      "username": "Barca",
-      "phone": "0741645995",
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Barca.",
+      "away": "CRANK_",
+      "id": 1771796643942
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Ctaum-cpt",
+      "id": 1771796643944
+    },
+    {
+      "home": "MGSatarou",
+      "away": "leomessi",
+      "id": 1771796643946
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "wham",
+      "id": 1771796643948
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Yungboyshlime",
+      "id": 1771796643950
+    },
+    {
+      "home": "Sailor",
+      "away": "Lukie",
+      "id": 1771796643952
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "HyperDrive27",
+      "id": 1771796643954
+    },
+    {
+      "home": "bhaze",
+      "away": "XWRLD_REAPERS",
+      "id": 1771796643956
+    },
+    {
+      "home": "RFT07",
+      "away": "KING_KHESWA.",
+      "id": 1771796643958
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "E1even-Starz",
+      "id": 1771796643960
+    }
+  ],
   "results": [],
-  "lastUpdated": "2026-02-22T21:40:22.482Z"
+  "lastUpdated": "2026-02-22T21:44:04.547Z"
 }
