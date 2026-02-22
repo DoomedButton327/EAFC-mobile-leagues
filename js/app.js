@@ -145,21 +145,29 @@ function buildFormBadges(form) {
 function renderFixtures() {
     const grid = document.getElementById('fixtures-grid');
     grid.innerHTML = '';
+    
     if (!fixtures.length) {
         grid.innerHTML = `<div class="empty-state"><i class="fas fa-futbol"></i>No fixtures scheduled yet.<br>Use Admin to generate or add matches.</div>`;
         return;
     }
+    
     fixtures.forEach(match => {
+        const homePlayer  = players.find(p => p.username === match.home);
+        const awayPlayer  = players.find(p => p.username === match.away);
+        
+        const homeDisplay  = homePlayer  ? `\( {homePlayer.name}<div class="username-small"> \){homePlayer.username}</div>`  : match.home;
+        const awayDisplay  = awayPlayer  ? `\( {awayPlayer.name}<div class="username-small"> \){awayPlayer.username}</div>`  : match.away;
+        
         const div = document.createElement('div');
         div.className = 'fixture-card';
         div.innerHTML = `
-            <div class="fixture-player">${match.home}</div>
+            <div class="fixture-player">${homeDisplay}</div>
             <div class="vs-badge">VS</div>
-            <div class="fixture-player">${match.away}</div>
+            <div class="fixture-player">${awayDisplay}</div>
             <div class="match-actions">
-                <button class="btn-win-home"  onclick="resolveMatch('${match.id}','home')" title="${match.home} wins">🏆 ${truncate(match.home,8)}</button>
+                <button class="btn-win-home"  onclick="resolveMatch('\( {match.id}','home')" title=" \){match.home} wins">🏆 ${truncate(match.home,8)}</button>
                 <button class="btn-match-draw" onclick="resolveMatch('${match.id}','draw')">DRAW</button>
-                <button class="btn-win-away"  onclick="resolveMatch('${match.id}','away')" title="${match.away} wins">🏆 ${truncate(match.away,8)}</button>
+                <button class="btn-win-away"  onclick="resolveMatch('\( {match.id}','away')" title=" \){match.away} wins">🏆 ${truncate(match.away,8)}</button>
             </div>
         `;
         grid.appendChild(div);
@@ -617,18 +625,35 @@ function downloadLeaderboardImage() {
     const sorted = sortedPlayers();
     const container = document.getElementById('poster-lb-table');
     container.innerHTML = '';
+    
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
     container.appendChild(header);
-    sorted.forEach((p,i) => {
-        const rank = i+1;
-        const posClass = rank===1?'poster-lb-pos-1':rank===2?'poster-lb-pos-2':rank===3?'poster-lb-pos-3':'';
+    
+    sorted.forEach((p, i) => {
+        const rank = i + 1;
+        const posClass = rank === 1 ? 'poster-lb-pos-1' :
+                        rank === 2 ? 'poster-lb-pos-2' :
+                        rank === 3 ? 'poster-lb-pos-3' : '';
+                        
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
-        row.innerHTML = `<div class="${posClass}">${rank}</div><div>${p.username}</div><div>${p.played||0}</div><div>${p.wins||0}</div><div>${p.draws||0}</div><div>${p.losses||0}</div><div class="poster-lb-pts">${p.points||0}</div>`;
+        row.innerHTML = `
+            <div class="\( {posClass}"> \){rank}</div>
+            <div>
+                ${p.name}
+                <div style="font-size:0.85em; color:#aaa; margin-top:2px;">${p.username}</div>
+            </div>
+            <div>${p.played||0}</div>
+            <div>${p.wins||0}</div>
+            <div>${p.draws||0}</div>
+            <div>${p.losses||0}</div>
+            <div class="poster-lb-pts">${p.points||0}</div>
+        `;
         container.appendChild(row);
     });
+    
     captureElement('lb-capture-area', `Mettlestate_Standings_${dateStamp()}.png`, 'Standings image downloaded!');
 }
 
