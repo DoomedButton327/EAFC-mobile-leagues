@@ -587,14 +587,28 @@ function clearData() {
 // ---- IMAGE EXPORT ----
 function downloadFixtureImage() {
     if (!fixtures.length) { toast('No fixtures to export','error'); return; }
+    
     const list = document.getElementById('poster-fixture-list');
     list.innerHTML = '';
+    
     fixtures.forEach(f => {
+        // Look up real names by username
+        const homePlayer = players.find(p => p.username === f.home);
+        const awayPlayer = players.find(p => p.username === f.away);
+        
+        const homeDisplay  = homePlayer  ? homePlayer.name  : f.home;
+        const awayDisplay  = awayPlayer  ? awayPlayer.name  : f.away;
+        
         const row = document.createElement('div');
         row.className = 'poster-match-row';
-        row.innerHTML = `<div class="poster-match-home">${f.home}</div><div class="poster-match-vs">VS</div><div class="poster-match-away">${f.away}</div>`;
+        row.innerHTML = `
+            <div class="poster-match-home">${homeDisplay}</div>
+            <div class="poster-match-vs">VS</div>
+            <div class="poster-match-away">${awayDisplay}</div>
+        `;
         list.appendChild(row);
     });
+    
     captureElement('fixture-capture-area', `Mettlestate_Fixtures_${dateStamp()}.png`, 'Fixtures image downloaded!');
 }
 
