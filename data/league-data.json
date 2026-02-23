@@ -19,14 +19,16 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 1,
+      "ga": 1,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Sibonelo_Kheswa",
@@ -45,14 +47,16 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 1,
+      "ga": 1,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Sihle👑",
@@ -334,11 +338,6 @@
       "id": 1771796643950
     },
     {
-      "home": "Sailor",
-      "away": "Lukie",
-      "id": 1771796643952
-    },
-    {
       "home": "Dontwindraw",
       "away": "HyperDrive27",
       "id": 1771796643954
@@ -381,7 +380,16 @@
       "awayGoals": 1,
       "id": 1771865331590,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_E1even-Starz_1771865329252.jpeg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Lukie",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1771865938006,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Lukie_1771865936972.jpeg"
     }
   ],
-  "lastUpdated": "2026-02-23T16:48:54.981Z"
+  "lastUpdated": "2026-02-23T16:59:01.287Z"
 }
