@@ -177,14 +177,16 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "gf": 1,
+      "ga": 2,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "hlonono",
@@ -255,14 +257,16 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 3,
+      "gf": 2,
+      "ga": 1,
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "A H 〽️ A D",
@@ -316,11 +320,6 @@
       "id": 1771796643944
     },
     {
-      "home": "MGSatarou",
-      "away": "leomessi",
-      "id": 1771796643946
-    },
-    {
       "home": "ExequielThwala",
       "away": "wham",
       "id": 1771796643948
@@ -365,7 +364,16 @@
       "awayGoals": 0,
       "id": 1771859120392,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_XWRLD_REAPERS_1771859117895.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "leomessi",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1771862132357,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_leomessi_1771862129333.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T15:05:23.365Z"
+  "lastUpdated": "2026-02-23T15:55:35.877Z"
 }
