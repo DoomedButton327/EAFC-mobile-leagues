@@ -255,14 +255,16 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 1,
+      "ga": 1,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "El Tigre",
@@ -298,14 +300,16 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 1,
+      "ga": 1,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Mashinini",
@@ -337,11 +341,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "CRANK_",
-      "id": 1771796643942
-    },
     {
       "home": "Dontwindraw",
       "away": "HyperDrive27",
@@ -429,7 +428,16 @@
       "awayGoals": 3,
       "id": 1771881026784,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Yungboyshlime_1771881024760.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "CRANK_",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1771881057835,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_CRANK__1771881056761.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T21:10:30.063Z"
+  "lastUpdated": "2026-02-23T21:11:00.420Z"
 }
