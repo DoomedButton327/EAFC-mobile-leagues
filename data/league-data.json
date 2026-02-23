@@ -227,14 +227,14 @@
       "username": "Sxge.exe",
       "phone": "060 478 5384",
       "played": 1,
-      "wins": 1,
-      "draws": 0,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "points": 3,
       "gf": 3,
       "ga": 0,
       "form": [
-        "W"
+        "D"
       ]
     },
     {
@@ -297,13 +297,13 @@
       "phone": "+27736941998",
       "played": 1,
       "wins": 0,
-      "draws": 0,
-      "losses": 1,
+      "draws": 1,
+      "losses": 0,
       "points": 0,
       "gf": 0,
       "ga": 3,
       "form": [
-        "L"
+        "D"
       ]
     },
     {
