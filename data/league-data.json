@@ -94,14 +94,16 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 3,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "@Ctaum",
@@ -137,14 +139,16 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 3,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "SMANGALISO",
@@ -339,11 +343,6 @@
       "id": 1771796643942
     },
     {
-      "home": "RoyalAM",
-      "away": "Yungboyshlime",
-      "id": 1771796643950
-    },
-    {
       "home": "Dontwindraw",
       "away": "HyperDrive27",
       "id": 1771796643954
@@ -421,7 +420,16 @@
       "awayGoals": 0,
       "id": 1771880800662,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_wham_1771880792809.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Yungboyshlime",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1771881026784,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Yungboyshlime_1771881024760.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T21:06:43.552Z"
+  "lastUpdated": "2026-02-23T21:10:30.063Z"
 }
