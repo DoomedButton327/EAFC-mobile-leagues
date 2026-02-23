@@ -64,14 +64,16 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 3,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "XWRLD🕴🏽",
@@ -206,14 +208,16 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 3,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "Mansur",
@@ -335,11 +339,6 @@
       "id": 1771796643942
     },
     {
-      "home": "ExequielThwala",
-      "away": "wham",
-      "id": 1771796643948
-    },
-    {
       "home": "RoyalAM",
       "away": "Yungboyshlime",
       "id": 1771796643950
@@ -413,7 +412,16 @@
       "awayGoals": 3,
       "id": 1771880630548,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Ctaum-cpt_1771880628759.jpg"
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1771880800662,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_wham_1771880792809.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T21:03:53.774Z"
+  "lastUpdated": "2026-02-23T21:06:43.552Z"
 }
