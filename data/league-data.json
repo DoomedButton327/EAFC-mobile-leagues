@@ -105,14 +105,16 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 3,
+      "ga": 3,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "uSONGO oMNYAMA oNGEHLULWA",
@@ -258,14 +260,16 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "points": 1,
+      "gf": 3,
+      "ga": 3,
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "Mogau",
@@ -329,11 +333,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1771796643942
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "Ctaum-cpt",
-      "id": 1771796643944
     },
     {
       "home": "ExequielThwala",
@@ -405,7 +404,16 @@
       "awayGoals": 0,
       "id": 1771880592887,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_KING_KHESWA._1771880591540.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "homeGoals": 3,
+      "awayGoals": 3,
+      "id": 1771880630548,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Ctaum-cpt_1771880628759.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T21:03:16.189Z"
+  "lastUpdated": "2026-02-23T21:03:53.774Z"
 }
