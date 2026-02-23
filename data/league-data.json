@@ -4,14 +4,16 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 1,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "Sailor",
@@ -69,14 +71,16 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 1,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "🅿️🅾️🕉️🅱️🅰️",
@@ -337,11 +341,6 @@
       "id": 1771796643954
     },
     {
-      "home": "bhaze",
-      "away": "XWRLD_REAPERS",
-      "id": 1771796643956
-    },
-    {
       "home": "RFT07",
       "away": "KING_KHESWA.",
       "id": 1771796643958
@@ -357,6 +356,16 @@
       "id": 1771829268877
     }
   ],
-  "results": [],
-  "lastUpdated": "2026-02-23T15:00:59.419Z"
+  "results": [
+    {
+      "home": "bhaze",
+      "away": "XWRLD_REAPERS",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1771859120392,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_XWRLD_REAPERS_1771859117895.jpg"
+    }
+  ],
+  "lastUpdated": "2026-02-23T15:05:23.365Z"
 }
