@@ -34,14 +34,16 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 1,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "Lukie",
@@ -159,14 +161,16 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 1,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     },
     {
       "name": "HyperDrive27",
@@ -345,11 +349,6 @@
       "home": "Dontwindraw",
       "away": "HyperDrive27",
       "id": 1771796643954
-    },
-    {
-      "home": "RFT07",
-      "away": "KING_KHESWA.",
-      "id": 1771796643958
     }
   ],
   "results": [
@@ -397,7 +396,16 @@
       "awayGoals": 3,
       "id": 1771872217077,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Mashinini_vs_Sxge.exe_1771872215047.png"
+    },
+    {
+      "home": "RFT07",
+      "away": "KING_KHESWA.",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1771880592887,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_KING_KHESWA._1771880591540.jpg"
     }
   ],
-  "lastUpdated": "2026-02-23T18:43:39.116Z"
+  "lastUpdated": "2026-02-23T21:03:16.189Z"
 }
