@@ -246,9 +246,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "Mogau",
+      "username": "MGSatorou",
+      "phone": "0826993315",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:33:22.104Z"
+  "lastUpdated": "2026-02-24T07:34:13.222Z"
 }
