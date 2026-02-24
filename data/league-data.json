@@ -142,9 +142,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "REGINALD FRANK THORNTON",
+      "username": "RFT07",
+      "phone": "0820658330",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:26:04.267Z"
+  "lastUpdated": "2026-02-24T07:26:48.574Z"
 }
