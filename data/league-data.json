@@ -34,15 +34,16 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 3,
       "ga": 1,
       "form": [
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -220,14 +221,15 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
-      "ga": 3,
+      "ga": 6,
       "form": [
+        "L",
         "L"
       ]
     },
@@ -367,11 +369,6 @@
       "home": "Lukie",
       "away": "RoyalAM",
       "id": 1771919007829
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "wham",
-      "id": 1771919007831
     },
     {
       "home": "Sailor",
@@ -524,7 +521,16 @@
       "awayGoals": 0,
       "id": 1771957452912,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_Barca._1771957450599.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1771957518867,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_wham_1771957517947.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T18:24:15.861Z"
+  "lastUpdated": "2026-02-24T18:25:21.899Z"
 }
