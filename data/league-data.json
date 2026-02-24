@@ -90,9 +90,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "Ctaum",
+      "username": "ctaum-cpt",
+      "phone": "0764797158",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:21:58.182Z"
+  "lastUpdated": "2026-02-24T07:22:44.813Z"
 }
