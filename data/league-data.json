@@ -129,9 +129,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "SMANGALISO",
+      "username": "SMANGALISO",
+      "phone": "0780070989",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:25:08.062Z"
+  "lastUpdated": "2026-02-24T07:26:04.267Z"
 }
