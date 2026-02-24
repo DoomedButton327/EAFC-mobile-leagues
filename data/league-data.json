@@ -139,15 +139,16 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 1,
+      "played": 2,
       "wins": 1,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 3,
       "gf": 3,
-      "ga": 0,
+      "ga": 1,
       "form": [
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -330,14 +331,16 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 0,
-      "wins": 0,
+      "played": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 1,
       "ga": 0,
-      "form": []
+      "form": [
+        "W"
+      ]
     }
   ],
   "fixtures": [
@@ -375,11 +378,6 @@
       "home": "XWRLD_REAPERS",
       "away": "MGSatarou",
       "id": 1771919007835
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "Yungboyshlime",
-      "id": 1771919007837
     },
     {
       "home": "Sailor",
@@ -492,7 +490,16 @@
       "awayGoals": 1,
       "id": 1771881057835,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_CRANK__1771881056761.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1771932523424,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Yungboyshlime_1771932522389.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T07:43:28.428Z"
+  "lastUpdated": "2026-02-24T11:28:46.579Z"
 }
