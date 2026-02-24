@@ -172,14 +172,15 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "points": 3,
-      "gf": 1,
+      "points": 6,
+      "gf": 6,
       "ga": 0,
       "form": [
+        "W",
         "W"
       ]
     },
@@ -187,14 +188,16 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 5,
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "leomessi",
@@ -366,11 +369,6 @@
       "id": 1771919007831
     },
     {
-      "home": "HyperDrive27",
-      "away": "RFT07",
-      "id": 1771919007833
-    },
-    {
       "home": "DJRonaldoZA",
       "away": "Yungboyshlime",
       "id": 1771919007837
@@ -504,7 +502,16 @@
       "awayGoals": 3,
       "id": 1771957100408,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_MGSatarou_1771957099194.jpg"
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "id": 1771957166839,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/HyperDrive27_vs_RFT07_1771957164608.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T18:18:23.395Z"
+  "lastUpdated": "2026-02-24T18:19:29.344Z"
 }
