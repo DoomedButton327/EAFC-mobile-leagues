@@ -237,27 +237,30 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "L"
+      ]
     },
     {
       "name": "KING🤴",
       "username": "Sxge.exe",
       "phone": "060 478 5384",
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "points": 3,
+      "points": 6,
       "gf": 3,
       "ga": 0,
       "form": [
+        "W",
         "W"
       ]
     },
@@ -379,11 +382,6 @@
       "home": "Nigelmj21",
       "away": "CRANK_",
       "id": 1771919007843
-    },
-    {
-      "home": "Sxge.exe",
-      "away": "Dontwindraw",
-      "id": 1771919007845
     }
   ],
   "results": [
@@ -530,7 +528,13 @@
       "awayGoals": 0,
       "id": 1771957518867,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_wham_1771957517947.jpg"
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "Dontwindraw",
+      "result": "home",
+      "id": 1771959667569
     }
   ],
-  "lastUpdated": "2026-02-24T18:25:21.899Z"
+  "lastUpdated": "2026-02-24T19:01:08.174Z"
 }
