@@ -51,9 +51,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "Lukie",
+      "username": "Lukie",
+      "phone": "0684782614",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:18:34.896Z"
+  "lastUpdated": "2026-02-24T07:19:35.922Z"
 }
