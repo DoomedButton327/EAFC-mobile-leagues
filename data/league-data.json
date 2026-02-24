@@ -80,14 +80,15 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
-      "ga": 1,
+      "ga": 4,
       "form": [
+        "L",
         "L"
       ]
     },
@@ -287,14 +288,15 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "points": 3,
-      "gf": 2,
+      "points": 6,
+      "gf": 5,
       "ga": 1,
       "form": [
+        "W",
         "W"
       ]
     },
@@ -367,11 +369,6 @@
       "home": "HyperDrive27",
       "away": "RFT07",
       "id": 1771919007833
-    },
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "MGSatarou",
-      "id": 1771919007835
     },
     {
       "home": "DJRonaldoZA",
@@ -498,7 +495,16 @@
       "awayGoals": 1,
       "id": 1771935672220,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_Ctaum-cpt_1771935670039.jpg"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "MGSatarou",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1771957100408,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_MGSatarou_1771957099194.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T12:21:15.210Z"
+  "lastUpdated": "2026-02-24T18:18:23.395Z"
 }
