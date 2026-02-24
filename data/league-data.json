@@ -344,7 +344,1273 @@
       "form": []
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "bhaze",
+      "away": "Sailor",
+      "id": 1771913556165.0037
+    },
+    {
+      "home": "bhaze",
+      "away": "KING_KHESWA.",
+      "id": 1771913556168.337
+    },
+    {
+      "home": "bhaze",
+      "away": "Lukie",
+      "id": 1771913556168.4302
+    },
+    {
+      "home": "bhaze",
+      "away": "ExequielThwala",
+      "id": 1771913556168.315
+    },
+    {
+      "home": "bhaze",
+      "away": "XWRLD_REAPERS",
+      "id": 1771913556168.1672
+    },
+    {
+      "home": "bhaze",
+      "away": "RoyalAM",
+      "id": 1771913556168.0852
+    },
+    {
+      "home": "bhaze",
+      "away": "Ctaum-cpt",
+      "id": 1771913556168.4067
+    },
+    {
+      "home": "bhaze",
+      "away": "E1even-Starz",
+      "id": 1771913556168.394
+    },
+    {
+      "home": "bhaze",
+      "away": "Yungboyshlime",
+      "id": 1771913556168.993
+    },
+    {
+      "home": "bhaze",
+      "away": "SMANGALISO",
+      "id": 1771913556168.7227
+    },
+    {
+      "home": "bhaze",
+      "away": "RFT07",
+      "id": 1771913556168.7131
+    },
+    {
+      "home": "bhaze",
+      "away": "HyperDrive27",
+      "id": 1771913556168.4722
+    },
+    {
+      "home": "bhaze",
+      "away": "leomessi",
+      "id": 1771913556168.5881
+    },
+    {
+      "home": "bhaze",
+      "away": "wham",
+      "id": 1771913556168.6812
+    },
+    {
+      "home": "bhaze",
+      "away": "Dontwindraw",
+      "id": 1771913556168.8733
+    },
+    {
+      "home": "bhaze",
+      "away": "Sxge.exe",
+      "id": 1771913556169.7092
+    },
+    {
+      "home": "bhaze",
+      "away": "CRANK_",
+      "id": 1771913556169.7742
+    },
+    {
+      "home": "bhaze",
+      "away": "Nigelmj21",
+      "id": 1771913556169.3809
+    },
+    {
+      "home": "bhaze",
+      "away": "MGSatarou",
+      "id": 1771913556169.4026
+    },
+    {
+      "home": "bhaze",
+      "away": "Barca.",
+      "id": 1771913556169.83
+    },
+    {
+      "home": "bhaze",
+      "away": "Mashinini",
+      "id": 1771913556169.856
+    },
+    {
+      "home": "bhaze",
+      "away": "DJRonaldoZA",
+      "id": 1771913556169.4255
+    },
+    {
+      "home": "Sailor",
+      "away": "KING_KHESWA.",
+      "id": 1771913556171.8618
+    },
+    {
+      "home": "Sailor",
+      "away": "Lukie",
+      "id": 1771913556172.6448
+    },
+    {
+      "home": "Sailor",
+      "away": "ExequielThwala",
+      "id": 1771913556172.0105
+    },
+    {
+      "home": "Sailor",
+      "away": "XWRLD_REAPERS",
+      "id": 1771913556172.3372
+    },
+    {
+      "home": "Sailor",
+      "away": "RoyalAM",
+      "id": 1771913556172.7249
+    },
+    {
+      "home": "Sailor",
+      "away": "Ctaum-cpt",
+      "id": 1771913556172.586
+    },
+    {
+      "home": "Sailor",
+      "away": "E1even-Starz",
+      "id": 1771913556172.159
+    },
+    {
+      "home": "Sailor",
+      "away": "Yungboyshlime",
+      "id": 1771913556172.2144
+    },
+    {
+      "home": "Sailor",
+      "away": "SMANGALISO",
+      "id": 1771913556172.9907
+    },
+    {
+      "home": "Sailor",
+      "away": "RFT07",
+      "id": 1771913556172.4402
+    },
+    {
+      "home": "Sailor",
+      "away": "HyperDrive27",
+      "id": 1771913556172.2888
+    },
+    {
+      "home": "Sailor",
+      "away": "leomessi",
+      "id": 1771913556172.8367
+    },
+    {
+      "home": "Sailor",
+      "away": "wham",
+      "id": 1771913556172.335
+    },
+    {
+      "home": "Sailor",
+      "away": "Dontwindraw",
+      "id": 1771913556172.9404
+    },
+    {
+      "home": "Sailor",
+      "away": "Sxge.exe",
+      "id": 1771913556172.764
+    },
+    {
+      "home": "Sailor",
+      "away": "CRANK_",
+      "id": 1771913556172.88
+    },
+    {
+      "home": "Sailor",
+      "away": "Nigelmj21",
+      "id": 1771913556172.9946
+    },
+    {
+      "home": "Sailor",
+      "away": "MGSatarou",
+      "id": 1771913556172.9507
+    },
+    {
+      "home": "Sailor",
+      "away": "Barca.",
+      "id": 1771913556172.448
+    },
+    {
+      "home": "Sailor",
+      "away": "Mashinini",
+      "id": 1771913556172.1257
+    },
+    {
+      "home": "Sailor",
+      "away": "DJRonaldoZA",
+      "id": 1771913556172.154
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Lukie",
+      "id": 1771913556172.9949
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "ExequielThwala",
+      "id": 1771913556172.186
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "XWRLD_REAPERS",
+      "id": 1771913556172.918
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "RoyalAM",
+      "id": 1771913556172.9375
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Ctaum-cpt",
+      "id": 1771913556172.0981
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "E1even-Starz",
+      "id": 1771913556172.0093
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Yungboyshlime",
+      "id": 1771913556172.4958
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "SMANGALISO",
+      "id": 1771913556172.6736
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "RFT07",
+      "id": 1771913556172.884
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "HyperDrive27",
+      "id": 1771913556172.821
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "leomessi",
+      "id": 1771913556172.6375
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "wham",
+      "id": 1771913556172.5352
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Dontwindraw",
+      "id": 1771913556172.1416
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Sxge.exe",
+      "id": 1771913556172.0886
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "CRANK_",
+      "id": 1771913556172.0544
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Nigelmj21",
+      "id": 1771913556172.6677
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "MGSatarou",
+      "id": 1771913556172.7686
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Barca.",
+      "id": 1771913556172.1519
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Mashinini",
+      "id": 1771913556172.3047
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "DJRonaldoZA",
+      "id": 1771913556172.2793
+    },
+    {
+      "home": "Lukie",
+      "away": "ExequielThwala",
+      "id": 1771913556172.7524
+    },
+    {
+      "home": "Lukie",
+      "away": "XWRLD_REAPERS",
+      "id": 1771913556172.15
+    },
+    {
+      "home": "Lukie",
+      "away": "RoyalAM",
+      "id": 1771913556172.7676
+    },
+    {
+      "home": "Lukie",
+      "away": "Ctaum-cpt",
+      "id": 1771913556172.5
+    },
+    {
+      "home": "Lukie",
+      "away": "E1even-Starz",
+      "id": 1771913556172.6113
+    },
+    {
+      "home": "Lukie",
+      "away": "Yungboyshlime",
+      "id": 1771913556172.5415
+    },
+    {
+      "home": "Lukie",
+      "away": "SMANGALISO",
+      "id": 1771913556172.1045
+    },
+    {
+      "home": "Lukie",
+      "away": "RFT07",
+      "id": 1771913556172.5134
+    },
+    {
+      "home": "Lukie",
+      "away": "HyperDrive27",
+      "id": 1771913556172.0334
+    },
+    {
+      "home": "Lukie",
+      "away": "leomessi",
+      "id": 1771913556172.8887
+    },
+    {
+      "home": "Lukie",
+      "away": "wham",
+      "id": 1771913556172.91
+    },
+    {
+      "home": "Lukie",
+      "away": "Dontwindraw",
+      "id": 1771913556172.383
+    },
+    {
+      "home": "Lukie",
+      "away": "Sxge.exe",
+      "id": 1771913556172.648
+    },
+    {
+      "home": "Lukie",
+      "away": "CRANK_",
+      "id": 1771913556172.2036
+    },
+    {
+      "home": "Lukie",
+      "away": "Nigelmj21",
+      "id": 1771913556173.2996
+    },
+    {
+      "home": "Lukie",
+      "away": "MGSatarou",
+      "id": 1771913556173.2073
+    },
+    {
+      "home": "Lukie",
+      "away": "Barca.",
+      "id": 1771913556173.7786
+    },
+    {
+      "home": "Lukie",
+      "away": "Mashinini",
+      "id": 1771913556173.6123
+    },
+    {
+      "home": "Lukie",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.543
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "XWRLD_REAPERS",
+      "id": 1771913556173.6724
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "RoyalAM",
+      "id": 1771913556173.4353
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Ctaum-cpt",
+      "id": 1771913556173.2703
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "E1even-Starz",
+      "id": 1771913556173.2966
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Yungboyshlime",
+      "id": 1771913556173.6997
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "SMANGALISO",
+      "id": 1771913556173.0298
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "RFT07",
+      "id": 1771913556173.5247
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "HyperDrive27",
+      "id": 1771913556173.995
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "leomessi",
+      "id": 1771913556173.3855
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "wham",
+      "id": 1771913556173.1587
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Dontwindraw",
+      "id": 1771913556173.5154
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Sxge.exe",
+      "id": 1771913556173.222
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "CRANK_",
+      "id": 1771913556173.061
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Nigelmj21",
+      "id": 1771913556173.2246
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "MGSatarou",
+      "id": 1771913556173.5334
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Barca.",
+      "id": 1771913556173.7715
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Mashinini",
+      "id": 1771913556173.1047
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.656
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RoyalAM",
+      "id": 1771913556173.0483
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Ctaum-cpt",
+      "id": 1771913556173.5547
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "E1even-Starz",
+      "id": 1771913556173.47
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Yungboyshlime",
+      "id": 1771913556173.626
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "SMANGALISO",
+      "id": 1771913556173.5574
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "RFT07",
+      "id": 1771913556173.1816
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "HyperDrive27",
+      "id": 1771913556173.1924
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "leomessi",
+      "id": 1771913556173.905
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "wham",
+      "id": 1771913556173.5728
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Dontwindraw",
+      "id": 1771913556173.222
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Sxge.exe",
+      "id": 1771913556173.5874
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "CRANK_",
+      "id": 1771913556173.9924
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Nigelmj21",
+      "id": 1771913556173.889
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "MGSatarou",
+      "id": 1771913556173.2585
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Barca.",
+      "id": 1771913556173.1177
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Mashinini",
+      "id": 1771913556173.441
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.8162
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Ctaum-cpt",
+      "id": 1771913556173.3625
+    },
+    {
+      "home": "RoyalAM",
+      "away": "E1even-Starz",
+      "id": 1771913556173.1855
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Yungboyshlime",
+      "id": 1771913556173.0962
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "id": 1771913556173.399
+    },
+    {
+      "home": "RoyalAM",
+      "away": "RFT07",
+      "id": 1771913556173.3096
+    },
+    {
+      "home": "RoyalAM",
+      "away": "HyperDrive27",
+      "id": 1771913556173.4702
+    },
+    {
+      "home": "RoyalAM",
+      "away": "leomessi",
+      "id": 1771913556173.4597
+    },
+    {
+      "home": "RoyalAM",
+      "away": "wham",
+      "id": 1771913556173.1113
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Dontwindraw",
+      "id": 1771913556173.8972
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Sxge.exe",
+      "id": 1771913556173.206
+    },
+    {
+      "home": "RoyalAM",
+      "away": "CRANK_",
+      "id": 1771913556173.6294
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Nigelmj21",
+      "id": 1771913556173.9683
+    },
+    {
+      "home": "RoyalAM",
+      "away": "MGSatarou",
+      "id": 1771913556173.37
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Barca.",
+      "id": 1771913556173.1191
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Mashinini",
+      "id": 1771913556173.4932
+    },
+    {
+      "home": "RoyalAM",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.1946
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "E1even-Starz",
+      "id": 1771913556173.7769
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Yungboyshlime",
+      "id": 1771913556173.1904
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "SMANGALISO",
+      "id": 1771913556173.064
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RFT07",
+      "id": 1771913556173.0413
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "HyperDrive27",
+      "id": 1771913556173.359
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "leomessi",
+      "id": 1771913556173.4639
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "wham",
+      "id": 1771913556173.3088
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Dontwindraw",
+      "id": 1771913556173.4045
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Sxge.exe",
+      "id": 1771913556173.356
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "id": 1771913556173.368
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Nigelmj21",
+      "id": 1771913556173.8118
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "MGSatarou",
+      "id": 1771913556173.5664
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Barca.",
+      "id": 1771913556173.3652
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Mashinini",
+      "id": 1771913556173.1418
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.0288
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Yungboyshlime",
+      "id": 1771913556173.9612
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "SMANGALISO",
+      "id": 1771913556173.2974
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "RFT07",
+      "id": 1771913556173.9385
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "HyperDrive27",
+      "id": 1771913556173.781
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "leomessi",
+      "id": 1771913556173.664
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "wham",
+      "id": 1771913556173.633
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Dontwindraw",
+      "id": 1771913556173.6177
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Sxge.exe",
+      "id": 1771913556173.4402
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "CRANK_",
+      "id": 1771913556173.9187
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Nigelmj21",
+      "id": 1771913556173.2478
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "MGSatarou",
+      "id": 1771913556173.6768
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Barca.",
+      "id": 1771913556173.9294
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Mashinini",
+      "id": 1771913556173.0234
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.8765
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "SMANGALISO",
+      "id": 1771913556173.3848
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "id": 1771913556173.6826
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "HyperDrive27",
+      "id": 1771913556173.1665
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "leomessi",
+      "id": 1771913556173.6438
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "wham",
+      "id": 1771913556173.3276
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Dontwindraw",
+      "id": 1771913556173.809
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Sxge.exe",
+      "id": 1771913556173.271
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "CRANK_",
+      "id": 1771913556173.8933
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Nigelmj21",
+      "id": 1771913556173.337
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "MGSatarou",
+      "id": 1771913556173.8984
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Barca.",
+      "id": 1771913556173.5571
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Mashinini",
+      "id": 1771913556173.4873
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.8906
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "RFT07",
+      "id": 1771913556173.6682
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "HyperDrive27",
+      "id": 1771913556173.9114
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "leomessi",
+      "id": 1771913556173.1406
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "wham",
+      "id": 1771913556173.5513
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Dontwindraw",
+      "id": 1771913556173.7104
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Sxge.exe",
+      "id": 1771913556173.5085
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "CRANK_",
+      "id": 1771913556173.447
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Nigelmj21",
+      "id": 1771913556173.7722
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "MGSatarou",
+      "id": 1771913556173.39
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Barca.",
+      "id": 1771913556173.5344
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Mashinini",
+      "id": 1771913556173.4531
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.6348
+    },
+    {
+      "home": "RFT07",
+      "away": "HyperDrive27",
+      "id": 1771913556173.6145
+    },
+    {
+      "home": "RFT07",
+      "away": "leomessi",
+      "id": 1771913556173.1565
+    },
+    {
+      "home": "RFT07",
+      "away": "wham",
+      "id": 1771913556173.5618
+    },
+    {
+      "home": "RFT07",
+      "away": "Dontwindraw",
+      "id": 1771913556173.108
+    },
+    {
+      "home": "RFT07",
+      "away": "Sxge.exe",
+      "id": 1771913556173.5745
+    },
+    {
+      "home": "RFT07",
+      "away": "CRANK_",
+      "id": 1771913556173.7988
+    },
+    {
+      "home": "RFT07",
+      "away": "Nigelmj21",
+      "id": 1771913556173.815
+    },
+    {
+      "home": "RFT07",
+      "away": "MGSatarou",
+      "id": 1771913556173.8118
+    },
+    {
+      "home": "RFT07",
+      "away": "Barca.",
+      "id": 1771913556173.488
+    },
+    {
+      "home": "RFT07",
+      "away": "Mashinini",
+      "id": 1771913556173.5945
+    },
+    {
+      "home": "RFT07",
+      "away": "DJRonaldoZA",
+      "id": 1771913556173.674
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "leomessi",
+      "id": 1771913556173.1865
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "wham",
+      "id": 1771913556173.9326
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "Dontwindraw",
+      "id": 1771913556173.411
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "Sxge.exe",
+      "id": 1771913556173.3704
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "CRANK_",
+      "id": 1771913556174.8208
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "Nigelmj21",
+      "id": 1771913556174.972
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "MGSatarou",
+      "id": 1771913556174.4927
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "Barca.",
+      "id": 1771913556174.303
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "Mashinini",
+      "id": 1771913556174.2024
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.689
+    },
+    {
+      "home": "leomessi",
+      "away": "wham",
+      "id": 1771913556174.912
+    },
+    {
+      "home": "leomessi",
+      "away": "Dontwindraw",
+      "id": 1771913556174.0598
+    },
+    {
+      "home": "leomessi",
+      "away": "Sxge.exe",
+      "id": 1771913556174.2615
+    },
+    {
+      "home": "leomessi",
+      "away": "CRANK_",
+      "id": 1771913556174.9917
+    },
+    {
+      "home": "leomessi",
+      "away": "Nigelmj21",
+      "id": 1771913556174.817
+    },
+    {
+      "home": "leomessi",
+      "away": "MGSatarou",
+      "id": 1771913556174.627
+    },
+    {
+      "home": "leomessi",
+      "away": "Barca.",
+      "id": 1771913556174.4724
+    },
+    {
+      "home": "leomessi",
+      "away": "Mashinini",
+      "id": 1771913556174.012
+    },
+    {
+      "home": "leomessi",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.4124
+    },
+    {
+      "home": "wham",
+      "away": "Dontwindraw",
+      "id": 1771913556174.9133
+    },
+    {
+      "home": "wham",
+      "away": "Sxge.exe",
+      "id": 1771913556174.9578
+    },
+    {
+      "home": "wham",
+      "away": "CRANK_",
+      "id": 1771913556174.9202
+    },
+    {
+      "home": "wham",
+      "away": "Nigelmj21",
+      "id": 1771913556174.3665
+    },
+    {
+      "home": "wham",
+      "away": "MGSatarou",
+      "id": 1771913556174.7483
+    },
+    {
+      "home": "wham",
+      "away": "Barca.",
+      "id": 1771913556174.828
+    },
+    {
+      "home": "wham",
+      "away": "Mashinini",
+      "id": 1771913556174.3464
+    },
+    {
+      "home": "wham",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.027
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Sxge.exe",
+      "id": 1771913556174.1365
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "CRANK_",
+      "id": 1771913556174.939
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Nigelmj21",
+      "id": 1771913556174.5435
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "MGSatarou",
+      "id": 1771913556174.8765
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Barca.",
+      "id": 1771913556174.7854
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Mashinini",
+      "id": 1771913556174.8684
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.4727
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "CRANK_",
+      "id": 1771913556174.5566
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "Nigelmj21",
+      "id": 1771913556174.2397
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "MGSatarou",
+      "id": 1771913556174.774
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "Barca.",
+      "id": 1771913556174.059
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "Mashinini",
+      "id": 1771913556174.6858
+    },
+    {
+      "home": "Sxge.exe",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.7083
+    },
+    {
+      "home": "CRANK_",
+      "away": "Nigelmj21",
+      "id": 1771913556174.8704
+    },
+    {
+      "home": "CRANK_",
+      "away": "MGSatarou",
+      "id": 1771913556174.0735
+    },
+    {
+      "home": "CRANK_",
+      "away": "Barca.",
+      "id": 1771913556174.4846
+    },
+    {
+      "home": "CRANK_",
+      "away": "Mashinini",
+      "id": 1771913556174.9736
+    },
+    {
+      "home": "CRANK_",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.219
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "MGSatarou",
+      "id": 1771913556174.647
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Barca.",
+      "id": 1771913556174.3994
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Mashinini",
+      "id": 1771913556174.5015
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.9036
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Barca.",
+      "id": 1771913556174.781
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Mashinini",
+      "id": 1771913556174.7002
+    },
+    {
+      "home": "MGSatarou",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.0928
+    },
+    {
+      "home": "Barca.",
+      "away": "Mashinini",
+      "id": 1771913556174.1267
+    },
+    {
+      "home": "Barca.",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.567
+    },
+    {
+      "home": "Mashinini",
+      "away": "DJRonaldoZA",
+      "id": 1771913556174.594
+    }
+  ],
   "results": [
     {
       "home": "bhaze",
@@ -443,5 +1709,5 @@
       "id": 1771913344793
     }
   ],
-  "lastUpdated": "2026-02-24T06:09:05.407Z"
+  "lastUpdated": "2026-02-24T06:12:36.818Z"
 }
