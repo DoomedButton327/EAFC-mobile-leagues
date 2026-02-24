@@ -168,9 +168,22 @@
       "gf": 0,
       "ga": 0,
       "form": []
+    },
+    {
+      "name": "leomessi",
+      "username": "leomessi",
+      "phone": "0816752213",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
   "results": [],
-  "lastUpdated": "2026-02-24T07:27:29.538Z"
+  "lastUpdated": "2026-02-24T07:28:10.923Z"
 }
