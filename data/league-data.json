@@ -64,14 +64,15 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 1,
-      "wins": 1,
+      "played": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
-      "points": 3,
-      "gf": 3,
-      "ga": 0,
+      "points": 6,
+      "gf": 5,
+      "ga": 1,
       "form": [
+        "W",
         "W"
       ]
     },
@@ -109,15 +110,16 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 1,
-      "gf": 3,
-      "ga": 3,
+      "gf": 4,
+      "ga": 5,
       "form": [
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -139,16 +141,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 2,
+      "played": 1,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 0,
       "points": 3,
       "gf": 3,
-      "ga": 1,
+      "ga": 0,
       "form": [
-        "W",
-        "L"
+        "W"
       ]
     },
     {
@@ -331,16 +332,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 1,
-      "wins": 1,
+      "played": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "points": 3,
-      "gf": 1,
+      "points": 0,
+      "gf": 0,
       "ga": 0,
-      "form": [
-        "W"
-      ]
+      "form": []
     }
   ],
   "fixtures": [
@@ -353,11 +352,6 @@
       "home": "leomessi",
       "away": "E1even-Starz",
       "id": 1771919007825
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "Ctaum-cpt",
-      "id": 1771919007827
     },
     {
       "home": "Lukie",
@@ -378,6 +372,11 @@
       "home": "XWRLD_REAPERS",
       "away": "MGSatarou",
       "id": 1771919007835
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "Yungboyshlime",
+      "id": 1771919007837
     },
     {
       "home": "Sailor",
@@ -492,14 +491,14 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_CRANK__1771881056761.jpg"
     },
     {
-      "home": "DJRonaldoZA",
-      "away": "Yungboyshlime",
+      "home": "ExequielThwala",
+      "away": "Ctaum-cpt",
       "result": "home",
-      "homeGoals": 1,
-      "awayGoals": 0,
-      "id": 1771932523424,
-      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Yungboyshlime_1771932522389.jpg"
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1771935672220,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_Ctaum-cpt_1771935670039.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T11:28:46.579Z"
+  "lastUpdated": "2026-02-24T12:21:15.210Z"
 }
