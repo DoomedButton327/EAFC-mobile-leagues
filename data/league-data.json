@@ -184,14 +184,16 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "leomessi",
@@ -227,14 +229,16 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 0,
+      "played": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
-      "form": []
+      "form": [
+        "D"
+      ]
     },
     {
       "name": "KING🤴",
@@ -340,13 +344,7 @@
       "form": []
     }
   ],
-  "fixtures": [
-    {
-      "home": "Dontwindraw",
-      "away": "HyperDrive27",
-      "id": 1771796643954
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -437,7 +435,13 @@
       "awayGoals": 1,
       "id": 1771881057835,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_CRANK__1771881056761.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "HyperDrive27",
+      "result": "draw",
+      "id": 1771913344793
     }
   ],
-  "lastUpdated": "2026-02-23T21:11:00.420Z"
+  "lastUpdated": "2026-02-24T06:09:05.407Z"
 }
