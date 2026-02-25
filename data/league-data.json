@@ -240,16 +240,17 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 2,
+      "played": 3,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 6,
       "form": [
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -306,16 +307,17 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 2,
+      "played": 3,
       "wins": 2,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 6,
+      "points": 7,
       "gf": 5,
       "ga": 1,
       "form": [
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -372,11 +374,6 @@
       "home": "Ctaum-cpt",
       "away": "Nigelmj21",
       "id": 1771992927331
-    },
-    {
-      "home": "MGSatarou",
-      "away": "wham",
-      "id": 1771992927335
     },
     {
       "home": "SMANGALISO",
@@ -643,7 +640,13 @@
       "awayGoals": 3,
       "id": 1772052333305,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_KING_KHESWA._1772052329124.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "wham",
+      "result": "draw",
+      "id": 1772057765063
     }
   ],
-  "lastUpdated": "2026-02-25T20:45:37.528Z"
+  "lastUpdated": "2026-02-25T22:16:05.667Z"
 }
