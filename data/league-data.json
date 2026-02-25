@@ -100,14 +100,15 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "points": 0,
       "gf": 0,
       "ga": 3,
       "form": [
+        "L",
         "L",
         "L"
       ]
@@ -196,16 +197,17 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 1,
       "losses": 1,
-      "points": 1,
+      "points": 4,
       "gf": 0,
       "ga": 5,
       "form": [
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -356,11 +358,6 @@
       "home": "Lukie",
       "away": "XWRLD_REAPERS",
       "id": 1771992927327
-    },
-    {
-      "home": "RoyalAM",
-      "away": "HyperDrive27",
-      "id": 1771992927329
     },
     {
       "home": "Ctaum-cpt",
@@ -599,7 +596,13 @@
       "away": "RoyalAM",
       "result": "home",
       "id": 1771992951521
+    },
+    {
+      "home": "RoyalAM",
+      "away": "HyperDrive27",
+      "result": "away",
+      "id": 1771992958093
     }
   ],
-  "lastUpdated": "2026-02-25T04:15:52.125Z"
+  "lastUpdated": "2026-02-25T04:15:58.696Z"
 }
