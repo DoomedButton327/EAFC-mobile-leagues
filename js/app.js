@@ -613,11 +613,16 @@ function downloadFixtureImage() {
 }
 
 function downloadLeaderboardImage() {
-    if (!players.length) { toast('No players to export','error'); return; }
+    if (!players.length) { 
+        toast('No players to export','error'); 
+        return; 
+    }
+
     const sorted = sortedPlayers();
     const container = document.getElementById('poster-lb-table');
-    container.innerHTML = '';
+    container.innerHTML = ''; // clear previous content
     
+    // Header
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
@@ -626,9 +631,9 @@ function downloadLeaderboardImage() {
     sorted.forEach((p, i) => {
         const rank = i + 1;
         const posClass = rank === 1 ? 'poster-lb-pos-1' :
-                        rank === 2 ? 'poster-lb-pos-2' :
-                        rank === 3 ? 'poster-lb-pos-3' : '';
-                        
+                         rank === 2 ? 'poster-lb-pos-2' :
+                         rank === 3 ? 'poster-lb-pos-3' : '';
+
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
@@ -648,6 +653,7 @@ function downloadLeaderboardImage() {
     
     captureElement('lb-capture-area', `Mettlestate_Standings_${dateStamp()}.png`, 'Standings image downloaded!');
 }
+
 
 function downloadRulesImage() {
     const liveRules = document.getElementById('rules-content');
