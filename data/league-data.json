@@ -54,16 +54,17 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 4,
       "gf": 1,
-      "ga": 1,
+      "ga": 3,
       "form": [
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -86,16 +87,17 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 2,
-      "wins": 0,
+      "played": 3,
+      "wins": 1,
       "draws": 0,
       "losses": 2,
-      "points": 0,
-      "gf": 0,
+      "points": 3,
+      "gf": 2,
       "ga": 4,
       "form": [
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -359,11 +361,6 @@
   ],
   "fixtures": [
     {
-      "home": "Lukie",
-      "away": "XWRLD_REAPERS",
-      "id": 1771992927327
-    },
-    {
       "home": "Ctaum-cpt",
       "away": "Nigelmj21",
       "id": 1771992927331
@@ -614,7 +611,16 @@
       "awayGoals": 2,
       "id": 1772047359765,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Dontwindraw_1772047358799.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1772047382228,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_XWRLD_REAPERS_1772047381320.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T19:22:42.778Z"
+  "lastUpdated": "2026-02-25T19:23:04.874Z"
 }
