@@ -613,17 +613,24 @@ function downloadFixtureImage() {
 }
 
 function downloadLeaderboardImage() {
-    if (players.length === 0) { toast('No players to export', 'error'); return; }
+    if (players.length === 0) { 
+        toast('No players to export', 'error'); 
+        return; 
+    }
 
+    // Sort players (same logic you already have, just cleaned up a bit)
     const sorted = [...players].sort((a, b) => {
         if (b.points !== a.points) return b.points - a.points;
-        return ((b.gf||0)-(b.ga||0)) - ((a.gf||0)-(a.ga||0));
+        const gdA = (a.gf || 0) - (a.ga || 0);
+        const gdB = (b.gf || 0) - (b.ga || 0);
+        if (gdB !== gdA) return gdB - gdA;
+        return (b.gf || 0) - (a.gf || 0); // tiebreaker: goals for
     });
 
     const container = document.getElementById('poster-lb-table');
     container.innerHTML = '';
 
-    // Header row
+    // Header
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
@@ -631,17 +638,23 @@ function downloadLeaderboardImage() {
 
     sorted.forEach((p, i) => {
         const rank = i + 1;
-        const posClass = rank === 1 ? 'poster-lb-pos-1' : rank === 2 ? 'poster-lb-pos-2' : rank === 3 ? 'poster-lb-pos-3' : '';
+        const posClass = rank === 1 ? 'poster-lb-pos-1' :
+                         rank === 2 ? 'poster-lb-pos-2' :
+                         rank === 3 ? 'poster-lb-pos-3' : '';
+
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
-            <div class="${posClass}">${rank}</div>
-            <div>${p.username}</div>
-            <div>${p.played||0}</div>
-            <div>${p.wins||0}</div>
-            <div>${p.draws||0}</div>
-            <div>${p.losses||0}</div>
-            <div class="poster-lb-pts">${p.points||0}</div>
+            <div class="\( {posClass}"> \){rank}</div>
+            <div>
+                ${p.name || 'Unknown'}
+                \( {p.username ? `<div style="font-size:0.80em; color:#aaa; margin-top:3px;"> \){p.username}</div>` : ''}
+            </div>
+            <div>${p.played || 0}</div>
+            <div>${p.wins || 0}</div>
+            <div>${p.draws || 0}</div>
+            <div>${p.losses || 0}</div>
+            <div class="poster-lb-pts">${p.points || 0}</div>
         `;
         container.appendChild(row);
     });
@@ -661,7 +674,7 @@ function captureElement(elementId, filename, successMsg) {
     el.style.position   = 'fixed';
     el.style.top        = '0';
     el.style.left       = '0';
-    el.style.visibility = 'visible';
+    el.syle.visibility = 'visible';
     el.style.zIndex     = '-1';
     requestAnimationFrame(() => {
         requestAnimationFrame(() => {
