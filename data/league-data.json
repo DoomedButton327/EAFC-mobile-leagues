@@ -71,14 +71,15 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 2,
-      "wins": 2,
+      "played": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "points": 6,
-      "gf": 5,
-      "ga": 1,
+      "points": 9,
+      "gf": 7,
+      "ga": 2,
       "form": [
+        "W",
         "W",
         "W"
       ]
@@ -270,15 +271,16 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 1,
-      "gf": 1,
-      "ga": 3,
+      "gf": 2,
+      "ga": 5,
       "form": [
         "D",
+        "L",
         "L"
       ]
     },
@@ -373,11 +375,6 @@
       "home": "MGSatarou",
       "away": "wham",
       "id": 1771992927335
-    },
-    {
-      "home": "CRANK_",
-      "away": "ExequielThwala",
-      "id": 1771992927343
     },
     {
       "home": "SMANGALISO",
@@ -631,7 +628,16 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1772047494743
+    },
+    {
+      "home": "CRANK_",
+      "away": "ExequielThwala",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "id": 1772051889153,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_ExequielThwala_1772051888165.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T19:24:55.347Z"
+  "lastUpdated": "2026-02-25T20:38:11.812Z"
 }
