@@ -220,15 +220,16 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 0,
       "losses": 1,
-      "points": 3,
-      "gf": 4,
+      "points": 6,
+      "gf": 7,
       "ga": 2,
       "form": [
         "L",
+        "W",
         "W"
       ]
     },
@@ -317,15 +318,16 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 1,
       "gf": 1,
-      "ga": 4,
+      "ga": 7,
       "form": [
         "D",
+        "L",
         "L"
       ]
     },
@@ -371,11 +373,6 @@
       "home": "MGSatarou",
       "away": "wham",
       "id": 1771992927335
-    },
-    {
-      "home": "leomessi",
-      "away": "Barca.",
-      "id": 1771992927341
     },
     {
       "home": "CRANK_",
@@ -626,7 +623,15 @@
       "awayGoals": 3,
       "id": 1772047435067,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1772047434079.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "Barca.",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772047494743
     }
   ],
-  "lastUpdated": "2026-02-25T19:23:57.261Z"
+  "lastUpdated": "2026-02-25T19:24:55.347Z"
 }
