@@ -1,5 +1,5 @@
 /* ============================================================
-   METTLESTATE × EA FC MOBILE LEAGUE — App.js
+   METTLESTATE Ã— EA FC MOBILE LEAGUE â€” App.js
    ============================================================ */
 
 // ---- STATE ----
@@ -95,9 +95,9 @@ function renderLeaderboard() {
         podium.style.display = 'grid';
         const [first, second, third] = sorted;
         podium.innerHTML = `
-            <div class="podium-card rank-2"><div class="podium-medal">🥈</div><div class="podium-name">${second.username}</div><div class="podium-pts">2nd · <strong>${second.points}</strong> pts</div></div>
-            <div class="podium-card rank-1"><div class="podium-medal">🥇</div><div class="podium-name">${first.username}</div><div class="podium-pts">1st · <strong>${first.points}</strong> pts</div></div>
-            <div class="podium-card rank-3"><div class="podium-medal">🥉</div><div class="podium-name">${third.username}</div><div class="podium-pts">3rd · <strong>${third.points}</strong> pts</div></div>
+            <div class="podium-card rank-2"><div class="podium-medal">ðŸ¥ˆ</div><div class="podium-name">${second.username}</div><div class="podium-pts">2nd Â· <strong>${second.points}</strong> pts</div></div>
+            <div class="podium-card rank-1"><div class="podium-medal">ðŸ¥‡</div><div class="podium-name">${first.username}</div><div class="podium-pts">1st Â· <strong>${first.points}</strong> pts</div></div>
+            <div class="podium-card rank-3"><div class="podium-medal">ðŸ¥‰</div><div class="podium-name">${third.username}</div><div class="podium-pts">3rd Â· <strong>${third.points}</strong> pts</div></div>
         `;
     } else {
         podium.style.display = 'none';
@@ -157,9 +157,9 @@ function renderFixtures() {
             <div class="vs-badge">VS</div>
             <div class="fixture-player">${match.away}</div>
             <div class="match-actions">
-                <button class="btn-win-home"  onclick="resolveMatch('${match.id}','home')" title="${match.home} wins">🏆 ${truncate(match.home,8)}</button>
+                <button class="btn-win-home"  onclick="resolveMatch('${match.id}','home')" title="${match.home} wins">ðŸ† ${truncate(match.home,8)}</button>
                 <button class="btn-match-draw" onclick="resolveMatch('${match.id}','draw')">DRAW</button>
-                <button class="btn-win-away"  onclick="resolveMatch('${match.id}','away')" title="${match.away} wins">🏆 ${truncate(match.away,8)}</button>
+                <button class="btn-win-away"  onclick="resolveMatch('${match.id}','away')" title="${match.away} wins">ðŸ† ${truncate(match.away,8)}</button>
             </div>
         `;
         grid.appendChild(div);
@@ -176,7 +176,7 @@ function renderResults() {
     }
     [...results].reverse().forEach(r => {
         const homeWon = r.result === 'home', awayWon = r.result === 'away', isDraw = r.result === 'draw';
-        const scoreDisplay = r.homeGoals !== undefined ? `${r.homeGoals} — ${r.awayGoals}` : (isDraw ? 'DRAW' : homeWon ? 'WIN' : 'WIN');
+        const scoreDisplay = r.homeGoals !== undefined ? `${r.homeGoals} â€” ${r.awayGoals}` : (isDraw ? 'DRAW' : homeWon ? 'WIN' : 'WIN');
         const div = document.createElement('div');
         div.className = 'result-item';
         div.innerHTML = `
@@ -228,7 +228,7 @@ function renderEvidenceGrid() {
         card.innerHTML = `
             <img src="${r.imageUrl}" alt="Match screenshot" onclick="openLightbox('${r.imageUrl}','${r.home} vs ${r.away}')">
             <div class="evidence-label">${r.home} vs ${r.away}</div>
-            <div class="evidence-score">${r.homeGoals !== undefined ? `${r.homeGoals}–${r.awayGoals}` : r.result.toUpperCase()}</div>
+            <div class="evidence-score">${r.homeGoals !== undefined ? `${r.homeGoals}â€“${r.awayGoals}` : r.result.toUpperCase()}</div>
         `;
         grid.appendChild(card);
     });
@@ -348,7 +348,7 @@ async function logScore() {
 
     // Upload image if attached
     if (pendingMatchImage) {
-        toast('Uploading screenshot…', 'success');
+        toast('Uploading screenshotâ€¦', 'success');
         const imageUrl = await GH.uploadMatchImage(pendingMatchImage.base64, pendingMatchImage.filename);
         if (imageUrl) entry.imageUrl = imageUrl;
         // If not connected to GitHub, store the base64 locally as a fallback
@@ -365,7 +365,7 @@ async function logScore() {
 
     saveData();
     renderAll();
-    toast(`Score logged: ${match.home} ${hg}–${ag} ${match.away}`, 'success');
+    toast(`Score logged: ${match.home} ${hg}â€“${ag} ${match.away}`, 'success');
 }
 
 function addForm(player, r) {
@@ -377,7 +377,7 @@ function addForm(player, r) {
 function updateScoreSelect() {
     const sel = document.getElementById('scoreFixtureSelect');
     if (!sel) return;
-    sel.innerHTML = '<option value="">— Select Fixture —</option>';
+    sel.innerHTML = '<option value="">â€” Select Fixture â€”</option>';
     fixtures.forEach(f => {
         const opt = document.createElement('option');
         opt.value = f.id;
@@ -499,20 +499,20 @@ async function saveGitHubConfig() {
     if (!owner||!repo||!token) { toast('Owner, repo, and token are required','error'); return; }
 
     const statusEl = document.getElementById('gh-connect-status');
-    statusEl.textContent = 'Testing connection…';
+    statusEl.textContent = 'Testing connectionâ€¦';
     statusEl.className = 'gh-status-msg';
 
     GH.save(owner, repo, branch, token);
     const test = await GH.testConnection();
 
     if (!test.ok) {
-        statusEl.textContent = '✗ ' + test.msg;
+        statusEl.textContent = 'âœ— ' + test.msg;
         statusEl.className = 'gh-status-msg gh-status-error';
         toast('Connection failed: ' + test.msg, 'error');
         return;
     }
 
-    statusEl.textContent = '✓ Connected — checking for remote data…';
+    statusEl.textContent = 'âœ“ Connected â€” checking for remote dataâ€¦';
     statusEl.className = 'gh-status-msg gh-status-ok';
 
     // ALWAYS pull remote data first before doing anything.
@@ -521,18 +521,18 @@ async function saveGitHubConfig() {
     const remote = await GH.loadRemoteData();
 
     if (remote && (remote.players?.length || remote.fixtures?.length || remote.results?.length)) {
-        // Remote has real data — load it, never overwrite
+        // Remote has real data â€” load it, never overwrite
         if (remote.players)  players  = remote.players;
         if (remote.fixtures) fixtures = remote.fixtures;
         if (remote.results)  results  = remote.results;
         saveLocalOnly();
         renderAll();
-        statusEl.textContent = '✓ Loaded ' + players.length + ' players from GitHub';
+        statusEl.textContent = 'âœ“ Loaded ' + players.length + ' players from GitHub';
         toast('Connected & data loaded from GitHub!', 'success');
     } else {
-        // Remote is empty or file doesn\'t exist yet — safe to push local data up
+        // Remote is empty or file doesn\'t exist yet â€” safe to push local data up
         await GH.syncData(players, fixtures, results);
-        statusEl.textContent = '✓ Connected — local data pushed to GitHub';
+        statusEl.textContent = 'âœ“ Connected â€” local data pushed to GitHub';
         toast('Connected! Local data pushed to GitHub.', 'success');
     }
 
@@ -577,7 +577,7 @@ function exportData() {
 }
 
 function clearData() {
-    if (!confirm('⚠️ This will DELETE all players, fixtures, and results. Are you absolutely sure?')) return;
+    if (!confirm('âš ï¸ This will DELETE all players, fixtures, and results. Are you absolutely sure?')) return;
     localStorage.clear();
     players=[]; fixtures=[]; results=[];
     renderAll();
@@ -613,17 +613,11 @@ function downloadFixtureImage() {
 }
 
 function downloadLeaderboardImage() {
-function downloadLeaderboardImage() {
-    if (!players.length) { 
-        toast('No players to export','error'); 
-        return; 
-    }
-
+    if (!players.length) { toast('No players to export','error'); return; }
     const sorted = sortedPlayers();
     const container = document.getElementById('poster-lb-table');
-    container.innerHTML = ''; // clear previous content
+    container.innerHTML = '';
     
-    // Header
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
@@ -632,9 +626,9 @@ function downloadLeaderboardImage() {
     sorted.forEach((p, i) => {
         const rank = i + 1;
         const posClass = rank === 1 ? 'poster-lb-pos-1' :
-                         rank === 2 ? 'poster-lb-pos-2' :
-                         rank === 3 ? 'poster-lb-pos-3' : '';
-
+                        rank === 2 ? 'poster-lb-pos-2' :
+                        rank === 3 ? 'poster-lb-pos-3' : '';
+                        
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
@@ -706,5 +700,5 @@ function toast(msg, type='success') {
 }
 
 // ---- HELPERS ----
-function truncate(str, n) { return str.length>n ? str.slice(0,n)+'…' : str; }
+function truncate(str, n) { return str.length>n ? str.slice(0,n)+'â€¦' : str; }
 function dateStamp()      { return new Date().toLocaleDateString('en-ZA').replace(/\//g,'-'); }
