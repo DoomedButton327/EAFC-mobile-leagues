@@ -130,15 +130,16 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 1,
       "gf": 1,
-      "ga": 1,
+      "ga": 4,
       "form": [
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -208,15 +209,16 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "points": 0,
-      "gf": 1,
+      "points": 3,
+      "gf": 4,
       "ga": 2,
       "form": [
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -350,11 +352,6 @@
       "home": "Dontwindraw",
       "away": "HyperDrive27",
       "id": 1771796643954
-    },
-    {
-      "home": "leomessi",
-      "away": "E1even-Starz",
-      "id": 1771919007825
     },
     {
       "home": "Lukie",
@@ -530,7 +527,16 @@
       "awayGoals": 0,
       "id": 1771992825937,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_CRANK__1771992824667.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1771992891629,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_E1even-Starz_1771992890457.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T04:13:48.681Z"
+  "lastUpdated": "2026-02-25T04:14:54.510Z"
 }
