@@ -254,30 +254,32 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 1,
       "gf": 1,
-      "ga": 1,
+      "ga": 3,
       "form": [
-        "D"
+        "D",
+        "L"
       ]
     },
     {
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
-      "points": 1,
-      "gf": 3,
+      "points": 4,
+      "gf": 5,
       "ga": 3,
       "form": [
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -358,11 +360,6 @@
       "home": "Lukie",
       "away": "RoyalAM",
       "id": 1771919007829
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "CRANK_",
-      "id": 1771919007843
     }
   ],
   "results": [
@@ -524,7 +521,16 @@
       "awayGoals": 1,
       "id": 1771992799895,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_bhaze_1771992798010.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1771992825937,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_CRANK__1771992824667.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T04:13:22.646Z"
+  "lastUpdated": "2026-02-25T04:13:48.681Z"
 }
