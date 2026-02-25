@@ -613,35 +613,30 @@ function downloadFixtureImage() {
 }
 
 function downloadLeaderboardImage() {
-    if (!players.length) { 
-        toast('No players to export','error'); 
-        return; 
-    }
+    if (players.length === 0) { toast('No players to export', 'error'); return; }
 
-    const sorted = sortedPlayers();
+    const sorted = [...players].sort((a, b) => {
+        if (b.points !== a.points) return b.points - a.points;
+        return ((b.gf||0)-(b.ga||0)) - ((a.gf||0)-(a.ga||0));
+    });
+
     const container = document.getElementById('poster-lb-table');
-    container.innerHTML = ''; // clear previous content
-    
-    // Header
+    container.innerHTML = '';
+
+    // Header row
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
     container.appendChild(header);
-    
+
     sorted.forEach((p, i) => {
         const rank = i + 1;
-        const posClass = rank === 1 ? 'poster-lb-pos-1' :
-                         rank === 2 ? 'poster-lb-pos-2' :
-                         rank === 3 ? 'poster-lb-pos-3' : '';
-
+        const posClass = rank === 1 ? 'poster-lb-pos-1' : rank === 2 ? 'poster-lb-pos-2' : rank === 3 ? 'poster-lb-pos-3' : '';
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
-            <div class="\( {posClass}"> \){rank}</div>
-            <div>
-                ${p.name}
-                <div style="font-size:0.85em; color:#aaa; margin-top:2px;">${p.username}</div>
-            </div>
+            <div class="${posClass}">${rank}</div>
+            <div>${p.username}</div>
             <div>${p.played||0}</div>
             <div>${p.wins||0}</div>
             <div>${p.draws||0}</div>
@@ -650,7 +645,7 @@ function downloadLeaderboardImage() {
         `;
         container.appendChild(row);
     });
-    
+
     captureElement('lb-capture-area', `Mettlestate_Standings_${dateStamp()}.png`, 'Standings image downloaded!');
 }
 
