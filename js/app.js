@@ -613,55 +613,41 @@ function downloadFixtureImage() {
 }
 
 function downloadLeaderboardImage() {
-    if (players.length === 0) { 
-        toast('No players to export', 'error'); 
-        return; 
-    }
-
-    // Sort players (same logic you already have, just cleaned up a bit)
-    const sorted = [...players].sort((a, b) => {
-        if (b.points !== a.points) return b.points - a.points;
-        const gdA = (a.gf || 0) - (a.ga || 0);
-        const gdB = (b.gf || 0) - (b.ga || 0);
-        if (gdB !== gdA) return gdB - gdA;
-        return (b.gf || 0) - (a.gf || 0); // tiebreaker: goals for
-    });
-
+    if (!players.length) { toast('No players to export','error'); return; }
+    const sorted = sortedPlayers();
     const container = document.getElementById('poster-lb-table');
     container.innerHTML = '';
-
-    // Header
+    
     const header = document.createElement('div');
     header.className = 'poster-lb-header';
     header.innerHTML = `<div>#</div><div>PLAYER</div><div>P</div><div>W</div><div>D</div><div>L</div><div>PTS</div>`;
     container.appendChild(header);
-
+    
     sorted.forEach((p, i) => {
         const rank = i + 1;
         const posClass = rank === 1 ? 'poster-lb-pos-1' :
-                         rank === 2 ? 'poster-lb-pos-2' :
-                         rank === 3 ? 'poster-lb-pos-3' : '';
-
+                        rank === 2 ? 'poster-lb-pos-2' :
+                        rank === 3 ? 'poster-lb-pos-3' : '';
+                        
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
             <div class="\( {posClass}"> \){rank}</div>
             <div>
-                ${p.name || 'Unknown'}
-                \( {p.username ? `<div style="font-size:0.80em; color:#aaa; margin-top:3px;"> \){p.username}</div>` : ''}
+                ${p.name}
+                <div style="font-size:0.85em; color:#aaa; margin-top:2px;">${p.username}</div>
             </div>
-            <div>${p.played || 0}</div>
-            <div>${p.wins || 0}</div>
-            <div>${p.draws || 0}</div>
-            <div>${p.losses || 0}</div>
-            <div class="poster-lb-pts">${p.points || 0}</div>
+            <div>${p.played||0}</div>
+            <div>${p.wins||0}</div>
+            <div>${p.draws||0}</div>
+            <div>${p.losses||0}</div>
+            <div class="poster-lb-pts">${p.points||0}</div>
         `;
         container.appendChild(row);
     });
-
+    
     captureElement('lb-capture-area', `Mettlestate_Standings_${dateStamp()}.png`, 'Standings image downloaded!');
 }
-
 
 function downloadRulesImage() {
     const liveRules = document.getElementById('rules-content');
@@ -674,7 +660,7 @@ function captureElement(elementId, filename, successMsg) {
     el.style.position   = 'fixed';
     el.style.top        = '0';
     el.style.left       = '0';
-    el.syle.visibility = 'visible';
+    el.style.visibility = 'visible';
     el.style.zIndex     = '-1';
     requestAnimationFrame(() => {
         requestAnimationFrame(() => {
