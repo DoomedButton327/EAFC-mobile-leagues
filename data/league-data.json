@@ -153,15 +153,16 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 2,
+      "played": 3,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 3,
       "gf": 3,
-      "ga": 1,
+      "ga": 4,
       "form": [
         "W",
+        "L",
         "L"
       ]
     },
@@ -185,14 +186,15 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 2,
-      "wins": 2,
+      "played": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "points": 6,
-      "gf": 6,
+      "points": 9,
+      "gf": 9,
       "ga": 0,
       "form": [
+        "W",
         "W",
         "W"
       ]
@@ -369,11 +371,6 @@
       "home": "MGSatarou",
       "away": "wham",
       "id": 1771992927335
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "RFT07",
-      "id": 1771992927337
     },
     {
       "home": "leomessi",
@@ -620,7 +617,16 @@
       "awayGoals": 2,
       "id": 1772047382228,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_XWRLD_REAPERS_1772047381320.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772047435067,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1772047434079.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T19:23:04.874Z"
+  "lastUpdated": "2026-02-25T19:23:57.261Z"
 }
