@@ -440,6 +440,7 @@ function generateDraw() {
     let newFixtures = [];
 
     if (mode === 'roundrobin') {
+        // Build all unique pairs first
         for (let i = 0; i < players.length; i++) {
             for (let j = i+1; j < players.length; j++) {
                 const exists = fixtures.some(f =>
@@ -448,6 +449,12 @@ function generateDraw() {
                 );
                 if (!exists) newFixtures.push({ home:players[i].username, away:players[j].username, id:Date.now()+Math.random() });
             }
+        }
+        // Fisher-Yates shuffle so fixtures come out in a random order,
+        // but still no repeats until everyone has played everyone
+        for (let i = newFixtures.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [newFixtures[i], newFixtures[j]] = [newFixtures[j], newFixtures[i]];
         }
     } else {
         const shuffled = [...players].sort(()=>0.5-Math.random());
