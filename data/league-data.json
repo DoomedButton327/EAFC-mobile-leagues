@@ -4,16 +4,17 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 1,
       "losses": 0,
-      "points": 4,
-      "gf": 2,
+      "points": 7,
+      "gf": 9,
       "ga": 1,
       "form": [
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -326,14 +327,15 @@
       "name": "Mashinini",
       "username": "Mashinini",
       "phone": "+27736941998",
-      "played": 1,
+      "played": 2,
       "wins": 0,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "points": 0,
       "gf": 0,
-      "ga": 3,
+      "ga": 10,
       "form": [
+        "L",
         "L"
       ]
     },
@@ -363,11 +365,6 @@
       "home": "Ctaum-cpt",
       "away": "Nigelmj21",
       "id": 1771992927331
-    },
-    {
-      "home": "bhaze",
-      "away": "Mashinini",
-      "id": 1771992927333
     },
     {
       "home": "MGSatarou",
@@ -602,7 +599,16 @@
       "away": "HyperDrive27",
       "result": "away",
       "id": 1771992958093
+    },
+    {
+      "home": "bhaze",
+      "away": "Mashinini",
+      "result": "home",
+      "homeGoals": 7,
+      "awayGoals": 0,
+      "id": 1772008418526,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Mashinini_1772008417353.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T04:15:58.696Z"
+  "lastUpdated": "2026-02-25T08:33:41.804Z"
 }
