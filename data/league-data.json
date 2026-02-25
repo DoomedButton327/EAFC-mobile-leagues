@@ -38,15 +38,16 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 0,
       "losses": 1,
-      "points": 3,
-      "gf": 3,
+      "points": 6,
+      "gf": 6,
       "ga": 1,
       "form": [
         "L",
+        "W",
         "W"
       ]
     },
@@ -138,15 +139,16 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 1,
       "gf": 1,
-      "ga": 4,
+      "ga": 7,
       "form": [
         "D",
+        "L",
         "L"
       ]
     },
@@ -380,11 +382,6 @@
       "home": "SMANGALISO",
       "away": "DJRonaldoZA",
       "id": 1771992927345
-    },
-    {
-      "home": "E1even-Starz",
-      "away": "KING_KHESWA.",
-      "id": 1771992927347
     }
   ],
   "results": [
@@ -637,7 +634,16 @@
       "awayGoals": 2,
       "id": 1772051889153,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_ExequielThwala_1772051888165.jpg"
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772052333305,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_KING_KHESWA._1772052329124.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T20:38:11.812Z"
+  "lastUpdated": "2026-02-25T20:45:37.528Z"
 }
