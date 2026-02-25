@@ -530,7 +530,7 @@ async function saveGitHubConfig() {
         statusEl.textContent = '✓ Loaded ' + players.length + ' players from GitHub';
         toast('Connected & data loaded from GitHub!', 'success');
     } else {
-        // Remote is empty or file doesn\'t exist yet — safe to push local data up
+        // Remote is empty or file doesn't exist yet — safe to push local data up
         await GH.syncData(players, fixtures, results);
         statusEl.textContent = '✓ Connected — local data pushed to GitHub';
         toast('Connected! Local data pushed to GitHub.', 'success');
@@ -632,7 +632,7 @@ function downloadLeaderboardImage() {
         const row = document.createElement('div');
         row.className = 'poster-lb-row';
         row.innerHTML = `
-            <div class="\( {posClass}"> \){rank}</div>
+            <div class="${posClass}">${rank}</div>
             <div>
                 ${p.name}
                 <div style="font-size:0.85em; color:#aaa; margin-top:2px;">${p.username}</div>
