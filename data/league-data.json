@@ -4,29 +4,31 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 1,
+      "played": 2,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 3,
-      "gf": 1,
-      "ga": 0,
+      "points": 4,
+      "gf": 2,
+      "ga": 1,
       "form": [
-        "W"
+        "W",
+        "D"
       ]
     },
     {
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "points": 1,
-      "gf": 1,
-      "ga": 1,
+      "points": 2,
+      "gf": 2,
+      "ga": 2,
       "form": [
+        "D",
         "D"
       ]
     },
@@ -358,11 +360,6 @@
       "id": 1771919007829
     },
     {
-      "home": "Sailor",
-      "away": "bhaze",
-      "id": 1771919007839
-    },
-    {
       "home": "Nigelmj21",
       "away": "CRANK_",
       "id": 1771919007843
@@ -518,7 +515,16 @@
       "away": "Dontwindraw",
       "result": "home",
       "id": 1771959667569
+    },
+    {
+      "home": "Sailor",
+      "away": "bhaze",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1771992799895,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_bhaze_1771992798010.jpg"
     }
   ],
-  "lastUpdated": "2026-02-24T19:01:08.174Z"
+  "lastUpdated": "2026-02-25T04:13:22.646Z"
 }
