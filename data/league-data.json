@@ -194,15 +194,16 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 5,
       "form": [
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -241,15 +242,16 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 1,
+      "played": 2,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 0,
       "form": [
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -348,11 +350,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dontwindraw",
-      "away": "HyperDrive27",
-      "id": 1771796643954
-    },
     {
       "home": "Lukie",
       "away": "RoyalAM",
@@ -536,7 +533,15 @@
       "awayGoals": 0,
       "id": 1771992891629,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_E1even-Starz_1771992890457.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "HyperDrive27",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1771992908473
     }
   ],
-  "lastUpdated": "2026-02-25T04:14:54.510Z"
+  "lastUpdated": "2026-02-25T04:15:09.078Z"
 }
