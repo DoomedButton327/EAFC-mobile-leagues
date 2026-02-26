@@ -22,16 +22,17 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 2,
-      "losses": 1,
+      "losses": 2,
       "points": 2,
       "gf": 2,
-      "ga": 4,
+      "ga": 5,
       "form": [
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -191,14 +192,15 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 3,
-      "wins": 3,
+      "played": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
-      "points": 9,
-      "gf": 9,
+      "points": 12,
+      "gf": 10,
       "ga": 0,
       "form": [
+        "W",
         "W",
         "W",
         "W"
@@ -385,11 +387,6 @@
       "home": "SMANGALISO",
       "away": "DJRonaldoZA",
       "id": 1771992927345
-    },
-    {
-      "home": "Sailor",
-      "away": "RFT07",
-      "id": 1772057807185
     },
     {
       "home": "E1even-Starz",
@@ -719,7 +716,16 @@
       "awayGoals": 1,
       "id": 1772097705367,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_XWRLD_REAPERS_1772097704250.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1772127118734,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RFT07_1772127117677.jpg"
     }
   ],
-  "lastUpdated": "2026-02-26T09:21:48.442Z"
+  "lastUpdated": "2026-02-26T17:32:02.205Z"
 }
