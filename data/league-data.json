@@ -177,17 +177,18 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 3,
+      "played": 4,
       "wins": 2,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 7,
       "gf": 6,
-      "ga": 2,
+      "ga": 5,
       "form": [
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -366,14 +367,15 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 2,
-      "wins": 2,
+      "played": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
-      "points": 6,
-      "gf": 2,
+      "points": 9,
+      "gf": 5,
       "ga": 0,
       "form": [
+        "W",
         "W",
         "W"
       ]
@@ -384,11 +386,6 @@
       "home": "Ctaum-cpt",
       "away": "Nigelmj21",
       "id": 1771992927331
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "DJRonaldoZA",
-      "id": 1771992927345
     },
     {
       "home": "E1even-Starz",
@@ -731,7 +728,16 @@
       "awayGoals": 1,
       "id": 1772127162228,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_ExequielThwala_1772127157373.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "DJRonaldoZA",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772131067126,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_DJRonaldoZA_1772131065903.jpg"
     }
   ],
-  "lastUpdated": "2026-02-26T17:32:45.143Z"
+  "lastUpdated": "2026-02-26T18:37:49.599Z"
 }
