@@ -4,17 +4,18 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 3,
+      "played": 4,
       "wins": 2,
       "draws": 1,
-      "losses": 0,
+      "losses": 1,
       "points": 7,
       "gf": 9,
-      "ga": 1,
+      "ga": 3,
       "form": [
         "W",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -257,16 +258,17 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 3,
-      "wins": 1,
+      "played": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
-      "points": 4,
-      "gf": 2,
+      "points": 7,
+      "gf": 4,
       "ga": 0,
       "form": [
         "L",
         "D",
+        "W",
         "W"
       ]
     },
@@ -379,11 +381,6 @@
       "home": "SMANGALISO",
       "away": "DJRonaldoZA",
       "id": 1771992927345
-    },
-    {
-      "home": "bhaze",
-      "away": "Dontwindraw",
-      "id": 1772057807183
     },
     {
       "home": "Sailor",
@@ -701,7 +698,16 @@
       "away": "wham",
       "result": "draw",
       "id": 1772057765063
+    },
+    {
+      "home": "bhaze",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1772093333223,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Dontwindraw_1772093324093.jpg"
     }
   ],
-  "lastUpdated": "2026-02-25T22:16:47.790Z"
+  "lastUpdated": "2026-02-26T08:08:56.788Z"
 }
