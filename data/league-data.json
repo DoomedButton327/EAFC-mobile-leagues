@@ -90,17 +90,18 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 3,
+      "played": 4,
       "wins": 1,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "points": 3,
-      "gf": 2,
-      "ga": 4,
+      "gf": 3,
+      "ga": 8,
       "form": [
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -225,17 +226,18 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 3,
-      "wins": 1,
+      "played": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
-      "points": 6,
-      "gf": 7,
-      "ga": 2,
+      "points": 9,
+      "gf": 11,
+      "ga": 3,
       "form": [
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -418,11 +420,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1772057807199
-    },
-    {
-      "home": "leomessi",
-      "away": "XWRLD_REAPERS",
-      "id": 1772057807201
     },
     {
       "home": "Mashinini",
@@ -713,7 +710,16 @@
       "awayGoals": 1,
       "id": 1772094896096,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/HyperDrive27_vs_DJRonaldoZA_1772094892611.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "XWRLD_REAPERS",
+      "result": "home",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "id": 1772097705367,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_XWRLD_REAPERS_1772097704250.jpg"
     }
   ],
-  "lastUpdated": "2026-02-26T08:34:58.689Z"
+  "lastUpdated": "2026-02-26T09:21:48.442Z"
 }
