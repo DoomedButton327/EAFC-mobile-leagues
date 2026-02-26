@@ -224,8 +224,8 @@
       "username": "leomessi",
       "phone": "0816752213",
       "played": 3,
-      "wins": 2,
-      "draws": 0,
+      "wins": 1,
+      "draws": 1,
       "losses": 1,
       "points": 6,
       "gf": 7,
@@ -233,7 +233,7 @@
       "form": [
         "L",
         "W",
-        "W"
+        "D"
       ]
     },
     {
@@ -326,15 +326,15 @@
       "phone": "0741645995",
       "played": 3,
       "wins": 0,
-      "draws": 1,
-      "losses": 2,
+      "draws": 2,
+      "losses": 1,
       "points": 1,
       "gf": 1,
       "ga": 7,
       "form": [
         "D",
         "L",
-        "L"
+        "D"
       ]
     },
     {
@@ -674,8 +674,8 @@
       "home": "leomessi",
       "away": "Barca.",
       "result": "home",
-      "homeGoals": 3,
-      "awayGoals": 0,
+      "homeGoals": 1,
+      "awayGoals": 1,
       "id": 1772047494743
     },
     {
