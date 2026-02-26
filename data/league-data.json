@@ -74,17 +74,18 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 3,
+      "played": 4,
       "wins": 3,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 9,
-      "gf": 7,
-      "ga": 2,
+      "gf": 8,
+      "ga": 4,
       "form": [
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -176,15 +177,16 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 2,
-      "wins": 1,
+      "played": 3,
+      "wins": 2,
       "draws": 1,
       "losses": 0,
-      "points": 4,
-      "gf": 4,
-      "ga": 1,
+      "points": 7,
+      "gf": 6,
+      "ga": 2,
       "form": [
         "D",
+        "W",
         "W"
       ]
     },
@@ -402,11 +404,6 @@
       "home": "MGSatarou",
       "away": "Ctaum-cpt",
       "id": 1772057807191
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "ExequielThwala",
-      "id": 1772057807193
     },
     {
       "home": "Yungboyshlime",
@@ -725,7 +722,16 @@
       "awayGoals": 1,
       "id": 1772127118734,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RFT07_1772127117677.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "ExequielThwala",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1772127162228,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_ExequielThwala_1772127157373.jpg"
     }
   ],
-  "lastUpdated": "2026-02-26T17:32:02.205Z"
+  "lastUpdated": "2026-02-26T17:32:45.143Z"
 }
