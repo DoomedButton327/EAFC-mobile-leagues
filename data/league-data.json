@@ -57,17 +57,18 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 3,
-      "wins": 1,
+      "played": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
-      "points": 4,
-      "gf": 1,
+      "points": 7,
+      "gf": 4,
       "ga": 3,
       "form": [
         "D",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -249,17 +250,18 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "points": 1,
       "gf": 0,
-      "ga": 6,
+      "ga": 9,
       "form": [
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -391,11 +393,6 @@
       "home": "E1even-Starz",
       "away": "KING_KHESWA.",
       "id": 1772057807187
-    },
-    {
-      "home": "Lukie",
-      "away": "wham",
-      "id": 1772057807189
     },
     {
       "home": "MGSatarou",
@@ -737,7 +734,16 @@
       "awayGoals": 3,
       "id": 1772131067126,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_DJRonaldoZA_1772131065903.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772131114072,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_wham_1772131112898.jpg"
     }
   ],
-  "lastUpdated": "2026-02-26T18:37:49.599Z"
+  "lastUpdated": "2026-02-26T18:38:36.977Z"
 }
