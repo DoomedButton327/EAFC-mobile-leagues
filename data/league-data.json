@@ -292,18 +292,19 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 4,
+      "played": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "points": 4,
+      "points": 5,
       "gf": 5,
       "ga": 5,
       "form": [
         "D",
         "L",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -364,17 +365,18 @@
       "name": "Mashinini",
       "username": "Mashinini",
       "phone": "+27736941998",
-      "played": 3,
+      "played": 4,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
-      "points": 0,
+      "points": 1,
       "gf": 0,
       "ga": 10,
       "form": [
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -420,11 +422,6 @@
       "home": "Sailor",
       "away": "Nigelmj21",
       "id": 1772165804751
-    },
-    {
-      "home": "Mashinini",
-      "away": "CRANK_",
-      "id": 1772165804753
     },
     {
       "home": "SMANGALISO",
@@ -825,7 +822,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1772165798421
+    },
+    {
+      "home": "Mashinini",
+      "away": "CRANK_",
+      "result": "draw",
+      "id": 1772165873255
     }
   ],
-  "lastUpdated": "2026-02-27T04:16:45.346Z"
+  "lastUpdated": "2026-02-27T04:17:53.858Z"
 }
