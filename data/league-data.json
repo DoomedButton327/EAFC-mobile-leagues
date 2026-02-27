@@ -166,17 +166,18 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "points": 3,
+      "points": 4,
       "gf": 3,
       "ga": 4,
       "form": [
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -309,17 +310,18 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 1,
-      "points": 4,
+      "points": 5,
       "gf": 5,
       "ga": 6,
       "form": [
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -393,13 +395,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Yungboyshlime",
-      "away": "Nigelmj21",
-      "id": 1772057807197
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -767,7 +763,13 @@
       "away": "Ctaum-cpt",
       "result": "draw",
       "id": 1772165797710
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "id": 1772165798421
     }
   ],
-  "lastUpdated": "2026-02-27T04:16:38.314Z"
+  "lastUpdated": "2026-02-27T04:16:39.022Z"
 }
