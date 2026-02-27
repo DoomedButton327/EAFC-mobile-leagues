@@ -111,17 +111,18 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 3,
-      "wins": 0,
+      "played": 4,
+      "wins": 1,
       "draws": 0,
       "losses": 3,
-      "points": 0,
+      "points": 3,
       "gf": 0,
       "ga": 3,
       "form": [
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -355,14 +356,15 @@
       "name": "Mashinini",
       "username": "Mashinini",
       "phone": "+27736941998",
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 0,
-      "losses": 2,
+      "losses": 3,
       "points": 0,
       "gf": 0,
       "ga": 10,
       "form": [
+        "L",
         "L",
         "L"
       ]
@@ -405,11 +407,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1772057807199
-    },
-    {
-      "home": "Mashinini",
-      "away": "RoyalAM",
-      "id": 1772057807203
     }
   ],
   "results": [
@@ -749,7 +746,13 @@
       "awayGoals": 0,
       "id": 1772132804546,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Nigelmj21_1772132803383.jpg"
+    },
+    {
+      "home": "Mashinini",
+      "away": "RoyalAM",
+      "result": "away",
+      "id": 1772165658110
     }
   ],
-  "lastUpdated": "2026-02-26T19:06:47.006Z"
+  "lastUpdated": "2026-02-27T04:14:18.716Z"
 }
