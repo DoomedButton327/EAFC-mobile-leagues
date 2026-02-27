@@ -76,18 +76,19 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 4,
-      "wins": 3,
+      "played": 5,
+      "wins": 4,
       "draws": 0,
       "losses": 1,
-      "points": 9,
-      "gf": 8,
-      "ga": 4,
+      "points": 12,
+      "gf": 10,
+      "ga": 5,
       "form": [
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -184,17 +185,18 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 4,
+      "played": 5,
       "wins": 2,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 7,
-      "gf": 6,
-      "ga": 5,
+      "gf": 7,
+      "ga": 7,
       "form": [
         "D",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -419,11 +421,6 @@
       "home": "Sailor",
       "away": "Nigelmj21",
       "id": 1772165804751
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "ExequielThwala",
-      "id": 1772165804755
     },
     {
       "home": "wham",
@@ -834,7 +831,16 @@
       "awayGoals": 2,
       "id": 1772231364515,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_leomessi_1772231363358.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "ExequielThwala",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "id": 1772231403279,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_ExequielThwala_1772231402209.jpg"
     }
   ],
-  "lastUpdated": "2026-02-27T22:29:27.828Z"
+  "lastUpdated": "2026-02-27T22:30:06.092Z"
 }
