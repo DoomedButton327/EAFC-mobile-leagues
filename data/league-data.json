@@ -238,17 +238,18 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 4,
-      "wins": 2,
+      "played": 5,
+      "wins": 3,
       "draws": 1,
       "losses": 1,
-      "points": 9,
-      "gf": 11,
+      "points": 12,
+      "gf": 13,
       "ga": 3,
       "form": [
         "L",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -347,17 +348,18 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "points": 1,
       "gf": 1,
-      "ga": 10,
+      "ga": 12,
       "form": [
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -412,11 +414,6 @@
       "home": "Yungboyshlime",
       "away": "RFT07",
       "id": 1772165804747
-    },
-    {
-      "home": "Barca.",
-      "away": "leomessi",
-      "id": 1772165804749
     },
     {
       "home": "Sailor",
@@ -828,7 +825,16 @@
       "away": "CRANK_",
       "result": "draw",
       "id": 1772165873255
+    },
+    {
+      "home": "Barca.",
+      "away": "leomessi",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1772231364515,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_leomessi_1772231363358.jpg"
     }
   ],
-  "lastUpdated": "2026-02-27T04:17:53.858Z"
+  "lastUpdated": "2026-02-27T22:29:27.828Z"
 }
