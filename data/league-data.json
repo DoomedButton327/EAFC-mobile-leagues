@@ -278,18 +278,19 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 4,
+      "played": 5,
       "wins": 2,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 7,
-      "gf": 4,
-      "ga": 0,
+      "gf": 6,
+      "ga": 3,
       "form": [
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -333,18 +334,19 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 4,
-      "wins": 2,
+      "played": 5,
+      "wins": 3,
       "draws": 2,
       "losses": 0,
-      "points": 8,
-      "gf": 5,
-      "ga": 1,
+      "points": 11,
+      "gf": 8,
+      "ga": 3,
       "form": [
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -433,11 +435,6 @@
       "home": "E1even-Starz",
       "away": "KING_KHESWA.",
       "id": 1772165804759
-    },
-    {
-      "home": "MGSatarou",
-      "away": "Dontwindraw",
-      "id": 1772165804761
     }
   ],
   "results": [
@@ -846,7 +843,16 @@
       "awayGoals": 1,
       "id": 1772231427388,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_DJRonaldoZA_1772231426339.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Dontwindraw",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "id": 1772231451028,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Dontwindraw_1772231450017.jpg"
     }
   ],
-  "lastUpdated": "2026-02-27T22:30:30.067Z"
+  "lastUpdated": "2026-02-27T22:30:53.778Z"
 }
