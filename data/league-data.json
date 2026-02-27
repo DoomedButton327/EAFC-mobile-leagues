@@ -22,16 +22,17 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "points": 2,
       "gf": 2,
-      "ga": 5,
+      "ga": 8,
       "form": [
         "D",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -316,18 +317,19 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 4,
-      "wins": 1,
+      "played": 5,
+      "wins": 2,
       "draws": 2,
       "losses": 1,
-      "points": 5,
-      "gf": 5,
+      "points": 8,
+      "gf": 8,
       "ga": 6,
       "form": [
         "D",
         "W",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -420,11 +422,6 @@
       "home": "Yungboyshlime",
       "away": "RFT07",
       "id": 1772165804747
-    },
-    {
-      "home": "Sailor",
-      "away": "Nigelmj21",
-      "id": 1772165804751
     },
     {
       "home": "wham",
@@ -852,7 +849,16 @@
       "awayGoals": 2,
       "id": 1772231451028,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Dontwindraw_1772231450017.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Nigelmj21",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772232788906,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Nigelmj21_1772232787544.jpg"
     }
   ],
-  "lastUpdated": "2026-02-27T22:30:53.778Z"
+  "lastUpdated": "2026-02-27T22:53:12.718Z"
 }
