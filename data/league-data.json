@@ -216,38 +216,40 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 5,
-      "wins": 4,
+      "played": 6,
+      "wins": 5,
       "draws": 1,
       "losses": 0,
-      "points": 13,
-      "gf": 10,
+      "points": 16,
+      "gf": 13,
       "ga": 0,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 6,
+      "played": 7,
       "wins": 1,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 5,
       "gf": 0,
-      "ga": 11,
+      "ga": 14,
       "form": [
         "L",
         "D",
         "W",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -462,11 +464,6 @@
       "home": "Nigelmj21",
       "away": "E1even-Starz",
       "id": 1772261942656
-    },
-    {
-      "home": "RFT07",
-      "away": "HyperDrive27",
-      "id": 1772261942658
     }
   ],
   "results": [
@@ -968,7 +965,15 @@
       "awayGoals": 3,
       "id": 1772319525466,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_CRANK__1772319524291.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "HyperDrive27",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772319608132
     }
   ],
-  "lastUpdated": "2026-02-28T22:58:48.174Z"
+  "lastUpdated": "2026-02-28T23:00:08.735Z"
 }
