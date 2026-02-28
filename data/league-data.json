@@ -255,17 +255,18 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 5,
-      "wins": 3,
+      "played": 6,
+      "wins": 4,
       "draws": 1,
       "losses": 1,
-      "points": 12,
-      "gf": 13,
+      "points": 15,
+      "gf": 16,
       "ga": 3,
       "form": [
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -370,17 +371,18 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 1,
       "gf": 1,
-      "ga": 12,
+      "ga": 15,
       "form": [
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -468,11 +470,6 @@
       "home": "RFT07",
       "away": "HyperDrive27",
       "id": 1772261942658
-    },
-    {
-      "home": "leomessi",
-      "away": "Barca.",
-      "id": 1772261942660
     }
   ],
   "results": [
@@ -956,7 +953,16 @@
       "awayGoals": 0,
       "id": 1772319392087,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_HyperDrive27_1772319390953.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "Barca.",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772319502717,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Barca._1772319501716.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T22:56:34.831Z"
+  "lastUpdated": "2026-02-28T22:58:26.871Z"
 }
