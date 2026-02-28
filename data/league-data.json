@@ -193,17 +193,18 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 5,
+      "played": 6,
       "wins": 2,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "points": 7,
       "gf": 7,
-      "ga": 7,
+      "ga": 9,
       "form": [
         "D",
         "W",
         "W",
+        "L",
         "L",
         "L"
       ]
@@ -288,19 +289,20 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 5,
-      "wins": 2,
+      "played": 6,
+      "wins": 3,
       "draws": 1,
       "losses": 2,
-      "points": 7,
-      "gf": 6,
+      "points": 10,
+      "gf": 8,
       "ga": 3,
       "form": [
         "L",
         "D",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -437,11 +439,6 @@
       "home": "bhaze",
       "away": "Yungboyshlime",
       "id": 1772261942640
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "Dontwindraw",
-      "id": 1772261942642
     },
     {
       "home": "Sailor",
@@ -938,7 +935,16 @@
       "away": "XWRLD_REAPERS",
       "result": "away",
       "id": 1772261958573
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1772319329881,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_Dontwindraw_1772319328905.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T06:59:19.180Z"
+  "lastUpdated": "2026-02-28T22:55:33.201Z"
 }
