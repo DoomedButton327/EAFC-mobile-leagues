@@ -79,18 +79,19 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 5,
-      "wins": 4,
+      "played": 6,
+      "wins": 5,
       "draws": 0,
       "losses": 1,
-      "points": 12,
-      "gf": 10,
+      "points": 15,
+      "gf": 11,
       "ga": 5,
       "form": [
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -118,18 +119,19 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 0,
-      "losses": 3,
+      "losses": 4,
       "points": 3,
       "gf": 0,
-      "ga": 3,
+      "ga": 4,
       "form": [
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -459,11 +461,6 @@
       "home": "Lukie",
       "away": "DJRonaldoZA",
       "id": 1772261942652
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "RoyalAM",
-      "id": 1772261942654
     },
     {
       "home": "Nigelmj21",
@@ -944,7 +941,16 @@
       "awayGoals": 2,
       "id": 1772319329881,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_Dontwindraw_1772319328905.jpg"
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1772319368026,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_RoyalAM_1772319366884.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T22:55:33.201Z"
+  "lastUpdated": "2026-02-28T22:56:10.678Z"
 }
