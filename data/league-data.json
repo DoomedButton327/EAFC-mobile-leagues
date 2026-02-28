@@ -119,19 +119,20 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 5,
-      "wins": 1,
+      "played": 6,
+      "wins": 2,
       "draws": 0,
       "losses": 4,
-      "points": 3,
-      "gf": 0,
+      "points": 6,
+      "gf": 5,
       "ga": 4,
       "form": [
         "L",
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -234,19 +235,20 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 5,
+      "played": 6,
       "wins": 1,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "points": 5,
       "gf": 0,
-      "ga": 6,
+      "ga": 11,
       "form": [
         "L",
         "D",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -431,11 +433,6 @@
       "home": "RoyalAM",
       "away": "Lukie",
       "id": 1772261886775
-    },
-    {
-      "home": "RoyalAM",
-      "away": "HyperDrive27",
-      "id": 1772261895664
     },
     {
       "home": "bhaze",
@@ -950,7 +947,16 @@
       "awayGoals": 0,
       "id": 1772319368026,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_RoyalAM_1772319366884.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "HyperDrive27",
+      "result": "home",
+      "homeGoals": 5,
+      "awayGoals": 0,
+      "id": 1772319392087,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_HyperDrive27_1772319390953.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T22:56:10.678Z"
+  "lastUpdated": "2026-02-28T22:56:34.831Z"
 }
