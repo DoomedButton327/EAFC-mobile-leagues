@@ -4,18 +4,19 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 4,
+      "played": 5,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 1,
-      "points": 7,
+      "points": 8,
       "gf": 9,
       "ga": 3,
       "form": [
         "W",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -96,18 +97,19 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 4,
+      "played": 5,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 3,
-      "points": 3,
+      "points": 4,
       "gf": 3,
       "ga": 8,
       "form": [
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -412,11 +414,6 @@
       "home": "Lukie",
       "away": "RoyalAM",
       "id": 1772165804743
-    },
-    {
-      "home": "bhaze",
-      "away": "XWRLD_REAPERS",
-      "id": 1772165804745
     },
     {
       "home": "Yungboyshlime",
@@ -858,7 +855,13 @@
       "awayGoals": 3,
       "id": 1772232788906,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Nigelmj21_1772232787544.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "id": 1772261774554
     }
   ],
-  "lastUpdated": "2026-02-27T22:53:12.718Z"
+  "lastUpdated": "2026-02-28T06:56:15.159Z"
 }
