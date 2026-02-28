@@ -275,19 +275,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 2,
       "gf": 0,
-      "ga": 9,
+      "ga": 12,
       "form": [
         "L",
         "L",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -314,19 +315,20 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 5,
-      "wins": 1,
+      "played": 6,
+      "wins": 2,
       "draws": 2,
       "losses": 2,
-      "points": 5,
-      "gf": 5,
+      "points": 8,
+      "gf": 8,
       "ga": 5,
       "form": [
         "D",
         "L",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -445,11 +447,6 @@
       "home": "Sailor",
       "away": "Ctaum-cpt",
       "id": 1772261942644
-    },
-    {
-      "home": "wham",
-      "away": "CRANK_",
-      "id": 1772261942648
     },
     {
       "home": "MGSatarou",
@@ -962,7 +959,16 @@
       "awayGoals": 0,
       "id": 1772319502717,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Barca._1772319501716.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772319525466,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_CRANK__1772319524291.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T22:58:26.871Z"
+  "lastUpdated": "2026-02-28T22:58:48.174Z"
 }
