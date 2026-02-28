@@ -171,17 +171,18 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 4,
+      "played": 5,
       "wins": 1,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "points": 4,
+      "points": 5,
       "gf": 3,
       "ga": 4,
       "form": [
         "W",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -208,18 +209,19 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 4,
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 12,
+      "points": 13,
       "gf": 10,
       "ga": 0,
       "form": [
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -414,11 +416,6 @@
       "home": "Lukie",
       "away": "RoyalAM",
       "id": 1772165804743
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "RFT07",
-      "id": 1772165804747
     },
     {
       "home": "wham",
@@ -861,7 +858,13 @@
       "away": "XWRLD_REAPERS",
       "result": "draw",
       "id": 1772261774554
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "draw",
+      "id": 1772261776522
     }
   ],
-  "lastUpdated": "2026-02-28T06:56:15.159Z"
+  "lastUpdated": "2026-02-28T06:56:17.126Z"
 }
