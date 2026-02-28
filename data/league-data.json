@@ -98,11 +98,11 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 5,
-      "wins": 1,
+      "played": 6,
+      "wins": 2,
       "draws": 1,
       "losses": 3,
-      "points": 4,
+      "points": 7,
       "gf": 3,
       "ga": 8,
       "form": [
@@ -110,7 +110,8 @@
         "L",
         "W",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -382,10 +383,10 @@
       "name": "Mashinini",
       "username": "Mashinini",
       "phone": "+27736941998",
-      "played": 4,
+      "played": 5,
       "wins": 0,
       "draws": 1,
-      "losses": 3,
+      "losses": 4,
       "points": 1,
       "gf": 0,
       "ga": 10,
@@ -393,7 +394,8 @@
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -445,11 +447,6 @@
       "home": "Sailor",
       "away": "Ctaum-cpt",
       "id": 1772261942644
-    },
-    {
-      "home": "Mashinini",
-      "away": "XWRLD_REAPERS",
-      "id": 1772261942646
     },
     {
       "home": "wham",
@@ -935,7 +932,13 @@
       "away": "KING_KHESWA.",
       "result": "draw",
       "id": 1772261789389
+    },
+    {
+      "home": "Mashinini",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "id": 1772261958573
     }
   ],
-  "lastUpdated": "2026-02-28T06:59:03.242Z"
+  "lastUpdated": "2026-02-28T06:59:19.180Z"
 }
