@@ -42,19 +42,20 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 5,
+      "played": 6,
       "wins": 3,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 10,
       "gf": 8,
-      "ga": 1,
+      "ga": 4,
       "form": [
         "L",
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -356,18 +357,19 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 5,
-      "wins": 3,
+      "played": 6,
+      "wins": 4,
       "draws": 2,
       "losses": 0,
-      "points": 11,
-      "gf": 8,
+      "points": 14,
+      "gf": 11,
       "ga": 3,
       "form": [
         "W",
         "W",
         "D",
         "D",
+        "W",
         "W"
       ]
     },
@@ -449,11 +451,6 @@
       "home": "Sailor",
       "away": "Ctaum-cpt",
       "id": 1772261942644
-    },
-    {
-      "home": "MGSatarou",
-      "away": "KING_KHESWA.",
-      "id": 1772261942650
     },
     {
       "home": "Lukie",
@@ -973,7 +970,16 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1772319608132
+    },
+    {
+      "home": "MGSatarou",
+      "away": "KING_KHESWA.",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772352467969,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_KING_KHESWA._1772352466706.jpg"
     }
   ],
-  "lastUpdated": "2026-02-28T23:00:08.735Z"
+  "lastUpdated": "2026-03-01T08:07:51.650Z"
 }
