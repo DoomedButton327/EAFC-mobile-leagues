@@ -273,20 +273,21 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 6,
+      "played": 7,
       "wins": 4,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 15,
-      "gf": 16,
-      "ga": 3,
+      "gf": 17,
+      "ga": 5,
       "form": [
         "L",
         "W",
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -313,19 +314,20 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 6,
-      "wins": 3,
+      "played": 7,
+      "wins": 4,
       "draws": 1,
       "losses": 2,
-      "points": 10,
-      "gf": 8,
-      "ga": 3,
+      "points": 13,
+      "gf": 10,
+      "ga": 4,
       "form": [
         "L",
         "D",
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -479,11 +481,6 @@
       "home": "wham",
       "away": "ExequielThwala",
       "id": 1772433572424
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "leomessi",
-      "id": 1772433572426
     },
     {
       "home": "Ctaum-cpt",
@@ -1070,7 +1067,16 @@
       "awayGoals": 0,
       "id": 1772487236799,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Yungboyshlime_1772487235752.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "leomessi",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1772487265612,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_leomessi_1772487264547.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T21:33:59.728Z"
+  "lastUpdated": "2026-03-02T21:34:28.907Z"
 }
