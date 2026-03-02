@@ -4,11 +4,11 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 5,
+      "played": 6,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
-      "points": 8,
+      "points": 9,
       "gf": 9,
       "ga": 3,
       "form": [
@@ -16,6 +16,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D"
       ]
     },
@@ -23,11 +24,11 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 5,
+      "played": 6,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 3,
-      "points": 2,
+      "points": 3,
       "gf": 2,
       "ga": 8,
       "form": [
@@ -35,7 +36,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -62,18 +64,21 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 4,
+      "played": 7,
       "wins": 2,
-      "draws": 1,
+      "draws": 4,
       "losses": 1,
-      "points": 7,
+      "points": 10,
       "gf": 4,
       "ga": 3,
       "form": [
         "D",
         "W",
         "L",
-        "W"
+        "W",
+        "D",
+        "D",
+        "D"
       ]
     },
     {
@@ -120,11 +125,11 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 6,
+      "played": 8,
       "wins": 2,
-      "draws": 0,
+      "draws": 2,
       "losses": 4,
-      "points": 6,
+      "points": 8,
       "gf": 5,
       "ga": 4,
       "form": [
@@ -133,18 +138,20 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "D",
+        "D"
       ]
     },
     {
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 5,
+      "played": 6,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 2,
-      "points": 5,
+      "points": 6,
       "gf": 7,
       "ga": 6,
       "form": [
@@ -152,18 +159,19 @@
         "L",
         "W",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 5,
+      "played": 6,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 3,
-      "points": 2,
+      "points": 3,
       "gf": 1,
       "ga": 9,
       "form": [
@@ -171,6 +179,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -178,17 +187,18 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 5,
+      "played": 6,
       "wins": 1,
-      "draws": 2,
+      "draws": 3,
       "losses": 2,
-      "points": 5,
+      "points": 6,
       "gf": 3,
       "ga": 4,
       "form": [
         "W",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -338,11 +348,11 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 5,
+      "played": 6,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
-      "points": 8,
+      "points": 9,
       "gf": 8,
       "ga": 6,
       "form": [
@@ -350,7 +360,8 @@
         "W",
         "L",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -416,53 +427,23 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 4,
+      "played": 5,
       "wins": 4,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "points": 12,
+      "points": 13,
       "gf": 6,
       "ga": 0,
       "form": [
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Lukie",
-      "away": "RoyalAM",
-      "id": 1772165804743
-    },
-    {
-      "home": "RoyalAM",
-      "away": "Lukie",
-      "id": 1772261886775
-    },
-    {
-      "home": "bhaze",
-      "away": "Yungboyshlime",
-      "id": 1772261942640
-    },
-    {
-      "home": "Sailor",
-      "away": "Ctaum-cpt",
-      "id": 1772261942644
-    },
-    {
-      "home": "Lukie",
-      "away": "DJRonaldoZA",
-      "id": 1772261942652
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "E1even-Starz",
-      "id": 1772261942656
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -979,7 +960,43 @@
       "awayGoals": 0,
       "id": 1772352467969,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_KING_KHESWA._1772352466706.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1772432035179
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1772432035761
+    },
+    {
+      "home": "bhaze",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1772432036184
+    },
+    {
+      "home": "Sailor",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "id": 1772432036646
+    },
+    {
+      "home": "Lukie",
+      "away": "DJRonaldoZA",
+      "result": "draw",
+      "id": 1772432037065
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1772432037469
     }
   ],
-  "lastUpdated": "2026-03-01T08:07:51.650Z"
+  "lastUpdated": "2026-03-02T06:13:58.071Z"
 }
