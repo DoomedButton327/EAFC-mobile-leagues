@@ -254,19 +254,20 @@
       "name": "HyperDrive27",
       "username": "HyperDrive27",
       "phone": "0724904785",
-      "played": 7,
+      "played": 8,
       "wins": 1,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 5,
       "gf": 0,
-      "ga": 14,
+      "ga": 17,
       "form": [
         "L",
         "D",
         "W",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -338,12 +339,12 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 6,
-      "wins": 2,
+      "played": 7,
+      "wins": 3,
       "draws": 2,
       "losses": 2,
-      "points": 8,
-      "gf": 8,
+      "points": 11,
+      "gf": 11,
       "ga": 5,
       "form": [
         "D",
@@ -351,6 +352,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -470,11 +472,6 @@
       "home": "RoyalAM",
       "away": "SMANGALISO",
       "id": 1772433572418
-    },
-    {
-      "home": "HyperDrive27",
-      "away": "CRANK_",
-      "id": 1772433572420
     },
     {
       "home": "Ctaum-cpt",
@@ -1088,7 +1085,16 @@
       "awayGoals": 4,
       "id": 1772487306938,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_MGSatarou_1772487305801.jpg"
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772487347699,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/HyperDrive27_vs_CRANK__1772487339978.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T21:35:09.882Z"
+  "lastUpdated": "2026-03-02T21:35:50.621Z"
 }
