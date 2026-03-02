@@ -125,15 +125,17 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 6,
+      "played": 8,
       "wins": 2,
       "draws": 2,
-      "losses": 2,
-      "points": 6,
+      "losses": 4,
+      "points": 8,
       "gf": 5,
       "ga": 4,
       "form": [
-        "L"
+        "L",
+        "L",
+        "L",
         "W",
         "L",
         "W",
@@ -441,7 +443,63 @@
       ]
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Mashinini",
+      "away": "bhaze",
+      "id": 1772433572410
+    },
+    {
+      "home": "Barca.",
+      "away": "Sailor",
+      "id": 1772433572412
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "DJRonaldoZA",
+      "id": 1772433572414
+    },
+    {
+      "home": "Lukie",
+      "away": "MGSatarou",
+      "id": 1772433572416
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "id": 1772433572418
+    },
+    {
+      "home": "HyperDrive27",
+      "away": "CRANK_",
+      "id": 1772433572420
+    },
+    {
+      "home": "RFT07",
+      "away": "XWRLD_REAPERS",
+      "id": 1772433572422
+    },
+    {
+      "home": "wham",
+      "away": "ExequielThwala",
+      "id": 1772433572424
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "leomessi",
+      "id": 1772433572426
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Yungboyshlime",
+      "id": 1772433572428
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "E1even-Starz",
+      "id": 1772433572430
+    }
+  ],
   "results": [
     {
       "home": "bhaze",
@@ -996,5 +1054,5 @@
       "id": 1772432037469
     }
   ],
-  "lastUpdated": "2026-03-02T06:13:58.071Z"
+  "lastUpdated": "2026-03-02T06:39:33.014Z"
 }
