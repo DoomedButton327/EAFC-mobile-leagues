@@ -66,13 +66,13 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 7,
+      "played": 8,
       "wins": 2,
       "draws": 4,
-      "losses": 1,
+      "losses": 2,
       "points": 10,
       "gf": 4,
-      "ga": 3,
+      "ga": 7,
       "form": [
         "D",
         "W",
@@ -80,7 +80,8 @@
         "W",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -377,18 +378,19 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 6,
-      "wins": 4,
+      "played": 7,
+      "wins": 5,
       "draws": 2,
       "losses": 0,
-      "points": 14,
-      "gf": 11,
+      "points": 17,
+      "gf": 15,
       "ga": 3,
       "form": [
         "W",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -463,11 +465,6 @@
       "home": "Nigelmj21",
       "away": "DJRonaldoZA",
       "id": 1772433572414
-    },
-    {
-      "home": "Lukie",
-      "away": "MGSatarou",
-      "id": 1772433572416
     },
     {
       "home": "RoyalAM",
@@ -1082,7 +1079,16 @@
       "awayGoals": 9,
       "id": 1772487289425,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_ExequielThwala_1772487288412.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "MGSatarou",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "id": 1772487306938,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_MGSatarou_1772487305801.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T21:34:52.361Z"
+  "lastUpdated": "2026-03-02T21:35:09.882Z"
 }
