@@ -87,18 +87,19 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 6,
-      "wins": 5,
+      "played": 7,
+      "wins": 6,
       "draws": 0,
       "losses": 1,
-      "points": 15,
-      "gf": 11,
-      "ga": 5,
+      "points": 18,
+      "gf": 20,
+      "ga": 7,
       "form": [
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -294,19 +295,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 6,
+      "played": 7,
       "wins": 0,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 2,
-      "gf": 0,
-      "ga": 12,
+      "gf": 2,
+      "ga": 21,
       "form": [
         "L",
         "L",
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -476,11 +478,6 @@
       "home": "HyperDrive27",
       "away": "CRANK_",
       "id": 1772433572420
-    },
-    {
-      "home": "wham",
-      "away": "ExequielThwala",
-      "id": 1772433572424
     },
     {
       "home": "Ctaum-cpt",
@@ -1076,7 +1073,16 @@
       "awayGoals": 1,
       "id": 1772487265612,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_leomessi_1772487264547.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "ExequielThwala",
+      "result": "away",
+      "homeGoals": 2,
+      "awayGoals": 9,
+      "id": 1772487289425,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_ExequielThwala_1772487288412.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T21:34:28.907Z"
+  "lastUpdated": "2026-03-02T21:34:52.361Z"
 }
