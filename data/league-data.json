@@ -24,20 +24,21 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 6,
+      "played": 7,
       "wins": 0,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 3,
       "gf": 2,
-      "ga": 8,
+      "ga": 10,
       "form": [
         "D",
         "D",
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -390,12 +391,12 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 6,
-      "wins": 0,
+      "played": 7,
+      "wins": 1,
       "draws": 2,
       "losses": 4,
-      "points": 1,
-      "gf": 1,
+      "points": 4,
+      "gf": 3,
       "ga": 15,
       "form": [
         "D",
@@ -403,7 +404,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -450,11 +452,6 @@
       "home": "Mashinini",
       "away": "bhaze",
       "id": 1772433572410
-    },
-    {
-      "home": "Barca.",
-      "away": "Sailor",
-      "id": 1772433572412
     },
     {
       "home": "Nigelmj21",
@@ -1058,7 +1055,16 @@
       "awayGoals": 1,
       "id": 1772487148797,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_XWRLD_REAPERS_1772487146859.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1772487170464,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Sailor_1772487169334.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T21:32:31.864Z"
+  "lastUpdated": "2026-03-02T21:32:53.484Z"
 }
