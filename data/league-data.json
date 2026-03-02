@@ -105,20 +105,21 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 6,
+      "played": 7,
       "wins": 2,
       "draws": 1,
-      "losses": 3,
+      "losses": 4,
       "points": 7,
-      "gf": 3,
-      "ga": 8,
+      "gf": 4,
+      "ga": 12,
       "form": [
         "L",
         "L",
         "W",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -227,19 +228,20 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 6,
-      "wins": 5,
+      "played": 7,
+      "wins": 6,
       "draws": 1,
       "losses": 0,
-      "points": 16,
-      "gf": 13,
-      "ga": 0,
+      "points": 19,
+      "gf": 17,
+      "ga": 1,
       "form": [
         "W",
         "W",
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -473,11 +475,6 @@
       "home": "HyperDrive27",
       "away": "CRANK_",
       "id": 1772433572420
-    },
-    {
-      "home": "RFT07",
-      "away": "XWRLD_REAPERS",
-      "id": 1772433572422
     },
     {
       "home": "wham",
@@ -1052,7 +1049,16 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1772432037469
+    },
+    {
+      "home": "RFT07",
+      "away": "XWRLD_REAPERS",
+      "result": "home",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "id": 1772487148797,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_XWRLD_REAPERS_1772487146859.jpg"
     }
   ],
-  "lastUpdated": "2026-03-02T06:39:33.014Z"
+  "lastUpdated": "2026-03-02T21:32:31.864Z"
 }
