@@ -361,11 +361,11 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 6,
+      "played": 7,
       "wins": 2,
-      "draws": 3,
+      "draws": 4,
       "losses": 1,
-      "points": 9,
+      "points": 10,
       "gf": 8,
       "ga": 6,
       "form": [
@@ -374,6 +374,7 @@
         "L",
         "D",
         "W",
+        "D",
         "D"
       ]
     },
@@ -443,11 +444,11 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 5,
+      "played": 6,
       "wins": 4,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
-      "points": 13,
+      "points": 14,
       "gf": 6,
       "ga": 0,
       "form": [
@@ -455,16 +456,12 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ]
     }
   ],
   "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "DJRonaldoZA",
-      "id": 1772433572414
-    },
     {
       "home": "RoyalAM",
       "away": "SMANGALISO",
@@ -1097,7 +1094,13 @@
       "away": "bhaze",
       "result": "away",
       "id": 1772522457523
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "DJRonaldoZA",
+      "result": "draw",
+      "id": 1772522460753
     }
   ],
-  "lastUpdated": "2026-03-03T07:20:58.128Z"
+  "lastUpdated": "2026-03-03T07:21:01.354Z"
 }
