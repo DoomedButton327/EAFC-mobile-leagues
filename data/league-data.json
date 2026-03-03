@@ -70,13 +70,13 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 8,
+      "played": 9,
       "wins": 2,
       "draws": 4,
-      "losses": 2,
+      "losses": 3,
       "points": 10,
       "gf": 4,
-      "ga": 7,
+      "ga": 10,
       "form": [
         "D",
         "W",
@@ -85,6 +85,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -92,18 +93,19 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 7,
-      "wins": 6,
+      "played": 8,
+      "wins": 7,
       "draws": 0,
       "losses": 1,
-      "points": 18,
-      "gf": 20,
+      "points": 21,
+      "gf": 23,
       "ga": 7,
       "form": [
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -458,11 +460,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1772522928427
-    },
-    {
-      "home": "Lukie",
-      "away": "ExequielThwala",
-      "id": 1772522928433
     }
   ],
   "results": [
@@ -1176,7 +1173,16 @@
       "awayGoals": 1,
       "id": 1772568349797,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_leomessi_1772568348657.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "ExequielThwala",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772568761923,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_ExequielThwala_1772568760899.jpg"
     }
   ],
-  "lastUpdated": "2026-03-03T20:05:52.799Z"
+  "lastUpdated": "2026-03-03T20:12:44.614Z"
 }
