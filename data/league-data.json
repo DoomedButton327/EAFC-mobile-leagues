@@ -4,11 +4,11 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 6,
-      "wins": 2,
+      "played": 7,
+      "wins": 3,
       "draws": 3,
       "losses": 1,
-      "points": 9,
+      "points": 12,
       "gf": 9,
       "ga": 3,
       "form": [
@@ -17,7 +17,8 @@
         "W",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -422,10 +423,10 @@
       "name": "Mashinini",
       "username": "Mashinini",
       "phone": "+27736941998",
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 1,
-      "losses": 4,
+      "losses": 5,
       "points": 1,
       "gf": 0,
       "ga": 10,
@@ -434,6 +435,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -458,11 +460,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Mashinini",
-      "away": "bhaze",
-      "id": 1772433572410
-    },
     {
       "home": "Nigelmj21",
       "away": "DJRonaldoZA",
@@ -1094,7 +1091,13 @@
       "awayGoals": 3,
       "id": 1772487347699,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/HyperDrive27_vs_CRANK__1772487339978.jpg"
+    },
+    {
+      "home": "Mashinini",
+      "away": "bhaze",
+      "result": "away",
+      "id": 1772522457523
     }
   ],
-  "lastUpdated": "2026-03-02T21:35:50.621Z"
+  "lastUpdated": "2026-03-03T07:20:58.128Z"
 }
