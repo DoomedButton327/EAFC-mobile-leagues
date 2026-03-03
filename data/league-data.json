@@ -26,12 +26,12 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 7,
-      "wins": 0,
+      "played": 8,
+      "wins": 1,
       "draws": 3,
       "losses": 4,
-      "points": 3,
-      "gf": 2,
+      "points": 6,
+      "gf": 5,
       "ga": 10,
       "form": [
         "D",
@@ -40,7 +40,8 @@
         "L",
         "L",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -198,13 +199,13 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 7,
+      "played": 8,
       "wins": 1,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 6,
       "gf": 3,
-      "ga": 7,
+      "ga": 10,
       "form": [
         "W",
         "L",
@@ -212,6 +213,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -441,11 +443,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Sailor",
-      "away": "Yungboyshlime",
-      "id": 1772522928425
-    },
     {
       "home": "Barca.",
       "away": "CRANK_",
@@ -1139,7 +1136,16 @@
       "awayGoals": 0,
       "id": 1772568169701,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_wham_1772568168645.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772568237709,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Yungboyshlime_1772568236688.jpg"
     }
   ],
-  "lastUpdated": "2026-03-03T20:02:52.078Z"
+  "lastUpdated": "2026-03-03T20:04:00.653Z"
 }
