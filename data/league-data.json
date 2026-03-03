@@ -154,11 +154,11 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 6,
+      "played": 7,
       "wins": 1,
-      "draws": 3,
+      "draws": 4,
       "losses": 2,
-      "points": 6,
+      "points": 7,
       "gf": 7,
       "ga": 6,
       "form": [
@@ -167,6 +167,7 @@
         "W",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -174,11 +175,11 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 6,
+      "played": 7,
       "wins": 0,
-      "draws": 3,
+      "draws": 4,
       "losses": 3,
-      "points": 3,
+      "points": 4,
       "gf": 1,
       "ga": 9,
       "form": [
@@ -186,6 +187,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -463,13 +465,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Ctaum-cpt",
-      "away": "E1even-Starz",
-      "id": 1772433572430
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -1103,7 +1099,13 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1772522461467
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1772522462188
     }
   ],
-  "lastUpdated": "2026-03-03T07:21:02.068Z"
+  "lastUpdated": "2026-03-03T07:21:02.793Z"
 }
