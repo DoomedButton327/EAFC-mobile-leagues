@@ -219,12 +219,12 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 7,
-      "wins": 2,
+      "played": 8,
+      "wins": 3,
       "draws": 2,
       "losses": 3,
-      "points": 8,
-      "gf": 7,
+      "points": 11,
+      "gf": 9,
       "ga": 9,
       "form": [
         "D",
@@ -233,7 +233,8 @@
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -282,19 +283,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 7,
+      "played": 8,
       "wins": 0,
       "draws": 2,
-      "losses": 5,
+      "losses": 6,
       "points": 2,
       "gf": 2,
-      "ga": 21,
+      "ga": 23,
       "form": [
         "L",
         "L",
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -473,11 +475,6 @@
       "home": "RoyalAM",
       "away": "Zan-Ten",
       "id": 1772522928437
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "wham",
-      "id": 1772522928439
     },
     {
       "home": "Dontwindraw",
@@ -1133,7 +1130,16 @@
       "awayGoals": 3,
       "id": 1772568143391,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_bhaze_1772568138888.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1772568169701,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_wham_1772568168645.jpg"
     }
   ],
-  "lastUpdated": "2026-03-03T20:02:26.766Z"
+  "lastUpdated": "2026-03-03T20:02:52.078Z"
 }
