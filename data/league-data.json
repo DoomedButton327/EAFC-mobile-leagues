@@ -135,13 +135,13 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 9,
-      "wins": 2,
+      "played": 10,
+      "wins": 3,
       "draws": 3,
       "losses": 4,
-      "points": 9,
-      "gf": 5,
-      "ga": 4,
+      "points": 12,
+      "gf": 8,
+      "ga": 5,
       "form": [
         "L",
         "L",
@@ -151,7 +151,8 @@
         "W",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -438,14 +439,16 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
-      "gf": 0,
-      "ga": 0,
-      "form": []
+      "gf": 1,
+      "ga": 3,
+      "form": [
+        "L"
+      ]
     }
   ],
   "fixtures": [
@@ -463,11 +466,6 @@
       "home": "RFT07",
       "away": "leomessi",
       "id": 1772522928435
-    },
-    {
-      "home": "RoyalAM",
-      "away": "Zan-Ten",
-      "id": 1772522928437
     }
   ],
   "results": [
@@ -1163,7 +1161,16 @@
       "awayGoals": 0,
       "id": 1772568301765,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_DJRonaldoZA_1772568300771.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Zan-Ten",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1772568332607,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Zan-Ten_1772568328700.jpg"
     }
   ],
-  "lastUpdated": "2026-03-03T20:05:04.854Z"
+  "lastUpdated": "2026-03-03T20:05:35.499Z"
 }
