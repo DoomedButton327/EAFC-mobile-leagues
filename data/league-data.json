@@ -421,6 +421,19 @@
         "D",
         "D"
       ]
+    },
+    {
+      "name": "👑•",
+      "username": "Zan-Ten",
+      "phone": "+27 71 005 0307",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
@@ -1065,5 +1078,5 @@
       "id": 1772522462188
     }
   ],
-  "lastUpdated": "2026-03-03T07:21:02.793Z"
+  "lastUpdated": "2026-03-03T07:27:51.015Z"
 }
