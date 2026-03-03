@@ -131,11 +131,11 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 8,
+      "played": 9,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
-      "points": 8,
+      "points": 9,
       "gf": 5,
       "ga": 4,
       "form": [
@@ -145,6 +145,7 @@
         "W",
         "L",
         "W",
+        "D",
         "D",
         "D"
       ]
@@ -214,11 +215,11 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 6,
+      "played": 7,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 3,
-      "points": 7,
+      "points": 8,
       "gf": 7,
       "ga": 9,
       "form": [
@@ -227,7 +228,8 @@
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -462,11 +464,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "SMANGALISO",
-      "id": 1772433572418
-    },
     {
       "home": "Ctaum-cpt",
       "away": "E1even-Starz",
@@ -1100,7 +1097,13 @@
       "away": "DJRonaldoZA",
       "result": "draw",
       "id": 1772522460753
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1772522461467
     }
   ],
-  "lastUpdated": "2026-03-03T07:21:01.354Z"
+  "lastUpdated": "2026-03-03T07:21:02.068Z"
 }
