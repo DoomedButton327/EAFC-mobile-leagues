@@ -179,13 +179,13 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 7,
+      "played": 8,
       "wins": 0,
       "draws": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 4,
       "gf": 1,
-      "ga": 9,
+      "ga": 12,
       "form": [
         "D",
         "L",
@@ -193,7 +193,8 @@
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -308,12 +309,12 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 7,
-      "wins": 4,
+      "played": 8,
+      "wins": 5,
       "draws": 1,
       "losses": 2,
-      "points": 13,
-      "gf": 10,
+      "points": 16,
+      "gf": 13,
       "ga": 4,
       "form": [
         "L",
@@ -321,6 +322,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -469,11 +471,6 @@
       "home": "RoyalAM",
       "away": "Zan-Ten",
       "id": 1772522928437
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "E1even-Starz",
-      "id": 1772522928441
     }
   ],
   "results": [
@@ -1151,7 +1148,16 @@
       "awayGoals": 2,
       "id": 1772568264989,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_KING_KHESWA._1772568264014.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772568282466,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_E1even-Starz_1772568281371.jpg"
     }
   ],
-  "lastUpdated": "2026-03-03T20:04:27.767Z"
+  "lastUpdated": "2026-03-03T20:04:45.733Z"
 }
