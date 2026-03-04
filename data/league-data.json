@@ -49,13 +49,13 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 8,
-      "wins": 5,
+      "played": 9,
+      "wins": 6,
       "draws": 0,
       "losses": 3,
-      "points": 15,
-      "gf": 13,
-      "ga": 7,
+      "points": 18,
+      "gf": 15,
+      "ga": 8,
       "form": [
         "L",
         "W",
@@ -64,7 +64,8 @@
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -430,13 +431,13 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 7,
+      "played": 8,
       "wins": 4,
       "draws": 2,
-      "losses": 1,
+      "losses": 2,
       "points": 14,
-      "gf": 6,
-      "ga": 1,
+      "gf": 7,
+      "ga": 3,
       "form": [
         "W",
         "W",
@@ -444,6 +445,7 @@
         "W",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -469,11 +471,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1772522928427
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "DJRonaldoZA",
-      "id": 1772600727248
     },
     {
       "home": "Nigelmj21",
@@ -1265,7 +1262,16 @@
       "awayGoals": 2,
       "id": 1772661928272,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Dontwindraw_1772661927216.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "DJRonaldoZA",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1772661942965,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_DJRonaldoZA_1772661941924.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T22:05:31.495Z"
+  "lastUpdated": "2026-03-04T22:05:45.741Z"
 }
