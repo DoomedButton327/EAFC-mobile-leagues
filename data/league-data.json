@@ -345,11 +345,11 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 8,
+      "played": 9,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "losses": 3,
-      "points": 11,
+      "points": 12,
       "gf": 11,
       "ga": 8,
       "form": [
@@ -360,18 +360,19 @@
         "D",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 7,
+      "played": 8,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "losses": 1,
-      "points": 10,
+      "points": 11,
       "gf": 8,
       "ga": 6,
       "form": [
@@ -380,6 +381,7 @@
         "L",
         "D",
         "W",
+        "D",
         "D",
         "D"
       ]
@@ -469,11 +471,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "CRANK_",
-      "id": 1772600727250
-    },
     {
       "home": "RoyalAM",
       "away": "MGSatarou",
@@ -1277,7 +1274,16 @@
       "awayGoals": 0,
       "id": 1772662178169,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_CRANK__1772662172538.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CRANK_",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1772662375202,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_CRANK__1772662367781.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T22:09:42.461Z"
+  "lastUpdated": "2026-03-04T22:12:57.941Z"
 }
