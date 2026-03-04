@@ -70,13 +70,13 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 9,
+      "played": 10,
       "wins": 2,
       "draws": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 10,
       "gf": 4,
-      "ga": 10,
+      "ga": 13,
       "form": [
         "D",
         "W",
@@ -85,6 +85,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -269,12 +270,12 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 8,
-      "wins": 4,
+      "played": 9,
+      "wins": 5,
       "draws": 1,
       "losses": 3,
-      "points": 15,
-      "gf": 18,
+      "points": 18,
+      "gf": 21,
       "ga": 8,
       "form": [
         "L",
@@ -284,7 +285,8 @@
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -469,11 +471,6 @@
       "home": "ExequielThwala",
       "away": "E1even-Starz",
       "id": 1772600727244
-    },
-    {
-      "home": "leomessi",
-      "away": "Lukie",
-      "id": 1772600727246
     },
     {
       "home": "KING_KHESWA.",
@@ -1235,7 +1232,16 @@
       "awayGoals": 2,
       "id": 1772661830991,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Ctaum-cpt_1772661829964.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772661843838,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Lukie_1772661842776.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T22:03:54.101Z"
+  "lastUpdated": "2026-03-04T22:04:06.163Z"
 }
