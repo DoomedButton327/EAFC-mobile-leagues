@@ -116,12 +116,12 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 8,
-      "wins": 3,
+      "played": 9,
+      "wins": 4,
       "draws": 1,
       "losses": 4,
-      "points": 10,
-      "gf": 5,
+      "points": 13,
+      "gf": 8,
       "ga": 12,
       "form": [
         "L",
@@ -131,6 +131,7 @@
         "D",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -204,13 +205,13 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 8,
+      "played": 9,
       "wins": 1,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 6,
       "gf": 3,
-      "ga": 10,
+      "ga": 13,
       "form": [
         "W",
         "L",
@@ -218,6 +219,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -461,11 +463,6 @@
       "home": "Barca.",
       "away": "CRANK_",
       "id": 1772522928427
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
-      "id": 1772600727242
     },
     {
       "home": "ExequielThwala",
@@ -1241,7 +1238,16 @@
       "awayGoals": 0,
       "id": 1772661843838,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Lukie_1772661842776.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772661866395,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_XWRLD_REAPERS_1772661865329.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T22:04:06.163Z"
+  "lastUpdated": "2026-03-04T22:04:28.925Z"
 }
