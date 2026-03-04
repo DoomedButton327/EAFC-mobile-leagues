@@ -250,12 +250,12 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 8,
-      "wins": 8,
+      "played": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
-      "points": 24,
-      "gf": 20,
+      "points": 27,
+      "gf": 24,
       "ga": 2,
       "form": [
         "W",
@@ -263,6 +263,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -403,13 +404,13 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 7,
+      "played": 8,
       "wins": 1,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 4,
       "gf": 3,
-      "ga": 15,
+      "ga": 19,
       "form": [
         "D",
         "L",
@@ -417,7 +418,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -493,11 +495,6 @@
       "home": "bhaze",
       "away": "SMANGALISO",
       "id": 1772600727258
-    },
-    {
-      "home": "RFT07",
-      "away": "Barca.",
-      "id": 1772600727260
     }
   ],
   "results": [
@@ -1247,7 +1244,16 @@
       "awayGoals": 3,
       "id": 1772661866395,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_XWRLD_REAPERS_1772661865329.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "Barca.",
+      "result": "home",
+      "homeGoals": 4,
+      "awayGoals": 0,
+      "id": 1772661885665,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Barca._1772661884617.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T22:04:28.925Z"
+  "lastUpdated": "2026-03-04T22:04:48.462Z"
 }
