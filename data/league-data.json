@@ -137,11 +137,11 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 10,
+      "played": 7,
       "wins": 3,
-      "draws": 3,
+      "draws": 0,
       "losses": 4,
-      "points": 12,
+      "points": 9,
       "gf": 8,
       "ga": 5,
       "form": [
@@ -151,9 +151,6 @@
         "W",
         "L",
         "W",
-        "D",
-        "D",
-        "D",
         "W"
       ]
     },
