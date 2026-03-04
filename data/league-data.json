@@ -158,13 +158,13 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 8,
+      "played": 9,
       "wins": 1,
       "draws": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 7,
-      "gf": 8,
-      "ga": 9,
+      "gf": 10,
+      "ga": 12,
       "form": [
         "D",
         "L",
@@ -173,6 +173,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -440,15 +441,16 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 1,
-      "wins": 0,
+      "played": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
-      "points": 0,
-      "gf": 1,
-      "ga": 3,
+      "points": 3,
+      "gf": 4,
+      "ga": 5,
       "form": [
-        "L"
+        "L",
+        "W"
       ]
     }
   ],
@@ -482,11 +484,6 @@
       "home": "Nigelmj21",
       "away": "CRANK_",
       "id": 1772600727250
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "Ctaum-cpt",
-      "id": 1772600727252
     },
     {
       "home": "RoyalAM",
@@ -1229,7 +1226,16 @@
       "awayGoals": 3,
       "id": 1772568761923,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_ExequielThwala_1772568760899.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "id": 1772661830991,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Ctaum-cpt_1772661829964.jpg"
     }
   ],
-  "lastUpdated": "2026-03-04T05:05:27.847Z"
+  "lastUpdated": "2026-03-04T22:03:54.101Z"
 }
