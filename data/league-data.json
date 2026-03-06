@@ -213,13 +213,13 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 9,
+      "played": 10,
       "wins": 1,
       "draws": 3,
-      "losses": 5,
+      "losses": 6,
       "points": 6,
       "gf": 3,
-      "ga": 13,
+      "ga": 16,
       "form": [
         "W",
         "L",
@@ -227,6 +227,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -258,12 +259,12 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 9,
-      "wins": 9,
+      "played": 10,
+      "wins": 10,
       "draws": 0,
       "losses": 0,
-      "points": 27,
-      "gf": 24,
+      "points": 30,
+      "gf": 27,
       "ga": 2,
       "form": [
         "W",
@@ -271,6 +272,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -516,11 +518,6 @@
       "home": "Lukie",
       "away": "XWRLD_REAPERS",
       "id": 1772663252700
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "RFT07",
-      "id": 1772663252702
     }
   ],
   "results": [
@@ -1351,7 +1348,16 @@
       "awayGoals": 0,
       "id": 1772774356945,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_RoyalAM_1772774355719.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772774734715,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1772774733689.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:19:19.587Z"
+  "lastUpdated": "2026-03-06T05:25:40.536Z"
 }
