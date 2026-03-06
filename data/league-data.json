@@ -100,18 +100,18 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 10,
-      "wins": 9,
+      "played": 11,
+      "wins": 10,
       "draws": 0,
       "losses": 1,
-      "points": 27,
-      "gf": 28,
+      "points": 30,
+      "gf": 31,
       "ga": 7,
       "form": [
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -244,15 +244,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 10,
+      "played": 11,
       "wins": 3,
       "draws": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 13,
       "gf": 9,
-      "ga": 9,
+      "ga": 12,
       "form": [
-        "D",
         "W",
         "W",
         "L",
@@ -261,7 +260,8 @@
         "D",
         "W",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -521,11 +521,6 @@
       "home": "MGSatarou",
       "away": "Ctaum-cpt",
       "id": 1772775446194
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "ExequielThwala",
-      "id": 1772840697935
     }
   ],
   "results": [
@@ -1476,7 +1471,16 @@
       "awayGoals": 1,
       "id": 1772840489835,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_Lukie_1772840488917.jpeg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "ExequielThwala",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1772840718846,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_ExequielThwala_1772840717695.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:44:58.538Z"
+  "lastUpdated": "2026-03-06T23:45:21.498Z"
 }
