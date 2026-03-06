@@ -287,12 +287,12 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 9,
-      "wins": 5,
+      "played": 10,
+      "wins": 6,
       "draws": 1,
       "losses": 3,
-      "points": 18,
-      "gf": 21,
+      "points": 21,
+      "gf": 24,
       "ga": 8,
       "form": [
         "L",
@@ -303,6 +303,7 @@
         "W",
         "L",
         "L",
+        "W",
         "W"
       ]
     },
@@ -356,13 +357,13 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 9,
+      "played": 10,
       "wins": 3,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 12,
       "gf": 11,
-      "ga": 8,
+      "ga": 11,
       "form": [
         "D",
         "L",
@@ -372,7 +373,8 @@
         "W",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -500,11 +502,6 @@
       "home": "SMANGALISO",
       "away": "E1even-Starz",
       "id": 1772663252690
-    },
-    {
-      "home": "leomessi",
-      "away": "CRANK_",
-      "id": 1772663252698
     }
   ],
   "results": [
@@ -1380,7 +1377,16 @@
       "awayGoals": 2,
       "id": 1772775216527,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_bhaze_1772775214006.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772775289820,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_CRANK__1772775265208.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:33:39.268Z"
+  "lastUpdated": "2026-03-06T05:34:54.152Z"
 }
