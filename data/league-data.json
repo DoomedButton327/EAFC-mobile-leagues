@@ -146,13 +146,13 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 8,
+      "played": 9,
       "wins": 3,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "points": 9,
-      "gf": 8,
-      "ga": 7,
+      "gf": 10,
+      "ga": 10,
       "form": [
         "L",
         "L",
@@ -161,6 +161,7 @@
         "L",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -398,18 +399,19 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 8,
-      "wins": 6,
+      "played": 9,
+      "wins": 7,
       "draws": 2,
       "losses": 0,
-      "points": 20,
-      "gf": 18,
-      "ga": 5,
+      "points": 23,
+      "gf": 21,
+      "ga": 7,
       "form": [
         "W",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -482,11 +484,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "MGSatarou",
-      "id": 1772600727254
-    },
     {
       "home": "bhaze",
       "away": "SMANGALISO",
@@ -1368,7 +1365,16 @@
       "awayGoals": 0,
       "id": 1772774825591,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Barca._1772774824290.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "MGSatarou",
+      "result": "away",
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "id": 1772775095078,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_MGSatarou_1772775093790.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:27:08.587Z"
+  "lastUpdated": "2026-03-06T05:31:38.106Z"
 }
