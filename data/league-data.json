@@ -168,12 +168,12 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 9,
-      "wins": 1,
+      "played": 10,
+      "wins": 2,
       "draws": 4,
       "losses": 4,
-      "points": 7,
-      "gf": 10,
+      "points": 10,
+      "gf": 13,
       "ga": 12,
       "form": [
         "D",
@@ -184,7 +184,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -419,13 +420,13 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 9,
+      "played": 10,
       "wins": 2,
       "draws": 2,
-      "losses": 5,
+      "losses": 6,
       "points": 7,
       "gf": 6,
-      "ga": 19,
+      "ga": 22,
       "form": [
         "D",
         "L",
@@ -435,7 +436,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -489,11 +491,6 @@
       "home": "bhaze",
       "away": "SMANGALISO",
       "id": 1772600727258
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "Barca.",
-      "id": 1772663252684
     },
     {
       "home": "wham",
@@ -1362,7 +1359,16 @@
       "awayGoals": 3,
       "id": 1772774775543,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_XWRLD_REAPERS_1772774774490.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Barca.",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772774825591,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Barca._1772774824290.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:26:20.402Z"
+  "lastUpdated": "2026-03-06T05:27:08.587Z"
 }
