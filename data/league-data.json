@@ -4,13 +4,13 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 8,
-      "wins": 4,
+      "played": 9,
+      "wins": 5,
       "draws": 3,
       "losses": 1,
-      "points": 15,
-      "gf": 12,
-      "ga": 4,
+      "points": 18,
+      "gf": 14,
+      "ga": 5,
       "form": [
         "W",
         "D",
@@ -18,6 +18,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -309,19 +310,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 8,
+      "played": 9,
       "wins": 0,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "points": 2,
-      "gf": 2,
-      "ga": 23,
+      "gf": 3,
+      "ga": 25,
       "form": [
         "L",
         "L",
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -488,11 +490,6 @@
       "home": "bhaze",
       "away": "SMANGALISO",
       "id": 1772600727258
-    },
-    {
-      "home": "wham",
-      "away": "bhaze",
-      "id": 1772663252686
     },
     {
       "home": "Nigelmj21",
@@ -1374,7 +1371,16 @@
       "awayGoals": 3,
       "id": 1772775095078,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_MGSatarou_1772775093790.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "bhaze",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "id": 1772775216527,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_bhaze_1772775214006.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:31:38.106Z"
+  "lastUpdated": "2026-03-06T05:33:39.268Z"
 }
