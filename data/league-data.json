@@ -268,15 +268,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 10,
+      "played": 11,
       "wins": 10,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 30,
-      "gf": 27,
-      "ga": 2,
+      "gf": 28,
+      "ga": 4,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -388,13 +388,13 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 9,
-      "wins": 2,
+      "played": 10,
+      "wins": 3,
       "draws": 6,
       "losses": 1,
-      "points": 12,
-      "gf": 8,
-      "ga": 6,
+      "points": 15,
+      "gf": 10,
+      "ga": 7,
       "form": [
         "D",
         "W",
@@ -404,7 +404,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -507,11 +508,6 @@
       "home": "Barca.",
       "away": "Yungboyshlime",
       "id": 1772775446186
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "RFT07",
-      "id": 1772775446192
     },
     {
       "home": "MGSatarou",
@@ -1485,7 +1481,16 @@
       "awayGoals": 0,
       "id": 1772840745727,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Sailor_1772840741955.jpeg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "RFT07",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1772840765049,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_RFT07_1772840764258.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:45:48.434Z"
+  "lastUpdated": "2026-03-06T23:46:07.367Z"
 }
