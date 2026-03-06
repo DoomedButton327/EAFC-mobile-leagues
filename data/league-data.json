@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 11,
+      "played": 12,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "losses": 5,
-      "points": 10,
-      "gf": 4,
-      "ga": 16,
+      "points": 11,
+      "gf": 5,
+      "ga": 17,
       "form": [
-        "W",
         "L",
         "W",
         "D",
@@ -93,7 +92,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -196,15 +196,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 10,
+      "played": 11,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
-      "points": 5,
-      "gf": 1,
-      "ga": 15,
+      "points": 6,
+      "gf": 2,
+      "ga": 16,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -213,6 +212,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -511,11 +511,6 @@
       "home": "Barca.",
       "away": "Yungboyshlime",
       "id": 1772775446186
-    },
-    {
-      "home": "E1even-Starz",
-      "away": "Lukie",
-      "id": 1772775446188
     },
     {
       "home": "Nigelmj21",
@@ -1467,7 +1462,16 @@
       "awayGoals": 0,
       "id": 1772840456813,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_wham_1772840455633.jpeg"
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Lukie",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1772840489835,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_Lukie_1772840488917.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:41:00.623Z"
+  "lastUpdated": "2026-03-06T23:41:32.485Z"
 }
