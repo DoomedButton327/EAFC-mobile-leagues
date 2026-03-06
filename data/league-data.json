@@ -220,15 +220,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 10,
+      "played": 11,
       "wins": 1,
-      "draws": 3,
+      "draws": 4,
       "losses": 6,
-      "points": 6,
+      "points": 7,
       "gf": 3,
       "ga": 16,
       "form": [
-        "W",
         "L",
         "L",
         "D",
@@ -237,7 +236,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -436,15 +436,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 10,
+      "played": 11,
       "wins": 2,
-      "draws": 2,
+      "draws": 3,
       "losses": 6,
-      "points": 7,
+      "points": 8,
       "gf": 6,
       "ga": 22,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -453,7 +452,8 @@
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -500,11 +500,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "Yungboyshlime",
-      "id": 1772775446186
-    },
     {
       "home": "MGSatarou",
       "away": "Ctaum-cpt",
@@ -1495,7 +1490,13 @@
       "awayGoals": 0,
       "id": 1772840875164,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_XWRLD_REAPERS_1772840873255.png"
+    },
+    {
+      "home": "Barca.",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1772840995038
     }
   ],
-  "lastUpdated": "2026-03-06T23:47:57.646Z"
+  "lastUpdated": "2026-03-06T23:49:55.644Z"
 }
