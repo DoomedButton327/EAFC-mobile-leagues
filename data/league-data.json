@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 10,
+      "played": 11,
       "wins": 2,
       "draws": 3,
-      "losses": 5,
+      "losses": 6,
       "points": 9,
       "gf": 8,
-      "ga": 13,
+      "ga": 16,
       "form": [
-        "D",
         "D",
         "L",
         "L",
@@ -45,7 +44,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -459,12 +459,12 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 9,
-      "wins": 4,
+      "played": 10,
+      "wins": 5,
       "draws": 2,
       "losses": 3,
-      "points": 14,
-      "gf": 8,
+      "points": 17,
+      "gf": 11,
       "ga": 6,
       "form": [
         "W",
@@ -475,7 +475,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -497,11 +498,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DJRonaldoZA",
-      "away": "Sailor",
-      "id": 1772775446172
-    },
     {
       "home": "Zan-Ten",
       "away": "XWRLD_REAPERS",
@@ -1480,7 +1476,16 @@
       "awayGoals": 3,
       "id": 1772840718846,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_ExequielThwala_1772840717695.jpeg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772840745727,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Sailor_1772840741955.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:45:21.498Z"
+  "lastUpdated": "2026-03-06T23:45:48.434Z"
 }
