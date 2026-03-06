@@ -503,11 +503,6 @@
       "id": 1772775446172
     },
     {
-      "home": "ExequielThwala",
-      "away": "SMANGALISO",
-      "id": 1772775446180
-    },
-    {
       "home": "Zan-Ten",
       "away": "XWRLD_REAPERS",
       "id": 1772775446184
@@ -1463,7 +1458,16 @@
       "awayGoals": 0,
       "id": 1772840456522,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_wham_1772840455633.jpeg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772840456813,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_wham_1772840455633.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:40:59.260Z"
+  "lastUpdated": "2026-03-06T23:41:00.623Z"
 }
