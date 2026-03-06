@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 10,
+      "played": 11,
       "wins": 7,
       "draws": 0,
-      "losses": 3,
+      "losses": 4,
       "points": 21,
       "gf": 18,
-      "ga": 9,
+      "ga": 10,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -69,7 +68,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -338,12 +338,12 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 9,
-      "wins": 6,
+      "played": 10,
+      "wins": 7,
       "draws": 1,
       "losses": 2,
-      "points": 19,
-      "gf": 15,
+      "points": 22,
+      "gf": 16,
       "ga": 5,
       "form": [
         "L",
@@ -351,6 +351,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -508,11 +509,6 @@
       "home": "ExequielThwala",
       "away": "SMANGALISO",
       "id": 1772775446180
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "KING_KHESWA.",
-      "id": 1772775446182
     },
     {
       "home": "Zan-Ten",
@@ -1452,7 +1448,16 @@
       "awayGoals": 2,
       "id": 1772840388339,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_leomessi_1772840386951.jpeg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "KING_KHESWA.",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1772840417091,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_KING_KHESWA._1772840412142.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:39:50.365Z"
+  "lastUpdated": "2026-03-06T23:40:19.600Z"
 }
