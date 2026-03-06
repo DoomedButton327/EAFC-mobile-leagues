@@ -98,18 +98,19 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 9,
-      "wins": 8,
+      "played": 10,
+      "wins": 9,
       "draws": 0,
       "losses": 1,
-      "points": 24,
-      "gf": 26,
+      "points": 27,
+      "gf": 28,
       "ga": 7,
       "form": [
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -144,13 +145,13 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 7,
+      "played": 8,
       "wins": 3,
       "draws": 0,
-      "losses": 4,
+      "losses": 5,
       "points": 9,
       "gf": 8,
-      "ga": 5,
+      "ga": 7,
       "form": [
         "L",
         "L",
@@ -158,7 +159,8 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -504,11 +506,6 @@
       "home": "SMANGALISO",
       "away": "E1even-Starz",
       "id": 1772663252690
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "RoyalAM",
-      "id": 1772663252696
     },
     {
       "home": "leomessi",
@@ -1345,7 +1342,16 @@
       "awayGoals": 2,
       "id": 1772774341188,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Sailor_1772774336046.jpg"
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1772774356945,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_RoyalAM_1772774355719.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T05:19:04.029Z"
+  "lastUpdated": "2026-03-06T05:19:19.587Z"
 }
