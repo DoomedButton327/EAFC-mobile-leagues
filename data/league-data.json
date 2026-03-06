@@ -124,15 +124,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 10,
+      "played": 11,
       "wins": 5,
-      "draws": 1,
+      "draws": 2,
       "losses": 4,
-      "points": 16,
+      "points": 17,
       "gf": 11,
       "ga": 12,
       "form": [
-        "L",
         "L",
         "W",
         "L",
@@ -141,7 +140,8 @@
         "L",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -484,26 +484,22 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 2,
-      "points": 3,
+      "points": 4,
       "gf": 5,
       "ga": 7,
       "form": [
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     }
   ],
   "fixtures": [
-    {
-      "home": "Zan-Ten",
-      "away": "XWRLD_REAPERS",
-      "id": 1772775446184
-    },
     {
       "home": "Barca.",
       "away": "Yungboyshlime",
@@ -1490,7 +1486,16 @@
       "awayGoals": 1,
       "id": 1772840765049,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_RFT07_1772840764258.jpeg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1772840875164,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_XWRLD_REAPERS_1772840873255.png"
     }
   ],
-  "lastUpdated": "2026-03-06T23:46:07.367Z"
+  "lastUpdated": "2026-03-06T23:47:57.646Z"
 }
