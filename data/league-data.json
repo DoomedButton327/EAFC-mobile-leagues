@@ -148,23 +148,24 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 9,
-      "wins": 3,
+      "played": 11,
+      "wins": 5,
       "draws": 0,
       "losses": 6,
-      "points": 9,
-      "gf": 10,
+      "points": 15,
+      "gf": 16,
       "ga": 10,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "W",
+        "W"
       ]
     },
     {
@@ -315,19 +316,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 9,
+      "played": 11,
       "wins": 0,
       "draws": 2,
-      "losses": 7,
+      "losses": 9,
       "points": 2,
       "gf": 3,
-      "ga": 25,
+      "ga": 31,
       "form": [
         "L",
-        "L",
         "D",
         "L",
         "D",
+        "L",
+        "L",
         "L",
         "L",
         "L",
@@ -499,11 +501,6 @@
       "home": "DJRonaldoZA",
       "away": "Sailor",
       "id": 1772775446172
-    },
-    {
-      "home": "RoyalAM",
-      "away": "wham",
-      "id": 1772775446178
     },
     {
       "home": "ExequielThwala",
@@ -1457,7 +1454,16 @@
       "awayGoals": 0,
       "id": 1772840417091,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_KING_KHESWA._1772840412142.jpeg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1772840456522,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_wham_1772840455633.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:40:19.600Z"
+  "lastUpdated": "2026-03-06T23:40:59.260Z"
 }
