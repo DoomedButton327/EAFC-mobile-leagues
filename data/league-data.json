@@ -52,24 +52,24 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 11,
+      "played": 12,
       "wins": 7,
-      "draws": 0,
+      "draws": 1,
       "losses": 4,
-      "points": 21,
+      "points": 22,
       "gf": 18,
       "ga": 10,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -196,22 +196,22 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 11,
+      "played": 12,
       "wins": 0,
-      "draws": 6,
+      "draws": 7,
       "losses": 5,
-      "points": 6,
+      "points": 7,
       "gf": 2,
       "ga": 16,
       "form": [
         "L",
         "L",
-        "L",
         "D",
         "D",
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -500,11 +500,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "KING_KHESWA.",
-      "away": "E1even-Starz",
-      "id": 1772841047286
-    },
     {
       "home": "DJRonaldoZA",
       "away": "RFT07",
@@ -1550,7 +1545,16 @@
       "awayGoals": 2,
       "id": 1773003647145,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Ctaum-cpt_1773003645928.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773003739435,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_E1even-Starz_1773003738383.jpg"
     }
   ],
-  "lastUpdated": "2026-03-08T21:00:49.976Z"
+  "lastUpdated": "2026-03-08T21:02:23.156Z"
 }
