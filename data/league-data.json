@@ -173,10 +173,10 @@
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
       "played": 11,
-      "wins": 2,
-      "draws": 5,
+      "wins": 3,
+      "draws": 4,
       "losses": 4,
-      "points": 11,
+      "points": 13,
       "gf": 15,
       "ga": 14,
       "form": [
@@ -189,7 +189,7 @@
         "L",
         "L",
         "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -414,9 +414,9 @@
       "phone": "0826993315",
       "played": 11,
       "wins": 7,
-      "draws": 4,
-      "losses": 0,
-      "points": 25,
+      "draws": 3,
+      "losses": 1,
+      "points": 24,
       "gf": 23,
       "ga": 9,
       "form": [
@@ -429,7 +429,7 @@
         "W",
         "W",
         "D",
-        "D"
+        "L"
       ]
     },
     {
@@ -1525,8 +1525,8 @@
     {
       "home": "MGSatarou",
       "away": "Ctaum-cpt",
-      "result": "draw",
-      "homeGoals": 2,
+      "result": "away",
+      "homeGoals": 1,
       "awayGoals": 2,
       "id": 1773003647145,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Ctaum-cpt_1773003645928.jpg"
