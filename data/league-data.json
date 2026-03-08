@@ -172,15 +172,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 11,
+      "played": 12,
       "wins": 3,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "points": 13,
-      "gf": 15,
-      "ga": 14,
+      "points": 14,
+      "gf": 17,
+      "ga": 16,
       "form": [
-        "L",
         "W",
         "D",
         "L",
@@ -189,7 +188,8 @@
         "L",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 10,
+      "played": 11,
       "wins": 7,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "points": 22,
-      "gf": 16,
-      "ga": 5,
+      "points": 23,
+      "gf": 18,
+      "ga": 7,
       "form": [
-        "L",
         "D",
         "W",
         "W",
@@ -357,7 +356,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -519,11 +519,6 @@
       "home": "MGSatarou",
       "away": "SMANGALISO",
       "id": 1772841047300
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "Dontwindraw",
-      "id": 1772841047302
     },
     {
       "home": "Lukie",
@@ -1566,7 +1561,16 @@
       "awayGoals": 0,
       "id": 1773003826726,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Sailor_1773003825414.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Dontwindraw",
+      "result": "draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "id": 1773004185615,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Dontwindraw_1773004181694.jpg"
     }
   ],
-  "lastUpdated": "2026-03-08T21:03:49.719Z"
+  "lastUpdated": "2026-03-08T21:09:47.995Z"
 }
