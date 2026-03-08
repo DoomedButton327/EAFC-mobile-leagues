@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 11,
+      "played": 12,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "losses": 2,
-      "points": 19,
+      "points": 20,
       "gf": 15,
       "ga": 7,
       "form": [
-        "D",
         "W",
         "L",
         "D",
@@ -21,7 +20,8 @@
         "W",
         "W",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -124,15 +124,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 11,
+      "played": 12,
       "wins": 5,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
-      "points": 17,
+      "points": 18,
       "gf": 11,
       "ga": 12,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -141,6 +140,7 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ]
     },
@@ -220,16 +220,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 11,
+      "played": 12,
       "wins": 1,
-      "draws": 4,
+      "draws": 5,
       "losses": 6,
-      "points": 7,
+      "points": 8,
       "gf": 3,
       "ga": 16,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
@@ -237,6 +236,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -244,16 +244,15 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 11,
+      "played": 12,
       "wins": 3,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "points": 13,
+      "points": 14,
       "gf": 9,
       "ga": 12,
       "form": [
         "W",
-        "W",
         "L",
         "L",
         "L",
@@ -261,7 +260,8 @@
         "W",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -316,15 +316,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 11,
+      "played": 12,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 9,
-      "points": 2,
+      "points": 3,
       "gf": 3,
       "ga": 31,
       "form": [
-        "L",
         "D",
         "L",
         "D",
@@ -333,7 +332,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -412,15 +412,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 11,
+      "played": 12,
       "wins": 7,
-      "draws": 3,
+      "draws": 4,
       "losses": 1,
-      "points": 24,
+      "points": 25,
       "gf": 23,
       "ga": 9,
       "form": [
-        "W",
         "D",
         "D",
         "W",
@@ -429,7 +428,8 @@
         "W",
         "W",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -501,21 +501,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "wham",
-      "id": 1772841047294
-    },
-    {
-      "home": "bhaze",
-      "away": "Yungboyshlime",
-      "id": 1772841047298
-    },
-    {
-      "home": "MGSatarou",
-      "away": "SMANGALISO",
-      "id": 1772841047300
-    },
     {
       "home": "Lukie",
       "away": "Barca.",
@@ -1575,7 +1560,25 @@
       "awayGoals": 3,
       "id": 1773004382124,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Nigelmj21_1773004378593.jpg"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "wham",
+      "result": "draw",
+      "id": 1773004504216
+    },
+    {
+      "home": "bhaze",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1773004504745
+    },
+    {
+      "home": "MGSatarou",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1773004505196
     }
   ],
-  "lastUpdated": "2026-03-08T21:13:06.638Z"
+  "lastUpdated": "2026-03-08T21:15:05.803Z"
 }
