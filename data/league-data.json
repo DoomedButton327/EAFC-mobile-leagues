@@ -172,15 +172,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 10,
+      "played": 11,
       "wins": 2,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "points": 10,
-      "gf": 13,
-      "ga": 12,
+      "points": 11,
+      "gf": 15,
+      "ga": 14,
       "form": [
-        "D",
         "L",
         "W",
         "D",
@@ -189,7 +188,8 @@
         "D",
         "L",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -412,16 +412,15 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 10,
+      "played": 11,
       "wins": 7,
-      "draws": 3,
+      "draws": 4,
       "losses": 0,
-      "points": 24,
-      "gf": 21,
-      "ga": 7,
+      "points": 25,
+      "gf": 23,
+      "ga": 9,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "W",
@@ -429,6 +428,7 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ]
     },
@@ -500,11 +500,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "MGSatarou",
-      "away": "Ctaum-cpt",
-      "id": 1772775446194
-    },
     {
       "home": "KING_KHESWA.",
       "away": "E1even-Starz",
@@ -1546,7 +1541,16 @@
       "away": "Yungboyshlime",
       "result": "draw",
       "id": 1772840995038
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "id": 1773003647145,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Ctaum-cpt_1773003645928.jpg"
     }
   ],
-  "lastUpdated": "2026-03-06T23:50:47.889Z"
+  "lastUpdated": "2026-03-08T21:00:49.976Z"
 }
