@@ -268,15 +268,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 11,
-      "wins": 10,
+      "played": 12,
+      "wins": 11,
       "draws": 0,
       "losses": 1,
-      "points": 30,
-      "gf": 28,
+      "points": 33,
+      "gf": 31,
       "ga": 4,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -285,7 +284,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -460,24 +460,24 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 10,
+      "played": 11,
       "wins": 5,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 17,
       "gf": 11,
-      "ga": 6,
+      "ga": 9,
       "form": [
         "W",
         "W",
         "W",
+        "D",
+        "D",
+        "L",
+        "L",
+        "L",
         "W",
-        "D",
-        "D",
-        "L",
-        "L",
-        "L",
-        "W"
+        "L"
       ]
     },
     {
@@ -500,11 +500,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DJRonaldoZA",
-      "away": "RFT07",
-      "id": 1772841047288
-    },
     {
       "home": "leomessi",
       "away": "Sailor",
@@ -1554,7 +1549,16 @@
       "awayGoals": 0,
       "id": 1773003739435,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_E1even-Starz_1773003738383.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773003765132,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_RFT07_1773003764093.jpg"
     }
   ],
-  "lastUpdated": "2026-03-08T21:02:23.156Z"
+  "lastUpdated": "2026-03-08T21:02:47.943Z"
 }
