@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 11,
+      "played": 12,
       "wins": 2,
       "draws": 3,
-      "losses": 6,
+      "losses": 7,
       "points": 9,
       "gf": 8,
-      "ga": 16,
+      "ga": 18,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -45,6 +44,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -292,21 +292,21 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 11,
-      "wins": 7,
+      "played": 12,
+      "wins": 8,
       "draws": 1,
       "losses": 3,
-      "points": 24,
-      "gf": 26,
+      "points": 27,
+      "gf": 28,
       "ga": 9,
       "form": [
-        "W",
         "D",
         "W",
         "W",
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -500,11 +500,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "leomessi",
-      "away": "Sailor",
-      "id": 1772841047290
-    },
     {
       "home": "Zan-Ten",
       "away": "Nigelmj21",
@@ -1562,7 +1557,16 @@
       "awayGoals": 3,
       "id": 1773003798618,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_RoyalAM_1773003797582.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1773003826726,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Sailor_1773003825414.jpg"
     }
   ],
-  "lastUpdated": "2026-03-08T21:03:21.432Z"
+  "lastUpdated": "2026-03-08T21:03:49.719Z"
 }
