@@ -196,16 +196,15 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 12,
+      "played": 13,
       "wins": 0,
       "draws": 7,
-      "losses": 5,
+      "losses": 6,
       "points": 7,
       "gf": 2,
-      "ga": 16,
+      "ga": 19,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
@@ -213,7 +212,8 @@
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -484,19 +484,20 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 5,
-      "wins": 1,
+      "played": 6,
+      "wins": 2,
       "draws": 1,
       "losses": 3,
-      "points": 4,
-      "gf": 5,
+      "points": 7,
+      "gf": 8,
       "ga": 10,
       "form": [
         "L",
         "W",
         "L",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     }
   ],
@@ -515,11 +516,6 @@
       "home": "Nigelmj21",
       "away": "Yungboyshlime",
       "id": 1773004521031
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "E1even-Starz",
-      "id": 1773004521039
     }
   ],
   "results": [
@@ -1653,7 +1649,16 @@
       "awayGoals": 3,
       "id": 1773087136362,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_XWRLD_REAPERS_1773087133308.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773087301381,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_E1even-Starz_1773087299888.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T20:12:19.764Z"
+  "lastUpdated": "2026-03-09T20:15:05.566Z"
 }
