@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 13,
+      "played": 14,
       "wins": 2,
       "draws": 6,
-      "losses": 5,
+      "losses": 6,
       "points": 12,
       "gf": 5,
-      "ga": 17,
+      "ga": 19,
       "form": [
-        "W",
         "D",
         "D",
         "D",
@@ -93,7 +92,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -292,20 +292,20 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 12,
-      "wins": 8,
+      "played": 13,
+      "wins": 9,
       "draws": 1,
       "losses": 3,
-      "points": 27,
-      "gf": 28,
+      "points": 30,
+      "gf": 30,
       "ga": 9,
       "form": [
-        "D",
         "W",
         "W",
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -525,11 +525,6 @@
       "home": "Zan-Ten",
       "away": "E1even-Starz",
       "id": 1773004521039
-    },
-    {
-      "home": "leomessi",
-      "away": "Lukie",
-      "id": 1773004521041
     }
   ],
   "results": [
@@ -1645,7 +1640,16 @@
       "awayGoals": 4,
       "id": 1773087067890,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_RFT07_1773087063842.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1773087097478,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_Lukie_1773087096361.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T20:11:10.809Z"
+  "lastUpdated": "2026-03-09T20:11:40.717Z"
 }
