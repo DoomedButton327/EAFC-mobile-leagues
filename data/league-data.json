@@ -4,14 +4,15 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 13,
+      "played": 12,
       "wins": 5,
       "draws": 5,
-      "losses": 3,
+      "losses": 2,
       "points": 20,
-      "gf": 16,
-      "ga": 9,
+      "gf": 15,
+      "ga": 7,
       "form": [
+        "W",
         "L",
         "D",
         "D",
@@ -20,8 +21,7 @@
         "W",
         "D",
         "L",
-        "D",
-        "L"
+        "D"
       ]
     },
     {
@@ -148,21 +148,21 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 12,
-      "wins": 6,
+      "played": 13,
+      "wins": 7,
       "draws": 0,
       "losses": 6,
-      "points": 18,
-      "gf": 19,
-      "ga": 11,
+      "points": 21,
+      "gf": 21,
+      "ga": 12,
       "form": [
-        "L",
         "W",
         "L",
         "W",
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -244,15 +244,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 12,
+      "played": 13,
       "wins": 3,
       "draws": 5,
-      "losses": 4,
+      "losses": 5,
       "points": 14,
-      "gf": 9,
-      "ga": 12,
+      "gf": 10,
+      "ga": 14,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -261,7 +260,8 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -460,24 +460,24 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 12,
-      "wins": 6,
+      "played": 11,
+      "wins": 5,
       "draws": 2,
       "losses": 4,
-      "points": 20,
-      "gf": 13,
-      "ga": 10,
+      "points": 17,
+      "gf": 11,
+      "ga": 9,
       "form": [
         "W",
         "W",
+        "W",
         "D",
         "D",
         "L",
         "L",
         "L",
         "W",
-        "L",
-        "W"
+        "L"
       ]
     },
     {
@@ -522,6 +522,11 @@
       "id": 1773004521031
     },
     {
+      "home": "DJRonaldoZA",
+      "away": "bhaze",
+      "id": 1773004521033
+    },
+    {
       "home": "wham",
       "away": "XWRLD_REAPERS",
       "id": 1773004521035
@@ -540,11 +545,6 @@
       "home": "leomessi",
       "away": "Lukie",
       "id": 1773004521041
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "RoyalAM",
-      "id": 1773004521043
     }
   ],
   "results": [
@@ -1626,14 +1626,14 @@
       "id": 1773004506014
     },
     {
-      "home": "DJRonaldoZA",
-      "away": "bhaze",
-      "result": "home",
-      "homeGoals": 2,
-      "awayGoals": 1,
-      "id": 1773055231238,
-      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773055230096.jpg"
+      "home": "SMANGALISO",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "id": 1773056390500,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_RoyalAM_1773056389439.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T11:20:33.893Z"
+  "lastUpdated": "2026-03-09T11:39:53.490Z"
 }
