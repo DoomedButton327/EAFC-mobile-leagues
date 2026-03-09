@@ -268,15 +268,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 12,
-      "wins": 11,
+      "played": 13,
+      "wins": 12,
       "draws": 0,
       "losses": 1,
-      "points": 33,
-      "gf": 31,
-      "ga": 4,
+      "points": 36,
+      "gf": 35,
+      "ga": 6,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -285,6 +284,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -412,15 +412,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 12,
+      "played": 13,
       "wins": 7,
       "draws": 4,
-      "losses": 1,
+      "losses": 2,
       "points": 25,
-      "gf": 23,
-      "ga": 9,
+      "gf": 25,
+      "ga": 13,
       "form": [
-        "D",
         "D",
         "W",
         "W",
@@ -429,7 +428,8 @@
         "W",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -505,11 +505,6 @@
       "home": "CRANK_",
       "away": "Ctaum-cpt",
       "id": 1773004521025
-    },
-    {
-      "home": "MGSatarou",
-      "away": "RFT07",
-      "id": 1773004521027
     },
     {
       "home": "Barca.",
@@ -1641,7 +1636,16 @@
       "awayGoals": 1,
       "id": 1773087040332,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_KING_KHESWA._1773087039382.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 2,
+      "awayGoals": 4,
+      "id": 1773087067890,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_RFT07_1773087063842.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T20:10:43.980Z"
+  "lastUpdated": "2026-03-09T20:11:10.809Z"
 }
