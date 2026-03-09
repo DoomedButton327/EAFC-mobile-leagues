@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 12,
+      "played": 13,
       "wins": 5,
       "draws": 5,
-      "losses": 2,
+      "losses": 3,
       "points": 20,
-      "gf": 15,
-      "ga": 7,
+      "gf": 16,
+      "ga": 9,
       "form": [
-        "W",
         "L",
         "D",
         "D",
@@ -21,7 +20,8 @@
         "W",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -460,24 +460,24 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 11,
-      "wins": 5,
+      "played": 12,
+      "wins": 6,
       "draws": 2,
       "losses": 4,
-      "points": 17,
-      "gf": 11,
-      "ga": 9,
+      "points": 20,
+      "gf": 13,
+      "ga": 10,
       "form": [
         "W",
         "W",
-        "W",
         "D",
         "D",
         "L",
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -520,11 +520,6 @@
       "home": "Nigelmj21",
       "away": "Yungboyshlime",
       "id": 1773004521031
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "bhaze",
-      "id": 1773004521033
     },
     {
       "home": "wham",
@@ -1633,7 +1628,16 @@
       "awayGoals": 2,
       "id": 1773056390500,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_RoyalAM_1773056389439.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "bhaze",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1773087004962,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773087003715.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T11:39:53.490Z"
+  "lastUpdated": "2026-03-09T20:10:09.127Z"
 }
