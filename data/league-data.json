@@ -220,15 +220,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 12,
+      "played": 13,
       "wins": 1,
-      "draws": 5,
+      "draws": 6,
       "losses": 6,
-      "points": 8,
+      "points": 9,
       "gf": 3,
       "ga": 16,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -236,6 +235,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -388,15 +388,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 11,
+      "played": 12,
       "wins": 4,
-      "draws": 6,
+      "draws": 7,
       "losses": 1,
-      "points": 18,
+      "points": 19,
       "gf": 13,
       "ga": 7,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -405,7 +404,8 @@
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -501,13 +501,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "Yungboyshlime",
-      "id": 1773004521031
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -1666,7 +1660,13 @@
       "awayGoals": 3,
       "id": 1773118436583,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Sailor_1773118435344.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1773118448508
     }
   ],
-  "lastUpdated": "2026-03-10T04:53:59.783Z"
+  "lastUpdated": "2026-03-10T04:54:09.112Z"
 }
