@@ -172,15 +172,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 12,
-      "wins": 3,
+      "played": 13,
+      "wins": 4,
       "draws": 5,
       "losses": 4,
-      "points": 14,
-      "gf": 17,
+      "points": 17,
+      "gf": 20,
       "ga": 16,
       "form": [
-        "W",
         "D",
         "L",
         "D",
@@ -189,7 +188,8 @@
         "L",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -364,15 +364,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 10,
+      "played": 11,
       "wins": 3,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 12,
       "gf": 11,
-      "ga": 11,
+      "ga": 14,
       "form": [
-        "D",
         "L",
         "L",
         "W",
@@ -381,6 +380,7 @@
         "W",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -502,11 +502,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "CRANK_",
-      "away": "Ctaum-cpt",
-      "id": 1773004521025
-    },
     {
       "home": "Barca.",
       "away": "Sailor",
@@ -1658,7 +1653,16 @@
       "awayGoals": 0,
       "id": 1773087301381,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_E1even-Starz_1773087299888.jpg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773118355234,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_Ctaum-cpt_1773118353382.jpg"
     }
   ],
-  "lastUpdated": "2026-03-09T20:15:05.566Z"
+  "lastUpdated": "2026-03-10T04:52:38.282Z"
 }
