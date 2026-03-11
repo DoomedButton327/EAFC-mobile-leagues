@@ -517,6 +517,56 @@
       "home": "E1even-Starz",
       "away": "CRANK_",
       "id": 1773118453603
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "CRANK_",
+      "id": 1773205974581
+    },
+    {
+      "home": "bhaze",
+      "away": "RFT07",
+      "id": 1773205974583
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "leomessi",
+      "id": 1773205974585
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Nigelmj21",
+      "id": 1773205974587
+    },
+    {
+      "home": "RoyalAM",
+      "away": "ExequielThwala",
+      "id": 1773205974589
+    },
+    {
+      "home": "wham",
+      "away": "Lukie",
+      "id": 1773205974591
+    },
+    {
+      "home": "Sailor",
+      "away": "Barca.",
+      "id": 1773205974593
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "id": 1773205974595
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "KING_KHESWA.",
+      "id": 1773205974597
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Yungboyshlime",
+      "id": 1773205974599
     }
   ],
   "results": [
@@ -1747,5 +1797,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_Barca._1773205903115.jpg"
     }
   ],
-  "lastUpdated": "2026-03-11T05:12:50.214Z"
+  "lastUpdated": "2026-03-11T05:12:55.185Z"
 }
