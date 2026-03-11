@@ -388,15 +388,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 12,
-      "wins": 4,
+      "played": 13,
+      "wins": 5,
       "draws": 7,
       "losses": 1,
-      "points": 19,
-      "gf": 13,
+      "points": 22,
+      "gf": 16,
       "ga": 7,
       "form": [
-        "L",
         "D",
         "W",
         "D",
@@ -405,7 +404,8 @@
         "D",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -460,16 +460,15 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 12,
+      "played": 13,
       "wins": 6,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 20,
       "gf": 13,
-      "ga": 10,
+      "ga": 13,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "L",
@@ -477,7 +476,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -517,11 +517,6 @@
       "home": "E1even-Starz",
       "away": "CRANK_",
       "id": 1773118453603
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "Nigelmj21",
-      "id": 1773118453609
     },
     {
       "home": "SMANGALISO",
@@ -1737,7 +1732,16 @@
       "awayGoals": 0,
       "id": 1773205568221,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Yungboyshlime_1773205567277.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "Nigelmj21",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773205627837,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Nigelmj21_1773205620290.jpg"
     }
   ],
-  "lastUpdated": "2026-03-11T05:06:12.493Z"
+  "lastUpdated": "2026-03-11T05:07:11.803Z"
 }
