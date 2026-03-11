@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 13,
+      "played": 14,
       "wins": 5,
       "draws": 5,
-      "losses": 3,
+      "losses": 4,
       "points": 20,
       "gf": 16,
-      "ga": 9,
+      "ga": 11,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -21,6 +20,7 @@
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -148,20 +148,20 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 13,
-      "wins": 7,
+      "played": 14,
+      "wins": 8,
       "draws": 0,
       "losses": 6,
-      "points": 21,
-      "gf": 21,
+      "points": 24,
+      "gf": 23,
       "ga": 12,
       "form": [
-        "W",
         "L",
         "W",
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -503,11 +503,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "bhaze",
-      "id": 1773118453594
-    },
     {
       "home": "leomessi",
       "away": "wham",
@@ -1729,7 +1724,16 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1773205470510
+    },
+    {
+      "home": "RoyalAM",
+      "away": "bhaze",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1773205500253,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_bhaze_1773205491423.jpg"
     }
   ],
-  "lastUpdated": "2026-03-11T05:04:31.121Z"
+  "lastUpdated": "2026-03-11T05:05:03.255Z"
 }
