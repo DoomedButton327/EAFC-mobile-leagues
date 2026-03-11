@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 13,
-      "wins": 3,
+      "played": 14,
+      "wins": 4,
       "draws": 3,
       "losses": 7,
-      "points": 12,
-      "gf": 11,
+      "points": 15,
+      "gf": 14,
       "ga": 18,
       "form": [
-        "L",
         "L",
         "D",
         "L",
@@ -45,6 +44,7 @@
         "W",
         "L",
         "L",
+        "W",
         "W"
       ]
     },
@@ -220,24 +220,24 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 13,
+      "played": 14,
       "wins": 1,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "points": 9,
       "gf": 3,
-      "ga": 16,
+      "ga": 19,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "L",
         "L",
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -527,11 +527,6 @@
       "home": "SMANGALISO",
       "away": "Barca.",
       "id": 1773118453611
-    },
-    {
-      "home": "Sailor",
-      "away": "Yungboyshlime",
-      "id": 1773118453613
     }
   ],
   "results": [
@@ -1733,7 +1728,16 @@
       "awayGoals": 0,
       "id": 1773205500253,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_bhaze_1773205491423.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773205568221,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Yungboyshlime_1773205567277.jpg"
     }
   ],
-  "lastUpdated": "2026-03-11T05:05:03.255Z"
+  "lastUpdated": "2026-03-11T05:06:12.493Z"
 }
