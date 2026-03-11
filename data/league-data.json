@@ -172,15 +172,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 14,
+      "played": 15,
       "wins": 4,
-      "draws": 6,
+      "draws": 7,
       "losses": 4,
-      "points": 18,
-      "gf": 21,
-      "ga": 17,
+      "points": 19,
+      "gf": 22,
+      "ga": 18,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -189,6 +188,7 @@
         "W",
         "D",
         "W",
+        "D",
         "D"
       ]
     },
@@ -484,13 +484,13 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 7,
+      "played": 8,
       "wins": 2,
-      "draws": 1,
+      "draws": 2,
       "losses": 4,
-      "points": 7,
-      "gf": 8,
-      "ga": 12,
+      "points": 8,
+      "gf": 9,
+      "ga": 13,
       "form": [
         "L",
         "W",
@@ -498,7 +498,8 @@
         "D",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     }
   ],
@@ -552,11 +553,6 @@
       "home": "Sailor",
       "away": "Barca.",
       "id": 1773205974593
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "Ctaum-cpt",
-      "id": 1773205974595
     },
     {
       "home": "SMANGALISO",
@@ -1795,7 +1791,16 @@
       "awayGoals": 0,
       "id": 1773205965830,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_Barca._1773205903115.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1773248064001,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Ctaum-cpt_1773248060055.jpg"
     }
   ],
-  "lastUpdated": "2026-03-11T05:12:55.185Z"
+  "lastUpdated": "2026-03-11T16:54:26.959Z"
 }
