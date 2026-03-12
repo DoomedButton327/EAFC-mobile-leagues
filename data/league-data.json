@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 14,
+      "played": 15,
       "wins": 5,
       "draws": 5,
-      "losses": 4,
+      "losses": 5,
       "points": 20,
       "gf": 16,
-      "ga": 11,
+      "ga": 14,
       "form": [
-        "D",
         "D",
         "W",
         "W",
@@ -20,6 +19,7 @@
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -268,15 +268,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 13,
-      "wins": 12,
+      "played": 14,
+      "wins": 13,
       "draws": 0,
       "losses": 1,
-      "points": 36,
-      "gf": 35,
+      "points": 39,
+      "gf": 38,
       "ga": 6,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -284,6 +283,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -518,11 +518,6 @@
       "home": "E1even-Starz",
       "away": "CRANK_",
       "id": 1773118453603
-    },
-    {
-      "home": "bhaze",
-      "away": "RFT07",
-      "id": 1773205974583
     },
     {
       "home": "DJRonaldoZA",
@@ -1816,7 +1811,16 @@
       "awayGoals": 0,
       "id": 1773299923442,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_Yungboyshlime_1773299922414.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773299957912,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_RFT07_1773299956771.jpg"
     }
   ],
-  "lastUpdated": "2026-03-12T07:18:46.284Z"
+  "lastUpdated": "2026-03-12T07:19:21.340Z"
 }
