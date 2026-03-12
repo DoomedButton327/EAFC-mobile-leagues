@@ -124,15 +124,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 14,
-      "wins": 6,
+      "played": 15,
+      "wins": 7,
       "draws": 4,
       "losses": 4,
-      "points": 22,
-      "gf": 15,
+      "points": 25,
+      "gf": 18,
       "ga": 13,
       "form": [
-        "D",
         "W",
         "L",
         "W",
@@ -141,7 +140,8 @@
         "D",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -220,16 +220,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 14,
+      "played": 15,
       "wins": 1,
       "draws": 6,
-      "losses": 7,
+      "losses": 8,
       "points": 9,
       "gf": 3,
-      "ga": 19,
+      "ga": 22,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
@@ -237,6 +236,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -543,11 +543,6 @@
       "home": "Sailor",
       "away": "Barca.",
       "id": 1773205974593
-    },
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "Yungboyshlime",
-      "id": 1773205974599
     }
   ],
   "results": [
@@ -1812,7 +1807,16 @@
       "awayGoals": 3,
       "id": 1773299903982,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_KING_KHESWA._1773299902997.jpg"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773299923442,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_Yungboyshlime_1773299922414.jpg"
     }
   ],
-  "lastUpdated": "2026-03-12T07:18:27.056Z"
+  "lastUpdated": "2026-03-12T07:18:46.284Z"
 }
