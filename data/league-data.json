@@ -388,15 +388,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 13,
-      "wins": 5,
+      "played": 14,
+      "wins": 6,
       "draws": 7,
       "losses": 1,
-      "points": 22,
-      "gf": 16,
+      "points": 25,
+      "gf": 19,
       "ga": 7,
       "form": [
-        "D",
         "W",
         "D",
         "D",
@@ -405,6 +404,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -412,15 +412,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 13,
+      "played": 14,
       "wins": 7,
       "draws": 4,
-      "losses": 2,
+      "losses": 3,
       "points": 25,
       "gf": 25,
-      "ga": 13,
+      "ga": 16,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -429,6 +428,7 @@
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -528,11 +528,6 @@
       "home": "DJRonaldoZA",
       "away": "leomessi",
       "id": 1773205974585
-    },
-    {
-      "home": "MGSatarou",
-      "away": "Nigelmj21",
-      "id": 1773205974587
     },
     {
       "home": "RoyalAM",
@@ -1804,7 +1799,16 @@
       "awayGoals": 3,
       "id": 1773299799584,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_CRANK__1773299797960.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Nigelmj21",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773299858189,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Nigelmj21_1773299856507.jpg"
     }
   ],
-  "lastUpdated": "2026-03-12T07:16:42.514Z"
+  "lastUpdated": "2026-03-12T07:17:40.862Z"
 }
