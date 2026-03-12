@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 14,
-      "wins": 8,
+      "played": 15,
+      "wins": 9,
       "draws": 2,
       "losses": 4,
-      "points": 26,
-      "gf": 21,
+      "points": 29,
+      "gf": 24,
       "ga": 11,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -69,6 +68,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W"
       ]
     },
@@ -244,15 +244,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 14,
+      "played": 15,
       "wins": 3,
       "draws": 6,
-      "losses": 5,
+      "losses": 6,
       "points": 15,
       "gf": 10,
-      "ga": 14,
+      "ga": 17,
       "form": [
-        "L",
         "L",
         "D",
         "W",
@@ -261,7 +260,8 @@
         "L",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -543,11 +543,6 @@
       "home": "Sailor",
       "away": "Barca.",
       "id": 1773205974593
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "KING_KHESWA.",
-      "id": 1773205974597
     },
     {
       "home": "XWRLD_REAPERS",
@@ -1808,7 +1803,16 @@
       "awayGoals": 3,
       "id": 1773299858189,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Nigelmj21_1773299856507.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773299903982,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_KING_KHESWA._1773299902997.jpg"
     }
   ],
-  "lastUpdated": "2026-03-12T07:17:40.862Z"
+  "lastUpdated": "2026-03-12T07:18:27.056Z"
 }
