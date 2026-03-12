@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 14,
+      "played": 15,
       "wins": 4,
-      "draws": 3,
+      "draws": 4,
       "losses": 7,
-      "points": 15,
+      "points": 16,
       "gf": 14,
       "ga": 18,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -45,7 +44,8 @@
         "L",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -436,16 +436,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 14,
+      "played": 15,
       "wins": 2,
-      "draws": 5,
+      "draws": 6,
       "losses": 7,
-      "points": 10,
+      "points": 11,
       "gf": 6,
       "ga": 25,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "W",
@@ -453,6 +452,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -523,11 +523,6 @@
       "home": "RoyalAM",
       "away": "ExequielThwala",
       "id": 1773205974589
-    },
-    {
-      "home": "Sailor",
-      "away": "Barca.",
-      "id": 1773205974593
     }
   ],
   "results": [
@@ -1827,7 +1822,13 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1773300134653
+    },
+    {
+      "home": "Sailor",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1773300206680
     }
   ],
-  "lastUpdated": "2026-03-12T07:22:15.256Z"
+  "lastUpdated": "2026-03-12T07:23:27.283Z"
 }
