@@ -28,24 +28,24 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 15,
-      "wins": 4,
+      "played": 16,
+      "wins": 5,
       "draws": 4,
       "losses": 7,
-      "points": 16,
-      "gf": 14,
+      "points": 19,
+      "gf": 17,
       "ga": 18,
       "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "L",
+        "L",
+        "W",
+        "W",
         "D",
-        "L",
-        "W",
-        "L",
-        "W",
-        "L",
-        "L",
-        "W",
-        "W",
-        "D"
+        "W"
       ]
     },
     {
@@ -196,15 +196,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 15,
+      "played": 16,
       "wins": 1,
       "draws": 6,
-      "losses": 8,
+      "losses": 9,
       "points": 9,
       "gf": 3,
-      "ga": 22,
+      "ga": 25,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -212,6 +211,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -500,11 +500,6 @@
       "home": "CRANK_",
       "away": "MGSatarou",
       "id": 1773300219613
-    },
-    {
-      "home": "Sailor",
-      "away": "Yungboyshlime",
-      "id": 1773300219623
     },
     {
       "home": "leomessi",
@@ -1884,7 +1879,16 @@
       "awayGoals": 0,
       "id": 1773377305872,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_E1even-Starz_1773377304919.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773377396814,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Yungboyshlime_1773377395817.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:48:28.522Z"
+  "lastUpdated": "2026-03-13T04:50:01.176Z"
 }
