@@ -100,15 +100,14 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 15,
+      "played": 16,
       "wins": 11,
       "draws": 1,
-      "losses": 3,
+      "losses": 4,
       "points": 34,
       "gf": 36,
-      "ga": 14,
+      "ga": 17,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -117,6 +116,7 @@
         "L",
         "D",
         "W",
+        "L",
         "L"
       ]
     },
@@ -148,19 +148,19 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 14,
-      "wins": 8,
+      "played": 15,
+      "wins": 9,
       "draws": 0,
       "losses": 6,
-      "points": 24,
-      "gf": 23,
+      "points": 27,
+      "gf": 26,
       "ga": 12,
       "form": [
-        "L",
         "W",
         "W",
         "L",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -513,11 +513,6 @@
       "home": "DJRonaldoZA",
       "away": "leomessi",
       "id": 1773205974585
-    },
-    {
-      "home": "RoyalAM",
-      "away": "ExequielThwala",
-      "id": 1773205974589
     },
     {
       "home": "Lukie",
@@ -1883,7 +1878,16 @@
       "awayGoals": 3,
       "id": 1773377007545,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_XWRLD_REAPERS_1773377005340.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "ExequielThwala",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773377051456,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_ExequielThwala_1773377050400.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:43:31.215Z"
+  "lastUpdated": "2026-03-13T04:44:14.264Z"
 }
