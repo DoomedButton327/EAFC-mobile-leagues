@@ -148,16 +148,15 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 15,
-      "wins": 4,
+      "played": 16,
+      "wins": 5,
       "draws": 7,
       "losses": 4,
-      "points": 19,
-      "gf": 22,
+      "points": 22,
+      "gf": 25,
       "ga": 18,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "W",
@@ -165,7 +164,8 @@
         "D",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 15,
+      "played": 16,
       "wins": 2,
       "draws": 6,
-      "losses": 7,
+      "losses": 8,
       "points": 11,
       "gf": 6,
-      "ga": 25,
+      "ga": 28,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -429,7 +428,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -514,11 +514,6 @@
       "home": "Sailor",
       "away": "Yungboyshlime",
       "id": 1773300219623
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "Barca.",
-      "id": 1773300219627
     },
     {
       "home": "leomessi",
@@ -1871,7 +1866,16 @@
       "awayGoals": 4,
       "id": 1773377206255,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Dontwindraw_1773377203102.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Barca.",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773377245908,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Barca._1773377244757.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:46:48.688Z"
+  "lastUpdated": "2026-03-13T04:47:28.520Z"
 }
