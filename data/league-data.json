@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 15,
-      "wins": 9,
+      "played": 16,
+      "wins": 10,
       "draws": 2,
       "losses": 4,
-      "points": 29,
-      "gf": 24,
+      "points": 32,
+      "gf": 27,
       "ga": 11,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -68,6 +67,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 13,
+      "played": 14,
       "wins": 6,
       "draws": 2,
-      "losses": 5,
+      "losses": 6,
       "points": 20,
       "gf": 13,
-      "ga": 13,
+      "ga": 16,
       "form": [
-        "W",
         "D",
         "D",
         "L",
@@ -453,6 +452,7 @@
         "W",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -499,11 +499,6 @@
       "home": "CRANK_",
       "away": "MGSatarou",
       "id": 1773300219613
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "DJRonaldoZA",
-      "id": 1773300219617
     },
     {
       "home": "Zan-Ten",
@@ -1875,7 +1870,16 @@
       "awayGoals": 0,
       "id": 1773377245908,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Barca._1773377244757.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "DJRonaldoZA",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773377265864,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_DJRonaldoZA_1773377264780.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:47:28.520Z"
+  "lastUpdated": "2026-03-13T04:47:48.920Z"
 }
