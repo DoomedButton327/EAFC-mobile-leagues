@@ -4,21 +4,21 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 15,
+      "played": 16,
       "wins": 5,
       "draws": 5,
-      "losses": 5,
+      "losses": 6,
       "points": 20,
       "gf": 16,
-      "ga": 14,
+      "ga": 18,
       "form": [
-        "D",
         "W",
         "W",
         "W",
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -316,15 +316,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 12,
-      "wins": 8,
+      "played": 13,
+      "wins": 9,
       "draws": 2,
       "losses": 2,
-      "points": 26,
-      "gf": 21,
+      "points": 29,
+      "gf": 25,
       "ga": 7,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -333,6 +332,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -514,11 +514,6 @@
       "home": "Sailor",
       "away": "Yungboyshlime",
       "id": 1773300219623
-    },
-    {
-      "home": "bhaze",
-      "away": "Dontwindraw",
-      "id": 1773300219625
     },
     {
       "home": "Ctaum-cpt",
@@ -1867,7 +1862,16 @@
       "awayGoals": 1,
       "id": 1773377173840,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_SMANGALISO_1773377172848.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 4,
+      "id": 1773377206255,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Dontwindraw_1773377203102.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:46:16.739Z"
+  "lastUpdated": "2026-03-13T04:46:48.688Z"
 }
