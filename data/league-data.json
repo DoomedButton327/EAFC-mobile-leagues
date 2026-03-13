@@ -100,15 +100,14 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 14,
+      "played": 15,
       "wins": 11,
       "draws": 1,
-      "losses": 2,
+      "losses": 3,
       "points": 34,
       "gf": 36,
-      "ga": 11,
+      "ga": 14,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -117,22 +116,22 @@
         "W",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 15,
-      "wins": 7,
+      "played": 16,
+      "wins": 8,
       "draws": 4,
       "losses": 4,
-      "points": 25,
-      "gf": 18,
+      "points": 28,
+      "gf": 21,
       "ga": 13,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -141,6 +140,7 @@
         "D",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -528,11 +528,6 @@
       "home": "CRANK_",
       "away": "MGSatarou",
       "id": 1773300219613
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "XWRLD_REAPERS",
-      "id": 1773300219615
     },
     {
       "home": "KING_KHESWA.",
@@ -1879,7 +1874,16 @@
       "away": "CRANK_",
       "result": "draw",
       "id": 1773300215205
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773377007545,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_XWRLD_REAPERS_1773377005340.jpg"
     }
   ],
-  "lastUpdated": "2026-03-12T07:23:40.215Z"
+  "lastUpdated": "2026-03-13T04:43:31.215Z"
 }
