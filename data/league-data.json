@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 13,
+      "played": 14,
       "wins": 4,
-      "draws": 4,
+      "draws": 5,
       "losses": 5,
-      "points": 16,
+      "points": 17,
       "gf": 14,
       "ga": 14,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -357,6 +356,7 @@
         "L",
         "L",
         "W",
+        "D",
         "D"
       ]
     },
@@ -388,24 +388,24 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 15,
+      "played": 16,
       "wins": 7,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "points": 25,
+      "points": 26,
       "gf": 25,
       "ga": 19,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "D",
         "L",
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -490,11 +490,6 @@
       "home": "DJRonaldoZA",
       "away": "leomessi",
       "id": 1773205974585
-    },
-    {
-      "home": "CRANK_",
-      "away": "MGSatarou",
-      "id": 1773300219613
     },
     {
       "home": "leomessi",
@@ -1892,7 +1887,13 @@
       "awayGoals": 3,
       "id": 1773377453292,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_RoyalAM_1773377451990.jpg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1773377521541
     }
   ],
-  "lastUpdated": "2026-03-13T04:50:56.895Z"
+  "lastUpdated": "2026-03-13T04:52:02.151Z"
 }
