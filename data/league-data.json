@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 16,
+      "played": 17,
       "wins": 3,
       "draws": 6,
-      "losses": 7,
+      "losses": 8,
       "points": 15,
       "gf": 8,
-      "ga": 22,
+      "ga": 25,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -93,7 +92,8 @@
         "D",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -124,18 +124,18 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 15,
-      "wins": 9,
+      "played": 16,
+      "wins": 10,
       "draws": 0,
       "losses": 6,
-      "points": 27,
-      "gf": 26,
+      "points": 30,
+      "gf": 29,
       "ga": 12,
       "form": [
         "W",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
         "W",
         "W",
         "W",
@@ -490,11 +490,6 @@
       "home": "DJRonaldoZA",
       "away": "leomessi",
       "id": 1773205974585
-    },
-    {
-      "home": "Lukie",
-      "away": "RoyalAM",
-      "id": 1773300219611
     },
     {
       "home": "CRANK_",
@@ -1888,7 +1883,16 @@
       "awayGoals": 0,
       "id": 1773377396814,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Yungboyshlime_1773377395817.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773377453292,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_RoyalAM_1773377451990.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:50:01.176Z"
+  "lastUpdated": "2026-03-13T04:50:56.895Z"
 }
