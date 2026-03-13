@@ -172,16 +172,15 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 15,
+      "played": 16,
       "wins": 0,
       "draws": 8,
-      "losses": 7,
+      "losses": 8,
       "points": 8,
       "gf": 2,
-      "ga": 22,
+      "ga": 25,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
@@ -189,7 +188,8 @@
         "D",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -460,12 +460,12 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 8,
-      "wins": 2,
+      "played": 9,
+      "wins": 3,
       "draws": 2,
       "losses": 4,
-      "points": 8,
-      "gf": 9,
+      "points": 11,
+      "gf": 12,
       "ga": 13,
       "form": [
         "L",
@@ -475,7 +475,8 @@
         "L",
         "W",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     }
   ],
@@ -499,11 +500,6 @@
       "home": "CRANK_",
       "away": "MGSatarou",
       "id": 1773300219613
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "E1even-Starz",
-      "id": 1773300219621
     },
     {
       "home": "Sailor",
@@ -1879,7 +1875,16 @@
       "awayGoals": 0,
       "id": 1773377265864,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_DJRonaldoZA_1773377264780.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773377305872,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_E1even-Starz_1773377304919.jpg"
     }
   ],
-  "lastUpdated": "2026-03-13T04:47:48.920Z"
+  "lastUpdated": "2026-03-13T04:48:28.522Z"
 }
