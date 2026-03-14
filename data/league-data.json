@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 16,
+      "played": 17,
       "wins": 5,
-      "draws": 4,
+      "draws": 5,
       "losses": 7,
-      "points": 19,
+      "points": 20,
       "gf": 17,
       "ga": 18,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -45,7 +44,8 @@
         "W",
         "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -388,23 +388,23 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 16,
+      "played": 17,
       "wins": 7,
-      "draws": 5,
+      "draws": 6,
       "losses": 4,
-      "points": 26,
+      "points": 27,
       "gf": 25,
       "ga": 19,
       "form": [
         "W",
         "W",
-        "W",
         "D",
         "L",
         "D",
         "L",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -506,11 +506,6 @@
       "home": "leomessi",
       "away": "XWRLD_REAPERS",
       "id": 1773377527045
-    },
-    {
-      "home": "Sailor",
-      "away": "MGSatarou",
-      "id": 1773377527051
     }
   ],
   "results": [
@@ -1969,7 +1964,13 @@
       "away": "Ctaum-cpt",
       "result": "away",
       "id": 1773474175864
+    },
+    {
+      "home": "Sailor",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1773474179759
     }
   ],
-  "lastUpdated": "2026-03-14T07:42:56.468Z"
+  "lastUpdated": "2026-03-14T07:43:00.365Z"
 }
