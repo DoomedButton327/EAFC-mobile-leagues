@@ -124,16 +124,15 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 17,
+      "played": 18,
       "wins": 11,
       "draws": 0,
-      "losses": 6,
+      "losses": 7,
       "points": 33,
       "gf": 34,
-      "ga": 12,
+      "ga": 14,
       "form": [
         "L",
-        "L",
         "W",
         "W",
         "W",
@@ -141,7 +140,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 16,
-      "wins": 14,
+      "played": 17,
+      "wins": 15,
       "draws": 1,
       "losses": 1,
-      "points": 43,
-      "gf": 41,
+      "points": 46,
+      "gf": 43,
       "ga": 7,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -261,7 +260,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -506,11 +506,6 @@
       "home": "Dontwindraw",
       "away": "CRANK_",
       "id": 1773474212738
-    },
-    {
-      "home": "RFT07",
-      "away": "RoyalAM",
-      "id": 1773474212744
     },
     {
       "home": "wham",
@@ -2025,7 +2020,16 @@
       "awayGoals": 0,
       "id": 1773514763300,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Lukie_1773514753407.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1773514782376,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_RoyalAM_1773514781382.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T18:59:26.182Z"
+  "lastUpdated": "2026-03-14T18:59:45.123Z"
 }
