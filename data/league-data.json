@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 17,
-      "wins": 10,
+      "played": 18,
+      "wins": 11,
       "draws": 3,
       "losses": 4,
-      "points": 33,
-      "gf": 29,
+      "points": 36,
+      "gf": 32,
       "ga": 13,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -69,7 +68,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -196,20 +196,20 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 17,
+      "played": 18,
       "wins": 1,
       "draws": 6,
-      "losses": 10,
+      "losses": 11,
       "points": 9,
       "gf": 3,
-      "ga": 28,
+      "ga": 31,
       "form": [
         "L",
         "L",
+        "D",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
-        "D",
         "L",
         "L",
         "L",
@@ -511,11 +511,6 @@
       "home": "wham",
       "away": "Nigelmj21",
       "id": 1773474212746
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "KING_KHESWA.",
-      "id": 1773474212748
     },
     {
       "home": "Zan-Ten",
@@ -2032,7 +2027,16 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1773520759095
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773520790862,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_KING_KHESWA._1773520789602.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T20:39:19.703Z"
+  "lastUpdated": "2026-03-14T20:39:53.683Z"
 }
