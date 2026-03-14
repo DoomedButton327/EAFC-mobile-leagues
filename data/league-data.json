@@ -196,21 +196,21 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 16,
+      "played": 17,
       "wins": 1,
       "draws": 6,
-      "losses": 9,
+      "losses": 10,
       "points": 9,
       "gf": 3,
-      "ga": 25,
+      "ga": 28,
       "form": [
         "L",
         "L",
         "L",
+        "D",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
-        "D",
         "L",
         "L",
         "L"
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 14,
-      "wins": 4,
+      "played": 15,
+      "wins": 5,
       "draws": 5,
       "losses": 5,
-      "points": 17,
-      "gf": 14,
+      "points": 20,
+      "gf": 17,
       "ga": 14,
       "form": [
-        "D",
         "W",
         "W",
         "L",
@@ -357,7 +356,8 @@
         "L",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -506,11 +506,6 @@
       "home": "leomessi",
       "away": "XWRLD_REAPERS",
       "id": 1773377527045
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "CRANK_",
-      "id": 1773377527047
     },
     {
       "home": "Sailor",
@@ -1964,7 +1959,16 @@
       "awayGoals": 2,
       "id": 1773473609105,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_KING_KHESWA._1773473608009.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773473997246,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_CRANK__1773473996328.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:33:33.457Z"
+  "lastUpdated": "2026-03-14T07:40:00.891Z"
 }
