@@ -4,16 +4,15 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 17,
-      "wins": 5,
+      "played": 18,
+      "wins": 6,
       "draws": 5,
       "losses": 7,
-      "points": 20,
-      "gf": 16,
+      "points": 23,
+      "gf": 19,
       "ga": 21,
       "form": [
         "W",
-        "W",
         "D",
         "L",
         "D",
@@ -21,7 +20,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 18,
+      "played": 19,
       "wins": 3,
       "draws": 6,
-      "losses": 9,
+      "losses": 10,
       "points": 15,
       "gf": 8,
-      "ga": 30,
+      "ga": 33,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -92,6 +91,7 @@
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ]
@@ -506,11 +506,6 @@
       "home": "Dontwindraw",
       "away": "CRANK_",
       "id": 1773474212738
-    },
-    {
-      "home": "bhaze",
-      "away": "Lukie",
-      "id": 1773474212742
     },
     {
       "home": "RFT07",
@@ -2021,7 +2016,16 @@
       "away": "wham",
       "result": "draw",
       "id": 1773474181889
+    },
+    {
+      "home": "bhaze",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773514763300,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Lukie_1773514753407.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:43:33.346Z"
+  "lastUpdated": "2026-03-14T18:59:26.182Z"
 }
