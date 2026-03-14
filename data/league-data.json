@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 16,
+      "played": 17,
       "wins": 10,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
-      "points": 32,
-      "gf": 27,
-      "ga": 11,
+      "points": 33,
+      "gf": 29,
+      "ga": 13,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -69,7 +68,8 @@
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 14,
+      "played": 15,
       "wins": 6,
-      "draws": 7,
+      "draws": 8,
       "losses": 1,
-      "points": 25,
-      "gf": 19,
-      "ga": 7,
+      "points": 26,
+      "gf": 21,
+      "ga": 9,
       "form": [
-        "W",
         "D",
         "D",
         "D",
@@ -381,7 +380,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -511,11 +511,6 @@
       "home": "Yungboyshlime",
       "away": "CRANK_",
       "id": 1773377527047
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "KING_KHESWA.",
-      "id": 1773377527049
     },
     {
       "home": "Sailor",
@@ -1960,7 +1955,16 @@
       "awayGoals": 0,
       "id": 1773473556390,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773473555464.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "KING_KHESWA.",
+      "result": "draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "id": 1773473609105,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_KING_KHESWA._1773473608009.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:32:39.394Z"
+  "lastUpdated": "2026-03-14T07:33:33.457Z"
 }
