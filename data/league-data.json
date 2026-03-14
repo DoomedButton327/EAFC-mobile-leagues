@@ -4,20 +4,20 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 16,
+      "played": 17,
       "wins": 5,
       "draws": 5,
-      "losses": 6,
+      "losses": 7,
       "points": 20,
       "gf": 16,
-      "ga": 18,
+      "ga": 21,
       "form": [
-        "W",
         "W",
         "W",
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L",
@@ -436,16 +436,15 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 14,
-      "wins": 6,
+      "played": 15,
+      "wins": 7,
       "draws": 2,
       "losses": 6,
-      "points": 20,
-      "gf": 13,
+      "points": 23,
+      "gf": 16,
       "ga": 16,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
@@ -453,7 +452,8 @@
         "L",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "E1even-Starz",
       "away": "wham",
       "id": 1773377527041
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "bhaze",
-      "id": 1773377527043
     },
     {
       "home": "leomessi",
@@ -1956,7 +1951,16 @@
       "awayGoals": 3,
       "id": 1773473535184,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Zan-Ten_1773473532198.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "bhaze",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773473556390,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773473555464.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:32:17.798Z"
+  "lastUpdated": "2026-03-14T07:32:39.394Z"
 }
