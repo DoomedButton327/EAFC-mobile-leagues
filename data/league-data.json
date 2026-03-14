@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 15,
+      "played": 16,
       "wins": 14,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
-      "points": 42,
+      "points": 43,
       "gf": 41,
       "ga": 7,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -261,7 +260,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -316,15 +316,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 13,
+      "played": 14,
       "wins": 9,
-      "draws": 2,
+      "draws": 3,
       "losses": 2,
-      "points": 29,
+      "points": 30,
       "gf": 25,
       "ga": 7,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -333,7 +332,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -535,11 +535,6 @@
       "home": "Barca.",
       "away": "Zan-Ten",
       "id": 1773377527055
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "RFT07",
-      "id": 1773377527057
     }
   ],
   "results": [
@@ -1947,7 +1942,16 @@
       "awayGoals": 5,
       "id": 1773473464820,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_RoyalAM_1773473463586.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "RFT07",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773473499623,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_RFT07_1773473498679.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:31:07.816Z"
+  "lastUpdated": "2026-03-14T07:31:42.406Z"
 }
