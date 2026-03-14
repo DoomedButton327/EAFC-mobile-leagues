@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 16,
+      "played": 17,
       "wins": 2,
       "draws": 6,
-      "losses": 8,
+      "losses": 9,
       "points": 11,
       "gf": 6,
-      "ga": 28,
+      "ga": 31,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -429,6 +428,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L"
       ]
     },
@@ -460,12 +460,12 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 9,
-      "wins": 3,
+      "played": 10,
+      "wins": 4,
       "draws": 2,
       "losses": 4,
-      "points": 11,
-      "gf": 12,
+      "points": 14,
+      "gf": 15,
       "ga": 13,
       "form": [
         "L",
@@ -476,6 +476,7 @@
         "W",
         "L",
         "D",
+        "W",
         "W"
       ]
     }
@@ -530,11 +531,6 @@
       "home": "SMANGALISO",
       "away": "Ctaum-cpt",
       "id": 1773377527053
-    },
-    {
-      "home": "Barca.",
-      "away": "Zan-Ten",
-      "id": 1773377527055
     }
   ],
   "results": [
@@ -1951,7 +1947,16 @@
       "awayGoals": 0,
       "id": 1773473499623,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_RFT07_1773473498679.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773473535184,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Zan-Ten_1773473532198.jpg"
     }
   ],
-  "lastUpdated": "2026-03-14T07:31:42.406Z"
+  "lastUpdated": "2026-03-14T07:32:17.798Z"
 }
