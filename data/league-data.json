@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 17,
+      "played": 18,
       "wins": 3,
-      "draws": 6,
+      "draws": 7,
       "losses": 8,
-      "points": 15,
+      "points": 16,
       "gf": 11,
       "ga": 20,
       "form": [
-        "W",
         "D",
         "D",
         "L",
@@ -237,7 +236,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -460,15 +460,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 10,
+      "played": 11,
       "wins": 4,
-      "draws": 2,
+      "draws": 3,
       "losses": 4,
-      "points": 14,
+      "points": 15,
       "gf": 15,
       "ga": 13,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -477,7 +476,8 @@
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     }
   ],
@@ -506,11 +506,6 @@
       "home": "Dontwindraw",
       "away": "CRANK_",
       "id": 1773474212738
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "SMANGALISO",
-      "id": 1773474212750
     },
     {
       "home": "Sailor",
@@ -2037,7 +2032,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1773601139586
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1773601141994
     }
   ],
-  "lastUpdated": "2026-03-15T18:59:00.190Z"
+  "lastUpdated": "2026-03-15T18:59:02.596Z"
 }
