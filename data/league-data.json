@@ -292,11 +292,11 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 15,
+      "played": 16,
       "wins": 0,
-      "draws": 4,
+      "draws": 5,
       "losses": 11,
-      "points": 4,
+      "points": 5,
       "gf": 3,
       "ga": 37,
       "form": [
@@ -305,10 +305,10 @@
         "L",
         "L",
         "L",
-        "L",
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -364,23 +364,23 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 15,
+      "played": 16,
       "wins": 6,
-      "draws": 8,
+      "draws": 9,
       "losses": 1,
-      "points": 26,
+      "points": 27,
       "gf": 21,
       "ga": 9,
       "form": [
         "D",
         "D",
         "D",
-        "D",
         "W",
         "W",
         "D",
         "W",
         "W",
+        "D",
         "D"
       ]
     },
@@ -506,11 +506,6 @@
       "home": "Dontwindraw",
       "away": "CRANK_",
       "id": 1773474212738
-    },
-    {
-      "home": "wham",
-      "away": "Nigelmj21",
-      "id": 1773474212746
     },
     {
       "home": "Zan-Ten",
@@ -2036,7 +2031,13 @@
       "awayGoals": 3,
       "id": 1773520790862,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_KING_KHESWA._1773520789602.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "id": 1773601139586
     }
   ],
-  "lastUpdated": "2026-03-14T20:39:53.683Z"
+  "lastUpdated": "2026-03-15T18:59:00.190Z"
 }
