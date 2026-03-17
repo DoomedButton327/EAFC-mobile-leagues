@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 17,
+      "played": 18,
       "wins": 5,
-      "draws": 5,
+      "draws": 6,
       "losses": 7,
-      "points": 20,
+      "points": 21,
       "gf": 17,
       "ga": 18,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -45,6 +44,7 @@
         "W",
         "D",
         "W",
+        "D",
         "D"
       ]
     },
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 17,
+      "played": 18,
       "wins": 2,
-      "draws": 6,
+      "draws": 7,
       "losses": 9,
-      "points": 11,
+      "points": 12,
       "gf": 6,
       "ga": 31,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -429,7 +428,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "leomessi",
       "away": "XWRLD_REAPERS",
       "id": 1773377527045
-    },
-    {
-      "home": "Sailor",
-      "away": "Barca.",
-      "id": 1773474212752
     },
     {
       "home": "leomessi",
@@ -2124,7 +2119,13 @@
       "awayGoals": 3,
       "id": 1773733136287,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_XWRLD_REAPERS_1773733135028.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1773733239317
     }
   ],
-  "lastUpdated": "2026-03-17T07:38:59.742Z"
+  "lastUpdated": "2026-03-17T07:40:39.919Z"
 }
