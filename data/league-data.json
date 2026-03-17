@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 18,
-      "wins": 11,
+      "played": 19,
+      "wins": 12,
       "draws": 3,
       "losses": 4,
-      "points": 36,
-      "gf": 32,
+      "points": 39,
+      "gf": 35,
       "ga": 13,
       "form": [
-        "W",
         "W",
         "L",
         "D",
@@ -69,6 +68,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -76,21 +76,21 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 19,
+      "played": 20,
       "wins": 3,
       "draws": 6,
-      "losses": 10,
+      "losses": 11,
       "points": 15,
       "gf": 8,
-      "ga": 33,
+      "ga": 36,
       "form": [
-        "L",
         "L",
         "D",
         "D",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -526,11 +526,6 @@
       "home": "Sailor",
       "away": "RoyalAM",
       "id": 1773601151738
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "Lukie",
-      "id": 1773601151744
     },
     {
       "home": "DJRonaldoZA",
@@ -2112,7 +2107,16 @@
       "awayGoals": 3,
       "id": 1773733053948,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Nigelmj21_1773733052710.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773733096882,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Lukie_1773733095974.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:37:37.958Z"
+  "lastUpdated": "2026-03-17T07:38:20.324Z"
 }
