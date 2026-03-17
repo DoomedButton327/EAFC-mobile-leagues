@@ -316,23 +316,23 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 15,
+      "played": 16,
       "wins": 9,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 30,
       "gf": 26,
-      "ga": 9,
+      "ga": 14,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "W",
         "D",
         "W",
         "W",
         "D",
+        "L",
         "L"
       ]
     },
@@ -340,16 +340,15 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 15,
-      "wins": 5,
+      "played": 16,
+      "wins": 6,
       "draws": 5,
       "losses": 5,
-      "points": 20,
-      "gf": 17,
+      "points": 23,
+      "gf": 22,
       "ga": 14,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "L",
@@ -357,6 +356,7 @@
         "W",
         "D",
         "D",
+        "W",
         "W"
       ]
     },
@@ -501,11 +501,6 @@
       "home": "leomessi",
       "away": "XWRLD_REAPERS",
       "id": 1773377527045
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "CRANK_",
-      "id": 1773474212738
     },
     {
       "home": "Sailor",
@@ -2116,7 +2111,16 @@
       "awayGoals": 0,
       "id": 1773733096882,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Lukie_1773733095974.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "id": 1773733117783,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_CRANK__1773733116796.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:38:20.324Z"
+  "lastUpdated": "2026-03-17T07:38:41.381Z"
 }
