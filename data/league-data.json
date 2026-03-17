@@ -172,15 +172,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 18,
+      "played": 19,
       "wins": 0,
       "draws": 9,
-      "losses": 9,
+      "losses": 10,
       "points": 9,
       "gf": 2,
-      "ga": 28,
+      "ga": 31,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -189,6 +188,7 @@
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -388,16 +388,15 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 17,
-      "wins": 7,
+      "played": 18,
+      "wins": 8,
       "draws": 6,
       "losses": 4,
-      "points": 27,
-      "gf": 25,
+      "points": 30,
+      "gf": 28,
       "ga": 19,
       "form": [
         "W",
-        "W",
         "D",
         "L",
         "D",
@@ -405,7 +404,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -526,11 +526,6 @@
       "home": "Barca.",
       "away": "wham",
       "id": 1773601151732
-    },
-    {
-      "home": "MGSatarou",
-      "away": "E1even-Starz",
-      "id": 1773601151734
     },
     {
       "home": "Sailor",
@@ -2104,7 +2099,16 @@
       "awayGoals": 3,
       "id": 1773732975178,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Ctaum-cpt_1773732974299.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773733016635,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_E1even-Starz_1773733015789.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:36:17.978Z"
+  "lastUpdated": "2026-03-17T07:36:59.658Z"
 }
