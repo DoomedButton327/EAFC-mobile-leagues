@@ -4,23 +4,23 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 18,
-      "wins": 6,
+      "played": 19,
+      "wins": 7,
       "draws": 5,
       "losses": 7,
-      "points": 23,
-      "gf": 19,
-      "ga": 21,
+      "points": 26,
+      "gf": 21,
+      "ga": 22,
       "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
         "W",
-        "D",
-        "L",
-        "D",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
         "W"
       ]
     },
@@ -220,16 +220,15 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 18,
+      "played": 19,
       "wins": 3,
       "draws": 7,
-      "losses": 8,
+      "losses": 9,
       "points": 16,
-      "gf": 11,
-      "ga": 20,
+      "gf": 12,
+      "ga": 22,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "L",
@@ -237,7 +236,8 @@
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -536,11 +536,6 @@
       "home": "MGSatarou",
       "away": "E1even-Starz",
       "id": 1773601151734
-    },
-    {
-      "home": "bhaze",
-      "away": "SMANGALISO",
-      "id": 1773601151736
     },
     {
       "home": "Sailor",
@@ -2088,7 +2083,16 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1773601141994
+    },
+    {
+      "home": "bhaze",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1773732882083,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_SMANGALISO_1773732881002.jpg"
     }
   ],
-  "lastUpdated": "2026-03-15T18:59:12.332Z"
+  "lastUpdated": "2026-03-17T07:34:44.913Z"
 }
