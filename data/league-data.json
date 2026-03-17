@@ -148,21 +148,21 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 18,
-      "wins": 7,
+      "played": 19,
+      "wins": 8,
       "draws": 7,
       "losses": 4,
-      "points": 28,
-      "gf": 28,
+      "points": 31,
+      "gf": 31,
       "ga": 18,
       "form": [
-        "L",
         "W",
         "W",
         "D",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 15,
+      "played": 16,
       "wins": 7,
       "draws": 2,
-      "losses": 6,
+      "losses": 7,
       "points": 23,
       "gf": 16,
-      "ga": 16,
+      "ga": 19,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -453,7 +452,8 @@
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -511,11 +511,6 @@
       "home": "Sailor",
       "away": "Barca.",
       "id": 1773474212752
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "Ctaum-cpt",
-      "id": 1773474212754
     },
     {
       "home": "leomessi",
@@ -2100,7 +2095,16 @@
       "awayGoals": 0,
       "id": 1773732955604,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Yungboyshlime_1773732954186.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773732975178,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_Ctaum-cpt_1773732974299.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:35:58.478Z"
+  "lastUpdated": "2026-03-17T07:36:17.978Z"
 }
