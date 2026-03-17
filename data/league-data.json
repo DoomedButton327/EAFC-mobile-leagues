@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 18,
+      "played": 19,
       "wins": 5,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
-      "points": 21,
+      "points": 22,
       "gf": 17,
       "ga": 18,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -44,6 +43,7 @@
         "W",
         "D",
         "W",
+        "D",
         "D",
         "D"
       ]
@@ -124,24 +124,24 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 18,
+      "played": 19,
       "wins": 11,
-      "draws": 0,
+      "draws": 1,
       "losses": 7,
-      "points": 33,
+      "points": 34,
       "gf": 34,
       "ga": 14,
       "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
         "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L"
+        "D"
       ]
     },
     {
@@ -511,11 +511,6 @@
       "home": "Barca.",
       "away": "wham",
       "id": 1773601151732
-    },
-    {
-      "home": "Sailor",
-      "away": "RoyalAM",
-      "id": 1773601151738
     },
     {
       "home": "leomessi",
@@ -2125,7 +2120,13 @@
       "away": "Barca.",
       "result": "draw",
       "id": 1773733239317
+    },
+    {
+      "home": "Sailor",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1773733242157
     }
   ],
-  "lastUpdated": "2026-03-17T07:40:39.919Z"
+  "lastUpdated": "2026-03-17T07:40:42.758Z"
 }
