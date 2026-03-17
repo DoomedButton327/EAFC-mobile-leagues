@@ -364,24 +364,24 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 16,
-      "wins": 6,
+      "played": 17,
+      "wins": 7,
       "draws": 9,
       "losses": 1,
-      "points": 27,
-      "gf": 21,
-      "ga": 9,
+      "points": 30,
+      "gf": 24,
+      "ga": 10,
       "form": [
         "D",
         "D",
-        "D",
         "W",
         "W",
         "D",
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -460,15 +460,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 11,
+      "played": 12,
       "wins": 4,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 15,
-      "gf": 15,
-      "ga": 13,
+      "gf": 16,
+      "ga": 16,
       "form": [
-        "W",
         "L",
         "D",
         "L",
@@ -477,7 +476,8 @@
         "D",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     }
   ],
@@ -516,11 +516,6 @@
       "home": "leomessi",
       "away": "MGSatarou",
       "id": 1773474212758
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "Nigelmj21",
-      "id": 1773601151730
     },
     {
       "home": "Barca.",
@@ -2108,7 +2103,16 @@
       "awayGoals": 0,
       "id": 1773733016635,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_E1even-Starz_1773733015789.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Nigelmj21",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "id": 1773733053948,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Nigelmj21_1773733052710.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:36:59.658Z"
+  "lastUpdated": "2026-03-17T07:37:37.958Z"
 }
