@@ -100,21 +100,21 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 17,
-      "wins": 9,
+      "played": 18,
+      "wins": 10,
       "draws": 4,
       "losses": 4,
-      "points": 31,
-      "gf": 24,
+      "points": 34,
+      "gf": 27,
       "ga": 13,
       "form": [
         "W",
         "W",
-        "W",
         "D",
         "D",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -436,23 +436,23 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 16,
+      "played": 17,
       "wins": 7,
       "draws": 2,
-      "losses": 7,
+      "losses": 8,
       "points": 23,
       "gf": 16,
-      "ga": 19,
+      "ga": 22,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L"
       ]
     },
@@ -521,11 +521,6 @@
       "home": "Sailor",
       "away": "RoyalAM",
       "id": 1773601151738
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "XWRLD_REAPERS",
-      "id": 1773601151746
     },
     {
       "home": "leomessi",
@@ -2120,7 +2115,16 @@
       "awayGoals": 5,
       "id": 1773733117783,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_CRANK__1773733116796.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773733136287,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_XWRLD_REAPERS_1773733135028.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:38:41.381Z"
+  "lastUpdated": "2026-03-17T07:38:59.742Z"
 }
