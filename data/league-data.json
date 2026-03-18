@@ -268,19 +268,19 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 13,
-      "wins": 9,
+      "played": 14,
+      "wins": 10,
       "draws": 1,
       "losses": 3,
-      "points": 30,
-      "gf": 30,
+      "points": 33,
+      "gf": 33,
       "ga": 9,
       "form": [
         "W",
         "W",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
         "W",
         "W",
         "W",
@@ -388,24 +388,24 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 18,
+      "played": 19,
       "wins": 8,
       "draws": 6,
-      "losses": 4,
+      "losses": 5,
       "points": 30,
       "gf": 28,
-      "ga": 19,
+      "ga": 22,
       "form": [
+        "D",
+        "L",
+        "D",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
         "W",
-        "D",
-        "L",
-        "D",
-        "L",
-        "L",
-        "L",
-        "D",
-        "D",
-        "W"
+        "L"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "leomessi",
       "away": "XWRLD_REAPERS",
       "id": 1773377527045
-    },
-    {
-      "home": "leomessi",
-      "away": "MGSatarou",
-      "id": 1773474212758
     },
     {
       "home": "leomessi",
@@ -2177,7 +2172,16 @@
       "away": "wham",
       "result": "draw",
       "id": 1773733288559
+    },
+    {
+      "home": "leomessi",
+      "away": "MGSatarou",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773817411826,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_MGSatarou_1773817410904.jpg"
     }
   ],
-  "lastUpdated": "2026-03-17T07:41:34.469Z"
+  "lastUpdated": "2026-03-18T07:03:34.817Z"
 }
