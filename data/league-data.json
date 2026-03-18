@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 19,
-      "wins": 12,
+      "played": 20,
+      "wins": 13,
       "draws": 3,
       "losses": 4,
-      "points": 39,
-      "gf": 35,
+      "points": 42,
+      "gf": 38,
       "ga": 13,
       "form": [
-        "W",
         "L",
         "D",
         "D",
@@ -68,6 +67,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -76,20 +76,20 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 20,
+      "played": 21,
       "wins": 3,
       "draws": 6,
-      "losses": 11,
+      "losses": 12,
       "points": 15,
       "gf": 8,
-      "ga": 36,
+      "ga": 39,
       "form": [
-        "L",
         "D",
         "D",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -516,11 +516,6 @@
       "home": "wham",
       "away": "leomessi",
       "id": 1773733293873
-    },
-    {
-      "home": "Lukie",
-      "away": "KING_KHESWA.",
-      "id": 1773733293875
     },
     {
       "home": "Yungboyshlime",
@@ -2193,7 +2188,16 @@
       "awayGoals": 3,
       "id": 1773817497406,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_Ctaum-cpt_1773817493029.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773817522379,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_KING_KHESWA._1773817516625.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:05:00.375Z"
+  "lastUpdated": "2026-03-18T07:05:24.732Z"
 }
