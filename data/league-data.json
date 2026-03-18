@@ -148,20 +148,20 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 19,
-      "wins": 8,
+      "played": 20,
+      "wins": 9,
       "draws": 7,
       "losses": 4,
-      "points": 31,
-      "gf": 31,
+      "points": 34,
+      "gf": 34,
       "ga": 18,
       "form": [
         "W",
-        "W",
         "D",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -316,22 +316,22 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 16,
+      "played": 17,
       "wins": 9,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 30,
       "gf": 26,
-      "ga": 14,
+      "ga": 17,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "D",
         "W",
         "W",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -506,11 +506,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "Ctaum-cpt",
-      "id": 1773733293869
     },
     {
       "home": "RFT07",
@@ -2189,7 +2184,16 @@
       "awayGoals": 3,
       "id": 1773817472778,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773817471855.jpg"
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773817497406,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_Ctaum-cpt_1773817493029.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:04:35.541Z"
+  "lastUpdated": "2026-03-18T07:05:00.375Z"
 }
