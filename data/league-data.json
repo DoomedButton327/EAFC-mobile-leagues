@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 19,
-      "wins": 7,
+      "played": 20,
+      "wins": 8,
       "draws": 5,
       "losses": 7,
-      "points": 26,
-      "gf": 21,
+      "points": 29,
+      "gf": 24,
       "ga": 22,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -20,6 +19,7 @@
         "L",
         "L",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -436,22 +436,22 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 17,
+      "played": 18,
       "wins": 7,
       "draws": 2,
-      "losses": 8,
+      "losses": 9,
       "points": 23,
       "gf": 16,
-      "ga": 22,
+      "ga": 25,
       "form": [
         "L",
-        "L",
         "W",
         "L",
         "W",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ]
@@ -541,11 +541,6 @@
       "home": "Nigelmj21",
       "away": "Barca.",
       "id": 1773733293882
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "bhaze",
-      "id": 1773733293884
     },
     {
       "home": "MGSatarou",
@@ -2185,7 +2180,16 @@
       "awayGoals": 2,
       "id": 1773817439304,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_SMANGALISO_1773817438351.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "bhaze",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773817472778,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_bhaze_1773817471855.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:04:02.216Z"
+  "lastUpdated": "2026-03-18T07:04:35.541Z"
 }
