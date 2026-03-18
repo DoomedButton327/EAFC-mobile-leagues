@@ -172,24 +172,24 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 19,
+      "played": 20,
       "wins": 0,
-      "draws": 9,
+      "draws": 10,
       "losses": 10,
-      "points": 9,
+      "points": 10,
       "gf": 2,
       "ga": 31,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "L",
         "D",
         "L",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 19,
+      "played": 20,
       "wins": 8,
-      "draws": 6,
+      "draws": 7,
       "losses": 5,
-      "points": 30,
+      "points": 31,
       "gf": 28,
       "ga": 22,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -405,7 +404,8 @@
         "D",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -521,11 +521,6 @@
       "home": "RoyalAM",
       "away": "Zan-Ten",
       "id": 1773733293879
-    },
-    {
-      "home": "MGSatarou",
-      "away": "E1even-Starz",
-      "id": 1773733293886
     },
     {
       "home": "Dontwindraw",
@@ -2254,7 +2249,13 @@
       "awayGoals": 3,
       "id": 1773818178830,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_CRANK__1773818177954.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1773818450451
     }
   ],
-  "lastUpdated": "2026-03-18T07:19:33.832Z"
+  "lastUpdated": "2026-03-18T07:20:51.055Z"
 }
