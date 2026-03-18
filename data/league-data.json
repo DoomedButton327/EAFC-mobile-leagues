@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 18,
+      "played": 19,
       "wins": 16,
       "draws": 1,
-      "losses": 1,
+      "losses": 2,
       "points": 49,
       "gf": 45,
-      "ga": 8,
+      "ga": 11,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -261,7 +260,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 16,
-      "wins": 6,
+      "played": 17,
+      "wins": 7,
       "draws": 5,
       "losses": 5,
-      "points": 23,
-      "gf": 22,
+      "points": 26,
+      "gf": 25,
       "ga": 14,
       "form": [
-        "W",
         "L",
         "D",
         "L",
@@ -356,6 +355,7 @@
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -506,11 +506,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "RFT07",
-      "away": "CRANK_",
-      "id": 1773733293871
     },
     {
       "home": "wham",
@@ -2200,7 +2195,16 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1773817539813
+    },
+    {
+      "home": "RFT07",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773818178830,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_CRANK__1773818177954.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:05:40.416Z"
+  "lastUpdated": "2026-03-18T07:16:22.650Z"
 }
