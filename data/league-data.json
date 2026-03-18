@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 19,
+      "played": 20,
       "wins": 5,
       "draws": 7,
-      "losses": 7,
+      "losses": 8,
       "points": 22,
       "gf": 17,
-      "ga": 18,
+      "ga": 20,
       "form": [
-        "W",
         "L",
         "L",
         "W",
@@ -45,7 +44,8 @@
         "W",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 19,
-      "wins": 3,
+      "played": 20,
+      "wins": 4,
       "draws": 7,
       "losses": 9,
-      "points": 16,
-      "gf": 12,
+      "points": 19,
+      "gf": 14,
       "ga": 22,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -237,7 +236,8 @@
         "L",
         "L",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -506,11 +506,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "Sailor",
-      "away": "SMANGALISO",
-      "id": 1773733293867
     },
     {
       "home": "Dontwindraw",
@@ -2181,7 +2176,16 @@
       "awayGoals": 0,
       "id": 1773817411826,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_MGSatarou_1773817410904.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "SMANGALISO",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1773817439304,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_SMANGALISO_1773817438351.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:03:34.817Z"
+  "lastUpdated": "2026-03-18T07:04:02.216Z"
 }
