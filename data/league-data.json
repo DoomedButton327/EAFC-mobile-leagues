@@ -196,23 +196,23 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 20,
+      "played": 21,
       "wins": 1,
-      "draws": 7,
+      "draws": 8,
       "losses": 12,
-      "points": 10,
+      "points": 11,
       "gf": 3,
       "ga": 34,
       "form": [
         "D",
         "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
         "D",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
         "D"
       ]
     },
@@ -412,16 +412,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 20,
+      "played": 21,
       "wins": 2,
-      "draws": 8,
+      "draws": 9,
       "losses": 10,
-      "points": 13,
+      "points": 14,
       "gf": 6,
       "ga": 34,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "D",
@@ -429,7 +428,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -486,11 +486,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "Barca.",
-      "id": 1773818373241
     }
   ],
   "results": [
@@ -2313,7 +2308,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1773902544167
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1773902544902
     }
   ],
-  "lastUpdated": "2026-03-19T06:42:24.770Z"
+  "lastUpdated": "2026-03-19T06:42:25.503Z"
 }
