@@ -100,16 +100,15 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 20,
+      "played": 21,
       "wins": 11,
-      "draws": 5,
+      "draws": 6,
       "losses": 4,
-      "points": 38,
+      "points": 39,
       "gf": 31,
       "ga": 14,
       "form": [
         "D",
-        "D",
         "W",
         "D",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "W",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -196,15 +196,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 19,
+      "played": 20,
       "wins": 1,
-      "draws": 6,
+      "draws": 7,
       "losses": 12,
-      "points": 9,
+      "points": 10,
       "gf": 3,
       "ga": 34,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -213,7 +212,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -486,11 +486,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
-      "id": 1773733293877
     },
     {
       "home": "CRANK_",
@@ -2311,7 +2306,13 @@
       "awayGoals": 0,
       "id": 1773902505883,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_KING_KHESWA._1773902483277.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "id": 1773902543384
     }
   ],
-  "lastUpdated": "2026-03-19T06:41:49.712Z"
+  "lastUpdated": "2026-03-19T06:42:23.985Z"
 }
