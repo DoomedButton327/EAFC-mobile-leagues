@@ -172,16 +172,15 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 20,
+      "played": 21,
       "wins": 0,
-      "draws": 10,
+      "draws": 11,
       "losses": 10,
-      "points": 10,
+      "points": 11,
       "gf": 2,
       "ga": 31,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
@@ -189,6 +188,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 17,
+      "played": 18,
       "wins": 7,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
-      "points": 26,
+      "points": 27,
       "gf": 25,
       "ga": 14,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -357,7 +356,8 @@
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -486,11 +486,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "CRANK_",
-      "away": "E1even-Starz",
-      "id": 1773818373237
     },
     {
       "home": "Yungboyshlime",
@@ -2312,7 +2307,13 @@
       "away": "XWRLD_REAPERS",
       "result": "draw",
       "id": 1773902543384
+    },
+    {
+      "home": "CRANK_",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1773902544167
     }
   ],
-  "lastUpdated": "2026-03-19T06:42:23.985Z"
+  "lastUpdated": "2026-03-19T06:42:24.770Z"
 }
