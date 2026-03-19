@@ -100,15 +100,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 19,
-      "wins": 10,
+      "played": 20,
+      "wins": 11,
       "draws": 5,
       "losses": 4,
-      "points": 35,
-      "gf": 28,
+      "points": 38,
+      "gf": 31,
       "ga": 14,
       "form": [
-        "W",
         "D",
         "D",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 20,
+      "played": 21,
       "wins": 4,
       "draws": 7,
-      "losses": 9,
+      "losses": 10,
       "points": 19,
       "gf": 14,
-      "ga": 22,
+      "ga": 25,
       "form": [
-        "L",
         "D",
         "L",
         "D",
@@ -237,7 +236,8 @@
         "L",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -506,11 +506,6 @@
       "home": "Yungboyshlime",
       "away": "Barca.",
       "id": 1773818373241
-    },
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "SMANGALISO",
-      "id": 1773818373243
     }
   ],
   "results": [
@@ -2303,7 +2298,16 @@
       "awayGoals": 3,
       "id": 1773902050285,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_DJRonaldoZA_1773902049216.jpg"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773902079441,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_SMANGALISO_1773902078585.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:34:13.385Z"
+  "lastUpdated": "2026-03-19T06:34:42.438Z"
 }
