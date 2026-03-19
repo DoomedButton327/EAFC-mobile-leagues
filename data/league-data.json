@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 20,
+      "played": 21,
       "wins": 13,
-      "draws": 3,
+      "draws": 4,
       "losses": 4,
-      "points": 42,
+      "points": 43,
       "gf": 38,
       "ga": 13,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -69,7 +68,8 @@
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -124,11 +124,11 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 20,
+      "played": 21,
       "wins": 11,
-      "draws": 1,
+      "draws": 2,
       "losses": 8,
-      "points": 34,
+      "points": 35,
       "gf": 34,
       "ga": 15,
       "form": [
@@ -138,10 +138,10 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -496,11 +496,6 @@
       "home": "CRANK_",
       "away": "E1even-Starz",
       "id": 1773818373237
-    },
-    {
-      "home": "RoyalAM",
-      "away": "KING_KHESWA.",
-      "id": 1773818373239
     },
     {
       "home": "Yungboyshlime",
@@ -2307,7 +2302,16 @@
       "awayGoals": 0,
       "id": 1773902079441,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_SMANGALISO_1773902078585.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "KING_KHESWA.",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773902505883,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_KING_KHESWA._1773902483277.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:34:42.438Z"
+  "lastUpdated": "2026-03-19T06:41:49.712Z"
 }
