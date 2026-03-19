@@ -268,12 +268,12 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 18,
-      "wins": 13,
+      "played": 19,
+      "wins": 14,
       "draws": 2,
       "losses": 3,
-      "points": 43,
-      "gf": 43,
+      "points": 46,
+      "gf": 46,
       "ga": 10,
       "form": [
         "W",
@@ -281,8 +281,8 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -292,21 +292,21 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 20,
+      "played": 21,
       "wins": 0,
       "draws": 6,
-      "losses": 14,
+      "losses": 15,
       "points": 6,
       "gf": 3,
-      "ga": 46,
+      "ga": 49,
       "form": [
-        "L",
         "D",
         "L",
         "L",
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -501,11 +501,6 @@
       "home": "Zan-Ten",
       "away": "DJRonaldoZA",
       "id": 1773818373231
-    },
-    {
-      "home": "leomessi",
-      "away": "wham",
-      "id": 1773818373235
     },
     {
       "home": "CRANK_",
@@ -2291,7 +2286,16 @@
       "awayGoals": 3,
       "id": 1773901931857,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_leomessi_1773901931060.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773901950473,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_wham_1773901949300.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:32:15.380Z"
+  "lastUpdated": "2026-03-19T06:32:34.143Z"
 }
