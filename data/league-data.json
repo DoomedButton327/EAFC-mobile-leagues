@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 19,
-      "wins": 7,
+      "played": 20,
+      "wins": 8,
       "draws": 2,
       "losses": 10,
-      "points": 23,
-      "gf": 16,
+      "points": 26,
+      "gf": 19,
       "ga": 28,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -453,22 +452,22 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 13,
+      "played": 14,
       "wins": 5,
       "draws": 3,
-      "losses": 5,
+      "losses": 6,
       "points": 18,
       "gf": 17,
-      "ga": 16,
+      "ga": 19,
       "form": [
-        "D",
         "L",
         "W",
         "L",
@@ -477,7 +476,8 @@
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     }
   ],
@@ -491,11 +491,6 @@
       "home": "Yungboyshlime",
       "away": "XWRLD_REAPERS",
       "id": 1773733293877
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "DJRonaldoZA",
-      "id": 1773818373231
     },
     {
       "home": "CRANK_",
@@ -2299,7 +2294,16 @@
       "awayGoals": 3,
       "id": 1773902036530,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_leomessi_1773902035525.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "DJRonaldoZA",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773902050285,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_DJRonaldoZA_1773902049216.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:33:59.152Z"
+  "lastUpdated": "2026-03-19T06:34:13.385Z"
 }
