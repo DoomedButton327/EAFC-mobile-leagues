@@ -28,23 +28,23 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 20,
+      "played": 21,
       "wins": 5,
       "draws": 7,
-      "losses": 8,
+      "losses": 9,
       "points": 22,
       "gf": 17,
-      "ga": 20,
+      "ga": 21,
       "form": [
         "L",
+        "W",
+        "W",
+        "D",
+        "W",
+        "D",
+        "D",
+        "D",
         "L",
-        "W",
-        "W",
-        "D",
-        "W",
-        "D",
-        "D",
-        "D",
         "L"
       ]
     },
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 20,
-      "wins": 8,
+      "played": 21,
+      "wins": 9,
       "draws": 7,
       "losses": 5,
-      "points": 31,
-      "gf": 28,
+      "points": 34,
+      "gf": 29,
       "ga": 22,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -405,7 +404,8 @@
         "D",
         "W",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -521,11 +521,6 @@
       "home": "Zan-Ten",
       "away": "DJRonaldoZA",
       "id": 1773818373231
-    },
-    {
-      "home": "MGSatarou",
-      "away": "Sailor",
-      "id": 1773818373233
     },
     {
       "home": "leomessi",
@@ -2271,7 +2266,16 @@
       "awayGoals": 2,
       "id": 1773901777006,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Nigelmj21_1773901775820.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1773901823118,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/MGSatarou_vs_Sailor_1773901820495.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:29:40.194Z"
+  "lastUpdated": "2026-03-19T06:30:25.613Z"
 }
