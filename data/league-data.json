@@ -100,16 +100,15 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 18,
+      "played": 19,
       "wins": 10,
-      "draws": 4,
+      "draws": 5,
       "losses": 4,
-      "points": 34,
-      "gf": 27,
-      "ga": 13,
+      "points": 35,
+      "gf": 28,
+      "ga": 14,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -268,16 +268,15 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 14,
+      "played": 15,
       "wins": 10,
-      "draws": 1,
+      "draws": 2,
       "losses": 3,
-      "points": 33,
-      "gf": 33,
-      "ga": 9,
+      "points": 34,
+      "gf": 34,
+      "ga": 10,
       "form": [
         "W",
-        "W",
         "L",
         "L",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -496,11 +496,6 @@
       "home": "leomessi",
       "away": "wham",
       "id": 1773300219629
-    },
-    {
-      "home": "leomessi",
-      "away": "XWRLD_REAPERS",
-      "id": 1773377527045
     },
     {
       "home": "leomessi",
@@ -2263,7 +2258,16 @@
       "awayGoals": 1,
       "id": 1773901703486,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Zan-Ten_1773901702368.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1773901756098,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_XWRLD_REAPERS_1773901749845.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:28:26.590Z"
+  "lastUpdated": "2026-03-19T06:29:19.245Z"
 }
