@@ -124,13 +124,13 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 19,
+      "played": 20,
       "wins": 11,
       "draws": 1,
-      "losses": 7,
+      "losses": 8,
       "points": 34,
       "gf": 34,
-      "ga": 14,
+      "ga": 15,
       "form": [
         "W",
         "W",
@@ -139,9 +139,9 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -460,15 +460,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 12,
-      "wins": 4,
+      "played": 13,
+      "wins": 5,
       "draws": 3,
       "losses": 5,
-      "points": 15,
-      "gf": 16,
+      "points": 18,
+      "gf": 17,
       "ga": 16,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -477,7 +476,8 @@
         "W",
         "W",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     }
   ],
@@ -516,11 +516,6 @@
       "home": "Yungboyshlime",
       "away": "XWRLD_REAPERS",
       "id": 1773733293877
-    },
-    {
-      "home": "RoyalAM",
-      "away": "Zan-Ten",
-      "id": 1773733293879
     },
     {
       "home": "Dontwindraw",
@@ -2259,7 +2254,16 @@
       "awayGoals": 3,
       "id": 1773901682365,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_Ctaum-cpt_1773901681459.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1773901703486,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Zan-Ten_1773901702368.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:28:04.744Z"
+  "lastUpdated": "2026-03-19T06:28:26.590Z"
 }
