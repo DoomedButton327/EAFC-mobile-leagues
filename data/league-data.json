@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 19,
-      "wins": 16,
+      "played": 20,
+      "wins": 17,
       "draws": 1,
       "losses": 2,
-      "points": 49,
-      "gf": 45,
-      "ga": 11,
+      "points": 52,
+      "gf": 48,
+      "ga": 13,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -261,7 +260,8 @@
         "D",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 18,
+      "played": 19,
       "wins": 8,
       "draws": 9,
-      "losses": 1,
+      "losses": 2,
       "points": 33,
-      "gf": 27,
-      "ga": 10,
+      "gf": 29,
+      "ga": 13,
       "form": [
-        "D",
         "W",
         "W",
         "D",
@@ -381,7 +380,8 @@
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -551,11 +551,6 @@
       "home": "XWRLD_REAPERS",
       "away": "SMANGALISO",
       "id": 1773818373243
-    },
-    {
-      "home": "RFT07",
-      "away": "Nigelmj21",
-      "id": 1773818373247
     }
   ],
   "results": [
@@ -2267,7 +2262,16 @@
       "awayGoals": 1,
       "id": 1773901756098,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_XWRLD_REAPERS_1773901749845.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "Nigelmj21",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "id": 1773901777006,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Nigelmj21_1773901775820.jpg"
     }
   ],
-  "lastUpdated": "2026-03-19T06:29:19.245Z"
+  "lastUpdated": "2026-03-19T06:29:40.194Z"
 }
