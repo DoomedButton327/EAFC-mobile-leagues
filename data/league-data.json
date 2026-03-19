@@ -76,19 +76,19 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 21,
+      "played": 22,
       "wins": 3,
       "draws": 6,
-      "losses": 12,
+      "losses": 13,
       "points": 15,
       "gf": 8,
-      "ga": 39,
+      "ga": 42,
       "form": [
-        "D",
         "D",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L",
@@ -148,19 +148,19 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 20,
-      "wins": 9,
+      "played": 21,
+      "wins": 10,
       "draws": 7,
       "losses": 4,
-      "points": 34,
-      "gf": 34,
+      "points": 37,
+      "gf": 37,
       "ga": 18,
       "form": [
-        "W",
         "D",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -561,11 +561,6 @@
       "home": "XWRLD_REAPERS",
       "away": "SMANGALISO",
       "id": 1773818373243
-    },
-    {
-      "home": "Lukie",
-      "away": "Ctaum-cpt",
-      "id": 1773818373245
     },
     {
       "home": "RFT07",
@@ -2255,7 +2250,16 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1773818450451
+    },
+    {
+      "home": "Lukie",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773901682365,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_Ctaum-cpt_1773901681459.jpg"
     }
   ],
-  "lastUpdated": "2026-03-18T07:20:51.055Z"
+  "lastUpdated": "2026-03-19T06:28:04.744Z"
 }
