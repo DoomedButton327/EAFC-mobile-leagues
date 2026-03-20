@@ -52,16 +52,15 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 21,
+      "played": 22,
       "wins": 13,
       "draws": 4,
-      "losses": 4,
+      "losses": 5,
       "points": 43,
-      "gf": 38,
-      "ga": 13,
+      "gf": 39,
+      "ga": 15,
       "form": [
         "D",
-        "D",
         "W",
         "W",
         "W",
@@ -69,7 +68,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -268,19 +268,19 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 20,
-      "wins": 15,
+      "played": 21,
+      "wins": 16,
       "draws": 2,
       "losses": 3,
-      "points": 49,
-      "gf": 49,
-      "ga": 10,
+      "points": 52,
+      "gf": 51,
+      "ga": 11,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -496,11 +496,6 @@
       "home": "Nigelmj21",
       "away": "wham",
       "id": 1773902553642
-    },
-    {
-      "home": "leomessi",
-      "away": "KING_KHESWA.",
-      "id": 1773902553644
     },
     {
       "home": "Barca.",
@@ -2364,7 +2359,15 @@
       "away": "Barca.",
       "result": "draw",
       "id": 1773902544902
+    },
+    {
+      "home": "leomessi",
+      "away": "KING_KHESWA.",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1773991189425
     }
   ],
-  "lastUpdated": "2026-03-19T06:42:34.241Z"
+  "lastUpdated": "2026-03-20T07:19:50.057Z"
 }
