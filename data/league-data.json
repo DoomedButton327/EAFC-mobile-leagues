@@ -268,18 +268,18 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 21,
-      "wins": 16,
+      "played": 22,
+      "wins": 17,
       "draws": 2,
       "losses": 3,
-      "points": 52,
-      "gf": 51,
-      "ga": 11,
+      "points": 55,
+      "gf": 53,
+      "ga": 12,
       "form": [
         "W",
         "W",
-        "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -340,16 +340,15 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 19,
+      "played": 20,
       "wins": 8,
       "draws": 6,
-      "losses": 5,
+      "losses": 6,
       "points": 30,
-      "gf": 28,
-      "ga": 14,
+      "gf": 29,
+      "ga": 16,
       "form": [
         "L",
-        "L",
         "W",
         "D",
         "D",
@@ -357,7 +356,8 @@
         "W",
         "W",
         "D",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -482,11 +482,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "leomessi",
-      "away": "CRANK_",
-      "id": 1773601151748
-    },
     {
       "home": "Barca.",
       "away": "E1even-Starz",
@@ -2391,7 +2386,15 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "id": 1773991575608
+    },
+    {
+      "home": "leomessi",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1773991583521
     }
   ],
-  "lastUpdated": "2026-03-20T07:26:16.214Z"
+  "lastUpdated": "2026-03-20T07:26:24.127Z"
 }
