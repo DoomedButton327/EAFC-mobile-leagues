@@ -172,15 +172,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 21,
+      "played": 22,
       "wins": 0,
-      "draws": 11,
+      "draws": 12,
       "losses": 10,
-      "points": 11,
+      "points": 12,
       "gf": 2,
       "ga": 31,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -188,6 +187,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 21,
+      "played": 22,
       "wins": 2,
-      "draws": 9,
+      "draws": 10,
       "losses": 10,
-      "points": 14,
+      "points": 15,
       "gf": 6,
       "ga": 34,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -429,6 +428,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -481,13 +481,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "E1even-Starz",
-      "id": 1773902553646
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -2394,7 +2388,15 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "id": 1773991583521
+    },
+    {
+      "home": "Barca.",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773991654948
     }
   ],
-  "lastUpdated": "2026-03-20T07:26:24.127Z"
+  "lastUpdated": "2026-03-20T07:27:35.564Z"
 }
