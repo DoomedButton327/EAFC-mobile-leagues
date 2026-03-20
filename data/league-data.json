@@ -124,15 +124,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 21,
+      "played": 22,
       "wins": 11,
       "draws": 2,
-      "losses": 8,
+      "losses": 9,
       "points": 35,
       "gf": 34,
-      "ga": 15,
+      "ga": 18,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -141,7 +140,8 @@
         "L",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 18,
-      "wins": 7,
+      "played": 19,
+      "wins": 8,
       "draws": 6,
       "losses": 5,
-      "points": 27,
-      "gf": 25,
+      "points": 30,
+      "gf": 28,
       "ga": 14,
       "form": [
-        "D",
         "L",
         "L",
         "W",
@@ -357,7 +356,8 @@
         "W",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "SMANGALISO",
       "away": "Lukie",
       "id": 1773902553650
-    },
-    {
-      "home": "CRANK_",
-      "away": "RoyalAM",
-      "id": 1773902553652
     }
   ],
   "results": [
@@ -2382,7 +2377,15 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1773991447196
+    },
+    {
+      "home": "CRANK_",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773991454577
     }
   ],
-  "lastUpdated": "2026-03-20T07:24:07.803Z"
+  "lastUpdated": "2026-03-20T07:24:15.183Z"
 }
