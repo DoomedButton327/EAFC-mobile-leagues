@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 22,
+      "played": 23,
       "wins": 3,
-      "draws": 6,
+      "draws": 7,
       "losses": 13,
-      "points": 15,
+      "points": 16,
       "gf": 8,
       "ga": 42,
       "form": [
-        "D",
         "L",
         "L",
         "W",
@@ -93,7 +92,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 21,
+      "played": 22,
       "wins": 4,
-      "draws": 7,
+      "draws": 8,
       "losses": 10,
-      "points": 19,
+      "points": 20,
       "gf": 14,
       "ga": 25,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -237,7 +236,8 @@
         "D",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -491,11 +491,6 @@
       "home": "Barca.",
       "away": "E1even-Starz",
       "id": 1773902553646
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "Lukie",
-      "id": 1773902553650
     }
   ],
   "results": [
@@ -2388,7 +2383,15 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "id": 1773991565853
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Lukie",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773991575608
     }
   ],
-  "lastUpdated": "2026-03-20T07:26:06.486Z"
+  "lastUpdated": "2026-03-20T07:26:16.214Z"
 }
