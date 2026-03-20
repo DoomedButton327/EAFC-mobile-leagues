@@ -148,18 +148,18 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 21,
-      "wins": 10,
+      "played": 22,
+      "wins": 11,
       "draws": 7,
       "losses": 4,
-      "points": 37,
-      "gf": 37,
+      "points": 40,
+      "gf": 40,
       "ga": 18,
       "form": [
-        "D",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -196,16 +196,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 21,
+      "played": 22,
       "wins": 1,
       "draws": 8,
-      "losses": 12,
+      "losses": 13,
       "points": 11,
       "gf": 3,
-      "ga": 34,
+      "ga": 37,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
@@ -213,7 +212,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -506,11 +506,6 @@
       "home": "CRANK_",
       "away": "RoyalAM",
       "id": 1773902553652
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "Ctaum-cpt",
-      "id": 1773902553658
     }
   ],
   "results": [
@@ -2379,7 +2374,15 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1773991438267
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1773991447196
     }
   ],
-  "lastUpdated": "2026-03-20T07:23:58.874Z"
+  "lastUpdated": "2026-03-20T07:24:07.803Z"
 }
