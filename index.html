@@ -366,6 +366,21 @@
                     <button class="btn-outline" id="btn-force-sync" onclick="forceSyncToGitHub()" style="margin-top:4px; display:none;"><i class="fab fa-github"></i> Force Sync Now</button>
                 </div>
 
+                <!-- PUBLIC LEADERBOARD SYNC -->
+                <div class="admin-card admin-card--public">
+                    <div class="admin-card-icon" style="background:rgba(139,92,246,0.12); border-color:rgba(139,92,246,0.35); color:#a78bfa;"><i class="fas fa-globe"></i></div>
+                    <h3>Public Leaderboard Sync</h3>
+                    <p>Push live standings &amp; fixtures to your public-facing repo so players can view them without accessing this admin panel.</p>
+                    <input type="text"     id="pubOwner"  placeholder="Public Repo Owner">
+                    <input type="text"     id="pubRepo"   placeholder="Public Repo Name (e.g. league-public)">
+                    <input type="text"     id="pubBranch" placeholder="Branch (default: main)" value="main">
+                    <input type="password" id="pubToken"  placeholder="PAT Token for public repo">
+                    <div class="gh-token-hint"><i class="fas fa-lock"></i> Token stored locally only — never sent anywhere except GitHub's API.</div>
+                    <button class="btn-primary"   onclick="savePublicRepoConfig()"><i class="fas fa-save"></i> Save Public Config</button>
+                    <button class="btn-secondary" onclick="pushToPublicLeaderboard()"><i class="fas fa-upload"></i> Push to Public Leaderboard</button>
+                    <div id="pub-sync-status" class="gh-status-msg"></div>
+                </div>
+
                 <!-- MATCH EVIDENCE VIEWER (admin only) -->
                 <div class="admin-card admin-card--wide">
                     <div class="admin-card-icon"><i class="fas fa-photo-film"></i></div>
