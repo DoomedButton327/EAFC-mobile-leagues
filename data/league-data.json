@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 20,
-      "wins": 17,
+      "played": 21,
+      "wins": 18,
       "draws": 1,
       "losses": 2,
-      "points": 52,
-      "gf": 48,
+      "points": 55,
+      "gf": 51,
       "ga": 13,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -261,6 +260,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 20,
+      "played": 21,
       "wins": 8,
       "draws": 2,
-      "losses": 10,
+      "losses": 11,
       "points": 26,
       "gf": 19,
-      "ga": 28,
+      "ga": 31,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -453,7 +452,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -516,11 +516,6 @@
       "home": "CRANK_",
       "away": "RoyalAM",
       "id": 1773902553652
-    },
-    {
-      "home": "RFT07",
-      "away": "DJRonaldoZA",
-      "id": 1773902553656
     },
     {
       "home": "Yungboyshlime",
@@ -2370,7 +2365,15 @@
       "homeGoals": 0,
       "awayGoals": 2,
       "id": 1773991206220
+    },
+    {
+      "home": "RFT07",
+      "away": "DJRonaldoZA",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773991230874
     }
   ],
-  "lastUpdated": "2026-03-20T07:20:06.826Z"
+  "lastUpdated": "2026-03-20T07:20:31.479Z"
 }
