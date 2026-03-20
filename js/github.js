@@ -381,6 +381,35 @@ const GH = {
     },
 
     // ================================================================
+    // DIRECT COMMIT — targets a specific repo with its own credentials.
+    // Used to push data to the separate public leaderboard repo.
+    // ================================================================
+
+    async commitFileDirect(owner, repo, branch, token, path, content, commitMsg) {
+        const base    = 'https://api.github.com/repos/' + owner + '/' + repo;
+        const headers = {
+            'Authorization': 'token ' + token,
+            'Accept':        'application/vnd.github.v3+json',
+            'Content-Type':  'application/json'
+        };
+
+        // Fetch current SHA so we can update an existing file
+        let sha = null;
+        try {
+            const r = await fetch(base + '/contents/' + path + '?ref=' + branch, { headers });
+            if (r.ok) { const d = await r.json(); sha = d.sha || null; }
+        } catch(e) { /* new file — sha stays null */ }
+
+        const body = { message: commitMsg, branch, content: btoa(unescape(encodeURIComponent(content))) };
+        if (sha) body.sha = sha;
+
+        const res = await fetch(base + '/contents/' + path, {
+            method: 'PUT', headers, body: JSON.stringify(body)
+        });
+        return res.ok;
+    },
+
+    // ================================================================
     // TEST CONNECTION
     // ================================================================
 
