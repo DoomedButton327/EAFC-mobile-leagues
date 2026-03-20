@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 21,
+      "played": 22,
       "wins": 8,
-      "draws": 5,
+      "draws": 6,
       "losses": 8,
-      "points": 29,
+      "points": 30,
       "gf": 24,
       "ga": 23,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -21,22 +20,22 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 21,
+      "played": 22,
       "wins": 5,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
-      "points": 22,
+      "points": 23,
       "gf": 17,
       "ga": 21,
       "form": [
-        "L",
         "W",
         "W",
         "D",
@@ -45,7 +44,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -486,11 +486,6 @@
       "home": "leomessi",
       "away": "CRANK_",
       "id": 1773601151748
-    },
-    {
-      "home": "bhaze",
-      "away": "Sailor",
-      "id": 1773902553640
     },
     {
       "home": "Barca.",
@@ -2385,7 +2380,15 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1773991454577
+    },
+    {
+      "home": "bhaze",
+      "away": "Sailor",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773991565853
     }
   ],
-  "lastUpdated": "2026-03-20T07:24:15.183Z"
+  "lastUpdated": "2026-03-20T07:26:06.486Z"
 }
