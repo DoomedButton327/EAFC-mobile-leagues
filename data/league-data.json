@@ -316,16 +316,15 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 18,
+      "played": 19,
       "wins": 10,
-      "draws": 3,
+      "draws": 4,
       "losses": 5,
-      "points": 33,
+      "points": 34,
       "gf": 27,
       "ga": 17,
       "form": [
         "W",
-        "W",
         "D",
         "W",
         "W",
@@ -333,7 +332,8 @@
         "L",
         "L",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 21,
+      "played": 22,
       "wins": 9,
-      "draws": 7,
+      "draws": 8,
       "losses": 5,
-      "points": 34,
+      "points": 35,
       "gf": 29,
       "ga": 22,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -405,7 +404,8 @@
         "W",
         "L",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "Barca.",
       "away": "E1even-Starz",
       "id": 1773902553646
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "MGSatarou",
-      "id": 1773902553648
     },
     {
       "home": "SMANGALISO",
@@ -2373,7 +2368,15 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1773991230874
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "MGSatarou",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1773991378095
     }
   ],
-  "lastUpdated": "2026-03-20T07:20:31.479Z"
+  "lastUpdated": "2026-03-20T07:22:58.711Z"
 }
