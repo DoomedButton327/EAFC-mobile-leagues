@@ -62,7 +62,7 @@ function initNavigation() {
             document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
             btn.classList.add('active');
             document.getElementById(btn.dataset.tab).classList.add('active');
-            if (btn.dataset.tab === 'admin') renderEvidenceGrid();
+            if (btn.dataset.tab === 'admin') { renderEvidenceGrid(); loadPublicRepoConfigUI(); }
         });
     });
 }
@@ -494,6 +494,69 @@ function updatePlayerDatalist() {
 function updatePlayerCount() {
     const el = document.getElementById('player-count');
     if (el) el.textContent = players.length;
+}
+
+// ---- PUBLIC LEADERBOARD SYNC ----
+function savePublicRepoConfig() {
+    const owner  = document.getElementById('pubOwner').value.trim();
+    const repo   = document.getElementById('pubRepo').value.trim();
+    const branch = document.getElementById('pubBranch').value.trim() || 'main';
+    const token  = document.getElementById('pubToken').value.trim();
+    if (!owner || !repo || !token) { toast('Owner, repo, and token are required', 'error'); return; }
+    localStorage.setItem('eafc_public_gh', JSON.stringify({ owner, repo, branch, token }));
+    toast('Public repo config saved!', 'success');
+    const s = document.getElementById('pub-sync-status');
+    s.textContent = '✓ Config saved — ' + owner + '/' + repo;
+    s.className   = 'gh-status-msg gh-status-ok';
+}
+
+async function pushToPublicLeaderboard() {
+    const raw = localStorage.getItem('eafc_public_gh');
+    if (!raw) { toast('Configure public repo first', 'error'); return; }
+    const cfg = JSON.parse(raw);
+    const statusEl = document.getElementById('pub-sync-status');
+    statusEl.textContent = 'Pushing to public repo…';
+    statusEl.className   = 'gh-status-msg';
+
+    const payload = JSON.stringify(
+        { players, fixtures, results, lastUpdated: new Date().toISOString() },
+        null, 2
+    );
+    try {
+        const ok = await GH.commitFileDirect(
+            cfg.owner, cfg.repo, cfg.branch, cfg.token,
+            'data/league-data.json',
+            payload,
+            'Update public leaderboard — ' + new Date().toLocaleString('en-ZA')
+        );
+        if (ok) {
+            statusEl.textContent = '✓ Public leaderboard updated!';
+            statusEl.className   = 'gh-status-msg gh-status-ok';
+            toast('Public leaderboard updated!', 'success');
+        } else {
+            statusEl.textContent = '✗ Push failed — check token/repo';
+            statusEl.className   = 'gh-status-msg gh-status-error';
+            toast('Push failed — check config', 'error');
+        }
+    } catch(err) {
+        statusEl.textContent = '✗ Network error';
+        statusEl.className   = 'gh-status-msg gh-status-error';
+        toast('Network error', 'error');
+    }
+}
+
+// Load saved public repo config into fields when admin tab opens
+function loadPublicRepoConfigUI() {
+    const raw = localStorage.getItem('eafc_public_gh');
+    if (!raw) return;
+    const cfg = JSON.parse(raw);
+    const setVal = (id, v) => { const el = document.getElementById(id); if (el) el.value = v; };
+    setVal('pubOwner',  cfg.owner);
+    setVal('pubRepo',   cfg.repo);
+    setVal('pubBranch', cfg.branch);
+    setVal('pubToken',  cfg.token);
+    const s = document.getElementById('pub-sync-status');
+    if (s) { s.textContent = '✓ Config loaded — ' + cfg.owner + '/' + cfg.repo; s.className = 'gh-status-msg gh-status-ok'; }
 }
 
 // ---- GITHUB CONFIG (called from Admin buttons) ----
