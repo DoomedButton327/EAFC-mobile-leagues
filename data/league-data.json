@@ -100,15 +100,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 21,
-      "wins": 11,
+      "played": 22,
+      "wins": 12,
       "draws": 6,
       "losses": 4,
-      "points": 39,
-      "gf": 31,
+      "points": 42,
+      "gf": 33,
       "ga": 14,
       "form": [
-        "D",
         "W",
         "D",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -460,15 +460,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 14,
+      "played": 15,
       "wins": 5,
       "draws": 3,
-      "losses": 6,
+      "losses": 7,
       "points": 18,
       "gf": 17,
-      "ga": 19,
+      "ga": 21,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -477,6 +476,7 @@
         "D",
         "L",
         "W",
+        "L",
         "L"
       ]
     }
@@ -516,11 +516,6 @@
       "home": "CRANK_",
       "away": "RoyalAM",
       "id": 1773902553652
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "XWRLD_REAPERS",
-      "id": 1773902553654
     },
     {
       "home": "RFT07",
@@ -2367,7 +2362,15 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "id": 1773991189425
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "XWRLD_REAPERS",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1773991206220
     }
   ],
-  "lastUpdated": "2026-03-20T07:19:50.057Z"
+  "lastUpdated": "2026-03-20T07:20:06.826Z"
 }
