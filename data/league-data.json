@@ -481,7 +481,58 @@
       ]
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "Zan-Ten",
+      "away": "leomessi",
+      "id": 1774044317024
+    },
+    {
+      "home": "wham",
+      "away": "KING_KHESWA.",
+      "id": 1774044317026
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "CRANK_",
+      "id": 1774044317028
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "SMANGALISO",
+      "id": 1774044317030
+    },
+    {
+      "home": "Sailor",
+      "away": "DJRonaldoZA",
+      "id": 1774044317032
+    },
+    {
+      "home": "RoyalAM",
+      "away": "E1even-Starz",
+      "id": 1774044317034
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Nigelmj21",
+      "id": 1774044317036
+    },
+    {
+      "home": "Barca.",
+      "away": "Lukie",
+      "id": 1774044317038
+    },
+    {
+      "home": "bhaze",
+      "away": "RFT07",
+      "id": 1774044317040
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Dontwindraw",
+      "id": 1774044317042
+    }
+  ],
   "results": [
     {
       "home": "bhaze",
@@ -2479,5 +2530,5 @@
       "id": 1774043930226
     }
   ],
-  "lastUpdated": "2026-03-20T21:58:50.828Z"
+  "lastUpdated": "2026-03-20T22:05:17.629Z"
 }
