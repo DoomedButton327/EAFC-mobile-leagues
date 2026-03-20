@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 21,
+      "played": 22,
       "wins": 18,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
-      "points": 55,
-      "gf": 51,
-      "ga": 13,
+      "points": 56,
+      "gf": 52,
+      "ga": 14,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -261,22 +260,22 @@
         "W",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 22,
+      "played": 23,
       "wins": 17,
-      "draws": 2,
+      "draws": 3,
       "losses": 3,
-      "points": 55,
-      "gf": 53,
-      "ga": 12,
+      "points": 56,
+      "gf": 54,
+      "ga": 13,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -516,11 +516,6 @@
       "home": "DJRonaldoZA",
       "away": "KING_KHESWA.",
       "id": 1773991685395
-    },
-    {
-      "home": "leomessi",
-      "away": "RFT07",
-      "id": 1773991685397
     },
     {
       "home": "SMANGALISO",
@@ -2451,7 +2446,16 @@
       "awayGoals": 1,
       "id": 1774043619673,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_RoyalAM_1774043618836.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "RFT07",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1774043646217,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RFT07_1774043638833.jpg"
     }
   ],
-  "lastUpdated": "2026-03-20T21:53:42.314Z"
+  "lastUpdated": "2026-03-20T21:54:09.134Z"
 }
