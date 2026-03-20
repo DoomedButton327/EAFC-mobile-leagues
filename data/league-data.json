@@ -292,20 +292,20 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 21,
+      "played": 22,
       "wins": 0,
       "draws": 6,
-      "losses": 15,
+      "losses": 16,
       "points": 6,
       "gf": 3,
-      "ga": 49,
+      "ga": 52,
       "form": [
-        "D",
         "L",
         "L",
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L",
         "L",
@@ -364,16 +364,15 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 19,
-      "wins": 8,
+      "played": 20,
+      "wins": 9,
       "draws": 9,
       "losses": 2,
-      "points": 33,
-      "gf": 29,
+      "points": 36,
+      "gf": 32,
       "ga": 13,
       "form": [
         "W",
-        "W",
         "D",
         "W",
         "W",
@@ -381,7 +380,8 @@
         "D",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -491,11 +491,6 @@
       "home": "bhaze",
       "away": "Sailor",
       "id": 1773902553640
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "wham",
-      "id": 1773902553642
     },
     {
       "home": "Barca.",
@@ -2376,7 +2371,15 @@
       "homeGoals": 0,
       "awayGoals": 0,
       "id": 1773991378095
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1773991438267
     }
   ],
-  "lastUpdated": "2026-03-20T07:22:58.711Z"
+  "lastUpdated": "2026-03-20T07:23:58.874Z"
 }
