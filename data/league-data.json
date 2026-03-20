@@ -316,15 +316,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 19,
-      "wins": 10,
+      "played": 20,
+      "wins": 11,
       "draws": 4,
       "losses": 5,
-      "points": 34,
-      "gf": 27,
+      "points": 37,
+      "gf": 28,
       "ga": 17,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -333,7 +332,8 @@
         "L",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 20,
+      "played": 21,
       "wins": 9,
       "draws": 9,
-      "losses": 2,
+      "losses": 3,
       "points": 36,
       "gf": 32,
-      "ga": 13,
+      "ga": 14,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -381,7 +380,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -496,11 +496,6 @@
       "home": "Lukie",
       "away": "wham",
       "id": 1773991685387
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "Dontwindraw",
-      "id": 1773991685389
     }
   ],
   "results": [
@@ -2471,7 +2466,16 @@
       "awayGoals": 0,
       "id": 1774043754117,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_Yungboyshlime_1774043751914.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1774043867456,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Dontwindraw_1774043846799.jpg"
     }
   ],
-  "lastUpdated": "2026-03-20T21:55:57.031Z"
+  "lastUpdated": "2026-03-20T21:57:51.316Z"
 }
