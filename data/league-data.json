@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 21,
+      "played": 22,
       "wins": 9,
-      "draws": 9,
+      "draws": 10,
       "losses": 3,
-      "points": 36,
+      "points": 37,
       "gf": 32,
       "ga": 14,
       "form": [
-        "D",
         "W",
         "W",
         "D",
@@ -381,29 +380,30 @@
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 23,
+      "played": 24,
       "wins": 9,
-      "draws": 9,
+      "draws": 10,
       "losses": 5,
-      "points": 36,
+      "points": 37,
       "gf": 29,
       "ga": 22,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "W",
         "L",
         "D",
         "W",
+        "D",
         "D",
         "D"
       ]
@@ -482,11 +482,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "MGSatarou",
-      "away": "Nigelmj21",
-      "id": 1774044317036
-    },
     {
       "home": "Barca.",
       "away": "Lukie",
@@ -2557,7 +2552,13 @@
       "away": "DJRonaldoZA",
       "result": "home",
       "id": 1774126888532
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "id": 1774126889975
     }
   ],
-  "lastUpdated": "2026-03-21T21:01:29.134Z"
+  "lastUpdated": "2026-03-21T21:01:30.576Z"
 }
