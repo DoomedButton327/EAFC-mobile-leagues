@@ -196,22 +196,22 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 23,
+      "played": 24,
       "wins": 1,
       "draws": 8,
-      "losses": 14,
+      "losses": 15,
       "points": 11,
       "gf": 3,
-      "ga": 40,
+      "ga": 43,
       "form": [
         "L",
         "L",
         "L",
         "L",
         "L",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
         "L",
         "L"
       ]
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 21,
-      "wins": 9,
+      "played": 22,
+      "wins": 10,
       "draws": 6,
       "losses": 6,
-      "points": 33,
-      "gf": 32,
+      "points": 36,
+      "gf": 35,
       "ga": 16,
       "form": [
-        "W",
         "D",
         "D",
         "W",
@@ -357,6 +356,7 @@
         "D",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -491,11 +491,6 @@
       "home": "wham",
       "away": "KING_KHESWA.",
       "id": 1774044317026
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "CRANK_",
-      "id": 1774044317028
     },
     {
       "home": "Sailor",
@@ -2536,7 +2531,16 @@
       "awayGoals": 0,
       "id": 1774126507909,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1774126507035.jpeg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774126542104,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_CRANK__1774126539789.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-21T20:55:10.225Z"
+  "lastUpdated": "2026-03-21T20:55:44.747Z"
 }
