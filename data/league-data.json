@@ -100,15 +100,14 @@
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 23,
+      "played": 24,
       "wins": 13,
       "draws": 6,
-      "losses": 4,
+      "losses": 5,
       "points": 45,
       "gf": 36,
-      "ga": 14,
+      "ga": 17,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -316,15 +316,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 20,
-      "wins": 11,
+      "played": 21,
+      "wins": 12,
       "draws": 4,
       "losses": 5,
-      "points": 37,
-      "gf": 28,
+      "points": 40,
+      "gf": 31,
       "ga": 17,
       "form": [
-        "D",
         "W",
         "W",
         "D",
@@ -333,6 +332,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -506,11 +506,6 @@
       "home": "Barca.",
       "away": "Lukie",
       "id": 1774044317038
-    },
-    {
-      "home": "XWRLD_REAPERS",
-      "away": "Dontwindraw",
-      "id": 1774044317042
     }
   ],
   "results": [
@@ -2544,7 +2539,16 @@
       "awayGoals": 3,
       "id": 1774126606175,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_leomessi_1774126603362.png"
+    },
+    {
+      "home": "XWRLD_REAPERS",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774126615050,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/XWRLD_REAPERS_vs_Dontwindraw_1774126614249.png"
     }
   ],
-  "lastUpdated": "2026-03-21T20:56:48.585Z"
+  "lastUpdated": "2026-03-21T20:56:57.395Z"
 }
