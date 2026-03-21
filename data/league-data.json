@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 24,
+      "played": 25,
       "wins": 3,
-      "draws": 8,
+      "draws": 9,
       "losses": 13,
-      "points": 17,
+      "points": 18,
       "gf": 8,
       "ga": 42,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -92,6 +91,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -412,21 +412,21 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 23,
+      "played": 24,
       "wins": 2,
-      "draws": 11,
+      "draws": 12,
       "losses": 10,
-      "points": 16,
+      "points": 17,
       "gf": 6,
       "ga": 34,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -481,13 +481,7 @@
       ]
     }
   ],
-  "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "Lukie",
-      "id": 1774044317038
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -2558,7 +2552,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1774126889975
+    },
+    {
+      "home": "Barca.",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1774126891156
     }
   ],
-  "lastUpdated": "2026-03-21T21:01:30.576Z"
+  "lastUpdated": "2026-03-21T21:01:31.760Z"
 }
