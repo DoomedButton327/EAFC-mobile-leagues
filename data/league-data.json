@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 24,
+      "played": 25,
       "wins": 4,
       "draws": 8,
-      "losses": 12,
+      "losses": 13,
       "points": 20,
       "gf": 14,
-      "ga": 31,
+      "ga": 33,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -236,6 +235,7 @@
         "W",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 24,
-      "wins": 19,
+      "played": 25,
+      "wins": 20,
       "draws": 2,
       "losses": 3,
-      "points": 59,
-      "gf": 57,
+      "points": 62,
+      "gf": 59,
       "ga": 13,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -285,6 +284,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -534,11 +534,6 @@
       "home": "Barca.",
       "away": "Ctaum-cpt",
       "id": 1774337542808
-    },
-    {
-      "home": "leomessi",
-      "away": "SMANGALISO",
-      "id": 1774337542810
     }
   ],
   "results": [
@@ -2626,7 +2621,16 @@
       "awayGoals": 3,
       "id": 1774356377606,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Zan-Ten_1774356372416.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 0,
+      "id": 1774369668458,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_SMANGALISO_1774369666968.jpg"
     }
   ],
-  "lastUpdated": "2026-03-24T12:46:24.170Z"
+  "lastUpdated": "2026-03-24T16:27:53.420Z"
 }
