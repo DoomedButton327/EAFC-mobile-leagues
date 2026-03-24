@@ -479,6 +479,19 @@
         "L",
         "L"
       ]
+    },
+    {
+      "name": "Dude",
+      "username": "DARK-_-CEO",
+      "phone": "0786090530",
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "points": 0,
+      "gf": 0,
+      "ga": 0,
+      "form": []
     }
   ],
   "fixtures": [],
@@ -2560,5 +2573,5 @@
       "id": 1774126891156
     }
   ],
-  "lastUpdated": "2026-03-21T21:01:31.760Z"
+  "lastUpdated": "2026-03-24T07:31:41.458Z"
 }
