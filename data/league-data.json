@@ -4,16 +4,15 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 25,
+      "played": 26,
       "wins": 8,
       "draws": 8,
-      "losses": 9,
+      "losses": 10,
       "points": 32,
       "gf": 25,
-      "ga": 27,
+      "ga": 30,
       "form": [
         "L",
-        "L",
         "W",
         "W",
         "W",
@@ -21,7 +20,8 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -340,21 +340,21 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 23,
-      "wins": 11,
+      "played": 24,
+      "wins": 12,
       "draws": 6,
       "losses": 6,
-      "points": 39,
-      "gf": 38,
+      "points": 42,
+      "gf": 41,
       "ga": 16,
       "form": [
-        "D",
         "W",
         "W",
         "W",
         "D",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -516,11 +516,6 @@
       "home": "Lukie",
       "away": "XWRLD_REAPERS",
       "id": 1774418139025
-    },
-    {
-      "home": "bhaze",
-      "away": "CRANK_",
-      "id": 1774418139027
     },
     {
       "home": "Yungboyshlime",
@@ -2726,7 +2721,16 @@
       "awayGoals": 0,
       "id": 1774471811847,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1774471811234.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774471831913,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_CRANK__1774471831088.jpg"
     }
   ],
-  "lastUpdated": "2026-03-25T20:50:15.516Z"
+  "lastUpdated": "2026-03-25T20:50:34.870Z"
 }
