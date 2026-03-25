@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 25,
-      "wins": 9,
+      "played": 26,
+      "wins": 10,
       "draws": 11,
       "losses": 5,
-      "points": 38,
-      "gf": 29,
+      "points": 41,
+      "gf": 32,
       "ga": 22,
       "form": [
-        "D",
         "D",
         "W",
         "L",
@@ -405,7 +404,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 24,
+      "played": 25,
       "wins": 8,
       "draws": 3,
-      "losses": 13,
+      "losses": 14,
       "points": 27,
       "gf": 19,
-      "ga": 34,
+      "ga": 37,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -453,7 +452,8 @@
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -536,11 +536,6 @@
       "home": "bhaze",
       "away": "CRANK_",
       "id": 1774418139027
-    },
-    {
-      "home": "DJRonaldoZA",
-      "away": "MGSatarou",
-      "id": 1774418139029
     },
     {
       "home": "Yungboyshlime",
@@ -2710,7 +2705,16 @@
       "awayGoals": 0,
       "id": 1774435824671,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Zan-Ten_1774435820297.jpg"
+    },
+    {
+      "home": "DJRonaldoZA",
+      "away": "MGSatarou",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774435849908,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_MGSatarou_1774435848983.jpg"
     }
   ],
-  "lastUpdated": "2026-03-25T10:50:27.545Z"
+  "lastUpdated": "2026-03-25T10:50:53.512Z"
 }
