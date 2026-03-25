@@ -76,11 +76,11 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 26,
+      "played": 27,
       "wins": 3,
-      "draws": 9,
+      "draws": 10,
       "losses": 14,
-      "points": 18,
+      "points": 19,
       "gf": 8,
       "ga": 45,
       "form": [
@@ -89,26 +89,25 @@
         "L",
         "L",
         "L",
+        "D",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
-        "D",
-        "L"
+        "D"
       ]
     },
     {
       "name": "XWRLD🕴🏽",
       "username": "XWRLD_REAPERS",
       "phone": "0750656258",
-      "played": 25,
+      "played": 26,
       "wins": 14,
-      "draws": 6,
+      "draws": 7,
       "losses": 5,
-      "points": 48,
+      "points": 49,
       "gf": 39,
       "ga": 17,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -117,7 +116,8 @@
         "W",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "wham",
       "away": "Barca.",
       "id": 1774418139013
-    },
-    {
-      "home": "Lukie",
-      "away": "XWRLD_REAPERS",
-      "id": 1774418139025
     },
     {
       "home": "Yungboyshlime",
@@ -2735,7 +2730,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1774471904834
+    },
+    {
+      "home": "Lukie",
+      "away": "XWRLD_REAPERS",
+      "result": "draw",
+      "id": 1774471911719
     }
   ],
-  "lastUpdated": "2026-03-25T20:51:45.440Z"
+  "lastUpdated": "2026-03-25T20:51:52.322Z"
 }
