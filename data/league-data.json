@@ -244,15 +244,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 24,
-      "wins": 20,
+      "played": 25,
+      "wins": 21,
       "draws": 2,
       "losses": 2,
-      "points": 62,
-      "gf": 61,
-      "ga": 15,
+      "points": 65,
+      "gf": 63,
+      "ga": 16,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -261,6 +260,7 @@
         "W",
         "D",
         "W",
+        "W",
         "W"
       ]
     },
@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 25,
+      "played": 26,
       "wins": 20,
       "draws": 2,
-      "losses": 3,
+      "losses": 4,
       "points": 62,
-      "gf": 59,
-      "ga": 13,
+      "gf": 60,
+      "ga": 15,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -501,11 +501,6 @@
       "home": "wham",
       "away": "Barca.",
       "id": 1774418139013
-    },
-    {
-      "home": "RFT07",
-      "away": "leomessi",
-      "id": 1774418139017
     },
     {
       "home": "E1even-Starz",
@@ -2730,7 +2725,16 @@
       "awayGoals": 3,
       "id": 1774471831913,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_CRANK__1774471831088.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "leomessi",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1774471863894,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_leomessi_1774471863219.jpg"
     }
   ],
-  "lastUpdated": "2026-03-25T20:50:34.870Z"
+  "lastUpdated": "2026-03-25T20:51:06.822Z"
 }
