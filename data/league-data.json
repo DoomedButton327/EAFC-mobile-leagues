@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 24,
+      "played": 25,
       "wins": 15,
-      "draws": 4,
+      "draws": 5,
       "losses": 5,
-      "points": 49,
+      "points": 50,
       "gf": 45,
       "ga": 15,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -69,7 +68,8 @@
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -388,21 +388,21 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 24,
+      "played": 25,
       "wins": 9,
-      "draws": 10,
+      "draws": 11,
       "losses": 5,
-      "points": 37,
+      "points": 38,
       "gf": 29,
       "ga": 22,
       "form": [
-        "L",
         "D",
         "D",
         "W",
         "L",
         "D",
         "W",
+        "D",
         "D",
         "D",
         "D"
@@ -501,11 +501,6 @@
       "home": "bhaze",
       "away": "DJRonaldoZA",
       "id": 1774337542792
-    },
-    {
-      "home": "MGSatarou",
-      "away": "KING_KHESWA.",
-      "id": 1774337542798
     },
     {
       "home": "Yungboyshlime",
@@ -2647,7 +2642,15 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1774417994130
+    },
+    {
+      "home": "MGSatarou",
+      "away": "KING_KHESWA.",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1774418046482
     }
   ],
-  "lastUpdated": "2026-03-25T05:53:14.735Z"
+  "lastUpdated": "2026-03-25T05:54:07.085Z"
 }
