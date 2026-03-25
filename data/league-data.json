@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 25,
+      "played": 26,
       "wins": 7,
       "draws": 8,
-      "losses": 10,
+      "losses": 11,
       "points": 29,
       "gf": 20,
-      "ga": 24,
+      "ga": 26,
       "form": [
-        "W",
         "D",
         "D",
         "D",
@@ -45,7 +44,8 @@
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -316,22 +316,22 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 21,
-      "wins": 12,
+      "played": 22,
+      "wins": 13,
       "draws": 4,
       "losses": 5,
-      "points": 40,
-      "gf": 31,
+      "points": 43,
+      "gf": 33,
       "ga": 17,
       "form": [
         "W",
-        "W",
         "D",
         "L",
         "L",
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -511,11 +511,6 @@
       "home": "RFT07",
       "away": "leomessi",
       "id": 1774418139017
-    },
-    {
-      "home": "Sailor",
-      "away": "Dontwindraw",
-      "id": 1774418139019
     },
     {
       "home": "Ctaum-cpt",
@@ -2714,7 +2709,16 @@
       "awayGoals": 3,
       "id": 1774435849908,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DJRonaldoZA_vs_MGSatarou_1774435848983.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1774471768432,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Dontwindraw_1774471766221.jpg"
     }
   ],
-  "lastUpdated": "2026-03-25T10:50:53.512Z"
+  "lastUpdated": "2026-03-25T20:49:31.243Z"
 }
