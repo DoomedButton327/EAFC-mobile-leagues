@@ -4,24 +4,24 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 24,
+      "played": 25,
       "wins": 8,
-      "draws": 7,
+      "draws": 8,
       "losses": 9,
-      "points": 31,
+      "points": 32,
       "gf": 25,
       "ga": 27,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "W",
         "W",
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -436,15 +436,14 @@
       "name": "DJRonaldoZA",
       "username": "DJRonaldoZA",
       "phone": "0711764627",
-      "played": 23,
+      "played": 24,
       "wins": 8,
-      "draws": 2,
+      "draws": 3,
       "losses": 13,
-      "points": 26,
+      "points": 27,
       "gf": 19,
       "ga": 34,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -453,7 +452,8 @@
         "W",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -497,11 +497,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "bhaze",
-      "away": "DJRonaldoZA",
-      "id": 1774337542792
-    },
     {
       "home": "RoyalAM",
       "away": "wham",
@@ -2653,7 +2648,15 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1774418099785
+    },
+    {
+      "home": "bhaze",
+      "away": "DJRonaldoZA",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "id": 1774418123350
     }
   ],
-  "lastUpdated": "2026-03-25T05:55:00.391Z"
+  "lastUpdated": "2026-03-25T05:55:23.954Z"
 }
