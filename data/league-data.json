@@ -124,22 +124,22 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 24,
-      "wins": 13,
+      "played": 25,
+      "wins": 14,
       "draws": 2,
       "losses": 9,
-      "points": 41,
-      "gf": 38,
+      "points": 44,
+      "gf": 41,
       "ga": 18,
       "form": [
         "W",
         "W",
+        "L",
+        "D",
+        "L",
+        "D",
+        "L",
         "W",
-        "L",
-        "D",
-        "L",
-        "D",
-        "L",
         "W",
         "W"
       ]
@@ -292,23 +292,23 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 24,
+      "played": 25,
       "wins": 0,
       "draws": 7,
-      "losses": 17,
+      "losses": 18,
       "points": 7,
       "gf": 3,
-      "ga": 55,
+      "ga": 58,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "L",
         "L",
         "L",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -497,11 +497,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "wham",
-      "id": 1774337542806
-    },
     {
       "home": "wham",
       "away": "Barca.",
@@ -2718,7 +2713,16 @@
       "awayGoals": 2,
       "id": 1774471768432,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_Dontwindraw_1774471766221.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774471791933,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_wham_1774471791124.jpg"
     }
   ],
-  "lastUpdated": "2026-03-25T20:49:31.243Z"
+  "lastUpdated": "2026-03-25T20:49:55.731Z"
 }
