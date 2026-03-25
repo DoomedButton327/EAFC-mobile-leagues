@@ -292,22 +292,22 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 25,
+      "played": 26,
       "wins": 0,
       "draws": 7,
-      "losses": 18,
+      "losses": 19,
       "points": 7,
       "gf": 3,
-      "ga": 58,
+      "ga": 61,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -412,16 +412,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 25,
-      "wins": 2,
+      "played": 26,
+      "wins": 3,
       "draws": 12,
       "losses": 11,
-      "points": 17,
-      "gf": 6,
+      "points": 20,
+      "gf": 9,
       "ga": 37,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "L",
@@ -429,7 +428,8 @@
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -497,11 +497,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "wham",
-      "away": "Barca.",
-      "id": 1774418139013
-    },
     {
       "home": "Yungboyshlime",
       "away": "DARK-_-CEO",
@@ -2736,7 +2731,15 @@
       "away": "XWRLD_REAPERS",
       "result": "draw",
       "id": 1774471911719
+    },
+    {
+      "home": "wham",
+      "away": "Barca.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774471964044
     }
   ],
-  "lastUpdated": "2026-03-25T20:51:52.322Z"
+  "lastUpdated": "2026-03-25T20:52:44.648Z"
 }
