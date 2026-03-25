@@ -76,15 +76,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 25,
+      "played": 26,
       "wins": 3,
       "draws": 9,
-      "losses": 13,
+      "losses": 14,
       "points": 18,
       "gf": 8,
-      "ga": 42,
+      "ga": 45,
       "form": [
-        "W",
         "L",
         "L",
         "L",
@@ -93,7 +92,8 @@
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 22,
-      "wins": 10,
+      "played": 23,
+      "wins": 11,
       "draws": 6,
       "losses": 6,
-      "points": 36,
-      "gf": 35,
+      "points": 39,
+      "gf": 38,
       "ga": 16,
       "form": [
-        "D",
         "D",
         "W",
         "W",
@@ -356,6 +355,7 @@
         "D",
         "W",
         "L",
+        "W",
         "W",
         "W"
       ]
@@ -509,11 +509,6 @@
       "home": "MGSatarou",
       "away": "KING_KHESWA.",
       "id": 1774337542798
-    },
-    {
-      "home": "Lukie",
-      "away": "CRANK_",
-      "id": 1774337542802
     },
     {
       "home": "Yungboyshlime",
@@ -2634,7 +2629,16 @@
       "awayGoals": 0,
       "id": 1774380935847,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_E1even-Starz_1774380933754.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774417917978,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_CRANK__1774417917146.jpg"
     }
   ],
-  "lastUpdated": "2026-03-24T19:35:38.389Z"
+  "lastUpdated": "2026-03-25T05:52:01.019Z"
 }
