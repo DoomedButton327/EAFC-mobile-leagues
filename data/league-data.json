@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 24,
-      "wins": 6,
+      "played": 25,
+      "wins": 7,
       "draws": 8,
       "losses": 10,
-      "points": 26,
-      "gf": 17,
+      "points": 29,
+      "gf": 20,
       "ga": 24,
       "form": [
-        "D",
         "W",
         "D",
         "D",
@@ -45,6 +44,7 @@
         "L",
         "D",
         "L",
+        "W",
         "W"
       ]
     },
@@ -484,14 +484,16 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "points": 0,
       "gf": 0,
-      "ga": 0,
-      "form": []
+      "ga": 3,
+      "form": [
+        "L"
+      ]
     }
   ],
   "fixtures": [
@@ -499,11 +501,6 @@
       "home": "bhaze",
       "away": "DJRonaldoZA",
       "id": 1774337542792
-    },
-    {
-      "home": "DARK-_-CEO",
-      "away": "Sailor",
-      "id": 1774337542796
     },
     {
       "home": "MGSatarou",
@@ -2642,7 +2639,15 @@
       "awayGoals": 3,
       "id": 1774417942353,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Ctaum-cpt_1774417940978.jpg"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Sailor",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774417994130
     }
   ],
-  "lastUpdated": "2026-03-25T05:52:25.588Z"
+  "lastUpdated": "2026-03-25T05:53:14.735Z"
 }
