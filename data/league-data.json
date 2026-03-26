@@ -196,24 +196,24 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 26,
+      "played": 27,
       "wins": 1,
       "draws": 9,
-      "losses": 16,
+      "losses": 17,
       "points": 12,
       "gf": 3,
-      "ga": 46,
+      "ga": 49,
       "form": [
         "L",
         "L",
-        "L",
         "D",
         "D",
         "L",
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -244,21 +244,21 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 25,
-      "wins": 21,
+      "played": 26,
+      "wins": 22,
       "draws": 2,
       "losses": 2,
-      "points": 65,
-      "gf": 63,
+      "points": 68,
+      "gf": 66,
       "ga": 16,
       "form": [
-        "D",
         "W",
         "W",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -474,11 +474,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Yungboyshlime",
-      "away": "RFT07",
-      "id": 1774506117827
-    },
     {
       "home": "Nigelmj21",
       "away": "MGSatarou",
@@ -2779,7 +2774,16 @@
       "awayGoals": 1,
       "id": 1774563930123,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_RoyalAM_1774563929446.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774563946662,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1774563945538.jpg"
     }
   ],
-  "lastUpdated": "2026-03-26T22:25:32.863Z"
+  "lastUpdated": "2026-03-26T22:25:49.551Z"
 }
