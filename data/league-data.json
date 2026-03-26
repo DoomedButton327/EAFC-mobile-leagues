@@ -364,16 +364,15 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 24,
+      "played": 25,
       "wins": 9,
-      "draws": 11,
+      "draws": 12,
       "losses": 4,
-      "points": 38,
+      "points": 39,
       "gf": 32,
       "ga": 17,
       "form": [
         "D",
-        "D",
         "W",
         "W",
         "L",
@@ -381,6 +380,7 @@
         "L",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 26,
+      "played": 27,
       "wins": 10,
-      "draws": 11,
+      "draws": 12,
       "losses": 5,
-      "points": 41,
+      "points": 42,
       "gf": 32,
       "ga": 22,
       "form": [
-        "D",
         "W",
         "L",
         "D",
@@ -405,7 +404,8 @@
         "D",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -474,11 +474,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "MGSatarou",
-      "id": 1774506117831
-    },
     {
       "home": "bhaze",
       "away": "Lukie",
@@ -2791,7 +2786,13 @@
       "awayGoals": 0,
       "id": 1774563996345,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_Sailor_1774563995568.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1774564165733
     }
   ],
-  "lastUpdated": "2026-03-26T22:26:39.172Z"
+  "lastUpdated": "2026-03-26T22:29:26.335Z"
 }
