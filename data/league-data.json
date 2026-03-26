@@ -475,7 +475,7 @@
   ],
   "fixtures": [
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "CRANK_",
       "id": 1774506117825
     },
@@ -528,7 +528,7 @@
   "results": [
     {
       "home": "bhaze",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "home",
       "homeGoals": 1,
       "awayGoals": 0,
@@ -743,7 +743,7 @@
     },
     {
       "home": "Lukie",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 2,
@@ -952,7 +952,7 @@
     },
     {
       "home": "bhaze",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "id": 1772261774554
     },
@@ -976,7 +976,7 @@
     },
     {
       "home": "Mashinini",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "id": 1772261958573
     },
@@ -1080,7 +1080,7 @@
     },
     {
       "home": "RFT07",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "home",
       "homeGoals": 4,
       "awayGoals": 1,
@@ -1211,7 +1211,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_E1even-Starz_1772568281371.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "DJRonaldoZA",
       "result": "home",
       "homeGoals": 1,
@@ -1266,7 +1266,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1365,7 +1365,7 @@
     },
     {
       "home": "Lukie",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1503,7 +1503,7 @@
     },
     {
       "home": "Zan-Ten",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "homeGoals": 0,
       "awayGoals": 0,
@@ -1580,7 +1580,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Nigelmj21_1773004378593.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "wham",
       "result": "draw",
       "id": 1773004504216
@@ -1650,7 +1650,7 @@
     },
     {
       "home": "wham",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -1789,7 +1789,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_KING_KHESWA._1773299902997.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "Yungboyshlime",
       "result": "home",
       "homeGoals": 3,
@@ -1837,7 +1837,7 @@
     },
     {
       "home": "ExequielThwala",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2014,7 +2014,7 @@
     },
     {
       "home": "E1even-Starz",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2115,7 +2115,7 @@
     },
     {
       "home": "DJRonaldoZA",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2228,7 +2228,7 @@
     },
     {
       "home": "leomessi",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "homeGoals": 1,
       "awayGoals": 1,
@@ -2317,7 +2317,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_DJRonaldoZA_1773902049216.jpg"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "SMANGALISO",
       "result": "home",
       "homeGoals": 3,
@@ -2336,7 +2336,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "draw",
       "id": 1773902543384
     },
@@ -2460,7 +2460,7 @@
     },
     {
       "home": "SMANGALISO",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
@@ -2558,7 +2558,7 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_leomessi_1774126603362.png"
     },
     {
-      "home": "XWRLD_REAPERS",
+      "home": "DiliboL",
       "away": "Dontwindraw",
       "result": "away",
       "homeGoals": 0,
@@ -2665,7 +2665,7 @@
     },
     {
       "home": "Yungboyshlime",
-      "away": "XWRLD_REAPERS",
+      "away": "DiliboL",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
