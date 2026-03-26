@@ -124,16 +124,15 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 25,
+      "played": 26,
       "wins": 14,
       "draws": 2,
-      "losses": 9,
+      "losses": 10,
       "points": 44,
-      "gf": 41,
-      "ga": 18,
+      "gf": 42,
+      "ga": 21,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "L",
@@ -141,20 +140,21 @@
         "L",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 26,
-      "wins": 15,
+      "played": 27,
+      "wins": 16,
       "draws": 7,
       "losses": 4,
-      "points": 52,
-      "gf": 52,
-      "ga": 18,
+      "points": 55,
+      "gf": 55,
+      "ga": 19,
       "form": [
         "W",
         "W",
@@ -503,11 +503,6 @@
       "home": "wham",
       "away": "Zan-Ten",
       "id": 1774506117839
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "RoyalAM",
-      "id": 1774506117841
     },
     {
       "home": "E1even-Starz",
@@ -2775,7 +2770,16 @@
       "awayGoals": 2,
       "id": 1774563858117,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_KING_KHESWA._1774563857431.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1774563930123,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_RoyalAM_1774563929446.jpg"
     }
   ],
-  "lastUpdated": "2026-03-26T22:24:20.798Z"
+  "lastUpdated": "2026-03-26T22:25:32.863Z"
 }
