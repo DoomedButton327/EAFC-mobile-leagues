@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 26,
-      "wins": 16,
+      "played": 27,
+      "wins": 17,
       "draws": 5,
       "losses": 5,
-      "points": 53,
-      "gf": 48,
+      "points": 56,
+      "gf": 50,
       "ga": 15,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -69,6 +68,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 26,
+      "played": 27,
       "wins": 20,
       "draws": 2,
-      "losses": 4,
+      "losses": 5,
       "points": 62,
       "gf": 60,
-      "ga": 15,
+      "ga": 17,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,6 +284,7 @@
         "D",
         "W",
         "W",
+        "L",
         "L"
       ]
     },
@@ -478,11 +478,6 @@
       "home": "Yungboyshlime",
       "away": "RFT07",
       "id": 1774506117827
-    },
-    {
-      "home": "leomessi",
-      "away": "KING_KHESWA.",
-      "id": 1774506117829
     },
     {
       "home": "Nigelmj21",
@@ -2771,7 +2766,16 @@
       "awayGoals": 1,
       "id": 1774563841570,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_CRANK__1774563839464.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 2,
+      "id": 1774563858117,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_KING_KHESWA._1774563857431.jpg"
     }
   ],
-  "lastUpdated": "2026-03-26T22:24:04.779Z"
+  "lastUpdated": "2026-03-26T22:24:20.798Z"
 }
