@@ -292,21 +292,21 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 26,
+      "played": 27,
       "wins": 0,
       "draws": 7,
-      "losses": 19,
+      "losses": 20,
       "points": 7,
       "gf": 3,
-      "ga": 61,
+      "ga": 64,
       "form": [
-        "D",
         "L",
         "L",
         "L",
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -436,15 +436,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 19,
-      "wins": 6,
+      "played": 20,
+      "wins": 7,
       "draws": 3,
       "losses": 10,
-      "points": 21,
-      "gf": 20,
+      "points": 24,
+      "gf": 23,
       "ga": 28,
       "form": [
-        "W",
         "D",
         "L",
         "W",
@@ -453,7 +452,8 @@
         "L",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -493,11 +493,6 @@
       "home": "Barca.",
       "away": "DARK-_-CEO",
       "id": 1774506117837
-    },
-    {
-      "home": "wham",
-      "away": "Zan-Ten",
-      "id": 1774506117839
     },
     {
       "home": "E1even-Starz",
@@ -2783,7 +2778,16 @@
       "awayGoals": 3,
       "id": 1774563946662,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1774563945538.jpg"
+    },
+    {
+      "home": "wham",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774563976108,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/wham_vs_Zan-Ten_1774563974664.jpg"
     }
   ],
-  "lastUpdated": "2026-03-26T22:25:49.551Z"
+  "lastUpdated": "2026-03-26T22:26:18.687Z"
 }
