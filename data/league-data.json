@@ -100,15 +100,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 26,
-      "wins": 14,
+      "played": 27,
+      "wins": 15,
       "draws": 7,
       "losses": 5,
-      "points": 49,
-      "gf": 39,
-      "ga": 17,
+      "points": 52,
+      "gf": 42,
+      "ga": 18,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -117,7 +116,8 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 24,
+      "played": 25,
       "wins": 12,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "points": 42,
-      "gf": 41,
-      "ga": 16,
+      "gf": 42,
+      "ga": 19,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -357,7 +356,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -474,11 +474,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DiliboL",
-      "away": "CRANK_",
-      "id": 1774506117825
-    },
     {
       "home": "Yungboyshlime",
       "away": "RFT07",
@@ -2767,7 +2762,16 @@
       "away": "DARK-_-CEO",
       "result": "draw",
       "id": 1774471972376
+    },
+    {
+      "home": "DiliboL",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1774563841570,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_CRANK__1774563839464.jpg"
     }
   ],
-  "lastUpdated": "2026-03-26T09:33:32.419Z"
+  "lastUpdated": "2026-03-26T22:24:04.779Z"
 }
