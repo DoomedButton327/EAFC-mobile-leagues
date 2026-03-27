@@ -100,15 +100,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 27,
-      "wins": 15,
+      "played": 28,
+      "wins": 16,
       "draws": 7,
       "losses": 5,
-      "points": 52,
-      "gf": 42,
+      "points": 55,
+      "gf": 45,
       "ga": 18,
       "form": [
-        "W",
         "D",
         "W",
         "D",
@@ -117,6 +116,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -196,16 +196,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 27,
+      "played": 28,
       "wins": 1,
       "draws": 9,
-      "losses": 17,
+      "losses": 18,
       "points": 12,
       "gf": 3,
-      "ga": 49,
+      "ga": 52,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "L",
@@ -213,6 +212,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -505,11 +505,6 @@
       "home": "Lukie",
       "away": "bhaze",
       "id": 1774564232836
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "DiliboL",
-      "id": 1774564232838
     },
     {
       "home": "KING_KHESWA.",
@@ -2851,7 +2846,16 @@
       "awayGoals": 0,
       "id": 1774647147428,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_DARK-_-CEO_1774647145997.jpeg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "DiliboL",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774647255991,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_DiliboL_1774647255042.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-27T21:32:30.329Z"
+  "lastUpdated": "2026-03-27T21:34:18.849Z"
 }
