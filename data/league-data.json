@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 27,
-      "wins": 20,
+      "played": 28,
+      "wins": 21,
       "draws": 2,
       "losses": 5,
-      "points": 62,
-      "gf": 60,
-      "ga": 17,
+      "points": 65,
+      "gf": 63,
+      "ga": 18,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -388,15 +388,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 27,
+      "played": 28,
       "wins": 10,
       "draws": 12,
-      "losses": 5,
+      "losses": 6,
       "points": 42,
-      "gf": 32,
-      "ga": 22,
+      "gf": 33,
+      "ga": 25,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -405,7 +404,8 @@
         "D",
         "D",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -480,11 +480,6 @@
       "home": "Zan-Ten",
       "away": "RoyalAM",
       "id": 1774564232824
-    },
-    {
-      "home": "leomessi",
-      "away": "MGSatarou",
-      "id": 1774564232828
     },
     {
       "home": "Barca.",
@@ -2855,7 +2850,16 @@
       "awayGoals": 3,
       "id": 1774647255991,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_DiliboL_1774647255042.jpeg"
+    },
+    {
+      "home": "leomessi",
+      "away": "MGSatarou",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "id": 1774647309771,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_MGSatarou_1774647308679.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-27T21:34:18.849Z"
+  "lastUpdated": "2026-03-27T21:35:13.103Z"
 }
