@@ -244,20 +244,20 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 26,
-      "wins": 22,
+      "played": 27,
+      "wins": 23,
       "draws": 2,
       "losses": 2,
-      "points": 68,
-      "gf": 66,
+      "points": 71,
+      "gf": 69,
       "ga": 16,
       "form": [
-        "W",
         "W",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -460,17 +460,18 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 3,
+      "played": 4,
       "wins": 0,
       "draws": 2,
-      "losses": 1,
+      "losses": 2,
       "points": 2,
       "gf": 0,
-      "ga": 3,
+      "ga": 6,
       "form": [
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     }
   ],
@@ -479,11 +480,6 @@
       "home": "Zan-Ten",
       "away": "RoyalAM",
       "id": 1774564232824
-    },
-    {
-      "home": "RFT07",
-      "away": "DARK-_-CEO",
-      "id": 1774564232826
     },
     {
       "home": "leomessi",
@@ -2846,7 +2842,16 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1774564167301
+    },
+    {
+      "home": "RFT07",
+      "away": "DARK-_-CEO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774647147428,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_DARK-_-CEO_1774647145997.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-26T22:30:33.427Z"
+  "lastUpdated": "2026-03-27T21:32:30.329Z"
 }
