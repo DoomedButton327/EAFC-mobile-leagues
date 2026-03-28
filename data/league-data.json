@@ -148,13 +148,13 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 27,
+      "played": 28,
       "wins": 16,
       "draws": 7,
-      "losses": 4,
+      "losses": 5,
       "points": 55,
       "gf": 55,
-      "ga": 19,
+      "ga": 20,
       "form": [
         "W",
         "W",
@@ -165,7 +165,7 @@
         "W",
         "W",
         "W",
-        "W"
+        "L"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 25,
-      "wins": 12,
+      "played": 26,
+      "wins": 13,
       "draws": 6,
       "losses": 7,
-      "points": 42,
-      "gf": 42,
+      "points": 45,
+      "gf": 43,
       "ga": 19,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -357,7 +356,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -480,11 +480,6 @@
       "home": "KING_KHESWA.",
       "away": "Nigelmj21",
       "id": 1774564232840
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "CRANK_",
-      "id": 1774564232842
     },
     {
       "home": "KING_KHESWA.",
@@ -2916,7 +2911,16 @@
       "away": "RFT07",
       "result": "away",
       "id": 1774739084774
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1774739188857,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_CRANK__1774739188013.jpeg"
     }
   ],
-  "lastUpdated": "2026-03-28T23:04:45.389Z"
+  "lastUpdated": "2026-03-28T23:06:31.657Z"
 }
