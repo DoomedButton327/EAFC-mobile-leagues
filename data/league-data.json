@@ -4,16 +4,15 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 28,
+      "played": 29,
       "wins": 8,
       "draws": 10,
-      "losses": 10,
+      "losses": 11,
       "points": 34,
       "gf": 25,
       "ga": 30,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "D",
@@ -21,7 +20,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -100,15 +100,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 28,
-      "wins": 16,
+      "played": 29,
+      "wins": 17,
       "draws": 7,
       "losses": 5,
-      "points": 55,
+      "points": 58,
       "gf": 45,
       "ga": 18,
       "form": [
-        "D",
         "W",
         "D",
         "W",
@@ -116,6 +115,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -520,11 +520,6 @@
       "home": "CRANK_",
       "away": "E1even-Starz",
       "id": 1774679502283
-    },
-    {
-      "home": "DiliboL",
-      "away": "bhaze",
-      "id": 1774679502285
     },
     {
       "home": "Barca.",
@@ -2914,7 +2909,13 @@
       "away": "Dontwindraw",
       "result": "draw",
       "id": 1774679485486
+    },
+    {
+      "home": "DiliboL",
+      "away": "bhaze",
+      "result": "home",
+      "id": 1774739079306
     }
   ],
-  "lastUpdated": "2026-03-28T06:31:42.875Z"
+  "lastUpdated": "2026-03-28T23:04:39.909Z"
 }
