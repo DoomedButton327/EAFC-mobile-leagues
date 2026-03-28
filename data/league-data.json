@@ -172,22 +172,22 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 27,
+      "played": 28,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 12,
-      "points": 15,
+      "points": 16,
       "gf": 2,
       "ga": 39,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 27,
+      "played": 28,
       "wins": 3,
-      "draws": 13,
+      "draws": 14,
       "losses": 11,
-      "points": 21,
+      "points": 22,
       "gf": 9,
       "ga": 37,
       "form": [
-        "D",
         "D",
         "L",
         "D",
@@ -429,6 +428,7 @@
         "D",
         "L",
         "W",
+        "D",
         "D"
       ]
     },
@@ -476,11 +476,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "E1even-Starz",
-      "id": 1774564232830
-    },
     {
       "home": "Sailor",
       "away": "Dontwindraw",
@@ -2862,7 +2857,13 @@
       "away": "RoyalAM",
       "result": "draw",
       "id": 1774679483898
+    },
+    {
+      "home": "Barca.",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1774679484607
     }
   ],
-  "lastUpdated": "2026-03-28T06:31:24.500Z"
+  "lastUpdated": "2026-03-28T06:31:25.208Z"
 }
