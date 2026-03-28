@@ -4,23 +4,23 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 27,
+      "played": 28,
       "wins": 8,
-      "draws": 9,
+      "draws": 10,
       "losses": 10,
-      "points": 33,
+      "points": 34,
       "gf": 25,
       "ga": 30,
       "form": [
         "W",
         "W",
-        "W",
         "L",
         "D",
         "D",
         "L",
         "D",
         "L",
+        "D",
         "D"
       ]
     },
@@ -76,22 +76,22 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 28,
+      "played": 29,
       "wins": 3,
-      "draws": 11,
+      "draws": 12,
       "losses": 14,
-      "points": 20,
+      "points": 21,
       "gf": 8,
       "ga": 45,
       "form": [
         "L",
         "L",
         "L",
-        "L",
         "D",
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D"
       ]
@@ -495,11 +495,6 @@
       "home": "wham",
       "away": "SMANGALISO",
       "id": 1774564232834
-    },
-    {
-      "home": "Lukie",
-      "away": "bhaze",
-      "id": 1774564232836
     },
     {
       "home": "KING_KHESWA.",
@@ -2859,7 +2854,13 @@
       "awayGoals": 1,
       "id": 1774647309771,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_MGSatarou_1774647308679.jpeg"
+    },
+    {
+      "home": "Lukie",
+      "away": "bhaze",
+      "result": "draw",
+      "id": 1774679480970
     }
   ],
-  "lastUpdated": "2026-03-27T21:35:13.103Z"
+  "lastUpdated": "2026-03-28T06:31:21.575Z"
 }
