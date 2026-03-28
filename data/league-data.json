@@ -76,21 +76,21 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 29,
+      "played": 30,
       "wins": 3,
-      "draws": 12,
+      "draws": 13,
       "losses": 14,
-      "points": 21,
+      "points": 22,
       "gf": 8,
       "ga": 45,
       "form": [
         "L",
         "L",
-        "L",
         "D",
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -460,18 +460,19 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 4,
+      "played": 5,
       "wins": 0,
-      "draws": 2,
+      "draws": 3,
       "losses": 2,
-      "points": 2,
+      "points": 3,
       "gf": 0,
       "ga": 6,
       "form": [
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     }
   ],
@@ -490,11 +491,6 @@
       "home": "leomessi",
       "away": "Zan-Ten",
       "id": 1774679502275
-    },
-    {
-      "home": "Lukie",
-      "away": "DARK-_-CEO",
-      "id": 1774679502279
     }
   ],
   "results": [
@@ -2925,7 +2921,13 @@
       "away": "SMANGALISO",
       "result": "away",
       "id": 1774739428706
+    },
+    {
+      "home": "Lukie",
+      "away": "DARK-_-CEO",
+      "result": "draw",
+      "id": 1774739434784
     }
   ],
-  "lastUpdated": "2026-03-28T23:10:29.311Z"
+  "lastUpdated": "2026-03-28T23:10:35.385Z"
 }
