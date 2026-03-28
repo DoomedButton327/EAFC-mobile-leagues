@@ -196,15 +196,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 28,
+      "played": 29,
       "wins": 1,
       "draws": 9,
-      "losses": 18,
+      "losses": 19,
       "points": 12,
       "gf": 3,
       "ga": 52,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -212,6 +211,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ]
@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 28,
-      "wins": 4,
+      "played": 29,
+      "wins": 5,
       "draws": 10,
       "losses": 14,
-      "points": 22,
+      "points": 25,
       "gf": 14,
       "ga": 36,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -237,7 +236,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -495,11 +495,6 @@
       "home": "Lukie",
       "away": "DARK-_-CEO",
       "id": 1774679502279
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "SMANGALISO",
-      "id": 1774679502289
     }
   ],
   "results": [
@@ -2924,7 +2919,13 @@
       "away": "wham",
       "result": "away",
       "id": 1774739415601
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "SMANGALISO",
+      "result": "away",
+      "id": 1774739428706
     }
   ],
-  "lastUpdated": "2026-03-28T23:10:16.207Z"
+  "lastUpdated": "2026-03-28T23:10:29.311Z"
 }
