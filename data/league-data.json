@@ -124,15 +124,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 26,
+      "played": 27,
       "wins": 14,
-      "draws": 2,
+      "draws": 3,
       "losses": 10,
-      "points": 44,
+      "points": 45,
       "gf": 42,
       "ga": 21,
       "form": [
-        "W",
         "L",
         "D",
         "L",
@@ -141,7 +140,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -436,15 +436,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 20,
+      "played": 21,
       "wins": 7,
-      "draws": 3,
+      "draws": 4,
       "losses": 10,
-      "points": 24,
+      "points": 25,
       "gf": 23,
       "ga": 28,
       "form": [
-        "D",
         "L",
         "W",
         "L",
@@ -453,7 +452,8 @@
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -476,11 +476,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Zan-Ten",
-      "away": "RoyalAM",
-      "id": 1774564232824
-    },
     {
       "home": "Barca.",
       "away": "E1even-Starz",
@@ -2861,7 +2856,13 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1774679481844
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1774679483898
     }
   ],
-  "lastUpdated": "2026-03-28T06:31:22.446Z"
+  "lastUpdated": "2026-03-28T06:31:24.500Z"
 }
