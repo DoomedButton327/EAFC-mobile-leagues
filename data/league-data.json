@@ -244,19 +244,19 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 27,
-      "wins": 23,
+      "played": 28,
+      "wins": 24,
       "draws": 2,
       "losses": 2,
-      "points": 71,
+      "points": 74,
       "gf": 69,
       "ga": 16,
       "form": [
-        "W",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 28,
+      "played": 29,
       "wins": 3,
       "draws": 14,
-      "losses": 11,
+      "losses": 12,
       "points": 22,
       "gf": 9,
       "ga": 37,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -429,7 +428,8 @@
         "L",
         "W",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -520,11 +520,6 @@
       "home": "CRANK_",
       "away": "E1even-Starz",
       "id": 1774679502283
-    },
-    {
-      "home": "Barca.",
-      "away": "RFT07",
-      "id": 1774679502287
     },
     {
       "home": "Yungboyshlime",
@@ -2915,7 +2910,13 @@
       "away": "bhaze",
       "result": "home",
       "id": 1774739079306
+    },
+    {
+      "home": "Barca.",
+      "away": "RFT07",
+      "result": "away",
+      "id": 1774739084774
     }
   ],
-  "lastUpdated": "2026-03-28T23:04:39.909Z"
+  "lastUpdated": "2026-03-28T23:04:45.389Z"
 }
