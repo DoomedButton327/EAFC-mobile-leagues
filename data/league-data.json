@@ -220,15 +220,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 27,
+      "played": 28,
       "wins": 4,
-      "draws": 9,
+      "draws": 10,
       "losses": 14,
-      "points": 21,
+      "points": 22,
       "gf": 14,
       "ga": 36,
       "form": [
-        "D",
         "L",
         "W",
         "L",
@@ -237,6 +236,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -292,15 +292,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 27,
+      "played": 28,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 20,
-      "points": 7,
+      "points": 8,
       "gf": 3,
       "ga": 64,
       "form": [
-        "L",
         "L",
         "L",
         "L",
@@ -309,7 +308,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -490,11 +490,6 @@
       "home": "Sailor",
       "away": "Dontwindraw",
       "id": 1774564232832
-    },
-    {
-      "home": "wham",
-      "away": "SMANGALISO",
-      "id": 1774564232834
     },
     {
       "home": "KING_KHESWA.",
@@ -2860,7 +2855,13 @@
       "away": "bhaze",
       "result": "draw",
       "id": 1774679480970
+    },
+    {
+      "home": "wham",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1774679481844
     }
   ],
-  "lastUpdated": "2026-03-28T06:31:21.575Z"
+  "lastUpdated": "2026-03-28T06:31:22.446Z"
 }
