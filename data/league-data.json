@@ -52,15 +52,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 27,
-      "wins": 17,
+      "played": 28,
+      "wins": 18,
       "draws": 5,
       "losses": 5,
-      "points": 56,
+      "points": 59,
       "gf": 50,
       "ga": 15,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -68,6 +67,7 @@
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 25,
+      "played": 26,
       "wins": 9,
       "draws": 12,
-      "losses": 4,
+      "losses": 5,
       "points": 39,
       "gf": 32,
       "ga": 17,
       "form": [
-        "D",
         "W",
         "W",
         "L",
@@ -381,7 +380,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -476,11 +476,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "KING_KHESWA.",
-      "away": "Nigelmj21",
-      "id": 1774564232840
-    },
     {
       "home": "KING_KHESWA.",
       "away": "Ctaum-cpt",
@@ -2921,7 +2916,13 @@
       "away": "E1even-Starz",
       "result": "home",
       "id": 1774739209580
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Nigelmj21",
+      "result": "home",
+      "id": 1774739282009
     }
   ],
-  "lastUpdated": "2026-03-28T23:06:50.182Z"
+  "lastUpdated": "2026-03-28T23:08:02.613Z"
 }
