@@ -172,15 +172,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 28,
+      "played": 29,
       "wins": 0,
       "draws": 16,
-      "losses": 12,
+      "losses": 13,
       "points": 16,
       "gf": 2,
       "ga": 39,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -189,7 +188,8 @@
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -340,15 +340,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 26,
-      "wins": 13,
+      "played": 27,
+      "wins": 14,
       "draws": 6,
       "losses": 7,
-      "points": 45,
+      "points": 48,
       "gf": 43,
       "ga": 19,
       "form": [
-        "W",
         "D",
         "W",
         "L",
@@ -357,6 +356,7 @@
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
@@ -510,11 +510,6 @@
       "home": "Nigelmj21",
       "away": "wham",
       "id": 1774679502281
-    },
-    {
-      "home": "CRANK_",
-      "away": "E1even-Starz",
-      "id": 1774679502283
     },
     {
       "home": "Yungboyshlime",
@@ -2920,7 +2915,13 @@
       "awayGoals": 1,
       "id": 1774739188857,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_CRANK__1774739188013.jpeg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "E1even-Starz",
+      "result": "home",
+      "id": 1774739209580
     }
   ],
-  "lastUpdated": "2026-03-28T23:06:31.657Z"
+  "lastUpdated": "2026-03-28T23:06:50.182Z"
 }
