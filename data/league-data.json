@@ -268,15 +268,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 28,
+      "played": 29,
       "wins": 21,
-      "draws": 2,
+      "draws": 3,
       "losses": 5,
-      "points": 65,
+      "points": 66,
       "gf": 63,
       "ga": 18,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -285,7 +284,8 @@
         "W",
         "L",
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -436,15 +436,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 21,
+      "played": 22,
       "wins": 7,
-      "draws": 4,
+      "draws": 5,
       "losses": 10,
-      "points": 25,
+      "points": 26,
       "gf": 23,
       "ga": 28,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -453,6 +452,7 @@
         "W",
         "L",
         "W",
+        "D",
         "D"
       ]
     },
@@ -486,11 +486,6 @@
       "home": "Sailor",
       "away": "RoyalAM",
       "id": 1774679502273
-    },
-    {
-      "home": "leomessi",
-      "away": "Zan-Ten",
-      "id": 1774679502275
     }
   ],
   "results": [
@@ -2927,7 +2922,13 @@
       "away": "DARK-_-CEO",
       "result": "draw",
       "id": 1774739434784
+    },
+    {
+      "home": "leomessi",
+      "away": "Zan-Ten",
+      "result": "draw",
+      "id": 1774739435761
     }
   ],
-  "lastUpdated": "2026-03-28T23:10:35.385Z"
+  "lastUpdated": "2026-03-28T23:10:36.366Z"
 }
