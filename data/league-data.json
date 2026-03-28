@@ -316,15 +316,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 24,
+      "played": 25,
       "wins": 14,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
-      "points": 47,
+      "points": 48,
       "gf": 36,
       "ga": 17,
       "form": [
-        "L",
         "L",
         "L",
         "W",
@@ -333,6 +332,7 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ]
     },
@@ -388,24 +388,24 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 28,
+      "played": 29,
       "wins": 10,
-      "draws": 12,
+      "draws": 13,
       "losses": 6,
-      "points": 42,
+      "points": 43,
       "gf": 33,
       "ga": 25,
       "form": [
+        "D",
+        "W",
+        "D",
+        "D",
+        "D",
+        "D",
+        "W",
+        "D",
         "L",
-        "D",
-        "W",
-        "D",
-        "D",
-        "D",
-        "D",
-        "W",
-        "D",
-        "L"
+        "D"
       ]
     },
     {
@@ -490,11 +490,6 @@
       "home": "leomessi",
       "away": "Zan-Ten",
       "id": 1774679502275
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "MGSatarou",
-      "id": 1774679502277
     },
     {
       "home": "Lukie",
@@ -2922,7 +2917,13 @@
       "away": "Nigelmj21",
       "result": "home",
       "id": 1774739282009
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1774739390648
     }
   ],
-  "lastUpdated": "2026-03-28T23:08:02.613Z"
+  "lastUpdated": "2026-03-28T23:09:51.248Z"
 }
