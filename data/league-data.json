@@ -76,16 +76,15 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 30,
-      "wins": 3,
+      "played": 31,
+      "wins": 4,
       "draws": 13,
       "losses": 14,
-      "points": 22,
+      "points": 25,
       "gf": 8,
       "ga": 45,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
@@ -93,7 +92,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -220,24 +220,24 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 29,
+      "played": 30,
       "wins": 5,
       "draws": 10,
-      "losses": 14,
+      "losses": 15,
       "points": 25,
       "gf": 14,
       "ga": 36,
       "form": [
+        "L",
+        "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
         "W",
-        "L",
-        "D",
-        "L",
-        "L",
-        "L",
-        "L",
-        "D",
-        "D",
-        "W"
+        "L"
       ]
     },
     {
@@ -497,11 +497,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1774821900473
-    },
-    {
-      "home": "Lukie",
-      "away": "SMANGALISO",
-      "id": 1774821900477
     },
     {
       "home": "KING_KHESWA.",
@@ -2995,7 +2990,13 @@
       "awayGoals": 3,
       "id": 1774910871620,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RFT07_1774910871044.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "SMANGALISO",
+      "result": "home",
+      "id": 1774911576757
     }
   ],
-  "lastUpdated": "2026-03-30T22:47:54.717Z"
+  "lastUpdated": "2026-03-30T22:59:37.361Z"
 }
