@@ -28,15 +28,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 28,
+      "played": 29,
       "wins": 7,
       "draws": 9,
-      "losses": 12,
+      "losses": 13,
       "points": 30,
       "gf": 20,
-      "ga": 29,
+      "ga": 32,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -45,7 +44,8 @@
         "W",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -244,18 +244,18 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 28,
-      "wins": 24,
+      "played": 29,
+      "wins": 25,
       "draws": 2,
       "losses": 2,
-      "points": 74,
-      "gf": 69,
+      "points": 77,
+      "gf": 72,
       "ga": 16,
       "form": [
-        "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -512,11 +512,6 @@
       "home": "Barca.",
       "away": "Nigelmj21",
       "id": 1774821900483
-    },
-    {
-      "home": "Sailor",
-      "away": "RFT07",
-      "id": 1774821900485
     },
     {
       "home": "MGSatarou",
@@ -2991,7 +2986,16 @@
       "awayGoals": 0,
       "id": 1774910857103,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_Yungboyshlime_1774910856396.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774910871620,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RFT07_1774910871044.jpg"
     }
   ],
-  "lastUpdated": "2026-03-30T22:47:39.813Z"
+  "lastUpdated": "2026-03-30T22:47:54.717Z"
 }
