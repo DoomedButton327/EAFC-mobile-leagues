@@ -172,24 +172,24 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 29,
+      "played": 30,
       "wins": 0,
-      "draws": 16,
+      "draws": 17,
       "losses": 13,
-      "points": 16,
+      "points": 17,
       "gf": 2,
       "ga": 39,
       "form": [
         "D",
         "D",
         "D",
-        "D",
         "L",
         "L",
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -292,24 +292,24 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 29,
+      "played": 30,
       "wins": 1,
-      "draws": 8,
+      "draws": 9,
       "losses": 20,
-      "points": 11,
+      "points": 12,
       "gf": 3,
       "ga": 64,
       "form": [
         "L",
         "L",
-        "L",
         "D",
         "L",
         "L",
         "L",
         "L",
         "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     {
@@ -487,11 +487,6 @@
       "home": "Sailor",
       "away": "RoyalAM",
       "id": 1774679502273
-    },
-    {
-      "home": "wham",
-      "away": "E1even-Starz",
-      "id": 1774821900469
     },
     {
       "home": "leomessi",
@@ -2998,7 +2993,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1774911991203
+    },
+    {
+      "home": "wham",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1774911999599
     }
   ],
-  "lastUpdated": "2026-03-30T23:06:31.805Z"
+  "lastUpdated": "2026-03-30T23:06:40.203Z"
 }
