@@ -148,12 +148,12 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 28,
-      "wins": 16,
+      "played": 29,
+      "wins": 17,
       "draws": 7,
       "losses": 5,
-      "points": 55,
-      "gf": 55,
+      "points": 58,
+      "gf": 58,
       "ga": 20,
       "form": [
         "W",
@@ -164,8 +164,8 @@
         "W",
         "W",
         "W",
-        "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -460,19 +460,20 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 5,
+      "played": 6,
       "wins": 0,
       "draws": 3,
-      "losses": 2,
+      "losses": 3,
       "points": 3,
       "gf": 0,
-      "ga": 6,
+      "ga": 9,
       "form": [
         "L",
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     }
   ],
@@ -491,11 +492,6 @@
       "home": "wham",
       "away": "E1even-Starz",
       "id": 1774821900469
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "DARK-_-CEO",
-      "id": 1774821900471
     },
     {
       "home": "leomessi",
@@ -2982,7 +2978,16 @@
       "awayGoals": 3,
       "id": 1774910818276,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_CRANK__1774910804978.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "DARK-_-CEO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774910836220,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_DARK-_-CEO_1774910835548.jpg"
     }
   ],
-  "lastUpdated": "2026-03-30T22:47:01.046Z"
+  "lastUpdated": "2026-03-30T22:47:19.224Z"
 }
