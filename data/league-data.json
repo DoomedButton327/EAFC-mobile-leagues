@@ -364,15 +364,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 27,
+      "played": 28,
       "wins": 9,
-      "draws": 12,
+      "draws": 13,
       "losses": 6,
-      "points": 39,
+      "points": 40,
       "gf": 32,
       "ga": 17,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -381,7 +380,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -412,15 +412,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 29,
+      "played": 30,
       "wins": 3,
-      "draws": 14,
+      "draws": 15,
       "losses": 12,
-      "points": 22,
+      "points": 23,
       "gf": 9,
       "ga": 37,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -429,7 +428,8 @@
         "W",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -502,11 +502,6 @@
       "home": "KING_KHESWA.",
       "away": "Zan-Ten",
       "id": 1774821900481
-    },
-    {
-      "home": "Barca.",
-      "away": "Nigelmj21",
-      "id": 1774821900483
     }
   ],
   "results": [
@@ -2997,7 +2992,13 @@
       "away": "bhaze",
       "result": "draw",
       "id": 1774911990085
+    },
+    {
+      "home": "Barca.",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "id": 1774911991203
     }
   ],
-  "lastUpdated": "2026-03-30T23:06:30.689Z"
+  "lastUpdated": "2026-03-30T23:06:31.805Z"
 }
