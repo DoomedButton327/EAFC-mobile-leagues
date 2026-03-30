@@ -100,21 +100,21 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 29,
-      "wins": 17,
+      "played": 30,
+      "wins": 18,
       "draws": 7,
       "losses": 5,
-      "points": 58,
-      "gf": 45,
+      "points": 61,
+      "gf": 48,
       "ga": 18,
       "form": [
-        "W",
         "D",
         "W",
         "W",
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -196,21 +196,21 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 29,
+      "played": 30,
       "wins": 1,
       "draws": 9,
-      "losses": 19,
+      "losses": 20,
       "points": 12,
       "gf": 3,
-      "ga": 52,
+      "ga": 55,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -497,11 +497,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1774821900473
-    },
-    {
-      "home": "DiliboL",
-      "away": "Yungboyshlime",
-      "id": 1774821900475
     },
     {
       "home": "Lukie",
@@ -2987,7 +2982,16 @@
       "awayGoals": 0,
       "id": 1774910836220,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_DARK-_-CEO_1774910835548.jpg"
+    },
+    {
+      "home": "DiliboL",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774910857103,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_Yungboyshlime_1774910856396.jpg"
     }
   ],
-  "lastUpdated": "2026-03-30T22:47:19.224Z"
+  "lastUpdated": "2026-03-30T22:47:39.813Z"
 }
