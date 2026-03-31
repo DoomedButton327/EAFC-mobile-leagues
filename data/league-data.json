@@ -52,20 +52,20 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 29,
-      "wins": 19,
+      "played": 30,
+      "wins": 20,
       "draws": 5,
       "losses": 5,
-      "points": 62,
-      "gf": 50,
+      "points": 65,
+      "gf": 51,
       "ga": 15,
       "form": [
-        "W",
         "D",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -340,23 +340,23 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 26,
+      "played": 27,
       "wins": 14,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "points": 48,
       "gf": 36,
-      "ga": 20,
+      "ga": 21,
       "form": [
+        "W",
+        "D",
+        "W",
+        "W",
+        "W",
+        "W",
+        "D",
+        "D",
         "L",
-        "W",
-        "D",
-        "W",
-        "W",
-        "W",
-        "W",
-        "D",
-        "D",
         "L"
       ]
     },
@@ -516,11 +516,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1774821900473
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "KING_KHESWA.",
-      "id": 1774912165606
     },
     {
       "home": "DARK-_-CEO",
@@ -3074,7 +3069,16 @@
       "away": "Zan-Ten",
       "result": "home",
       "id": 1774912116881
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1774989691825,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_KING_KHESWA._1774989690387.jpg"
     }
   ],
-  "lastUpdated": "2026-03-30T23:09:26.209Z"
+  "lastUpdated": "2026-03-31T20:41:35.024Z"
 }
