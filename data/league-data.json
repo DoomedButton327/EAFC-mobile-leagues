@@ -124,20 +124,20 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 30,
-      "wins": 18,
+      "played": 31,
+      "wins": 19,
       "draws": 7,
       "losses": 5,
-      "points": 61,
-      "gf": 48,
+      "points": 64,
+      "gf": 51,
       "ga": 18,
       "form": [
-        "D",
         "W",
         "W",
         "L",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -316,15 +316,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 30,
+      "played": 31,
       "wins": 1,
       "draws": 9,
-      "losses": 20,
+      "losses": 21,
       "points": 12,
       "gf": 3,
-      "ga": 64,
+      "ga": 67,
       "form": [
-        "L",
         "L",
         "D",
         "L",
@@ -333,7 +332,8 @@
         "L",
         "D",
         "W",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
@@ -546,11 +546,6 @@
       "home": "CRANK_",
       "away": "SMANGALISO",
       "id": 1774912165620
-    },
-    {
-      "home": "DiliboL",
-      "away": "wham",
-      "id": 1774912165622
     },
     {
       "home": "bhaze",
@@ -3082,7 +3077,16 @@
       "awayGoals": 0,
       "id": 1774989712383,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Ctaum-cpt_1774989711738.jpg"
+    },
+    {
+      "home": "DiliboL",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774989750766,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_wham_1774989749934.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:41:55.921Z"
+  "lastUpdated": "2026-03-31T20:42:34.017Z"
 }
