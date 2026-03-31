@@ -52,19 +52,19 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 30,
-      "wins": 20,
+      "played": 31,
+      "wins": 21,
       "draws": 5,
       "losses": 5,
-      "points": 65,
-      "gf": 51,
+      "points": 68,
+      "gf": 52,
       "ga": 15,
       "form": [
-        "D",
         "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -172,13 +172,13 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 29,
+      "played": 30,
       "wins": 17,
       "draws": 7,
-      "losses": 5,
+      "losses": 6,
       "points": 58,
       "gf": 58,
-      "ga": 20,
+      "ga": 21,
       "form": [
         "W",
         "W",
@@ -187,9 +187,9 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -502,11 +502,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "KING_KHESWA.",
-      "away": "Ctaum-cpt",
-      "id": 1774679502271
-    },
     {
       "home": "Sailor",
       "away": "RoyalAM",
@@ -3078,7 +3073,16 @@
       "awayGoals": 1,
       "id": 1774989691825,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_KING_KHESWA._1774989690387.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Ctaum-cpt",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1774989712383,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Ctaum-cpt_1774989711738.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:41:35.024Z"
+  "lastUpdated": "2026-03-31T20:41:55.921Z"
 }
