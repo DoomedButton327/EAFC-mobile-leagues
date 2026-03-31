@@ -220,15 +220,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 30,
+      "played": 31,
       "wins": 1,
-      "draws": 9,
+      "draws": 10,
       "losses": 20,
-      "points": 12,
+      "points": 13,
       "gf": 3,
       "ga": 55,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -237,7 +236,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ]
     },
     {
@@ -388,15 +388,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 28,
+      "played": 29,
       "wins": 9,
-      "draws": 13,
+      "draws": 14,
       "losses": 6,
-      "points": 40,
+      "points": 41,
       "gf": 32,
       "ga": 17,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -405,6 +404,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D"
       ]
     },
@@ -512,11 +512,6 @@
       "home": "Sailor",
       "away": "Lukie",
       "id": 1774912165610
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "Yungboyshlime",
-      "id": 1774912165612
     },
     {
       "home": "RFT07",
@@ -3107,7 +3102,13 @@
       "away": "MGSatarou",
       "result": "draw",
       "id": 1774990541215
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1774990559544
     }
   ],
-  "lastUpdated": "2026-03-31T20:55:41.822Z"
+  "lastUpdated": "2026-03-31T20:56:00.148Z"
 }
