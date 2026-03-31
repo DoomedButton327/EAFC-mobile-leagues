@@ -148,15 +148,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 27,
-      "wins": 14,
+      "played": 28,
+      "wins": 15,
       "draws": 3,
       "losses": 10,
-      "points": 45,
-      "gf": 42,
+      "points": 48,
+      "gf": 45,
       "ga": 21,
       "form": [
-        "L",
         "D",
         "L",
         "D",
@@ -165,7 +164,8 @@
         "W",
         "W",
         "L",
-        "D"
+        "D",
+        "W"
       ]
     },
     {
@@ -484,19 +484,20 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 6,
+      "played": 7,
       "wins": 0,
       "draws": 3,
-      "losses": 3,
+      "losses": 4,
       "points": 3,
       "gf": 0,
-      "ga": 9,
+      "ga": 12,
       "form": [
         "L",
         "D",
         "D",
         "L",
         "D",
+        "L",
         "L"
       ]
     }
@@ -511,11 +512,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1774821900473
-    },
-    {
-      "home": "DARK-_-CEO",
-      "away": "RoyalAM",
-      "id": 1774912165608
     },
     {
       "home": "Sailor",
@@ -3086,7 +3082,16 @@
       "awayGoals": 0,
       "id": 1774989750766,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_wham_1774989749934.jpg"
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774989774878,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DARK-_-CEO_vs_RoyalAM_1774989774231.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:42:34.017Z"
+  "lastUpdated": "2026-03-31T20:42:58.073Z"
 }
