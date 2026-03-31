@@ -148,15 +148,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 29,
+      "played": 30,
       "wins": 16,
       "draws": 3,
-      "losses": 10,
+      "losses": 11,
       "points": 51,
       "gf": 48,
-      "ga": 21,
+      "ga": 24,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -165,7 +164,8 @@
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "L"
       ]
     },
     {
@@ -292,16 +292,15 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 30,
-      "wins": 22,
+      "played": 31,
+      "wins": 23,
       "draws": 3,
       "losses": 5,
-      "points": 69,
-      "gf": 66,
+      "points": 72,
+      "gf": 69,
       "ga": 18,
       "form": [
         "W",
-        "W",
         "D",
         "W",
         "W",
@@ -309,6 +308,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W"
       ]
     },
@@ -503,11 +503,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "leomessi",
-      "away": "RoyalAM",
-      "id": 1774821900473
-    },
     {
       "home": "Sailor",
       "away": "Lukie",
@@ -3108,7 +3103,16 @@
       "away": "Yungboyshlime",
       "result": "draw",
       "id": 1774990559544
+    },
+    {
+      "home": "leomessi",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774990619780,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:56:00.148Z"
+  "lastUpdated": "2026-03-31T20:57:05.535Z"
 }
