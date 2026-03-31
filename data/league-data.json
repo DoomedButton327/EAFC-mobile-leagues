@@ -28,16 +28,15 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 29,
+      "played": 30,
       "wins": 7,
       "draws": 9,
-      "losses": 13,
+      "losses": 14,
       "points": 30,
       "gf": 20,
-      "ga": 32,
+      "ga": 35,
       "form": [
         "L",
-        "L",
         "D",
         "L",
         "W",
@@ -45,6 +44,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L"
       ]
     },
@@ -148,15 +148,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 28,
-      "wins": 15,
+      "played": 29,
+      "wins": 16,
       "draws": 3,
       "losses": 10,
-      "points": 48,
-      "gf": 45,
+      "points": 51,
+      "gf": 48,
       "ga": 21,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -165,6 +164,7 @@
         "W",
         "L",
         "D",
+        "W",
         "W"
       ]
     },
@@ -503,11 +503,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Sailor",
-      "away": "RoyalAM",
-      "id": 1774679502273
-    },
     {
       "home": "leomessi",
       "away": "RoyalAM",
@@ -3102,7 +3097,16 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1774990271783
+    },
+    {
+      "home": "Sailor",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774990455551,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RoyalAM_1774990453242.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:51:12.388Z"
+  "lastUpdated": "2026-03-31T20:54:20.224Z"
 }
