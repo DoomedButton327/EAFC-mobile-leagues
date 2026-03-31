@@ -436,15 +436,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 30,
+      "played": 31,
       "wins": 3,
       "draws": 15,
-      "losses": 12,
+      "losses": 13,
       "points": 23,
       "gf": 9,
-      "ga": 37,
+      "ga": 40,
       "form": [
-        "D",
         "D",
         "D",
         "D",
@@ -453,31 +452,32 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ]
     },
     {
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 23,
-      "wins": 7,
+      "played": 24,
+      "wins": 8,
       "draws": 5,
       "losses": 11,
-      "points": 26,
-      "gf": 23,
+      "points": 29,
+      "gf": 26,
       "ga": 28,
       "form": [
         "L",
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "D",
         "D",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -522,11 +522,6 @@
       "home": "Nigelmj21",
       "away": "Yungboyshlime",
       "id": 1774912165612
-    },
-    {
-      "home": "Barca.",
-      "away": "Zan-Ten",
-      "id": 1774912165614
     },
     {
       "home": "E1even-Starz",
@@ -3091,7 +3086,16 @@
       "awayGoals": 3,
       "id": 1774989774878,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DARK-_-CEO_vs_RoyalAM_1774989774231.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1774989822567,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Zan-Ten_1774989821278.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:42:58.073Z"
+  "lastUpdated": "2026-03-31T20:43:45.788Z"
 }
