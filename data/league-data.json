@@ -244,15 +244,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 30,
+      "played": 31,
       "wins": 5,
       "draws": 10,
-      "losses": 15,
+      "losses": 16,
       "points": 25,
       "gf": 14,
-      "ga": 36,
+      "ga": 39,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -261,6 +260,7 @@
         "D",
         "D",
         "W",
+        "L",
         "L"
       ]
     },
@@ -364,21 +364,21 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 28,
-      "wins": 15,
+      "played": 29,
+      "wins": 16,
       "draws": 6,
       "losses": 7,
-      "points": 51,
-      "gf": 46,
+      "points": 54,
+      "gf": 49,
       "ga": 19,
       "form": [
-        "W",
         "L",
         "W",
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -532,11 +532,6 @@
       "home": "RFT07",
       "away": "Ctaum-cpt",
       "id": 1774912165618
-    },
-    {
-      "home": "CRANK_",
-      "away": "SMANGALISO",
-      "id": 1774912165620
     },
     {
       "home": "bhaze",
@@ -3095,7 +3090,16 @@
       "awayGoals": 3,
       "id": 1774989822567,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Zan-Ten_1774989821278.jpg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1774989869463,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_SMANGALISO_1774989868054.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:43:45.788Z"
+  "lastUpdated": "2026-03-31T20:44:32.530Z"
 }
