@@ -22,7 +22,9 @@
         "L",
         "D",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Sailor",
@@ -46,7 +48,9 @@
         "D",
         "L",
         "L"
-      ]
+      ],
+      "postponements": 19,
+      "suspended": false
     },
     {
       "name": "Sibonelo_Kheswa",
@@ -70,7 +74,9 @@
         "W",
         "W",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Lukie",
@@ -94,7 +100,9 @@
         "D",
         "D",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Sihle👑",
@@ -118,7 +126,9 @@
         "W",
         "L",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Dilibo",
@@ -142,7 +152,9 @@
         "W",
         "W",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "🅿️🅾️🕉️🅱️🅰️",
@@ -166,7 +178,9 @@
         "W",
         "W",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "@Ctaum",
@@ -190,7 +204,9 @@
         "L",
         "W",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "uSONGO oMNYAMA oNGEHLULWA",
@@ -214,7 +230,9 @@
         "L",
         "D",
         "D"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
@@ -238,7 +256,9 @@
         "L",
         "L",
         "D"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "SMANGALISO",
@@ -262,7 +282,9 @@
         "W",
         "L",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Reginald Frank Thornton",
@@ -286,7 +308,9 @@
         "W",
         "W",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "leomessi",
@@ -310,7 +334,9 @@
         "D",
         "W",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "hlonono",
@@ -334,7 +360,9 @@
         "W",
         "D",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Mansur",
@@ -358,7 +386,9 @@
         "D",
         "L",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "MOOSA",
@@ -382,7 +412,9 @@
         "W",
         "W",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "El Tigre",
@@ -406,7 +438,9 @@
         "L",
         "D",
         "D"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Mogau",
@@ -430,7 +464,9 @@
         "D",
         "D",
         "D"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "A H 〽️ A D",
@@ -454,7 +490,9 @@
         "L",
         "D",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "👑•",
@@ -478,7 +516,9 @@
         "D",
         "L",
         "W"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     },
     {
       "name": "Dude",
@@ -499,19 +539,23 @@
         "D",
         "L",
         "L"
-      ]
+      ],
+      "postponements": 20,
+      "suspended": false
     }
   ],
   "fixtures": [
     {
       "home": "Sailor",
       "away": "Lukie",
-      "id": 1774912165610
+      "id": 1774912165610,
+      "postponedBy": "Sailor"
     },
     {
       "home": "RFT07",
       "away": "Ctaum-cpt",
-      "id": 1774912165618
+      "id": 1774912165618,
+      "postponedBy": null
     }
   ],
   "results": [
@@ -3114,5 +3158,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-03-31T20:57:05.535Z"
+  "lastUpdated": "2026-04-01T23:50:56.663Z"
 }
