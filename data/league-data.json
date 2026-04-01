@@ -49,7 +49,7 @@
         "L",
         "L"
       ],
-      "postponements": 19,
+      "postponements": 18,
       "suspended": false
     },
     {
@@ -549,7 +549,7 @@
       "home": "Sailor",
       "away": "Lukie",
       "id": 1774912165610,
-      "postponedBy": null
+      "postponedBy": "Sailor"
     },
     {
       "home": "RFT07",
@@ -3158,5 +3158,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-04-01T23:51:57.810Z"
+  "lastUpdated": "2026-04-01T23:53:31.266Z"
 }
