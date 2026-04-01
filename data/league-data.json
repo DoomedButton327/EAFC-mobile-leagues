@@ -541,7 +541,7 @@
         "L"
       ],
       "postponements": 20,
-      "suspended": false
+      "suspended": true
     }
   ],
   "fixtures": [
@@ -3158,5 +3158,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-04-01T23:51:41.605Z"
+  "lastUpdated": "2026-04-01T23:51:54.366Z"
 }
