@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 31,
+      "played": 32,
       "wins": 4,
       "draws": 13,
-      "losses": 14,
+      "losses": 15,
       "points": 25,
       "gf": 8,
-      "ga": 45,
+      "ga": 46,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "D",
         "D",
         "D",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -186,12 +186,12 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 30,
-      "wins": 17,
+      "played": 31,
+      "wins": 18,
       "draws": 7,
       "losses": 6,
-      "points": 58,
-      "gf": 58,
+      "points": 61,
+      "gf": 59,
       "ga": 21,
       "form": [
         "W",
@@ -200,10 +200,10 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -567,12 +567,6 @@
       "home": "RFT07",
       "away": "bhaze",
       "id": 1775088710137,
-      "postponedBy": null
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "Lukie",
-      "id": 1775088710139,
       "postponedBy": null
     },
     {
@@ -3216,7 +3210,16 @@
       "awayGoals": 0,
       "id": 1774990619780,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 1,
+      "awayGoals": 0,
+      "id": 1775150588386,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Lukie_1775150587141.jpg"
     }
   ],
-  "lastUpdated": "2026-04-02T00:50:32.733Z"
+  "lastUpdated": "2026-04-02T17:23:11.786Z"
 }
