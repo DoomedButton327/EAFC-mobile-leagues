@@ -154,7 +154,7 @@
         "W"
       ],
       "postponements": 20,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "🅿️🅾️🕉️🅱️🅰️",
@@ -3218,5 +3218,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-04-02T00:11:50.740Z"
+  "lastUpdated": "2026-04-02T00:50:32.078Z"
 }
