@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 31,
+      "played": 32,
       "wins": 1,
       "draws": 9,
-      "losses": 21,
+      "losses": 22,
       "points": 12,
       "gf": 3,
-      "ga": 67,
+      "ga": 70,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -359,6 +358,7 @@
         "D",
         "W",
         "D",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -394,20 +394,20 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 29,
-      "wins": 16,
+      "played": 30,
+      "wins": 17,
       "draws": 6,
       "losses": 7,
-      "points": 54,
-      "gf": 49,
+      "points": 57,
+      "gf": 52,
       "ga": 19,
       "form": [
-        "L",
         "W",
         "W",
         "W",
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -597,12 +597,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1775088710149,
-      "postponedBy": null
-    },
-    {
-      "home": "CRANK_",
-      "away": "wham",
-      "id": 1775088710151,
       "postponedBy": null
     },
     {
@@ -3219,7 +3213,16 @@
       "awayGoals": 0,
       "id": 1775150588386,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_Lukie_1775150587141.jpg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1775150618631,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_wham_1775150617848.jpg"
     }
   ],
-  "lastUpdated": "2026-04-02T17:23:11.786Z"
+  "lastUpdated": "2026-04-02T17:23:41.764Z"
 }
