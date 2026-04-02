@@ -498,23 +498,23 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 24,
-      "wins": 8,
+      "played": 25,
+      "wins": 9,
       "draws": 5,
       "losses": 11,
-      "points": 29,
-      "gf": 26,
+      "points": 32,
+      "gf": 29,
       "ga": 28,
       "form": [
         "L",
         "L",
-        "L",
         "W",
         "L",
         "W",
         "D",
         "D",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -524,19 +524,20 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 7,
+      "played": 8,
       "wins": 0,
       "draws": 3,
-      "losses": 4,
+      "losses": 5,
       "points": 3,
       "gf": 0,
-      "ga": 12,
+      "ga": 15,
       "form": [
         "L",
         "D",
         "D",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -579,12 +580,6 @@
       "home": "Barca.",
       "away": "Nigelmj21",
       "id": 1775088710143,
-      "postponedBy": null
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "DARK-_-CEO",
-      "id": 1775088710147,
       "postponedBy": null
     },
     {
@@ -3225,7 +3220,15 @@
       "awayGoals": 3,
       "id": 1775150640407,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_KING_KHESWA._1775150638348.jpg"
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "DARK-_-CEO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1775159031294
     }
   ],
-  "lastUpdated": "2026-04-02T17:24:05.412Z"
+  "lastUpdated": "2026-04-02T19:43:51.908Z"
 }
