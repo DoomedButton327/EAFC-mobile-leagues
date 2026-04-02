@@ -205,7 +205,7 @@
         "W",
         "L"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -555,7 +555,7 @@
       "home": "RFT07",
       "away": "Ctaum-cpt",
       "id": 1774912165618,
-      "postponedBy": null
+      "postponedBy": "Ctaum-cpt"
     }
   ],
   "results": [
@@ -3158,5 +3158,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/leomessi_vs_RoyalAM_1774990618284.jpg"
     }
   ],
-  "lastUpdated": "2026-04-02T00:11:42.889Z"
+  "lastUpdated": "2026-04-02T00:11:43.898Z"
 }
