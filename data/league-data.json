@@ -30,15 +30,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 30,
+      "played": 31,
       "wins": 7,
-      "draws": 9,
+      "draws": 10,
       "losses": 14,
-      "points": 30,
+      "points": 31,
       "gf": 20,
       "ga": 35,
       "form": [
-        "L",
         "D",
         "L",
         "W",
@@ -47,7 +46,8 @@
         "L",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -368,15 +368,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 27,
+      "played": 28,
       "wins": 14,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
-      "points": 48,
+      "points": 49,
       "gf": 36,
       "ga": 21,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -385,7 +384,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -551,12 +551,6 @@
       "away": "Lukie",
       "id": 1774912165610,
       "postponedBy": "Sailor"
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "Sailor",
-      "id": 1775088710135,
-      "postponedBy": null
     },
     {
       "home": "leomessi",
@@ -3228,7 +3222,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1775170324035
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Sailor",
+      "result": "draw",
+      "id": 1775170389212
     }
   ],
-  "lastUpdated": "2026-04-02T22:52:04.640Z"
+  "lastUpdated": "2026-04-02T22:53:09.819Z"
 }
