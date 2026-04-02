@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 31,
+      "played": 32,
       "wins": 5,
-      "draws": 10,
+      "draws": 11,
       "losses": 16,
-      "points": 25,
+      "points": 26,
       "gf": 14,
       "ga": 39,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -281,7 +280,8 @@
         "D",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -446,21 +446,21 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 31,
+      "played": 32,
       "wins": 10,
-      "draws": 15,
+      "draws": 16,
       "losses": 6,
-      "points": 45,
+      "points": 46,
       "gf": 33,
       "ga": 25,
       "form": [
         "D",
         "D",
         "D",
-        "D",
         "W",
         "D",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -568,12 +568,6 @@
       "home": "leomessi",
       "away": "RoyalAM",
       "id": 1775088710149,
-      "postponedBy": null
-    },
-    {
-      "home": "MGSatarou",
-      "away": "SMANGALISO",
-      "id": 1775088710153,
       "postponedBy": null
     }
   ],
@@ -3228,7 +3222,13 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1775170186179
+    },
+    {
+      "home": "MGSatarou",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1775170316360
     }
   ],
-  "lastUpdated": "2026-04-02T22:49:46.787Z"
+  "lastUpdated": "2026-04-02T22:51:56.974Z"
 }
