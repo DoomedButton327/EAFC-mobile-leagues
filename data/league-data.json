@@ -56,18 +56,18 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 31,
-      "wins": 21,
+      "played": 32,
+      "wins": 22,
       "draws": 5,
       "losses": 5,
-      "points": 68,
-      "gf": 52,
+      "points": 71,
+      "gf": 55,
       "ga": 15,
       "form": [
-        "L",
         "W",
         "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -108,15 +108,14 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 16,
+      "played": 17,
       "wins": 11,
       "draws": 1,
-      "losses": 4,
+      "losses": 5,
       "points": 34,
       "gf": 36,
-      "ga": 17,
+      "ga": 20,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -124,6 +123,7 @@
         "L",
         "D",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -579,12 +579,6 @@
       "home": "Barca.",
       "away": "Nigelmj21",
       "id": 1775088710143,
-      "postponedBy": null
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "KING_KHESWA.",
-      "id": 1775088710145,
       "postponedBy": null
     },
     {
@@ -3222,7 +3216,16 @@
       "awayGoals": 0,
       "id": 1775150618631,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_wham_1775150617848.jpg"
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775150640407,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/ExequielThwala_vs_KING_KHESWA._1775150638348.jpg"
     }
   ],
-  "lastUpdated": "2026-04-02T17:23:41.764Z"
+  "lastUpdated": "2026-04-02T17:24:05.412Z"
 }
