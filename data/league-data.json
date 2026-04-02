@@ -186,10 +186,10 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 31,
+      "played": 32,
       "wins": 18,
       "draws": 7,
-      "losses": 6,
+      "losses": 7,
       "points": 61,
       "gf": 59,
       "ga": 21,
@@ -199,11 +199,11 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -290,17 +290,17 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 29,
-      "wins": 25,
+      "played": 30,
+      "wins": 26,
       "draws": 2,
       "losses": 2,
-      "points": 77,
+      "points": 80,
       "gf": 72,
       "ga": 16,
       "form": [
         "W",
-        "W",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -551,12 +551,6 @@
       "away": "Lukie",
       "id": 1774912165610,
       "postponedBy": "Sailor"
-    },
-    {
-      "home": "RFT07",
-      "away": "Ctaum-cpt",
-      "id": 1774912165618,
-      "postponedBy": null
     },
     {
       "home": "Dontwindraw",
@@ -3228,7 +3222,13 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1775159031294
+    },
+    {
+      "home": "RFT07",
+      "away": "Ctaum-cpt",
+      "result": "home",
+      "id": 1775163649850
     }
   ],
-  "lastUpdated": "2026-04-02T21:00:45.474Z"
+  "lastUpdated": "2026-04-02T21:00:50.451Z"
 }
