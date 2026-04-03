@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 32,
-      "wins": 8,
+      "played": 33,
+      "wins": 9,
       "draws": 11,
       "losses": 13,
-      "points": 35,
-      "gf": 25,
-      "ga": 33,
+      "points": 38,
+      "gf": 28,
+      "ga": 34,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -21,7 +20,8 @@
         "L",
         "D",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 31,
+      "played": 32,
       "wins": 19,
       "draws": 7,
-      "losses": 5,
+      "losses": 6,
       "points": 64,
-      "gf": 51,
-      "ga": 18,
+      "gf": 52,
+      "ga": 21,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -151,7 +150,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -562,12 +562,6 @@
       "home": "Yungboyshlime",
       "away": "RFT07",
       "id": 1775171944802,
-      "postponedBy": null
-    },
-    {
-      "home": "DiliboL",
-      "away": "bhaze",
-      "id": 1775171944804,
       "postponedBy": null
     },
     {
@@ -3288,7 +3282,15 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1775170762938
+    },
+    {
+      "home": "DiliboL",
+      "away": "bhaze",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 3,
+      "id": 1775199119731.57
     }
   ],
-  "lastUpdated": "2026-04-02T23:19:05.404Z"
+  "lastUpdated": "2026-04-03T06:52:00.337Z"
 }
