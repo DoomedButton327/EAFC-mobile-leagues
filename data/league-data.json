@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 32,
+      "played": 33,
       "wins": 5,
-      "draws": 11,
+      "draws": 12,
       "losses": 16,
-      "points": 26,
+      "points": 27,
       "gf": 14,
       "ga": 39,
       "form": [
-        "L",
         "L",
         "L",
         "L",
@@ -281,6 +280,7 @@
         "W",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 32,
+      "played": 33,
       "wins": 3,
-      "draws": 16,
+      "draws": 17,
       "losses": 13,
-      "points": 24,
+      "points": 25,
       "gf": 9,
       "ga": 40,
       "form": [
-        "D",
         "D",
         "L",
         "W",
@@ -489,6 +488,7 @@
         "L",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -547,12 +547,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "SMANGALISO",
-      "away": "Barca.",
-      "id": 1775171944800,
-      "postponedBy": null
-    },
     {
       "home": "ExequielThwala",
       "away": "E1even-Starz",
@@ -3311,7 +3305,13 @@
       "awayGoals": 1,
       "id": 1775337543789,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_MGSatarou_1775337542056.jpg"
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1775342660674
     }
   ],
-  "lastUpdated": "2026-04-04T21:19:07.138Z"
+  "lastUpdated": "2026-04-04T22:44:21.278Z"
 }
