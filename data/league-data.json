@@ -30,15 +30,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 32,
+      "played": 33,
       "wins": 7,
-      "draws": 11,
+      "draws": 12,
       "losses": 14,
-      "points": 32,
+      "points": 33,
       "gf": 20,
       "ga": 35,
       "form": [
-        "L",
         "W",
         "W",
         "L",
@@ -46,6 +45,7 @@
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -420,21 +420,21 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 30,
+      "played": 31,
       "wins": 9,
-      "draws": 15,
+      "draws": 16,
       "losses": 6,
-      "points": 42,
+      "points": 43,
       "gf": 32,
       "ga": 17,
       "form": [
-        "L",
         "D",
         "L",
         "D",
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -547,12 +547,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "Sailor",
-      "id": 1775171944810,
-      "postponedBy": null
-    },
     {
       "home": "KING_KHESWA.",
       "away": "Lukie",
@@ -3311,7 +3305,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1775342662675
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Sailor",
+      "result": "draw",
+      "id": 1775342663749
     }
   ],
-  "lastUpdated": "2026-04-04T22:44:23.278Z"
+  "lastUpdated": "2026-04-04T22:44:24.352Z"
 }
