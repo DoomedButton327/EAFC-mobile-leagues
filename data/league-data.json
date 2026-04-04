@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 32,
+      "played": 33,
       "wins": 22,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
-      "points": 71,
+      "points": 72,
       "gf": 55,
       "ga": 15,
       "form": [
-        "W",
         "W",
         "D",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 33,
+      "played": 34,
       "wins": 4,
-      "draws": 14,
+      "draws": 15,
       "losses": 15,
-      "points": 26,
+      "points": 27,
       "gf": 8,
       "ga": 46,
       "form": [
-        "D",
         "D",
         "L",
         "D",
@@ -99,6 +98,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -547,12 +547,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "KING_KHESWA.",
-      "away": "Lukie",
-      "id": 1775171944812,
-      "postponedBy": null
-    },
     {
       "home": "test",
       "away": "terere",
@@ -3311,7 +3305,13 @@
       "away": "Sailor",
       "result": "draw",
       "id": 1775342663749
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1775342668474
     }
   ],
-  "lastUpdated": "2026-04-04T22:44:24.352Z"
+  "lastUpdated": "2026-04-04T22:44:29.077Z"
 }
