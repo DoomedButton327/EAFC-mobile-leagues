@@ -550,7 +550,7 @@
       "home": "SMANGALISO",
       "away": "Barca.",
       "id": 1775171944800,
-      "postponedBy": "Barca."
+      "postponedBy": null
     },
     {
       "home": "Dontwindraw",
@@ -3297,5 +3297,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Ctaum-cpt_1775321329364.jpg"
     }
   ],
-  "lastUpdated": "2026-04-04T17:40:11.465Z"
+  "lastUpdated": "2026-04-04T17:40:14.209Z"
 }
