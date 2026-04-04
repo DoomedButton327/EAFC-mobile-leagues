@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 31,
+      "played": 32,
       "wins": 16,
-      "draws": 4,
+      "draws": 5,
       "losses": 11,
-      "points": 52,
-      "gf": 48,
-      "ga": 24,
+      "points": 53,
+      "gf": 49,
+      "ga": 25,
       "form": [
-        "L",
         "W",
         "W",
         "W",
@@ -177,6 +176,7 @@
         "W",
         "W",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -186,24 +186,24 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 32,
+      "played": 33,
       "wins": 18,
-      "draws": 7,
+      "draws": 8,
       "losses": 7,
-      "points": 61,
-      "gf": 59,
-      "ga": 21,
+      "points": 62,
+      "gf": 60,
+      "ga": 22,
       "form": [
         "W",
         "W",
         "W",
         "W",
-        "W",
         "L",
         "W",
         "L",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -546,12 +546,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "Ctaum-cpt",
-      "id": 1775171944798,
-      "postponedBy": null
-    },
     {
       "home": "SMANGALISO",
       "away": "Barca.",
@@ -3292,7 +3286,16 @@
       "homeGoals": 0,
       "awayGoals": 1,
       "id": 1775287245522.8281
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1775321333673,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_Ctaum-cpt_1775321329364.jpg"
     }
   ],
-  "lastUpdated": "2026-04-04T07:20:46.125Z"
+  "lastUpdated": "2026-04-04T16:48:56.117Z"
 }
