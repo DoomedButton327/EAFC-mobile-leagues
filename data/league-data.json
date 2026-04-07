@@ -548,12 +548,6 @@
   ],
   "fixtures": [
     {
-      "home": "test",
-      "away": "terere",
-      "id": 1775324427389,
-      "postponedBy": null
-    },
-    {
       "home": "MGSatarou",
       "away": "leomessi",
       "id": 1775600855064,
