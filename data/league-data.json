@@ -547,7 +547,14 @@
       "suspended": false
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "DiliboL",
+      "away": "RFT07",
+      "id": 1775769961061,
+      "postponedBy": null
+    }
+  ],
   "results": [
     {
       "home": "bhaze",
@@ -3385,5 +3392,5 @@
       "id": 1775769868867
     }
   ],
-  "lastUpdated": "2026-04-09T21:24:29.476Z"
+  "lastUpdated": "2026-04-09T21:26:01.665Z"
 }
