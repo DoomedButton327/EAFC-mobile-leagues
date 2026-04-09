@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 33,
+      "played": 34,
       "wins": 9,
       "draws": 11,
-      "losses": 13,
+      "losses": 14,
       "points": 38,
       "gf": 28,
-      "ga": 34,
+      "ga": 37,
       "form": [
-        "L",
         "D",
         "L",
         "D",
@@ -21,7 +20,8 @@
         "D",
         "L",
         "L",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -368,23 +368,23 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 29,
-      "wins": 15,
+      "played": 30,
+      "wins": 16,
       "draws": 7,
       "losses": 7,
-      "points": 52,
-      "gf": 38,
+      "points": 55,
+      "gf": 41,
       "ga": 22,
       "form": [
         "W",
         "W",
         "W",
+        "D",
+        "D",
+        "L",
+        "L",
+        "D",
         "W",
-        "D",
-        "D",
-        "L",
-        "L",
-        "D",
         "W"
       ],
       "postponements": 20,
@@ -569,12 +569,6 @@
       "home": "SMANGALISO",
       "away": "RFT07",
       "id": 1775600855070,
-      "postponedBy": null
-    },
-    {
-      "home": "bhaze",
-      "away": "Dontwindraw",
-      "id": 1775600855072,
       "postponedBy": null
     },
     {
@@ -3371,7 +3365,16 @@
       "awayGoals": 3,
       "id": 1775769239308,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Ctaum-cpt_1775769238375.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "Dontwindraw",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775769296926,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Dontwindraw_1775769295812.jpg"
     }
   ],
-  "lastUpdated": "2026-04-09T21:14:02.329Z"
+  "lastUpdated": "2026-04-09T21:15:00.211Z"
 }
