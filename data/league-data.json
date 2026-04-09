@@ -30,21 +30,21 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 33,
+      "played": 34,
       "wins": 7,
-      "draws": 12,
+      "draws": 13,
       "losses": 14,
-      "points": 33,
+      "points": 34,
       "gf": 20,
       "ga": 35,
       "form": [
-        "W",
         "W",
         "L",
         "L",
         "D",
         "L",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -524,11 +524,11 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 9,
+      "played": 10,
       "wins": 0,
-      "draws": 3,
+      "draws": 4,
       "losses": 6,
-      "points": 3,
+      "points": 4,
       "gf": 0,
       "ga": 16,
       "form": [
@@ -540,7 +540,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -551,12 +552,6 @@
       "home": "MGSatarou",
       "away": "leomessi",
       "id": 1775600855064,
-      "postponedBy": null
-    },
-    {
-      "home": "Sailor",
-      "away": "DARK-_-CEO",
-      "id": 1775600855068,
       "postponedBy": null
     },
     {
@@ -3383,7 +3378,13 @@
       "awayGoals": 1,
       "id": 1775769425562,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/DiliboL_vs_KING_KHESWA._1775769424748.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "DARK-_-CEO",
+      "result": "draw",
+      "id": 1775769783214
     }
   ],
-  "lastUpdated": "2026-04-09T21:17:08.896Z"
+  "lastUpdated": "2026-04-09T21:23:03.821Z"
 }
