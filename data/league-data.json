@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 33,
+      "played": 34,
       "wins": 1,
       "draws": 10,
-      "losses": 22,
+      "losses": 23,
       "points": 13,
       "gf": 4,
-      "ga": 71,
+      "ga": 74,
       "form": [
-        "L",
         "L",
         "L",
         "L",
@@ -359,7 +358,8 @@
         "D",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -394,19 +394,19 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 30,
-      "wins": 17,
+      "played": 31,
+      "wins": 18,
       "draws": 6,
       "losses": 7,
-      "points": 57,
-      "gf": 52,
+      "points": 60,
+      "gf": 55,
       "ga": 19,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -599,12 +599,6 @@
       "home": "Nigelmj21",
       "away": "Ctaum-cpt",
       "id": 1775600855080,
-      "postponedBy": null
-    },
-    {
-      "home": "wham",
-      "away": "CRANK_",
-      "id": 1775600855082,
       "postponedBy": null
     }
   ],
@@ -3365,7 +3359,16 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1775342668474
+    },
+    {
+      "home": "wham",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775769218619,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/—_Select_Fixture_—_1775769191358.jpg"
     }
   ],
-  "lastUpdated": "2026-04-07T22:27:35.670Z"
+  "lastUpdated": "2026-04-09T21:13:41.952Z"
 }
