@@ -154,7 +154,7 @@
         "W"
       ],
       "postponements": 20,
-      "suspended": false
+      "suspended": true
     },
     {
       "name": "🅿️🅾️🕉️🅱️🅰️",
@@ -3392,5 +3392,5 @@
       "id": 1775769868867
     }
   ],
-  "lastUpdated": "2026-04-09T21:26:01.665Z"
+  "lastUpdated": "2026-04-09T21:26:22.502Z"
 }
