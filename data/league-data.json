@@ -108,15 +108,14 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 18,
+      "played": 19,
       "wins": 11,
-      "draws": 2,
+      "draws": 3,
       "losses": 5,
-      "points": 35,
+      "points": 36,
       "gf": 36,
       "ga": 20,
       "form": [
-        "W",
         "W",
         "W",
         "L",
@@ -125,6 +124,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -212,20 +212,20 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 33,
+      "played": 34,
       "wins": 0,
-      "draws": 20,
+      "draws": 21,
       "losses": 13,
-      "points": 20,
+      "points": 21,
       "gf": 2,
       "ga": 39,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D",
         "D",
@@ -558,12 +558,6 @@
       "home": "Yungboyshlime",
       "away": "Lukie",
       "id": 1775600855074,
-      "postponedBy": null
-    },
-    {
-      "home": "E1even-Starz",
-      "away": "ExequielThwala",
-      "id": 1775600855078,
       "postponedBy": null
     }
   ],
@@ -3384,7 +3378,13 @@
       "away": "DARK-_-CEO",
       "result": "draw",
       "id": 1775769783214
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "ExequielThwala",
+      "result": "draw",
+      "id": 1775769814035
     }
   ],
-  "lastUpdated": "2026-04-09T21:23:03.821Z"
+  "lastUpdated": "2026-04-09T21:23:34.638Z"
 }
