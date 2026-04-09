@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 33,
+      "played": 34,
       "wins": 3,
       "draws": 17,
-      "losses": 13,
+      "losses": 14,
       "points": 25,
       "gf": 9,
-      "ga": 40,
+      "ga": 43,
       "form": [
-        "D",
         "L",
         "W",
         "D",
@@ -489,7 +488,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -498,21 +498,21 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 26,
-      "wins": 10,
+      "played": 27,
+      "wins": 11,
       "draws": 5,
       "losses": 11,
-      "points": 35,
-      "gf": 30,
+      "points": 38,
+      "gf": 33,
       "ga": 28,
       "form": [
-        "L",
         "W",
         "L",
         "W",
         "D",
         "D",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -551,12 +551,6 @@
       "home": "MGSatarou",
       "away": "leomessi",
       "id": 1775600855064,
-      "postponedBy": null
-    },
-    {
-      "home": "Barca.",
-      "away": "Zan-Ten",
-      "id": 1775600855066,
       "postponedBy": null
     },
     {
@@ -3374,7 +3368,16 @@
       "awayGoals": 3,
       "id": 1775769296926,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Dontwindraw_1775769295812.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775769384074,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Zan-Ten_1775769378017.jpg"
     }
   ],
-  "lastUpdated": "2026-04-09T21:15:00.211Z"
+  "lastUpdated": "2026-04-09T21:16:27.739Z"
 }
