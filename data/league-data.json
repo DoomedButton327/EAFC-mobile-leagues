@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 33,
+      "played": 34,
       "wins": 23,
-      "draws": 5,
+      "draws": 6,
       "losses": 5,
-      "points": 74,
+      "points": 75,
       "gf": 70,
       "ga": 19,
       "form": [
-        "W",
         "W",
         "L",
         "L",
@@ -332,6 +331,7 @@
         "D",
         "W",
         "W",
+        "D",
         "D",
         "D"
       ],
@@ -446,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 33,
+      "played": 34,
       "wins": 10,
-      "draws": 16,
+      "draws": 17,
       "losses": 7,
-      "points": 46,
+      "points": 47,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "D",
         "W",
         "D",
@@ -463,7 +462,8 @@
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "MGSatarou",
-      "away": "leomessi",
-      "id": 1775600855064,
-      "postponedBy": null
-    },
     {
       "home": "Yungboyshlime",
       "away": "Lukie",
@@ -3384,7 +3378,13 @@
       "away": "ExequielThwala",
       "result": "draw",
       "id": 1775769814035
+    },
+    {
+      "home": "MGSatarou",
+      "away": "leomessi",
+      "result": "draw",
+      "id": 1775769820308
     }
   ],
-  "lastUpdated": "2026-04-09T21:23:34.638Z"
+  "lastUpdated": "2026-04-09T21:23:40.911Z"
 }
