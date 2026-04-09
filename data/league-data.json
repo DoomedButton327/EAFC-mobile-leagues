@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 34,
+      "played": 35,
       "wins": 4,
       "draws": 15,
-      "losses": 15,
+      "losses": 16,
       "points": 27,
       "gf": 8,
       "ga": 46,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "W",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -238,16 +238,15 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 33,
-      "wins": 1,
+      "played": 34,
+      "wins": 2,
       "draws": 11,
       "losses": 21,
-      "points": 14,
+      "points": 17,
       "gf": 3,
       "ga": 56,
       "form": [
         "L",
-        "L",
         "D",
         "L",
         "L",
@@ -255,7 +254,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -547,14 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "Yungboyshlime",
-      "away": "Lukie",
-      "id": 1775600855074,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -3384,7 +3377,13 @@
       "away": "leomessi",
       "result": "draw",
       "id": 1775769820308
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Lukie",
+      "result": "home",
+      "id": 1775769868867
     }
   ],
-  "lastUpdated": "2026-04-09T21:23:40.911Z"
+  "lastUpdated": "2026-04-09T21:24:29.476Z"
 }
