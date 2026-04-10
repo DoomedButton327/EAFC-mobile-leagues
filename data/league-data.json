@@ -283,7 +283,7 @@
         "D",
         "L"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -601,7 +601,7 @@
       "away": "SMANGALISO",
       "id": 1775769998857,
       "scheduledDate": "2026-04-09",
-      "postponedBy": null
+      "postponedBy": "SMANGALISO"
     },
     {
       "home": "Yungboyshlime",
@@ -3455,5 +3455,5 @@
       "id": 1775769868867
     }
   ],
-  "lastUpdated": "2026-04-09T21:27:05.016Z"
+  "lastUpdated": "2026-04-10T22:33:21.655Z"
 }
