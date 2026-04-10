@@ -212,15 +212,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 34,
+      "played": 35,
       "wins": 0,
       "draws": 21,
-      "losses": 13,
+      "losses": 14,
       "points": 21,
       "gf": 2,
-      "ga": 39,
+      "ga": 42,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -229,7 +228,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 10,
-      "wins": 0,
+      "played": 11,
+      "wins": 1,
       "draws": 4,
       "losses": 6,
-      "points": 4,
-      "gf": 0,
+      "points": 7,
+      "gf": 3,
       "ga": 16,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -541,20 +540,14 @@
         "L",
         "L",
         "L",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
     }
   ],
   "fixtures": [
-    {
-      "home": "E1even-Starz",
-      "away": "DARK-_-CEO",
-      "id": 1775769998849,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
-    },
     {
       "home": "MGSatarou",
       "away": "Lukie",
@@ -3459,7 +3452,16 @@
       "away": "Nigelmj21",
       "result": "draw",
       "id": 1775860766540
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "DARK-_-CEO",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775860806441,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_DARK-_-CEO_1775860804515.jpg"
     }
   ],
-  "lastUpdated": "2026-04-10T22:39:27.153Z"
+  "lastUpdated": "2026-04-10T22:40:10.699Z"
 }
