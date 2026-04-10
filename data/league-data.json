@@ -30,15 +30,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 34,
+      "played": 35,
       "wins": 7,
       "draws": 13,
-      "losses": 14,
+      "losses": 15,
       "points": 34,
       "gf": 20,
-      "ga": 35,
+      "ga": 38,
       "form": [
-        "W",
         "L",
         "L",
         "D",
@@ -47,7 +46,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -160,24 +160,24 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 32,
-      "wins": 16,
+      "played": 33,
+      "wins": 17,
       "draws": 5,
       "losses": 11,
-      "points": 53,
-      "gf": 49,
+      "points": 56,
+      "gf": 52,
       "ga": 25,
       "form": [
         "W",
         "W",
-        "W",
         "L",
         "D",
         "W",
         "W",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -552,13 +552,6 @@
       "home": "ExequielThwala",
       "away": "Barca.",
       "id": 1775769998844,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
-    },
-    {
-      "home": "Sailor",
-      "away": "RoyalAM",
-      "id": 1775769998847,
       "scheduledDate": "2026-04-09",
       "postponedBy": null
     },
@@ -3460,7 +3453,16 @@
       "awayGoals": 0,
       "id": 1775860546716,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_wham_1775860543420.jpg"
+    },
+    {
+      "home": "Sailor",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775860629466,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RoyalAM_1775860628801.jpg"
     }
   ],
-  "lastUpdated": "2026-04-10T22:35:49.965Z"
+  "lastUpdated": "2026-04-10T22:37:13.013Z"
 }
