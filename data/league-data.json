@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 34,
+      "played": 35,
       "wins": 9,
       "draws": 11,
-      "losses": 14,
+      "losses": 15,
       "points": 38,
       "gf": 28,
       "ga": 37,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -21,6 +20,7 @@
         "L",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 34,
-      "wins": 22,
+      "played": 35,
+      "wins": 23,
       "draws": 6,
       "losses": 6,
-      "points": 72,
+      "points": 75,
       "gf": 56,
       "ga": 18,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "D",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -573,13 +573,6 @@
       "home": "MGSatarou",
       "away": "Lukie",
       "id": 1775769998853,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "bhaze",
-      "id": 1775769998855,
       "scheduledDate": "2026-04-09",
       "postponedBy": null
     },
@@ -3462,7 +3455,13 @@
       "awayGoals": 3,
       "id": 1775860629466,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RoyalAM_1775860628801.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "bhaze",
+      "result": "home",
+      "id": 1775860700443
     }
   ],
-  "lastUpdated": "2026-04-10T22:37:13.013Z"
+  "lastUpdated": "2026-04-10T22:38:21.049Z"
 }
