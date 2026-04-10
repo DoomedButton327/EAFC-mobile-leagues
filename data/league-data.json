@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 35,
+      "played": 36,
       "wins": 4,
-      "draws": 15,
+      "draws": 16,
       "losses": 16,
-      "points": 27,
+      "points": 28,
       "gf": 8,
       "ga": 46,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -446,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 34,
+      "played": 35,
       "wins": 10,
-      "draws": 17,
+      "draws": 18,
       "losses": 7,
-      "points": 47,
+      "points": 48,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "W",
         "D",
         "L",
@@ -463,6 +462,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -548,13 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "MGSatarou",
-      "away": "Lukie",
-      "id": 1775769998853,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
-    },
     {
       "home": "Ctaum-cpt",
       "away": "SMANGALISO",
@@ -3461,7 +3454,13 @@
       "awayGoals": 3,
       "id": 1775860806441,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/E1even-Starz_vs_DARK-_-CEO_1775860804515.jpg"
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1775860878088
     }
   ],
-  "lastUpdated": "2026-04-10T22:40:10.699Z"
+  "lastUpdated": "2026-04-10T22:41:18.698Z"
 }
