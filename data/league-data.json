@@ -108,16 +108,15 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 19,
-      "wins": 11,
+      "played": 20,
+      "wins": 12,
       "draws": 3,
       "losses": 5,
-      "points": 36,
+      "points": 39,
       "gf": 36,
       "ga": 20,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "W",
@@ -125,7 +124,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 34,
+      "played": 35,
       "wins": 3,
       "draws": 17,
-      "losses": 14,
+      "losses": 15,
       "points": 25,
       "gf": 9,
       "ga": 43,
       "form": [
-        "L",
         "W",
         "D",
         "D",
@@ -489,6 +488,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L"
       ],
       "postponements": 19,
@@ -548,13 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "ExequielThwala",
-      "away": "Barca.",
-      "id": 1775769998844,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
-    },
     {
       "home": "E1even-Starz",
       "away": "DARK-_-CEO",
@@ -3461,7 +3454,13 @@
       "away": "bhaze",
       "result": "home",
       "id": 1775860700443
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "Barca.",
+      "result": "home",
+      "id": 1775860722040
     }
   ],
-  "lastUpdated": "2026-04-10T22:38:21.049Z"
+  "lastUpdated": "2026-04-10T22:38:42.654Z"
 }
