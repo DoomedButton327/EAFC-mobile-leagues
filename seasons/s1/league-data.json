@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 33,
-      "wins": 5,
+      "played": 34,
+      "wins": 6,
       "draws": 12,
       "losses": 16,
-      "points": 27,
+      "points": 30,
       "gf": 14,
       "ga": 39,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -281,7 +280,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -290,10 +290,10 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 32,
+      "played": 33,
       "wins": 28,
       "draws": 2,
-      "losses": 2,
+      "losses": 3,
       "points": 86,
       "gf": 73,
       "ga": 16,
@@ -307,7 +307,7 @@
         "W",
         "W",
         "W",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -563,12 +563,6 @@
       "home": "Sailor",
       "away": "DARK-_-CEO",
       "id": 1775600855068,
-      "postponedBy": null
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "RFT07",
-      "id": 1775600855070,
       "postponedBy": null
     },
     {
@@ -3365,8 +3359,13 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1775342668474
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "RFT07",
+      "result": "home",
+      "id": 1775799578962
     }
   ],
-  "archived": true,
-  "archivedAt": "2026-04-08T21:19:33.913Z"
+  "lastUpdated": "2026-04-10T05:39:39.566Z"
 }
