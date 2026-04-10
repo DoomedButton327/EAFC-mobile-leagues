@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 34,
+      "played": 35,
       "wins": 1,
       "draws": 10,
-      "losses": 23,
+      "losses": 24,
       "points": 13,
       "gf": 4,
-      "ga": 74,
+      "ga": 77,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -359,6 +358,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -394,18 +394,18 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 31,
-      "wins": 18,
+      "played": 32,
+      "wins": 19,
       "draws": 6,
       "losses": 7,
-      "points": 60,
-      "gf": 55,
+      "points": 63,
+      "gf": 58,
       "ga": 19,
       "form": [
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -596,13 +596,6 @@
       "id": 1775769998857,
       "scheduledDate": "2026-04-09",
       "postponedBy": "SMANGALISO"
-    },
-    {
-      "home": "CRANK_",
-      "away": "wham",
-      "id": 1775769998861,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
     }
   ],
   "results": [
@@ -3458,7 +3451,16 @@
       "awayGoals": 3,
       "id": 1775860514062,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_Zan-Ten_1775860512126.jpg"
+    },
+    {
+      "home": "CRANK_",
+      "away": "wham",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1775860546716,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_wham_1775860543420.jpg"
     }
   ],
-  "lastUpdated": "2026-04-10T22:35:17.414Z"
+  "lastUpdated": "2026-04-10T22:35:49.965Z"
 }
