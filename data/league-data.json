@@ -212,15 +212,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 35,
+      "played": 36,
       "wins": 0,
-      "draws": 21,
+      "draws": 22,
       "losses": 14,
-      "points": 21,
+      "points": 22,
       "gf": 2,
       "ga": 42,
       "form": [
-        "D",
         "D",
         "D",
         "L",
@@ -229,7 +228,8 @@
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 34,
+      "played": 35,
       "wins": 5,
-      "draws": 12,
+      "draws": 13,
       "losses": 17,
-      "points": 27,
+      "points": 28,
       "gf": 14,
       "ga": 42,
       "form": [
-        "L",
         "L",
         "D",
         "D",
@@ -281,7 +280,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -571,12 +571,6 @@
       "home": "Zan-Ten",
       "away": "DARK-_-CEO",
       "id": 1775860895958,
-      "postponedBy": null
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "E1even-Starz",
-      "id": 1775860895962,
       "postponedBy": null
     },
     {
@@ -3529,7 +3523,13 @@
       "away": "Ctaum-cpt",
       "result": "away",
       "id": 1775944794644
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1775944842907
     }
   ],
-  "lastUpdated": "2026-04-11T21:59:55.255Z"
+  "lastUpdated": "2026-04-11T22:00:43.519Z"
 }
