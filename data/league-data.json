@@ -179,7 +179,7 @@
         "D",
         "W"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -595,7 +595,7 @@
       "home": "RoyalAM",
       "away": "MGSatarou",
       "id": 1775860895970,
-      "postponedBy": null
+      "postponedBy": "RoyalAM"
     }
   ],
   "results": [
@@ -3531,5 +3531,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_CRANK__1775944511392.jpg"
     }
   ],
-  "lastUpdated": "2026-04-11T21:58:00.146Z"
+  "lastUpdated": "2026-04-11T21:58:09.022Z"
 }
