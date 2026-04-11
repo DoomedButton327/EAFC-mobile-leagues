@@ -153,7 +153,7 @@
         "W",
         "D"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -565,7 +565,7 @@
       "home": "bhaze",
       "away": "DiliboL",
       "id": 1775860895956,
-      "postponedBy": null
+      "postponedBy": "DiliboL"
     },
     {
       "home": "Zan-Ten",
@@ -3531,5 +3531,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_CRANK__1775944511392.jpg"
     }
   ],
-  "lastUpdated": "2026-04-11T21:55:16.412Z"
+  "lastUpdated": "2026-04-11T21:58:00.146Z"
 }
