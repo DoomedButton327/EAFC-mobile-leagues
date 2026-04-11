@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 34,
-      "wins": 19,
+      "played": 35,
+      "wins": 20,
       "draws": 8,
       "losses": 7,
-      "points": 65,
-      "gf": 63,
+      "points": 68,
+      "gf": 66,
       "ga": 22,
       "form": [
-        "W",
         "W",
         "W",
         "L",
@@ -203,6 +202,7 @@
         "W",
         "L",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 35,
+      "played": 36,
       "wins": 3,
       "draws": 17,
-      "losses": 15,
+      "losses": 16,
       "points": 25,
       "gf": 9,
-      "ga": 43,
+      "ga": 46,
       "form": [
-        "W",
         "D",
         "D",
         "L",
@@ -488,6 +487,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -589,12 +589,6 @@
       "home": "Sailor",
       "away": "RFT07",
       "id": 1775860895964,
-      "postponedBy": null
-    },
-    {
-      "home": "Barca.",
-      "away": "Ctaum-cpt",
-      "id": 1775860895966,
       "postponedBy": null
     },
     {
@@ -3520,7 +3514,16 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1775860878088
+    },
+    {
+      "home": "Barca.",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1775944341861,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Ctaum-cpt_1775944340387.jpg"
     }
   ],
-  "lastUpdated": "2026-04-10T22:41:36.562Z"
+  "lastUpdated": "2026-04-11T21:52:25.518Z"
 }
