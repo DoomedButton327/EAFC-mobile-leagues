@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 34,
-      "wins": 19,
+      "played": 35,
+      "wins": 20,
       "draws": 8,
       "losses": 7,
-      "points": 65,
+      "points": 68,
       "gf": 63,
       "ga": 22,
       "form": [
-        "W",
         "W",
         "W",
         "L",
@@ -203,6 +202,7 @@
         "W",
         "L",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 35,
+      "played": 36,
       "wins": 3,
       "draws": 17,
-      "losses": 15,
+      "losses": 16,
       "points": 25,
       "gf": 9,
       "ga": 43,
       "form": [
-        "W",
         "D",
         "D",
         "L",
@@ -488,6 +487,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -577,12 +577,6 @@
       "home": "SMANGALISO",
       "away": "E1even-Starz",
       "id": 1775860895962,
-      "postponedBy": null
-    },
-    {
-      "home": "Barca.",
-      "away": "Ctaum-cpt",
-      "id": 1775860895966,
       "postponedBy": null
     },
     {
@@ -3529,7 +3523,13 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1775944691920
+    },
+    {
+      "home": "Barca.",
+      "away": "Ctaum-cpt",
+      "result": "away",
+      "id": 1775944794644
     }
   ],
-  "lastUpdated": "2026-04-11T21:58:12.529Z"
+  "lastUpdated": "2026-04-11T21:59:55.255Z"
 }
