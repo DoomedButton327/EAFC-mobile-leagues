@@ -56,12 +56,12 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 35,
-      "wins": 23,
+      "played": 36,
+      "wins": 24,
       "draws": 6,
       "losses": 6,
-      "points": 75,
-      "gf": 56,
+      "points": 78,
+      "gf": 59,
       "ga": 18,
       "form": [
         "W",
@@ -70,9 +70,9 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -394,15 +394,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 32,
+      "played": 33,
       "wins": 19,
       "draws": 6,
-      "losses": 7,
+      "losses": 8,
       "points": 63,
       "gf": 58,
-      "ga": 19,
+      "ga": 22,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -411,7 +410,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -571,12 +571,6 @@
       "home": "Zan-Ten",
       "away": "DARK-_-CEO",
       "id": 1775860895958,
-      "postponedBy": null
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "CRANK_",
-      "id": 1775860895960,
       "postponedBy": null
     },
     {
@@ -3526,7 +3520,16 @@
       "awayGoals": 0,
       "id": 1775944493881,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_leomessi_1775944492521.jpg"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "CRANK_",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1775944512442,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_CRANK__1775944511392.jpg"
     }
   ],
-  "lastUpdated": "2026-04-11T21:54:57.577Z"
+  "lastUpdated": "2026-04-11T21:55:16.412Z"
 }
