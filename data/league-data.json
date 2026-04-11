@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 36,
+      "played": 37,
       "wins": 4,
-      "draws": 16,
+      "draws": 17,
       "losses": 16,
-      "points": 28,
+      "points": 29,
       "gf": 8,
       "ga": 46,
       "form": [
-        "D",
         "D",
         "D",
         "D",
@@ -99,6 +98,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -420,16 +420,15 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 33,
+      "played": 34,
       "wins": 9,
-      "draws": 17,
+      "draws": 18,
       "losses": 7,
-      "points": 44,
+      "points": 45,
       "gf": 32,
       "ga": 20,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
@@ -437,6 +436,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -583,12 +583,6 @@
       "home": "Barca.",
       "away": "Ctaum-cpt",
       "id": 1775860895966,
-      "postponedBy": null
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "Lukie",
-      "id": 1775860895968,
       "postponedBy": null
     },
     {
@@ -3529,7 +3523,13 @@
       "awayGoals": 0,
       "id": 1775944512442,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_CRANK__1775944511392.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1775944691920
     }
   ],
-  "lastUpdated": "2026-04-11T21:58:09.022Z"
+  "lastUpdated": "2026-04-11T21:58:12.529Z"
 }
