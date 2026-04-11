@@ -498,19 +498,19 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 28,
-      "wins": 12,
+      "played": 29,
+      "wins": 13,
       "draws": 5,
       "losses": 11,
-      "points": 41,
+      "points": 44,
       "gf": 36,
       "ga": 28,
       "form": [
-        "L",
         "W",
         "D",
         "D",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -524,16 +524,15 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 11,
+      "played": 12,
       "wins": 1,
       "draws": 4,
-      "losses": 6,
+      "losses": 7,
       "points": 7,
       "gf": 3,
       "ga": 16,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "L",
@@ -541,7 +540,8 @@
         "L",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -566,12 +566,6 @@
       "away": "DiliboL",
       "id": 1775860895956,
       "postponedBy": "DiliboL"
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "DARK-_-CEO",
-      "id": 1775860895958,
-      "postponedBy": null
     },
     {
       "home": "RoyalAM",
@@ -3529,7 +3523,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1775944842907
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "DARK-_-CEO",
+      "result": "home",
+      "id": 1775944847959
     }
   ],
-  "lastUpdated": "2026-04-11T22:00:43.519Z"
+  "lastUpdated": "2026-04-11T22:00:48.569Z"
 }
