@@ -108,15 +108,14 @@
       "name": "Sihle👑",
       "username": "ExequielThwala",
       "phone": "0797363716",
-      "played": 20,
-      "wins": 12,
+      "played": 21,
+      "wins": 13,
       "draws": 3,
       "losses": 5,
-      "points": 39,
+      "points": 42,
       "gf": 36,
       "ga": 20,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -125,6 +124,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 35,
+      "played": 36,
       "wins": 1,
       "draws": 10,
-      "losses": 24,
+      "losses": 25,
       "points": 13,
       "gf": 4,
       "ga": 77,
       "form": [
-        "L",
         "L",
         "D",
         "W",
@@ -358,6 +357,7 @@
         "L",
         "L",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -554,12 +554,6 @@
       "id": 1775769998857,
       "scheduledDate": "2026-04-09",
       "postponedBy": "SMANGALISO"
-    },
-    {
-      "home": "ExequielThwala",
-      "away": "wham",
-      "id": 1775860895954,
-      "postponedBy": null
     },
     {
       "home": "bhaze",
@@ -3529,7 +3523,13 @@
       "away": "DARK-_-CEO",
       "result": "home",
       "id": 1775944847959
+    },
+    {
+      "home": "ExequielThwala",
+      "away": "wham",
+      "result": "home",
+      "id": 1775944867337
     }
   ],
-  "lastUpdated": "2026-04-11T22:00:48.569Z"
+  "lastUpdated": "2026-04-11T22:01:07.943Z"
 }
