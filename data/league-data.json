@@ -30,16 +30,15 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 35,
+      "played": 36,
       "wins": 7,
       "draws": 13,
-      "losses": 15,
+      "losses": 16,
       "points": 34,
       "gf": 20,
-      "ga": 38,
+      "ga": 41,
       "form": [
         "L",
-        "L",
         "D",
         "L",
         "L",
@@ -47,6 +46,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L"
       ],
       "postponements": 19,
@@ -186,14 +186,15 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 35,
-      "wins": 20,
+      "played": 34,
+      "wins": 19,
       "draws": 8,
       "losses": 7,
-      "points": 68,
-      "gf": 66,
+      "points": 65,
+      "gf": 63,
       "ga": 22,
       "form": [
+        "W",
         "W",
         "W",
         "L",
@@ -202,7 +203,6 @@
         "W",
         "L",
         "D",
-        "W",
         "W"
       ],
       "postponements": 19,
@@ -290,12 +290,12 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 34,
-      "wins": 29,
+      "played": 35,
+      "wins": 30,
       "draws": 3,
       "losses": 2,
-      "points": 90,
-      "gf": 78,
+      "points": 93,
+      "gf": 81,
       "ga": 18,
       "form": [
         "W",
@@ -306,8 +306,8 @@
         "W",
         "W",
         "W",
-        "W",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -472,14 +472,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 36,
+      "played": 35,
       "wins": 3,
       "draws": 17,
-      "losses": 16,
+      "losses": 15,
       "points": 25,
       "gf": 9,
-      "ga": 46,
+      "ga": 43,
       "form": [
+        "W",
         "D",
         "D",
         "L",
@@ -487,7 +488,6 @@
         "L",
         "D",
         "D",
-        "L",
         "L",
         "L"
       ],
@@ -586,9 +586,9 @@
       "postponedBy": null
     },
     {
-      "home": "Sailor",
-      "away": "RFT07",
-      "id": 1775860895964,
+      "home": "Barca.",
+      "away": "Ctaum-cpt",
+      "id": 1775860895966,
       "postponedBy": null
     },
     {
@@ -3516,14 +3516,14 @@
       "id": 1775860878088
     },
     {
-      "home": "Barca.",
-      "away": "Ctaum-cpt",
+      "home": "Sailor",
+      "away": "RFT07",
       "result": "away",
       "homeGoals": 0,
       "awayGoals": 3,
-      "id": 1775944341861,
-      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Barca._vs_Ctaum-cpt_1775944340387.jpg"
+      "id": 1775944374402,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Sailor_vs_RFT07_1775944372622.jpg"
     }
   ],
-  "lastUpdated": "2026-04-11T21:52:25.518Z"
+  "lastUpdated": "2026-04-11T21:52:58.688Z"
 }
