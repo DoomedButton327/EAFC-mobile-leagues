@@ -56,11 +56,11 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 36,
-      "wins": 24,
+      "played": 35,
+      "wins": 23,
       "draws": 6,
       "losses": 6,
-      "points": 78,
+      "points": 75,
       "gf": 59,
       "ga": 18,
       "form": [
@@ -72,7 +72,6 @@
         "W",
         "D",
         "L",
-        "W",
         "W"
       ],
       "postponements": 20,
@@ -397,8 +396,8 @@
       "played": 33,
       "wins": 19,
       "draws": 6,
-      "losses": 8,
-      "points": 63,
+      "losses": 7,
+      "points": 62,
       "gf": 58,
       "ga": 22,
       "form": [
@@ -410,10 +409,9 @@
         "W",
         "W",
         "W",
-        "W",
-        "L"
+        "W"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -566,6 +564,13 @@
       "away": "MGSatarou",
       "id": 1775860895970,
       "postponedBy": "RoyalAM"
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "CRANK_",
+      "result": "home",
+      "id": 1775944512442,
+      "postponedBy": "CRANK_"
     }
   ],
   "results": [
@@ -3490,15 +3495,6 @@
       "awayGoals": 0,
       "id": 1775944493881,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Dontwindraw_vs_leomessi_1775944492521.jpg"
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "CRANK_",
-      "result": "home",
-      "homeGoals": 3,
-      "awayGoals": 0,
-      "id": 1775944512442,
-      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_CRANK__1775944511392.jpg"
     },
     {
       "home": "Nigelmj21",
