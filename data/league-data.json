@@ -30,15 +30,14 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 36,
+      "played": 37,
       "wins": 7,
       "draws": 13,
-      "losses": 16,
+      "losses": 17,
       "points": 34,
       "gf": 20,
       "ga": 41,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -46,6 +45,7 @@
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L"
       ],
@@ -133,15 +133,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 34,
-      "wins": 20,
+      "played": 35,
+      "wins": 21,
       "draws": 8,
       "losses": 6,
-      "points": 68,
+      "points": 71,
       "gf": 57,
       "ga": 24,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -150,7 +149,8 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -588,12 +588,6 @@
       "home": "Dontwindraw",
       "away": "RFT07",
       "id": 1776055899675,
-      "postponedBy": null
-    },
-    {
-      "home": "DiliboL",
-      "away": "Sailor",
-      "id": 1776055899677,
       "postponedBy": null
     },
     {
@@ -3585,7 +3579,13 @@
       "away": "wham",
       "result": "home",
       "id": 1775944867337
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "result": "home",
+      "id": 1776100517682
     }
   ],
-  "lastUpdated": "2026-04-13T04:51:40.286Z"
+  "lastUpdated": "2026-04-13T17:15:18.288Z"
 }
