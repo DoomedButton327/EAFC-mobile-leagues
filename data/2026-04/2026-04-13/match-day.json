@@ -24,7 +24,7 @@
       "id": 1776055853131,
       "home": "DiliboL",
       "away": "Barca.",
-      "postponedBy": null,
+      "postponedBy": "DiliboL",
       "scheduledDate": "2026-04-13"
     },
     {
@@ -3045,5 +3045,5 @@
       "id": 1775944867337
     }
   ],
-  "lastUpdated": "2026-04-13T04:50:56.284Z"
+  "lastUpdated": "2026-04-13T04:54:25.364Z"
 }
