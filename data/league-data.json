@@ -159,16 +159,15 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 33,
-      "wins": 17,
+      "played": 34,
+      "wins": 18,
       "draws": 5,
       "losses": 11,
-      "points": 56,
+      "points": 59,
       "gf": 52,
       "ga": 25,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "W",
@@ -176,6 +175,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -237,15 +237,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 35,
+      "played": 36,
       "wins": 2,
       "draws": 11,
-      "losses": 22,
+      "losses": 23,
       "points": 17,
       "gf": 3,
       "ga": 59,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -254,6 +253,7 @@
         "D",
         "L",
         "W",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -593,12 +593,6 @@
       "home": "bhaze",
       "away": "MGSatarou",
       "id": 1776055899683,
-      "postponedBy": null
-    },
-    {
-      "home": "RoyalAM",
-      "away": "Yungboyshlime",
-      "id": 1776055899685,
       "postponedBy": null
     },
     {
@@ -3590,7 +3584,13 @@
       "awayGoals": 0,
       "id": 1776141372206,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1776141371129.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Yungboyshlime",
+      "result": "home",
+      "id": 1776141456641
     }
   ],
-  "lastUpdated": "2026-04-14T04:37:01.272Z"
+  "lastUpdated": "2026-04-14T04:37:37.253Z"
 }
