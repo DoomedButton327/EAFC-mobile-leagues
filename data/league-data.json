@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 36,
+      "played": 37,
       "wins": 5,
-      "draws": 13,
+      "draws": 14,
       "losses": 18,
-      "points": 28,
+      "points": 29,
       "gf": 14,
       "ga": 45,
       "form": [
-        "D",
         "D",
         "W",
         "L",
@@ -281,7 +280,8 @@
         "D",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 36,
+      "played": 37,
       "wins": 1,
-      "draws": 10,
+      "draws": 11,
       "losses": 25,
-      "points": 13,
+      "points": 14,
       "gf": 4,
       "ga": 77,
       "form": [
-        "L",
         "D",
         "W",
         "D",
@@ -359,7 +358,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -576,12 +576,6 @@
       "home": "Barca.",
       "away": "E1even-Starz",
       "id": 1776055899679,
-      "postponedBy": null
-    },
-    {
-      "home": "wham",
-      "away": "SMANGALISO",
-      "id": 1776055899681,
       "postponedBy": null
     },
     {
@@ -3591,7 +3585,13 @@
       "away": "MGSatarou",
       "result": "away",
       "id": 1776141579081
+    },
+    {
+      "home": "wham",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1776141589042
     }
   ],
-  "lastUpdated": "2026-04-14T04:39:39.691Z"
+  "lastUpdated": "2026-04-14T04:39:49.651Z"
 }
