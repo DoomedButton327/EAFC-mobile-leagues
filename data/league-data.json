@@ -212,16 +212,15 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 36,
+      "played": 37,
       "wins": 0,
-      "draws": 22,
+      "draws": 23,
       "losses": 14,
-      "points": 22,
+      "points": 23,
       "gf": 2,
       "ga": 42,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "D",
@@ -229,6 +228,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -472,16 +472,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 36,
+      "played": 37,
       "wins": 3,
-      "draws": 17,
+      "draws": 18,
       "losses": 16,
-      "points": 25,
+      "points": 26,
       "gf": 9,
       "ga": 43,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "L",
@@ -489,7 +488,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -572,12 +572,6 @@
       "away": "RFT07",
       "id": 1776055899675,
       "postponedBy": "RFT07"
-    },
-    {
-      "home": "Barca.",
-      "away": "E1even-Starz",
-      "id": 1776055899679,
-      "postponedBy": null
     }
   ],
   "results": [
@@ -3592,7 +3586,13 @@
       "away": "CRANK_",
       "result": "away",
       "id": 1776141609107
+    },
+    {
+      "home": "Barca.",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1776141621440
     }
   ],
-  "lastUpdated": "2026-04-14T04:40:09.720Z"
+  "lastUpdated": "2026-04-14T04:40:22.050Z"
 }
