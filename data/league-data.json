@@ -185,15 +185,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 35,
-      "wins": 20,
+      "played": 36,
+      "wins": 21,
       "draws": 8,
       "losses": 7,
-      "points": 68,
-      "gf": 63,
+      "points": 71,
+      "gf": 66,
       "ga": 22,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -201,6 +200,7 @@
         "W",
         "L",
         "D",
+        "W",
         "W",
         "W"
       ],
@@ -263,15 +263,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 35,
+      "played": 36,
       "wins": 5,
       "draws": 13,
-      "losses": 17,
+      "losses": 18,
       "points": 28,
       "gf": 14,
-      "ga": 42,
+      "ga": 45,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -280,7 +279,8 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -546,13 +546,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Ctaum-cpt",
-      "away": "SMANGALISO",
-      "id": 1775769998857,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": "SMANGALISO"
-    },
     {
       "home": "RoyalAM",
       "away": "MGSatarou",
@@ -3588,7 +3581,16 @@
       "awayGoals": 0,
       "id": 1776141352161,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Lukie_1776141350699.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1776141372206,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1776141371129.jpg"
     }
   ],
-  "lastUpdated": "2026-04-14T04:35:55.537Z"
+  "lastUpdated": "2026-04-14T04:36:15.261Z"
 }
