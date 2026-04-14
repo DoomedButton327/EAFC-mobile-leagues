@@ -56,11 +56,11 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 35,
-      "wins": 23,
+      "played": 36,
+      "wins": 24,
       "draws": 6,
       "losses": 6,
-      "points": 75,
+      "points": 78,
       "gf": 59,
       "ga": 18,
       "form": [
@@ -72,6 +72,7 @@
         "W",
         "D",
         "L",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -315,23 +316,23 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 35,
+      "played": 36,
       "wins": 23,
       "draws": 6,
-      "losses": 6,
+      "losses": 7,
       "points": 75,
       "gf": 70,
       "ga": 22,
       "form": [
         "L",
+        "W",
+        "D",
+        "W",
+        "W",
+        "D",
+        "D",
+        "D",
         "L",
-        "W",
-        "D",
-        "W",
-        "W",
-        "D",
-        "D",
-        "D",
         "L"
       ],
       "postponements": 19,
@@ -564,12 +565,6 @@
       "away": "Ctaum-cpt",
       "id": 1776055899670,
       "postponedBy": "DARK-_-CEO"
-    },
-    {
-      "home": "leomessi",
-      "away": "KING_KHESWA.",
-      "id": 1776055899672,
-      "postponedBy": null
     },
     {
       "home": "Dontwindraw",
@@ -3590,7 +3585,13 @@
       "away": "Yungboyshlime",
       "result": "home",
       "id": 1776141456641
+    },
+    {
+      "home": "leomessi",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "id": 1776141549477
     }
   ],
-  "lastUpdated": "2026-04-14T04:37:37.253Z"
+  "lastUpdated": "2026-04-14T04:39:10.084Z"
 }
