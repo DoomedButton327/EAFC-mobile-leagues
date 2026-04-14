@@ -4,21 +4,21 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 36,
+      "played": 37,
       "wins": 9,
       "draws": 11,
-      "losses": 16,
+      "losses": 17,
       "points": 38,
       "gf": 28,
       "ga": 37,
       "form": [
-        "D",
         "D",
         "L",
         "D",
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L",
         "L"
@@ -445,15 +445,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 35,
-      "wins": 10,
+      "played": 36,
+      "wins": 11,
       "draws": 18,
       "losses": 7,
-      "points": 48,
+      "points": 51,
       "gf": 34,
       "ga": 27,
       "form": [
-        "W",
         "D",
         "L",
         "D",
@@ -462,7 +461,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -582,12 +582,6 @@
       "home": "wham",
       "away": "SMANGALISO",
       "id": 1776055899681,
-      "postponedBy": null
-    },
-    {
-      "home": "bhaze",
-      "away": "MGSatarou",
-      "id": 1776055899683,
       "postponedBy": null
     },
     {
@@ -3591,7 +3585,13 @@
       "away": "KING_KHESWA.",
       "result": "away",
       "id": 1776141549477
+    },
+    {
+      "home": "bhaze",
+      "away": "MGSatarou",
+      "result": "away",
+      "id": 1776141579081
     }
   ],
-  "lastUpdated": "2026-04-14T04:39:10.084Z"
+  "lastUpdated": "2026-04-14T04:39:39.691Z"
 }
