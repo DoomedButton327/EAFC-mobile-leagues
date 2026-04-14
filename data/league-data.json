@@ -394,16 +394,17 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 33,
-      "wins": 19,
+      "played": 34,
+      "wins": 20,
       "draws": 6,
       "losses": 7,
-      "points": 62,
+      "points": 65,
       "gf": 58,
       "ga": 22,
       "form": [
         "W",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -419,15 +420,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 34,
+      "played": 35,
       "wins": 9,
       "draws": 18,
-      "losses": 7,
+      "losses": 8,
       "points": 45,
       "gf": 32,
       "ga": 20,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -436,7 +436,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -576,12 +577,6 @@
       "home": "Barca.",
       "away": "E1even-Starz",
       "id": 1776055899679,
-      "postponedBy": null
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "CRANK_",
-      "id": 1776055899687,
       "postponedBy": null
     }
   ],
@@ -3591,7 +3586,13 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1776141589042
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "CRANK_",
+      "result": "away",
+      "id": 1776141609107
     }
   ],
-  "lastUpdated": "2026-04-14T04:39:49.651Z"
+  "lastUpdated": "2026-04-14T04:40:09.720Z"
 }
