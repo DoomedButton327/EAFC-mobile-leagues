@@ -308,7 +308,7 @@
         "D",
         "W"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -575,7 +575,7 @@
       "home": "Dontwindraw",
       "away": "RFT07",
       "id": 1776055899675,
-      "postponedBy": null
+      "postponedBy": "RFT07"
     },
     {
       "home": "Barca.",
@@ -3592,5 +3592,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1776141371129.jpg"
     }
   ],
-  "lastUpdated": "2026-04-14T04:36:15.261Z"
+  "lastUpdated": "2026-04-14T04:36:35.918Z"
 }
