@@ -550,7 +550,7 @@
       "home": "RoyalAM",
       "away": "MGSatarou",
       "id": 1775860895970,
-      "postponedBy": "RoyalAM"
+      "postponedBy": null
     },
     {
       "home": "KING_KHESWA.",
@@ -3592,5 +3592,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_SMANGALISO_1776141371129.jpg"
     }
   ],
-  "lastUpdated": "2026-04-14T04:36:41.091Z"
+  "lastUpdated": "2026-04-14T04:36:42.141Z"
 }
