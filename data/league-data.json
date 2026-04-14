@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 34,
-      "wins": 18,
+      "played": 35,
+      "wins": 19,
       "draws": 5,
       "losses": 11,
-      "points": 59,
+      "points": 62,
       "gf": 52,
       "ga": 25,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -176,6 +175,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ],
@@ -446,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 36,
+      "played": 37,
       "wins": 11,
       "draws": 18,
-      "losses": 7,
+      "losses": 8,
       "points": 51,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -463,7 +462,8 @@
         "L",
         "D",
         "D",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "MGSatarou",
-      "id": 1775860895970,
-      "postponedBy": null
-    },
     {
       "home": "KING_KHESWA.",
       "away": "CRANK_",
@@ -3592,7 +3586,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1776141621440
+    },
+    {
+      "home": "RoyalAM",
+      "away": "MGSatarou",
+      "result": "home",
+      "id": 1776141634077
     }
   ],
-  "lastUpdated": "2026-04-14T04:40:22.050Z"
+  "lastUpdated": "2026-04-14T04:40:34.690Z"
 }
