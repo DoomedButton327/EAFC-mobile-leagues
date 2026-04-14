@@ -81,15 +81,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 37,
+      "played": 38,
       "wins": 4,
       "draws": 17,
-      "losses": 16,
+      "losses": 17,
       "points": 29,
       "gf": 8,
-      "ga": 46,
+      "ga": 49,
       "form": [
-        "D",
         "D",
         "D",
         "W",
@@ -98,7 +97,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -496,18 +496,18 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 29,
-      "wins": 13,
+      "played": 30,
+      "wins": 14,
       "draws": 5,
       "losses": 11,
-      "points": 44,
-      "gf": 36,
+      "points": 47,
+      "gf": 39,
       "ga": 28,
       "form": [
-        "W",
         "D",
         "D",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -612,12 +612,6 @@
       "home": "Nigelmj21",
       "away": "CRANK_",
       "id": 1776055899687,
-      "postponedBy": null
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "Lukie",
-      "id": 1776055899689,
       "postponedBy": null
     }
   ],
@@ -3585,7 +3579,16 @@
       "away": "DiliboL",
       "result": "away",
       "id": 1776141308969
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "Lukie",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1776141352161,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_Lukie_1776141350699.jpg"
     }
   ],
-  "lastUpdated": "2026-04-14T04:35:09.580Z"
+  "lastUpdated": "2026-04-14T04:35:55.537Z"
 }
