@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 35,
+      "played": 36,
       "wins": 9,
       "draws": 11,
-      "losses": 15,
+      "losses": 16,
       "points": 38,
       "gf": 28,
       "ga": 37,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -20,6 +19,7 @@
         "L",
         "L",
         "W",
+        "L",
         "L",
         "L"
       ],
@@ -133,15 +133,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 35,
-      "wins": 21,
+      "played": 36,
+      "wins": 22,
       "draws": 8,
       "losses": 6,
-      "points": 71,
+      "points": 74,
       "gf": 57,
       "ga": 24,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -150,6 +149,7 @@
         "L",
         "W",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -552,12 +552,6 @@
       "id": 1775769998857,
       "scheduledDate": "2026-04-09",
       "postponedBy": "SMANGALISO"
-    },
-    {
-      "home": "bhaze",
-      "away": "DiliboL",
-      "id": 1775860895956,
-      "postponedBy": null
     },
     {
       "home": "RoyalAM",
@@ -3585,7 +3579,13 @@
       "away": "Sailor",
       "result": "home",
       "id": 1776100517682
+    },
+    {
+      "home": "bhaze",
+      "away": "DiliboL",
+      "result": "away",
+      "id": 1776141308969
     }
   ],
-  "lastUpdated": "2026-04-14T04:35:08.239Z"
+  "lastUpdated": "2026-04-14T04:35:09.580Z"
 }
