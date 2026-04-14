@@ -56,11 +56,11 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 36,
+      "played": 37,
       "wins": 24,
-      "draws": 6,
+      "draws": 7,
       "losses": 6,
-      "points": 78,
+      "points": 79,
       "gf": 59,
       "ga": 18,
       "form": [
@@ -69,11 +69,11 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -394,15 +394,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 34,
+      "played": 35,
       "wins": 20,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
-      "points": 65,
+      "points": 66,
       "gf": 58,
       "ga": 22,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -411,7 +410,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,13 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "KING_KHESWA.",
-      "away": "CRANK_",
-      "result": "home",
-      "id": 1775944512442,
-      "postponedBy": null
-    },
     {
       "home": "DARK-_-CEO",
       "away": "Ctaum-cpt",
@@ -3592,7 +3585,13 @@
       "away": "MGSatarou",
       "result": "home",
       "id": 1776141634077
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "CRANK_",
+      "result": "draw",
+      "id": 1776141670029
     }
   ],
-  "lastUpdated": "2026-04-14T04:40:34.690Z"
+  "lastUpdated": "2026-04-14T04:41:10.641Z"
 }
