@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 37,
+      "played": 38,
       "wins": 3,
-      "draws": 18,
+      "draws": 19,
       "losses": 16,
-      "points": 26,
+      "points": 27,
       "gf": 9,
       "ga": 43,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -489,6 +488,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 13,
+      "played": 14,
       "wins": 1,
-      "draws": 5,
+      "draws": 6,
       "losses": 7,
-      "points": 8,
+      "points": 9,
       "gf": 3,
       "ga": 16,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -541,6 +540,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DARK-_-CEO",
-      "away": "Barca.",
-      "id": 1776141710953,
-      "postponedBy": null
-    },
     {
       "home": "SMANGALISO",
       "away": "Yungboyshlime",
@@ -3663,7 +3657,13 @@
       "away": "MGSatarou",
       "result": "draw",
       "id": 1776229005244
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1776229005873
     }
   ],
-  "lastUpdated": "2026-04-15T04:56:45.858Z"
+  "lastUpdated": "2026-04-15T04:56:46.489Z"
 }
