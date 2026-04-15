@@ -420,16 +420,15 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 35,
+      "played": 36,
       "wins": 9,
       "draws": 18,
-      "losses": 8,
+      "losses": 9,
       "points": 45,
       "gf": 32,
-      "ga": 20,
+      "ga": 23,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "D",
@@ -437,6 +436,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -498,17 +498,17 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 30,
-      "wins": 14,
+      "played": 31,
+      "wins": 15,
       "draws": 5,
       "losses": 11,
-      "points": 47,
-      "gf": 39,
+      "points": 50,
+      "gf": 42,
       "ga": 28,
       "form": [
         "D",
-        "D",
         "L",
+        "W",
         "W",
         "W",
         "W",
@@ -576,12 +576,6 @@
       "home": "Sailor",
       "away": "leomessi",
       "id": 1776141710943,
-      "postponedBy": null
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "Zan-Ten",
-      "id": 1776141710945,
       "postponedBy": null
     },
     {
@@ -3657,7 +3651,16 @@
       "awayGoals": 1,
       "id": 1776228469452,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RoyalAM_vs_ExequielThwala_1776228468339.jpg"
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1776228518853,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Zan-Ten_1776228518132.jpg"
     }
   ],
-  "lastUpdated": "2026-04-15T04:47:52.360Z"
+  "lastUpdated": "2026-04-15T04:48:41.989Z"
 }
