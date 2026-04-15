@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 37,
+      "played": 38,
       "wins": 21,
-      "draws": 9,
+      "draws": 10,
       "losses": 7,
-      "points": 72,
+      "points": 73,
       "gf": 66,
       "ga": 22,
       "form": [
-        "L",
         "W",
         "L",
         "W",
@@ -203,6 +202,7 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -368,16 +368,15 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 33,
+      "played": 34,
       "wins": 18,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
-      "points": 62,
+      "points": 63,
       "gf": 45,
       "ga": 22,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
@@ -385,7 +384,8 @@
         "W",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -552,12 +552,6 @@
       "home": "wham",
       "away": "CRANK_",
       "id": 1776141710941,
-      "postponedBy": null
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "Ctaum-cpt",
-      "id": 1776141710949,
       "postponedBy": null
     },
     {
@@ -3663,7 +3657,13 @@
       "away": "Ctaum-cpt",
       "result": "draw",
       "id": 1776228986510
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "id": 1776229003689
     }
   ],
-  "lastUpdated": "2026-04-15T04:56:27.129Z"
+  "lastUpdated": "2026-04-15T04:56:44.308Z"
 }
