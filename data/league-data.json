@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 37,
+      "played": 38,
       "wins": 9,
-      "draws": 11,
+      "draws": 12,
       "losses": 17,
-      "points": 38,
+      "points": 39,
       "gf": 28,
       "ga": 37,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -21,7 +20,8 @@
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 38,
+      "played": 39,
       "wins": 4,
-      "draws": 17,
+      "draws": 18,
       "losses": 17,
-      "points": 29,
+      "points": 30,
       "gf": 8,
       "ga": 49,
       "form": [
-        "D",
         "D",
         "W",
         "L",
@@ -99,7 +98,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -553,12 +553,6 @@
       "away": "Ctaum-cpt",
       "id": 1776055899670,
       "postponedBy": "DARK-_-CEO"
-    },
-    {
-      "home": "bhaze",
-      "away": "Lukie",
-      "id": 1776141710936,
-      "postponedBy": null
     },
     {
       "home": "wham",
@@ -3663,7 +3657,13 @@
       "awayGoals": 1,
       "id": 1776228568236,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_KING_KHESWA._1776228563518.jpg"
+    },
+    {
+      "home": "bhaze",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1776228925222
     }
   ],
-  "lastUpdated": "2026-04-15T04:49:38.132Z"
+  "lastUpdated": "2026-04-15T04:55:25.853Z"
 }
