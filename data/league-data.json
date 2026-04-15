@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 36,
+      "played": 37,
       "wins": 21,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
-      "points": 71,
+      "points": 72,
       "gf": 66,
       "ga": 22,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -203,7 +202,8 @@
         "D",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 12,
+      "played": 13,
       "wins": 1,
-      "draws": 4,
+      "draws": 5,
       "losses": 7,
-      "points": 7,
+      "points": 8,
       "gf": 3,
       "ga": 16,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -541,19 +540,14 @@
         "L",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
     }
   ],
   "fixtures": [
-    {
-      "home": "DARK-_-CEO",
-      "away": "Ctaum-cpt",
-      "id": 1776055899670,
-      "postponedBy": null
-    },
     {
       "home": "wham",
       "away": "CRANK_",
@@ -3663,7 +3657,13 @@
       "away": "leomessi",
       "result": "away",
       "id": 1776228952494
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "id": 1776228986510
     }
   ],
-  "lastUpdated": "2026-04-15T04:56:25.701Z"
+  "lastUpdated": "2026-04-15T04:56:27.129Z"
 }
