@@ -30,21 +30,21 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 37,
+      "played": 38,
       "wins": 7,
       "draws": 13,
-      "losses": 17,
+      "losses": 18,
       "points": 34,
       "gf": 20,
       "ga": 41,
       "form": [
-        "D",
         "L",
         "L",
         "D",
         "D",
         "D",
         "D",
+        "L",
         "L",
         "L",
         "L"
@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 36,
-      "wins": 23,
+      "played": 37,
+      "wins": 24,
       "draws": 6,
       "losses": 7,
-      "points": 75,
+      "points": 78,
       "gf": 70,
       "ga": 22,
       "form": [
-        "L",
         "W",
         "D",
         "W",
@@ -333,7 +332,8 @@
         "D",
         "D",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "wham",
       "away": "CRANK_",
       "id": 1776141710941,
-      "postponedBy": null
-    },
-    {
-      "home": "Sailor",
-      "away": "leomessi",
-      "id": 1776141710943,
       "postponedBy": null
     },
     {
@@ -3663,7 +3657,13 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1776228925222
+    },
+    {
+      "home": "Sailor",
+      "away": "leomessi",
+      "result": "away",
+      "id": 1776228952494
     }
   ],
-  "lastUpdated": "2026-04-15T04:55:25.853Z"
+  "lastUpdated": "2026-04-15T04:55:53.108Z"
 }
