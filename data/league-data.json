@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 36,
+      "played": 37,
       "wins": 2,
-      "draws": 11,
+      "draws": 12,
       "losses": 23,
-      "points": 17,
+      "points": 18,
       "gf": 3,
       "ga": 59,
       "form": [
-        "L",
         "L",
         "L",
         "L",
@@ -255,7 +254,8 @@
         "L",
         "W",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 37,
+      "played": 38,
       "wins": 5,
-      "draws": 14,
+      "draws": 15,
       "losses": 18,
-      "points": 29,
+      "points": 30,
       "gf": 14,
       "ga": 45,
       "form": [
-        "D",
         "W",
         "L",
         "L",
@@ -281,6 +280,7 @@
         "L",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -547,14 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "SMANGALISO",
-      "away": "Yungboyshlime",
-      "id": 1776141710955,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -3663,7 +3656,13 @@
       "away": "Barca.",
       "result": "draw",
       "id": 1776229005873
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1776229006619
     }
   ],
-  "lastUpdated": "2026-04-15T04:56:46.489Z"
+  "lastUpdated": "2026-04-15T04:56:47.237Z"
 }
