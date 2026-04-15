@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 37,
+      "played": 38,
       "wins": 24,
-      "draws": 7,
+      "draws": 8,
       "losses": 6,
-      "points": 79,
-      "gf": 59,
-      "ga": 18,
+      "points": 80,
+      "gf": 60,
+      "ga": 19,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -73,6 +72,7 @@
         "L",
         "W",
         "W",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -290,15 +290,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 36,
+      "played": 37,
       "wins": 30,
-      "draws": 3,
+      "draws": 4,
       "losses": 3,
-      "points": 93,
-      "gf": 81,
-      "ga": 19,
+      "points": 94,
+      "gf": 82,
+      "ga": 20,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -307,7 +306,8 @@
         "W",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "bhaze",
       "away": "Lukie",
       "id": 1776141710936,
-      "postponedBy": null
-    },
-    {
-      "home": "RFT07",
-      "away": "KING_KHESWA.",
-      "id": 1776141710939,
       "postponedBy": null
     },
     {
@@ -3660,7 +3654,16 @@
       "awayGoals": 3,
       "id": 1776228518853,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Nigelmj21_vs_Zan-Ten_1776228518132.jpg"
+    },
+    {
+      "home": "RFT07",
+      "away": "KING_KHESWA.",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1776228568236,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_KING_KHESWA._1776228563518.jpg"
     }
   ],
-  "lastUpdated": "2026-04-15T04:48:41.989Z"
+  "lastUpdated": "2026-04-15T04:49:38.132Z"
 }
