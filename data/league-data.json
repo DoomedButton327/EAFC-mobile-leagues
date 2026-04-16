@@ -160,20 +160,20 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 36,
-      "wins": 20,
+      "played": 37,
+      "wins": 21,
       "draws": 5,
       "losses": 11,
-      "points": 65,
-      "gf": 56,
-      "ga": 26,
+      "points": 68,
+      "gf": 58,
+      "ga": 27,
       "form": [
-        "D",
         "W",
         "W",
         "L",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W",
@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 38,
+      "played": 39,
       "wins": 5,
       "draws": 15,
-      "losses": 18,
+      "losses": 19,
       "points": 30,
-      "gf": 14,
-      "ga": 45,
+      "gf": 15,
+      "ga": 47,
       "form": [
-        "W",
         "L",
         "L",
         "D",
@@ -281,7 +280,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "SMANGALISO",
-      "id": 1776317899844,
-      "postponedBy": null
-    },
     {
       "home": "bhaze",
       "away": "MGSatarou",
@@ -3725,7 +3719,16 @@
       "homeGoals": 4,
       "awayGoals": 1,
       "id": 1776370986808
+    },
+    {
+      "home": "RoyalAM",
+      "away": "SMANGALISO",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1776371035693,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Nigelmj21_1776371026590.jpg"
     }
   ],
-  "lastUpdated": "2026-04-16T20:23:07.422Z"
+  "lastUpdated": "2026-04-16T20:23:59.158Z"
 }
