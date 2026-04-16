@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 38,
-      "wins": 24,
+      "played": 39,
+      "wins": 25,
       "draws": 8,
       "losses": 6,
-      "points": 80,
-      "gf": 60,
+      "points": 83,
+      "gf": 65,
       "ga": 19,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -73,7 +72,8 @@
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 39,
+      "played": 40,
       "wins": 4,
       "draws": 18,
-      "losses": 17,
+      "losses": 18,
       "points": 30,
       "gf": 8,
-      "ga": 49,
+      "ga": 54,
       "form": [
-        "D",
         "W",
         "L",
         "D",
@@ -99,7 +98,8 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "DARK-_-CEO",
       "away": "wham",
       "id": 1776317899848,
-      "postponedBy": null
-    },
-    {
-      "home": "Lukie",
-      "away": "KING_KHESWA.",
-      "id": 1776317899854,
       "postponedBy": null
     },
     {
@@ -3731,7 +3725,16 @@
       "awayGoals": 0,
       "id": 1776371097292,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Nigelmj21_1776371095625.jpg"
+    },
+    {
+      "home": "Lukie",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 5,
+      "id": 1776371382264,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_KING_KHESWA._1776371378331.jpg"
     }
   ],
-  "lastUpdated": "2026-04-16T20:25:00.623Z"
+  "lastUpdated": "2026-04-16T20:29:45.767Z"
 }
