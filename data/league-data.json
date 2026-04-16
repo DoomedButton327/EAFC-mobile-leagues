@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 37,
-      "wins": 22,
+      "played": 38,
+      "wins": 23,
       "draws": 9,
       "losses": 6,
-      "points": 75,
-      "gf": 57,
+      "points": 78,
+      "gf": 60,
       "ga": 24,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -151,7 +150,8 @@
         "D",
         "W",
         "W",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -212,15 +212,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 37,
+      "played": 38,
       "wins": 0,
       "draws": 23,
-      "losses": 14,
+      "losses": 15,
       "points": 23,
       "gf": 2,
-      "ga": 42,
+      "ga": 45,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -229,7 +228,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -570,12 +570,6 @@
       "home": "Barca.",
       "away": "leomessi",
       "id": 1776317899860,
-      "postponedBy": null
-    },
-    {
-      "home": "DiliboL",
-      "away": "E1even-Starz",
-      "id": 1776317899862,
       "postponedBy": null
     }
   ],
@@ -3734,7 +3728,15 @@
       "awayGoals": 5,
       "id": 1776371382264,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_KING_KHESWA._1776371378331.jpg"
+    },
+    {
+      "home": "DiliboL",
+      "away": "E1even-Starz",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 0,
+      "id": 1776371663538
     }
   ],
-  "lastUpdated": "2026-04-16T20:29:45.767Z"
+  "lastUpdated": "2026-04-16T20:34:24.151Z"
 }
