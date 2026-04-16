@@ -30,20 +30,20 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 38,
+      "played": 39,
       "wins": 7,
       "draws": 13,
-      "losses": 18,
+      "losses": 19,
       "points": 34,
-      "gf": 20,
-      "ga": 41,
+      "gf": 21,
+      "ga": 45,
       "form": [
         "L",
+        "D",
+        "D",
+        "D",
+        "D",
         "L",
-        "D",
-        "D",
-        "D",
-        "D",
         "L",
         "L",
         "L",
@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 38,
-      "wins": 21,
+      "played": 39,
+      "wins": 22,
       "draws": 10,
       "losses": 7,
-      "points": 73,
-      "gf": 66,
-      "ga": 22,
+      "points": 76,
+      "gf": 70,
+      "ga": 23,
       "form": [
-        "W",
         "L",
         "W",
         "L",
@@ -203,7 +202,8 @@
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -564,12 +564,6 @@
       "home": "DARK-_-CEO",
       "away": "wham",
       "id": 1776317899848,
-      "postponedBy": null
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "Sailor",
-      "id": 1776317899850,
       "postponedBy": null
     },
     {
@@ -3723,7 +3717,15 @@
       "away": "Zan-Ten",
       "result": "home",
       "id": 1776370719297
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "Sailor",
+      "result": "home",
+      "homeGoals": 4,
+      "awayGoals": 1,
+      "id": 1776370986808
     }
   ],
-  "lastUpdated": "2026-04-16T20:18:39.917Z"
+  "lastUpdated": "2026-04-16T20:23:07.422Z"
 }
