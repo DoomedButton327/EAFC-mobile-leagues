@@ -394,11 +394,11 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 36,
-      "wins": 20,
+      "played": 37,
+      "wins": 21,
       "draws": 8,
       "losses": 7,
-      "points": 67,
+      "points": 70,
       "gf": 58,
       "ga": 22,
       "form": [
@@ -409,9 +409,9 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -498,15 +498,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 31,
+      "played": 32,
       "wins": 15,
       "draws": 5,
-      "losses": 11,
+      "losses": 12,
       "points": 50,
       "gf": 42,
       "ga": 28,
       "form": [
-        "D",
         "L",
         "W",
         "W",
@@ -515,7 +514,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -570,12 +570,6 @@
       "home": "Ctaum-cpt",
       "away": "Sailor",
       "id": 1776317899850,
-      "postponedBy": null
-    },
-    {
-      "home": "CRANK_",
-      "away": "Zan-Ten",
-      "id": 1776317899852,
       "postponedBy": null
     },
     {
@@ -3723,7 +3717,13 @@
       "away": "Yungboyshlime",
       "result": "draw",
       "id": 1776229006619
+    },
+    {
+      "home": "CRANK_",
+      "away": "Zan-Ten",
+      "result": "home",
+      "id": 1776370719297
     }
   ],
-  "lastUpdated": "2026-04-16T05:38:20.462Z"
+  "lastUpdated": "2026-04-16T20:18:39.917Z"
 }
