@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 38,
+      "played": 39,
       "wins": 9,
-      "draws": 12,
+      "draws": 13,
       "losses": 17,
-      "points": 39,
+      "points": 40,
       "gf": 28,
       "ga": 37,
       "form": [
-        "L",
         "D",
         "L",
         "L",
@@ -21,6 +20,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 38,
+      "played": 39,
       "wins": 1,
-      "draws": 12,
+      "draws": 13,
       "losses": 25,
-      "points": 15,
+      "points": 16,
       "gf": 4,
       "ga": 77,
       "form": [
-        "W",
         "D",
         "L",
         "L",
@@ -358,6 +357,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -446,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 38,
+      "played": 39,
       "wins": 11,
-      "draws": 19,
+      "draws": 20,
       "losses": 8,
-      "points": 52,
+      "points": 53,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "D",
         "D",
         "D",
@@ -463,6 +462,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 14,
+      "played": 15,
       "wins": 1,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
-      "points": 9,
+      "points": 10,
       "gf": 3,
       "ga": 16,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -541,6 +540,7 @@
         "W",
         "L",
         "D",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -548,18 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "bhaze",
-      "away": "MGSatarou",
-      "id": 1776317899846,
-      "postponedBy": null
-    },
-    {
-      "home": "DARK-_-CEO",
-      "away": "wham",
-      "id": 1776317899848,
-      "postponedBy": null
-    },
     {
       "home": "ExequielThwala",
       "away": "Dontwindraw",
@@ -3736,7 +3724,19 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1776371663538
+    },
+    {
+      "home": "bhaze",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1776404046679
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "wham",
+      "result": "draw",
+      "id": 1776404047168
     }
   ],
-  "lastUpdated": "2026-04-16T20:34:24.151Z"
+  "lastUpdated": "2026-04-17T05:34:07.775Z"
 }
