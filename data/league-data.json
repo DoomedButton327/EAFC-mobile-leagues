@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 41,
+      "played": 42,
       "wins": 4,
-      "draws": 19,
+      "draws": 20,
       "losses": 18,
-      "points": 31,
+      "points": 32,
       "gf": 8,
       "ga": 54,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -99,6 +98,7 @@
         "L",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -446,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 39,
+      "played": 40,
       "wins": 11,
-      "draws": 20,
+      "draws": 21,
       "losses": 8,
-      "points": 53,
+      "points": 54,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "D",
         "D",
         "L",
@@ -462,6 +461,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -558,12 +558,6 @@
       "home": "Nigelmj21",
       "away": "SMANGALISO",
       "id": 1776501499466,
-      "postponedBy": null
-    },
-    {
-      "home": "Lukie",
-      "away": "MGSatarou",
-      "id": 1776501499468,
       "postponedBy": null
     }
   ],
@@ -3868,7 +3862,13 @@
       "away": "Sailor",
       "result": "home",
       "id": 1776549261999
+    },
+    {
+      "home": "Lukie",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1776549262823
     }
   ],
-  "lastUpdated": "2026-04-18T21:54:22.603Z"
+  "lastUpdated": "2026-04-18T21:54:23.428Z"
 }
