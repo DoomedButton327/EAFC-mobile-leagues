@@ -2,12 +2,6 @@
   "date": "2026-04-19",
   "fixtures": [
     {
-      "home": "bhaze",
-      "away": "DiliboL",
-      "id": 1775860895956,
-      "postponedBy": null
-    },
-    {
       "home": "RoyalAM",
       "away": "MGSatarou",
       "id": 1775860895970,
@@ -22,6 +16,16 @@
     }
   ],
   "results": [
+    {
+      "id": 1776550807022,
+      "home": "bhaze",
+      "away": "DiliboL",
+      "result": "home",
+      "homeGoals": 12,
+      "awayGoals": 2,
+      "date": "2026-04-19",
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/2026-04/2026-04-19/match-images/match_bhaze_vs_DiliboL_1776550799692.jpeg"
+    },
     {
       "home": "bhaze",
       "away": "DiliboL",
@@ -2975,5 +2979,5 @@
       "id": 1775944867337
     }
   ],
-  "lastUpdated": "2026-04-18T22:19:17.309Z"
+  "lastUpdated": "2026-04-18T22:20:03.854Z"
 }
