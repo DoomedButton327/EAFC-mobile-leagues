@@ -1,13 +1,6 @@
 {
-  "matchDays": [
-    {
-      "date": "2026-04-09",
-      "path": "data/2026-04/2026-04-09/match-day.json"
-    },
-    {
-      "date": "2026-04-13",
-      "path": "data/2026-04/2026-04-13/match-day.json"
-    }
-  ],
-  "lastUpdated": "2026-04-13T04:54:27.663Z"
+  "version": 2,
+  "lastUpdated": "2026-04-18T22:16:47.332Z",
+  "games": [],
+  "playerCount": 21
 }
