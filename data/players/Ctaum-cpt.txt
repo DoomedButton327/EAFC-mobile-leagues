@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:25.499Z
+
+name=@Ctaum
+username=Ctaum-cpt
+phone=W.A 0764797158
+played=35
+wins=20
+draws=8
+losses=7
+points=68
+gf=63
+ga=22
+form=W,W,L,W,L,W,L,D,W,W
+postponements=19
+suspended=false
+addedAt=2026-04-18T22:16:25.499Z
