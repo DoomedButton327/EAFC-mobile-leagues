@@ -30,10 +30,10 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 40,
+      "played": 41,
       "wins": 7,
       "draws": 13,
-      "losses": 20,
+      "losses": 21,
       "points": 34,
       "gf": 21,
       "ga": 45,
@@ -41,7 +41,7 @@
         "D",
         "D",
         "D",
-        "D",
+        "L",
         "L",
         "L",
         "L",
@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 39,
-      "wins": 23,
+      "played": 40,
+      "wins": 24,
       "draws": 9,
       "losses": 7,
-      "points": 78,
+      "points": 81,
       "gf": 60,
       "ga": 24,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -151,7 +150,8 @@
         "W",
         "D",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -564,12 +564,6 @@
       "home": "Lukie",
       "away": "MGSatarou",
       "id": 1776501499468,
-      "postponedBy": null
-    },
-    {
-      "home": "DiliboL",
-      "away": "Sailor",
-      "id": 1776501499476,
       "postponedBy": null
     }
   ],
@@ -3868,7 +3862,13 @@
       "away": "RoyalAM",
       "result": "draw",
       "id": 1776549260486
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "result": "home",
+      "id": 1776549261999
     }
   ],
-  "lastUpdated": "2026-04-18T21:54:21.090Z"
+  "lastUpdated": "2026-04-18T21:54:22.603Z"
 }
