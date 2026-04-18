@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 40,
+      "played": 41,
       "wins": 4,
-      "draws": 18,
+      "draws": 19,
       "losses": 18,
-      "points": 30,
+      "points": 31,
       "gf": 8,
       "ga": 54,
       "form": [
-        "W",
         "L",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "D",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -524,21 +524,21 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 15,
+      "played": 16,
       "wins": 1,
-      "draws": 7,
+      "draws": 8,
       "losses": 7,
-      "points": 10,
+      "points": 11,
       "gf": 3,
       "ga": 16,
       "form": [
         "L",
         "L",
         "L",
-        "L",
         "D",
         "W",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -576,12 +576,6 @@
       "home": "Yungboyshlime",
       "away": "leomessi",
       "id": 1776404062543,
-      "postponedBy": null
-    },
-    {
-      "home": "Lukie",
-      "away": "DARK-_-CEO",
-      "id": 1776404062547,
       "postponedBy": null
     },
     {
@@ -3798,7 +3792,13 @@
       "away": "RFT07",
       "result": "home",
       "id": 1776501315785
+    },
+    {
+      "home": "Lukie",
+      "away": "DARK-_-CEO",
+      "result": "draw",
+      "id": 1776501318849
     }
   ],
-  "lastUpdated": "2026-04-18T08:35:16.405Z"
+  "lastUpdated": "2026-04-18T08:35:19.468Z"
 }
