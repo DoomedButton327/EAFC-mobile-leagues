@@ -1,36 +1,43 @@
 {
   "date": "2026-04-13",
-  "fixtures": [
+  "fixtures": [],
+  "results": [
     {
-      "id": 1776055855027,
-      "home": "wham",
-      "away": "leomessi",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055855389,
-      "home": "E1even-Starz",
-      "away": "ExequielThwala",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055853276,
-      "home": "Sailor",
-      "away": "DARK-_-CEO",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055856708,
+      "id": 1776550824451,
       "home": "SMANGALISO",
       "away": "bhaze",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    }
-  ],
-  "results": [
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550826226,
+      "home": "Sailor",
+      "away": "DARK-_-CEO",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550830018,
+      "home": "E1even-Starz",
+      "away": "ExequielThwala",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550828855,
+      "home": "wham",
+      "away": "leomessi",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
     {
       "id": 1776550823700,
       "home": "Ctaum-cpt",
@@ -86,5 +93,5 @@
       "date": "2026-04-13"
     }
   ],
-  "lastUpdated": "2026-04-18T22:20:19.957Z"
+  "lastUpdated": "2026-04-18T22:20:24.409Z"
 }
