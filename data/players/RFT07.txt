@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:31.822Z
+
+name=Reginald Frank Thornton
+username=RFT07
+phone=0820658330
+played=35
+wins=30
+draws=3
+losses=2
+points=93
+gf=81
+ga=18
+form=W,W,W,W,W,W,W,W,D,W
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:31.822Z
