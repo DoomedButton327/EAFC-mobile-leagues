@@ -264,16 +264,15 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 39,
+      "played": 40,
       "wins": 5,
-      "draws": 15,
+      "draws": 16,
       "losses": 19,
-      "points": 30,
+      "points": 31,
       "gf": 15,
       "ga": 47,
       "form": [
         "L",
-        "L",
         "D",
         "D",
         "L",
@@ -281,7 +280,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -472,21 +472,21 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 39,
+      "played": 40,
       "wins": 3,
-      "draws": 20,
+      "draws": 21,
       "losses": 16,
-      "points": 28,
+      "points": 29,
       "gf": 9,
       "ga": 43,
       "form": [
-        "D",
         "L",
         "D",
         "D",
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "SMANGALISO",
-      "id": 1776404062531,
-      "postponedBy": null
-    },
     {
       "home": "Nigelmj21",
       "away": "bhaze",
@@ -3798,7 +3792,13 @@
       "away": "DiliboL",
       "result": "home",
       "id": 1776501400503
+    },
+    {
+      "home": "Barca.",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1776501439279
     }
   ],
-  "lastUpdated": "2026-04-18T08:36:41.127Z"
+  "lastUpdated": "2026-04-18T08:37:19.896Z"
 }
