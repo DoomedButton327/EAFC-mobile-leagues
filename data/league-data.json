@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 39,
+      "played": 40,
       "wins": 9,
-      "draws": 13,
+      "draws": 14,
       "losses": 17,
-      "points": 40,
+      "points": 41,
       "gf": 28,
       "ga": 37,
       "form": [
-        "D",
         "L",
         "L",
         "W",
@@ -20,6 +19,7 @@
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 37,
+      "played": 38,
       "wins": 2,
-      "draws": 12,
+      "draws": 13,
       "losses": 23,
-      "points": 18,
+      "points": 19,
       "gf": 3,
       "ga": 59,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -255,6 +254,7 @@
         "W",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 38,
+      "played": 39,
       "wins": 24,
-      "draws": 7,
+      "draws": 8,
       "losses": 7,
-      "points": 79,
+      "points": 80,
       "gf": 70,
       "ga": 22,
       "form": [
-        "D",
         "W",
         "W",
         "D",
@@ -333,6 +332,7 @@
         "L",
         "L",
         "W",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -420,24 +420,24 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 37,
+      "played": 38,
       "wins": 9,
-      "draws": 18,
+      "draws": 19,
       "losses": 10,
-      "points": 45,
+      "points": 46,
       "gf": 32,
       "ga": 26,
       "form": [
         "D",
         "D",
         "D",
-        "D",
         "L",
         "D",
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -547,20 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "Nigelmj21",
-      "away": "bhaze",
-      "id": 1776404062535,
-      "postponedBy": null
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "leomessi",
-      "id": 1776404062543,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -3798,7 +3785,19 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1776501439279
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "leomessi",
+      "result": "draw",
+      "id": 1776501441736
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "bhaze",
+      "result": "draw",
+      "id": 1776501442265
     }
   ],
-  "lastUpdated": "2026-04-18T08:37:19.896Z"
+  "lastUpdated": "2026-04-18T08:37:22.890Z"
 }
