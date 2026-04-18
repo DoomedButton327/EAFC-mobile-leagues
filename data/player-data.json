@@ -56,11 +56,11 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 35,
+      "played": 36,
       "wins": 23,
-      "draws": 6,
+      "draws": 7,
       "losses": 6,
-      "points": 75,
+      "points": 76,
       "gf": 59,
       "ga": 18,
       "form": [
@@ -72,7 +72,8 @@
         "W",
         "D",
         "L",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -159,16 +160,15 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 33,
+      "played": 34,
       "wins": 17,
-      "draws": 5,
+      "draws": 6,
       "losses": 11,
-      "points": 56,
+      "points": 57,
       "gf": 52,
       "ga": 25,
       "form": [
         "W",
-        "W",
         "L",
         "D",
         "W",
@@ -176,7 +176,8 @@
         "L",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -393,11 +394,11 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 33,
+      "played": 34,
       "wins": 19,
-      "draws": 6,
+      "draws": 7,
       "losses": 7,
-      "points": 62,
+      "points": 63,
       "gf": 58,
       "ga": 22,
       "form": [
@@ -409,7 +410,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -444,15 +446,14 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 35,
+      "played": 36,
       "wins": 10,
-      "draws": 18,
+      "draws": 19,
       "losses": 7,
-      "points": 48,
+      "points": 49,
       "gf": 34,
       "ga": 27,
       "form": [
-        "W",
         "D",
         "L",
         "D",
@@ -460,6 +461,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -545,5 +547,5 @@
       "suspended": false
     }
   ],
-  "lastUpdated": "2026-04-18T22:20:02.747Z"
+  "lastUpdated": "2026-04-18T22:20:16.831Z"
 }
