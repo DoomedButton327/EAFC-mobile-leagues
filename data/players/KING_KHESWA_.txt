@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:17.638Z
+
+name=Sibonelo_Kheswa
+username=KING_KHESWA.
+phone=0607557805
+played=35
+wins=23
+draws=6
+losses=6
+points=75
+gf=59
+ga=18
+form=W,W,W,W,W,W,D,L,W
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:17.638Z
