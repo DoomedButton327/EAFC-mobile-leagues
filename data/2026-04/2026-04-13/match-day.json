@@ -2,34 +2,6 @@
   "date": "2026-04-13",
   "fixtures": [
     {
-      "id": 1776055860308,
-      "home": "CRANK_",
-      "away": "RFT07",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055855510,
-      "home": "Dontwindraw",
-      "away": "Lukie",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055860834,
-      "home": "MGSatarou",
-      "away": "KING_KHESWA.",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055855815,
-      "home": "Ctaum-cpt",
-      "away": "Yungboyshlime",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
       "id": 1776055855027,
       "home": "wham",
       "away": "leomessi",
@@ -60,6 +32,42 @@
   ],
   "results": [
     {
+      "id": 1776550823700,
+      "home": "Ctaum-cpt",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550828581,
+      "home": "MGSatarou",
+      "away": "KING_KHESWA.",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550821876,
+      "home": "Dontwindraw",
+      "away": "Lukie",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550821441,
+      "home": "CRANK_",
+      "away": "RFT07",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
       "id": 1776550826994,
       "home": "Zan-Ten",
       "away": "Nigelmj21",
@@ -78,5 +86,5 @@
       "date": "2026-04-13"
     }
   ],
-  "lastUpdated": "2026-04-18T22:20:17.904Z"
+  "lastUpdated": "2026-04-18T22:20:19.957Z"
 }
