@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 40,
-      "wins": 26,
+      "played": 41,
+      "wins": 27,
       "draws": 8,
       "losses": 6,
-      "points": 86,
-      "gf": 65,
+      "points": 89,
+      "gf": 68,
       "ga": 19,
       "form": [
-        "W",
         "W",
         "D",
         "L",
@@ -72,6 +71,7 @@
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W"
       ],
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 16,
+      "played": 17,
       "wins": 1,
       "draws": 8,
-      "losses": 7,
+      "losses": 8,
       "points": 11,
       "gf": 3,
-      "ga": 16,
+      "ga": 19,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -541,7 +540,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -582,12 +582,6 @@
       "home": "wham",
       "away": "RoyalAM",
       "id": 1776501499478,
-      "postponedBy": null
-    },
-    {
-      "home": "DARK-_-CEO",
-      "away": "KING_KHESWA.",
-      "id": 1776501499480,
       "postponedBy": null
     }
   ],
@@ -3866,7 +3860,15 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1776549164702
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1776549197058
     }
   ],
-  "lastUpdated": "2026-04-18T21:52:45.308Z"
+  "lastUpdated": "2026-04-18T21:53:17.665Z"
 }
