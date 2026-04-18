@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:42.666Z
+
+name=A H 〽️ A D
+username=Barca.
+phone=0741645995
+played=36
+wins=3
+draws=17
+losses=16
+points=25
+gf=9
+ga=43
+form=D,D,L,D,L,D,D,L,L,L
+postponements=19
+suspended=false
+addedAt=2026-04-18T22:16:42.666Z
