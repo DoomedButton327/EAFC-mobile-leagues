@@ -1,14 +1,16 @@
 {
   "date": "2026-04-09",
-  "fixtures": [
+  "fixtures": [],
+  "results": [
     {
+      "id": 1776550760955,
       "home": "Ctaum-cpt",
       "away": "SMANGALISO",
-      "id": 1775769998857,
-      "scheduledDate": "2026-04-09",
-      "postponedBy": null
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-09"
     }
   ],
-  "results": [],
-  "lastUpdated": "2026-04-18T22:17:38.360Z"
+  "lastUpdated": "2026-04-18T22:19:20.532Z"
 }
