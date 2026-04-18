@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 40,
+      "played": 41,
       "wins": 5,
-      "draws": 16,
+      "draws": 17,
       "losses": 19,
-      "points": 31,
+      "points": 32,
       "gf": 15,
       "ga": 47,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -281,6 +280,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -420,23 +420,23 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 38,
+      "played": 39,
       "wins": 9,
-      "draws": 19,
+      "draws": 20,
       "losses": 10,
-      "points": 46,
+      "points": 47,
       "gf": 32,
       "ga": 26,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "D",
         "D",
         "L",
         "L",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -552,12 +552,6 @@
       "home": "Barca.",
       "away": "Dontwindraw",
       "id": 1776501499464,
-      "postponedBy": null
-    },
-    {
-      "home": "Nigelmj21",
-      "away": "SMANGALISO",
-      "id": 1776501499466,
       "postponedBy": null
     }
   ],
@@ -3868,7 +3862,13 @@
       "away": "MGSatarou",
       "result": "draw",
       "id": 1776549262823
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1776549264199
     }
   ],
-  "lastUpdated": "2026-04-18T21:54:23.428Z"
+  "lastUpdated": "2026-04-18T21:54:24.802Z"
 }
