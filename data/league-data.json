@@ -547,7 +547,68 @@
       "suspended": false
     }
   ],
-  "fixtures": [],
+  "fixtures": [
+    {
+      "home": "bhaze",
+      "away": "Ctaum-cpt",
+      "id": 1776501499462,
+      "postponedBy": null
+    },
+    {
+      "home": "Barca.",
+      "away": "Dontwindraw",
+      "id": 1776501499464,
+      "postponedBy": null
+    },
+    {
+      "home": "Nigelmj21",
+      "away": "SMANGALISO",
+      "id": 1776501499466,
+      "postponedBy": null
+    },
+    {
+      "home": "Lukie",
+      "away": "MGSatarou",
+      "id": 1776501499468,
+      "postponedBy": null
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "id": 1776501499470,
+      "postponedBy": null
+    },
+    {
+      "home": "leomessi",
+      "away": "CRANK_",
+      "id": 1776501499472,
+      "postponedBy": null
+    },
+    {
+      "home": "E1even-Starz",
+      "away": "Zan-Ten",
+      "id": 1776501499474,
+      "postponedBy": null
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "id": 1776501499476,
+      "postponedBy": null
+    },
+    {
+      "home": "wham",
+      "away": "RoyalAM",
+      "id": 1776501499478,
+      "postponedBy": null
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "KING_KHESWA.",
+      "id": 1776501499480,
+      "postponedBy": null
+    }
+  ],
   "results": [
     {
       "home": "bhaze",
@@ -3799,5 +3860,5 @@
       "id": 1776501442265
     }
   ],
-  "lastUpdated": "2026-04-18T08:38:11.526Z"
+  "lastUpdated": "2026-04-18T08:38:20.080Z"
 }
