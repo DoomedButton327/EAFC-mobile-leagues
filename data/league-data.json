@@ -316,16 +316,15 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 39,
+      "played": 40,
       "wins": 24,
       "draws": 8,
-      "losses": 7,
+      "losses": 8,
       "points": 80,
       "gf": 70,
       "ga": 22,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "D",
@@ -333,7 +332,8 @@
         "L",
         "W",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -394,11 +394,11 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 38,
-      "wins": 22,
+      "played": 39,
+      "wins": 23,
       "draws": 8,
       "losses": 7,
-      "points": 73,
+      "points": 76,
       "gf": 58,
       "ga": 22,
       "form": [
@@ -407,9 +407,9 @@
         "W",
         "W",
         "W",
+        "D",
+        "D",
         "W",
-        "D",
-        "D",
         "W",
         "W"
       ],
@@ -564,12 +564,6 @@
       "home": "Lukie",
       "away": "MGSatarou",
       "id": 1776501499468,
-      "postponedBy": null
-    },
-    {
-      "home": "leomessi",
-      "away": "CRANK_",
-      "id": 1776501499472,
       "postponedBy": null
     },
     {
@@ -3868,7 +3862,13 @@
       "homeGoals": 0,
       "awayGoals": 3,
       "id": 1776549197058
+    },
+    {
+      "home": "leomessi",
+      "away": "CRANK_",
+      "result": "away",
+      "id": 1776549228754
     }
   ],
-  "lastUpdated": "2026-04-18T21:53:17.665Z"
+  "lastUpdated": "2026-04-18T21:53:49.369Z"
 }
