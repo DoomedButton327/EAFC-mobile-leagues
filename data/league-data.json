@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 37,
+      "played": 38,
       "wins": 21,
       "draws": 5,
-      "losses": 11,
+      "losses": 12,
       "points": 68,
-      "gf": 58,
-      "ga": 27,
+      "gf": 59,
+      "ga": 29,
       "form": [
-        "W",
         "W",
         "L",
         "D",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -368,16 +368,15 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 35,
-      "wins": 18,
+      "played": 36,
+      "wins": 19,
       "draws": 10,
       "losses": 7,
-      "points": 64,
-      "gf": 45,
-      "ga": 22,
+      "points": 67,
+      "gf": 47,
+      "ga": 23,
       "form": [
         "L",
-        "L",
         "D",
         "W",
         "W",
@@ -385,7 +384,8 @@
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -552,12 +552,6 @@
       "home": "Barca.",
       "away": "SMANGALISO",
       "id": 1776404062531,
-      "postponedBy": null
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "RoyalAM",
-      "id": 1776404062533,
       "postponedBy": null
     },
     {
@@ -3796,7 +3790,15 @@
       "away": "leomessi",
       "result": "draw",
       "id": 1776404050773
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "RoyalAM",
+      "result": "home",
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "id": 1776501269811
     }
   ],
-  "lastUpdated": "2026-04-17T05:34:23.153Z"
+  "lastUpdated": "2026-04-18T08:34:30.438Z"
 }
