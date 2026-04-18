@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:37.936Z
+
+name=MOOSA
+username=CRANK_
+phone=0699906125
+played=33
+wins=19
+draws=6
+losses=7
+points=62
+gf=58
+ga=22
+form=W,L,W,W,W,W,W,W,W
+postponements=19
+suspended=false
+addedAt=2026-04-18T22:16:37.936Z
