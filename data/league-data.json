@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 39,
+      "played": 40,
       "wins": 1,
       "draws": 13,
-      "losses": 25,
+      "losses": 26,
       "points": 16,
       "gf": 4,
       "ga": 77,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -359,7 +358,8 @@
         "L",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -498,24 +498,24 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 32,
-      "wins": 15,
+      "played": 33,
+      "wins": 16,
       "draws": 5,
       "losses": 12,
-      "points": 50,
+      "points": 53,
       "gf": 42,
       "ga": 28,
       "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
+        "W",
         "L",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "W",
-        "L"
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "Nigelmj21",
       "away": "bhaze",
       "id": 1776404062535,
-      "postponedBy": null
-    },
-    {
-      "home": "wham",
-      "away": "Zan-Ten",
-      "id": 1776404062539,
       "postponedBy": null
     },
     {
@@ -3798,7 +3792,13 @@
       "away": "Sailor",
       "result": "home",
       "id": 1776501343026
+    },
+    {
+      "home": "wham",
+      "away": "Zan-Ten",
+      "result": "away",
+      "id": 1776501386701
     }
   ],
-  "lastUpdated": "2026-04-18T08:35:43.642Z"
+  "lastUpdated": "2026-04-18T08:36:27.323Z"
 }
