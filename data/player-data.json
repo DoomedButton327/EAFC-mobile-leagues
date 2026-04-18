@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 35,
-      "wins": 9,
+      "played": 36,
+      "wins": 10,
       "draws": 11,
       "losses": 15,
-      "points": 38,
-      "gf": 28,
-      "ga": 37,
+      "points": 41,
+      "gf": 40,
+      "ga": 39,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -21,7 +20,8 @@
         "L",
         "W",
         "L",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -133,15 +133,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 34,
+      "played": 35,
       "wins": 20,
       "draws": 8,
-      "losses": 6,
+      "losses": 7,
       "points": 68,
-      "gf": 57,
-      "ga": 24,
+      "gf": 59,
+      "ga": 36,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -150,7 +149,8 @@
         "W",
         "L",
         "W",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 18,
       "suspended": false
@@ -545,5 +545,5 @@
       "suspended": false
     }
   ],
-  "lastUpdated": "2026-04-18T22:19:16.043Z"
+  "lastUpdated": "2026-04-18T22:20:02.747Z"
 }
