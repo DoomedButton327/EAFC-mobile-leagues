@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 38,
+      "played": 39,
       "wins": 21,
-      "draws": 5,
+      "draws": 6,
       "losses": 12,
-      "points": 68,
+      "points": 69,
       "gf": 59,
       "ga": 29,
       "form": [
-        "W",
         "L",
         "D",
         "D",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -342,16 +342,15 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 40,
+      "played": 41,
       "wins": 1,
-      "draws": 13,
+      "draws": 14,
       "losses": 26,
-      "points": 16,
+      "points": 17,
       "gf": 4,
       "ga": 77,
       "form": [
         "L",
-        "L",
         "D",
         "L",
         "L",
@@ -359,7 +358,8 @@
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -570,12 +570,6 @@
       "home": "DiliboL",
       "away": "Sailor",
       "id": 1776501499476,
-      "postponedBy": null
-    },
-    {
-      "home": "wham",
-      "away": "RoyalAM",
-      "id": 1776501499478,
       "postponedBy": null
     }
   ],
@@ -3868,7 +3862,13 @@
       "away": "CRANK_",
       "result": "away",
       "id": 1776549228754
+    },
+    {
+      "home": "wham",
+      "away": "RoyalAM",
+      "result": "draw",
+      "id": 1776549260486
     }
   ],
-  "lastUpdated": "2026-04-18T21:53:49.369Z"
+  "lastUpdated": "2026-04-18T21:54:21.090Z"
 }
