@@ -2,20 +2,6 @@
   "date": "2026-04-13",
   "fixtures": [
     {
-      "id": 1776055853131,
-      "home": "DiliboL",
-      "away": "Barca.",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
-      "id": 1776055859044,
-      "home": "Zan-Ten",
-      "away": "Nigelmj21",
-      "postponedBy": null,
-      "scheduledDate": "2026-04-13"
-    },
-    {
       "id": 1776055860308,
       "home": "CRANK_",
       "away": "RFT07",
@@ -72,6 +58,25 @@
       "scheduledDate": "2026-04-13"
     }
   ],
-  "results": [],
-  "lastUpdated": "2026-04-18T22:20:06.157Z"
+  "results": [
+    {
+      "id": 1776550826994,
+      "home": "Zan-Ten",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    },
+    {
+      "id": 1776550823629,
+      "home": "DiliboL",
+      "away": "Barca.",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-13"
+    }
+  ],
+  "lastUpdated": "2026-04-18T22:20:17.904Z"
 }
