@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 39,
-      "wins": 22,
+      "played": 40,
+      "wins": 23,
       "draws": 10,
       "losses": 7,
-      "points": 76,
+      "points": 79,
       "gf": 70,
       "ga": 23,
       "form": [
-        "L",
         "W",
         "L",
         "D",
@@ -203,6 +202,7 @@
         "W",
         "D",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -212,15 +212,14 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 38,
+      "played": 39,
       "wins": 0,
       "draws": 23,
-      "losses": 15,
+      "losses": 16,
       "points": 23,
       "gf": 2,
       "ga": 45,
       "form": [
-        "L",
         "D",
         "D",
         "D",
@@ -229,6 +228,7 @@
         "L",
         "D",
         "D",
+        "L",
         "L"
       ],
       "postponements": 20,
@@ -570,12 +570,6 @@
       "home": "wham",
       "away": "Zan-Ten",
       "id": 1776404062539,
-      "postponedBy": null
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "E1even-Starz",
-      "id": 1776404062541,
       "postponedBy": null
     },
     {
@@ -3798,7 +3792,13 @@
       "homeGoals": 2,
       "awayGoals": 1,
       "id": 1776501269811
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "E1even-Starz",
+      "result": "home",
+      "id": 1776501302124
     }
   ],
-  "lastUpdated": "2026-04-18T08:34:30.438Z"
+  "lastUpdated": "2026-04-18T08:35:02.741Z"
 }
