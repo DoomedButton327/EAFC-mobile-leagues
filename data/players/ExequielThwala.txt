@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:20.773Z
+
+name=Sihle👑
+username=ExequielThwala
+phone=0797363716
+played=21
+wins=13
+draws=3
+losses=5
+points=42
+gf=36
+ga=20
+form=L,D,W,L,L,L,D,D,W,W
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:20.773Z
