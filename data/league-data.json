@@ -56,15 +56,14 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 39,
-      "wins": 25,
+      "played": 40,
+      "wins": 26,
       "draws": 8,
       "losses": 6,
-      "points": 83,
+      "points": 86,
       "gf": 65,
       "ga": 19,
       "form": [
-        "W",
         "W",
         "W",
         "D",
@@ -73,6 +72,7 @@
         "W",
         "D",
         "D",
+        "W",
         "W"
       ],
       "postponements": 20,
@@ -290,10 +290,10 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 38,
+      "played": 39,
       "wins": 31,
       "draws": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 97,
       "gf": 85,
       "ga": 20,
@@ -302,12 +302,12 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
         "W",
         "L",
         "D",
-        "W"
+        "W",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -576,12 +576,6 @@
       "home": "Yungboyshlime",
       "away": "leomessi",
       "id": 1776404062543,
-      "postponedBy": null
-    },
-    {
-      "home": "KING_KHESWA.",
-      "away": "RFT07",
-      "id": 1776404062545,
       "postponedBy": null
     },
     {
@@ -3798,7 +3792,13 @@
       "away": "E1even-Starz",
       "result": "home",
       "id": 1776501302124
+    },
+    {
+      "home": "KING_KHESWA.",
+      "away": "RFT07",
+      "result": "home",
+      "id": 1776501315785
     }
   ],
-  "lastUpdated": "2026-04-18T08:35:02.741Z"
+  "lastUpdated": "2026-04-18T08:35:16.405Z"
 }
