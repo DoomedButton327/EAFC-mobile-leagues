@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:45.747Z
+
+name=Dude
+username=DARK-_-CEO
+phone=0786090530
+played=12
+wins=1
+draws=4
+losses=7
+points=7
+gf=3
+ga=16
+form=D,L,D,L,L,L,L,D,W,L
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:45.747Z
