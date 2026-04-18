@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 35,
+      "played": 36,
       "wins": 20,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
-      "points": 68,
+      "points": 69,
       "gf": 59,
       "ga": 36,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -151,7 +150,8 @@
         "L",
         "W",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 18,
       "suspended": false
@@ -290,11 +290,11 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 35,
+      "played": 36,
       "wins": 30,
-      "draws": 3,
+      "draws": 4,
       "losses": 2,
-      "points": 93,
+      "points": 94,
       "gf": 81,
       "ga": 18,
       "form": [
@@ -305,9 +305,9 @@
         "W",
         "W",
         "W",
-        "W",
         "D",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -394,15 +394,14 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 34,
+      "played": 35,
       "wins": 19,
-      "draws": 7,
+      "draws": 8,
       "losses": 7,
-      "points": 63,
+      "points": 64,
       "gf": 58,
       "ga": 22,
       "form": [
-        "W",
         "L",
         "W",
         "W",
@@ -411,6 +410,7 @@
         "W",
         "W",
         "W",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -420,15 +420,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 34,
+      "played": 35,
       "wins": 9,
-      "draws": 18,
+      "draws": 19,
       "losses": 7,
-      "points": 45,
+      "points": 46,
       "gf": 32,
       "ga": 20,
       "form": [
-        "D",
         "L",
         "L",
         "D",
@@ -436,6 +435,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -472,16 +472,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 36,
+      "played": 37,
       "wins": 3,
-      "draws": 17,
+      "draws": 18,
       "losses": 16,
-      "points": 25,
+      "points": 26,
       "gf": 9,
       "ga": 43,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "L",
@@ -489,7 +488,8 @@
         "D",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -498,15 +498,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 29,
+      "played": 30,
       "wins": 13,
-      "draws": 5,
+      "draws": 6,
       "losses": 11,
-      "points": 44,
+      "points": 45,
       "gf": 36,
       "ga": 28,
       "form": [
-        "W",
         "D",
         "D",
         "L",
@@ -515,7 +514,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -547,5 +547,5 @@
       "suspended": false
     }
   ],
-  "lastUpdated": "2026-04-18T22:20:16.831Z"
+  "lastUpdated": "2026-04-18T22:20:18.634Z"
 }
