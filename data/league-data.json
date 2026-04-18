@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 38,
+      "played": 39,
       "wins": 2,
       "draws": 13,
-      "losses": 23,
+      "losses": 24,
       "points": 19,
       "gf": 3,
-      "ga": 59,
+      "ga": 65,
       "form": [
-        "L",
         "L",
         "D",
         "D",
@@ -255,7 +254,8 @@
         "L",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -290,15 +290,14 @@
       "name": "Reginald Frank Thornton",
       "username": "RFT07",
       "phone": "0820658330",
-      "played": 39,
-      "wins": 31,
+      "played": 40,
+      "wins": 32,
       "draws": 4,
       "losses": 4,
-      "points": 97,
-      "gf": 85,
+      "points": 100,
+      "gf": 91,
       "ga": 20,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -307,7 +306,8 @@
         "L",
         "D",
         "W",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -570,12 +570,6 @@
       "home": "Lukie",
       "away": "MGSatarou",
       "id": 1776501499468,
-      "postponedBy": null
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "RFT07",
-      "id": 1776501499470,
       "postponedBy": null
     },
     {
@@ -3858,7 +3852,16 @@
       "away": "bhaze",
       "result": "draw",
       "id": 1776501442265
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "RFT07",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 6,
+      "id": 1776549054126,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1776549052175.jpeg"
     }
   ],
-  "lastUpdated": "2026-04-18T08:38:20.080Z"
+  "lastUpdated": "2026-04-18T21:50:56.876Z"
 }
