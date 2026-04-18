@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:39.525Z
+
+name=El Tigre
+username=Nigelmj21
+phone=0656657141
+played=34
+wins=9
+draws=18
+losses=7
+points=45
+gf=32
+ga=20
+form=D,L,L,D,D,D,D,L,D,D
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:39.525Z
