@@ -1,0 +1,17 @@
+# Mettlestate × EA FC Mobile — Player File
+# Auto-generated: 2026-04-18T22:16:27.041Z
+
+name=uSONGO oMNYAMA oNGEHLULWA
+username=E1even-Starz
+phone=0661750311
+played=36
+wins=0
+draws=22
+losses=14
+points=22
+gf=2
+ga=42
+form=D,D,L,D,D,D,D,D,L,D
+postponements=20
+suspended=false
+addedAt=2026-04-18T22:16:27.041Z
