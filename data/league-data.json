@@ -368,15 +368,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 36,
+      "played": 37,
       "wins": 19,
-      "draws": 10,
+      "draws": 11,
       "losses": 7,
-      "points": 67,
+      "points": 68,
       "gf": 47,
       "ga": 23,
       "form": [
-        "L",
         "D",
         "W",
         "W",
@@ -385,7 +384,8 @@
         "W",
         "D",
         "D",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -472,20 +472,20 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 40,
+      "played": 41,
       "wins": 3,
-      "draws": 21,
+      "draws": 22,
       "losses": 16,
-      "points": 29,
+      "points": 30,
       "gf": 9,
       "ga": 43,
       "form": [
-        "L",
         "D",
         "D",
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D",
         "D",
@@ -547,14 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "Barca.",
-      "away": "Dontwindraw",
-      "id": 1776501499464,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -3868,7 +3861,13 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1776549264199
+    },
+    {
+      "home": "Barca.",
+      "away": "Dontwindraw",
+      "result": "draw",
+      "id": 1776549583724
     }
   ],
-  "lastUpdated": "2026-04-18T21:54:24.802Z"
+  "lastUpdated": "2026-04-18T21:59:44.332Z"
 }
