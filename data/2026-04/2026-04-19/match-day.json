@@ -1,21 +1,25 @@
 {
   "date": "2026-04-19",
-  "fixtures": [
+  "fixtures": [],
+  "results": [
     {
-      "home": "RoyalAM",
-      "away": "MGSatarou",
-      "id": 1775860895970,
-      "postponedBy": null
-    },
-    {
+      "id": 1776550817213,
       "home": "KING_KHESWA.",
       "away": "CRANK_",
-      "result": "home",
-      "id": 1775944512442,
-      "postponedBy": null
-    }
-  ],
-  "results": [
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-19"
+    },
+    {
+      "id": 1776550817908,
+      "home": "RoyalAM",
+      "away": "MGSatarou",
+      "result": "draw",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "date": "2026-04-19"
+    },
     {
       "id": 1776550807022,
       "home": "bhaze",
@@ -2979,5 +2983,5 @@
       "id": 1775944867337
     }
   ],
-  "lastUpdated": "2026-04-18T22:20:03.854Z"
+  "lastUpdated": "2026-04-18T22:20:18.920Z"
 }
