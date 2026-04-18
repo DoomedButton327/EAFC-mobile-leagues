@@ -4,21 +4,21 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 40,
+      "played": 41,
       "wins": 9,
-      "draws": 14,
+      "draws": 15,
       "losses": 17,
-      "points": 41,
-      "gf": 28,
-      "ga": 37,
+      "points": 42,
+      "gf": 30,
+      "ga": 39,
       "form": [
-        "L",
         "L",
         "W",
         "L",
         "L",
         "L",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 40,
+      "played": 41,
       "wins": 23,
-      "draws": 10,
+      "draws": 11,
       "losses": 7,
-      "points": 79,
-      "gf": 70,
-      "ga": 23,
+      "points": 80,
+      "gf": 72,
+      "ga": 25,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -203,7 +202,8 @@
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "bhaze",
-      "away": "Ctaum-cpt",
-      "id": 1776501499462,
-      "postponedBy": null
-    },
     {
       "home": "Barca.",
       "away": "Dontwindraw",
@@ -3861,7 +3855,16 @@
       "awayGoals": 6,
       "id": 1776549054126,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_RFT07_1776549052175.jpeg"
+    },
+    {
+      "home": "bhaze",
+      "away": "Ctaum-cpt",
+      "result": "draw",
+      "homeGoals": 2,
+      "awayGoals": 2,
+      "id": 1776549102279,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/bhaze_vs_Ctaum-cpt_1776549100335.jpeg"
     }
   ],
-  "lastUpdated": "2026-04-18T21:50:56.876Z"
+  "lastUpdated": "2026-04-18T21:51:44.934Z"
 }
