@@ -185,15 +185,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 35,
+      "played": 36,
       "wins": 20,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
-      "points": 68,
+      "points": 69,
       "gf": 63,
       "ga": 22,
       "form": [
-        "W",
         "W",
         "L",
         "W",
@@ -202,7 +201,8 @@
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -263,15 +263,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 35,
+      "played": 36,
       "wins": 5,
-      "draws": 13,
+      "draws": 14,
       "losses": 17,
-      "points": 28,
+      "points": 29,
       "gf": 14,
       "ga": 42,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -280,6 +279,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -545,5 +545,5 @@
       "suspended": false
     }
   ],
-  "lastUpdated": "2026-04-18T22:17:32.906Z"
+  "lastUpdated": "2026-04-18T22:19:16.043Z"
 }
