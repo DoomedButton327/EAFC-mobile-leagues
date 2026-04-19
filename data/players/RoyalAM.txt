@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:23.921Z
+# Auto-generated: 2026-04-19T14:35:09.906Z
 
 name=🅿️🅾️🕉️🅱️🅰️
 username=RoyalAM
 phone=0781276230
-played=33
+played=34
 wins=17
-draws=5
+draws=6
 losses=11
-points=56
+points=57
 gf=52
 ga=25
-form=W,W,L,D,W,W,L,D,D,W
+form=W,L,D,W,W,L,D,D,W,D
 postponements=19
 suspended=false
-addedAt=2026-04-18T22:16:23.921Z
+addedAt=2026-04-19T14:35:09.906Z
