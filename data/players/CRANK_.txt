@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:33.947Z
+# Auto-generated: 2026-04-19T14:46:59.949Z
 
 name=MOOSA
 username=CRANK_
@@ -14,4 +14,4 @@ ga=22
 form=L,W,W,W,W,W,W,W,D,D
 postponements=19
 suspended=false
-addedAt=2026-04-19T14:46:33.947Z
+addedAt=2026-04-19T14:46:59.949Z
