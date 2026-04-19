@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:38.476Z
+# Auto-generated: 2026-04-19T14:47:03.165Z
 
 name=👑•
 username=Zan-Ten
@@ -14,4 +14,4 @@ ga=28
 form=D,D,L,W,W,W,W,W,W,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:46:38.476Z
+addedAt=2026-04-19T14:47:03.165Z
