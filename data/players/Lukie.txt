@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:19.632Z
+# Auto-generated: 2026-04-19T14:46:49.995Z
 
 name=Lukie
 username=Lukie
@@ -14,4 +14,4 @@ ga=46
 form=D,D,W,L,D,D,L,D,D,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:46:19.632Z
+addedAt=2026-04-19T14:46:49.995Z
