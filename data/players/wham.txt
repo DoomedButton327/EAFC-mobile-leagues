@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:34.879Z
+# Auto-generated: 2026-04-19T14:35:21.329Z
 
 name=hlonono
 username=wham
 phone=0674010696
-played=36
+played=37
 wins=1
-draws=10
+draws=11
 losses=25
-points=13
+points=14
 gf=4
 ga=77
-form=L,D,W,D,L,L,D,L,L,L
+form=D,W,D,L,L,D,L,L,L,D
 postponements=20
 suspended=false
-addedAt=2026-04-18T22:16:34.879Z
+addedAt=2026-04-19T14:35:21.329Z
