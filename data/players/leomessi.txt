@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:33.356Z
+# Auto-generated: 2026-04-19T14:35:19.649Z
 
 name=leomessi
 username=leomessi
 phone=0816752213
-played=35
+played=36
 wins=23
-draws=6
+draws=7
 losses=6
-points=75
+points=76
 gf=70
 ga=22
-form=L,L,W,D,W,W,D,D,D,L
+form=L,W,D,W,W,D,D,D,L,D
 postponements=19
 suspended=false
-addedAt=2026-04-18T22:16:33.356Z
+addedAt=2026-04-19T14:35:19.650Z
