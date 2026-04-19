@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:09.906Z
+# Auto-generated: 2026-04-19T14:46:23.107Z
 
 name=🅿️🅾️🕉️🅱️🅰️
 username=RoyalAM
@@ -14,4 +14,4 @@ ga=25
 form=W,L,D,W,W,L,D,D,W,D
 postponements=19
 suspended=false
-addedAt=2026-04-19T14:35:09.906Z
+addedAt=2026-04-19T14:46:23.107Z
