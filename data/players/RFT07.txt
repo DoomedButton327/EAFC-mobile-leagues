@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:18.035Z
+# Auto-generated: 2026-04-19T14:46:28.976Z
 
 name=Reginald Frank Thornton
 username=RFT07
@@ -14,4 +14,4 @@ ga=18
 form=W,W,W,W,W,W,W,D,W,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:35:18.035Z
+addedAt=2026-04-19T14:46:28.976Z
