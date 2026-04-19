@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:28.569Z
+# Auto-generated: 2026-04-19T14:35:14.792Z
 
 name=Sibusiso Makhanye❤️😎🇿🇦
 username=Yungboyshlime
 phone=0810878650
-played=35
+played=36
 wins=2
-draws=11
+draws=12
 losses=22
-points=17
+points=18
 gf=3
 ga=59
-form=D,L,L,L,L,D,D,L,W,L
+form=L,L,L,L,D,D,L,W,L,D
 postponements=20
 suspended=false
-addedAt=2026-04-18T22:16:28.569Z
+addedAt=2026-04-19T14:35:14.792Z
