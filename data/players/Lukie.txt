@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:19.193Z
+# Auto-generated: 2026-04-19T14:35:04.815Z
 
 name=Lukie
 username=Lukie
 phone=0684782614
-played=37
+played=38
 wins=4
-draws=17
+draws=18
 losses=16
-points=29
+points=30
 gf=8
 ga=46
-form=D,D,D,W,L,D,D,L,D,D
+form=D,D,W,L,D,D,L,D,D,D
 postponements=20
 suspended=false
-addedAt=2026-04-18T22:16:19.194Z
+addedAt=2026-04-19T14:35:04.815Z
