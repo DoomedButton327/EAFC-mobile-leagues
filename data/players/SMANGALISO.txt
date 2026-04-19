@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:27.824Z
+# Auto-generated: 2026-04-19T14:46:55.731Z
 
 name=SMANGALISO
 username=SMANGALISO
@@ -14,4 +14,4 @@ ga=42
 form=D,W,L,L,D,D,L,D,D,D
 postponements=19
 suspended=false
-addedAt=2026-04-19T14:46:27.824Z
+addedAt=2026-04-19T14:46:55.731Z
