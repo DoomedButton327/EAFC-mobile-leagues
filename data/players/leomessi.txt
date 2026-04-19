@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:19.649Z
+# Auto-generated: 2026-04-19T14:46:30.121Z
 
 name=leomessi
 username=leomessi
@@ -14,4 +14,4 @@ ga=22
 form=L,W,D,W,W,D,D,D,L,D
 postponements=19
 suspended=false
-addedAt=2026-04-19T14:35:19.650Z
+addedAt=2026-04-19T14:46:30.121Z
