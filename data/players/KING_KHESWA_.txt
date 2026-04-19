@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:03.179Z
+# Auto-generated: 2026-04-19T14:46:18.508Z
 
 name=Sibonelo_Kheswa
 username=KING_KHESWA.
@@ -14,4 +14,4 @@ ga=18
 form=W,W,W,W,W,D,L,W,D,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:35:03.179Z
+addedAt=2026-04-19T14:46:18.508Z
