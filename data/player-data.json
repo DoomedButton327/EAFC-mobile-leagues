@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 34,
+      "played": 35,
       "wins": 17,
       "draws": 6,
-      "losses": 11,
+      "losses": 12,
       "points": 57,
       "gf": 52,
-      "ga": 25,
+      "ga": 28,
       "form": [
-        "W",
         "L",
         "D",
         "W",
@@ -177,7 +176,8 @@
         "D",
         "D",
         "W",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -368,16 +368,15 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 33,
-      "wins": 17,
+      "played": 34,
+      "wins": 18,
       "draws": 9,
       "losses": 7,
-      "points": 60,
-      "gf": 44,
+      "points": 63,
+      "gf": 47,
       "ga": 22,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "D",
@@ -385,7 +384,8 @@
         "W",
         "D",
         "W",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -547,5 +547,5 @@
       "suspended": false
     }
   ],
-  "lastUpdated": "2026-04-19T14:46:15.112Z"
+  "lastUpdated": "2026-04-19T14:46:42.951Z"
 }
