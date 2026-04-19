@@ -1,17 +1,17 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-18T22:16:36.413Z
+# Auto-generated: 2026-04-19T14:35:23.014Z
 
 name=Mansur
 username=Dontwindraw
 phone=+255616 502 631
-played=32
+played=33
 wins=17
-draws=8
+draws=9
 losses=7
-points=59
+points=60
 gf=44
 ga=22
-form=W,D,D,L,L,D,W,W,D,W
+form=D,D,L,L,D,W,W,D,W,D
 postponements=20
 suspended=false
-addedAt=2026-04-18T22:16:36.413Z
+addedAt=2026-04-19T14:35:23.014Z
