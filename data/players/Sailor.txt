@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:17.297Z
+# Auto-generated: 2026-04-19T14:46:48.333Z
 
 name=Sailor
 username=Sailor
@@ -14,4 +14,4 @@ ga=41
 form=D,L,L,D,D,D,D,L,L,D
 postponements=19
 suspended=false
-addedAt=2026-04-19T14:46:17.298Z
+addedAt=2026-04-19T14:46:48.333Z
