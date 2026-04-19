@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:31.224Z
+# Auto-generated: 2026-04-19T14:46:58.246Z
 
 name=hlonono
 username=wham
@@ -14,4 +14,4 @@ ga=77
 form=D,W,D,L,L,D,L,L,L,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:46:31.224Z
+addedAt=2026-04-19T14:46:58.246Z
