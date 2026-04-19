@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:23.014Z
+# Auto-generated: 2026-04-19T14:46:32.764Z
 
 name=Mansur
 username=Dontwindraw
@@ -14,4 +14,4 @@ ga=22
 form=D,D,L,L,D,W,W,D,W,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:35:23.014Z
+addedAt=2026-04-19T14:46:32.764Z
