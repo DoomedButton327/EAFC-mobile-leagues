@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:14.792Z
+# Auto-generated: 2026-04-19T14:46:26.641Z
 
 name=Sibusiso Makhanye❤️😎🇿🇦
 username=Yungboyshlime
@@ -14,4 +14,4 @@ ga=59
 form=L,L,L,L,D,D,L,W,L,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:35:14.792Z
+addedAt=2026-04-19T14:46:26.641Z
