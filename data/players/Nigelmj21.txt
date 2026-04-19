@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:35:26.859Z
+# Auto-generated: 2026-04-19T14:46:35.091Z
 
 name=El Tigre
 username=Nigelmj21
@@ -14,4 +14,4 @@ ga=20
 form=L,L,D,D,D,D,L,D,D,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:35:26.859Z
+addedAt=2026-04-19T14:46:35.091Z
