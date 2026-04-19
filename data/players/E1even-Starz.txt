@@ -1,5 +1,5 @@
 # Mettlestate × EA FC Mobile — Player File
-# Auto-generated: 2026-04-19T14:46:25.433Z
+# Auto-generated: 2026-04-19T14:46:54.173Z
 
 name=uSONGO oMNYAMA oNGEHLULWA
 username=E1even-Starz
@@ -14,4 +14,4 @@ ga=42
 form=D,L,D,D,D,D,D,L,D,D
 postponements=20
 suspended=false
-addedAt=2026-04-19T14:46:25.433Z
+addedAt=2026-04-19T14:46:54.173Z
