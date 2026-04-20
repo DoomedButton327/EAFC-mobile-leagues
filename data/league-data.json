@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 41,
-      "wins": 9,
+      "played": 42,
+      "wins": 10,
       "draws": 15,
       "losses": 17,
-      "points": 42,
-      "gf": 30,
-      "ga": 39,
+      "points": 45,
+      "gf": 32,
+      "ga": 40,
       "form": [
-        "L",
         "W",
         "L",
         "L",
@@ -21,7 +20,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 20,
       "suspended": false
@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 39,
+      "played": 40,
       "wins": 21,
       "draws": 6,
-      "losses": 12,
+      "losses": 13,
       "points": 69,
-      "gf": 59,
-      "ga": 29,
+      "gf": 60,
+      "ga": 31,
       "form": [
-        "L",
         "D",
         "D",
         "W",
@@ -177,7 +176,8 @@
         "W",
         "W",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "bhaze",
-      "id": 1776670017294,
-      "postponedBy": null
-    },
     {
       "home": "Yungboyshlime",
       "away": "MGSatarou",
@@ -3928,7 +3922,16 @@
       "away": "Dontwindraw",
       "result": "draw",
       "id": 1776549583724
+    },
+    {
+      "home": "RoyalAM",
+      "away": "bhaze",
+      "result": "away",
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "id": 1776692727351,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/—_Select_Fixture_—_1776692716798.jpg"
     }
   ],
-  "lastUpdated": "2026-04-20T07:26:57.910Z"
+  "lastUpdated": "2026-04-20T13:45:31.259Z"
 }
