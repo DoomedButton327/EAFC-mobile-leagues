@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 40,
+      "played": 41,
       "wins": 24,
-      "draws": 8,
+      "draws": 9,
       "losses": 8,
-      "points": 80,
+      "points": 81,
       "gf": 70,
       "ga": 22,
       "form": [
-        "W",
         "D",
         "D",
         "D",
@@ -333,7 +332,8 @@
         "W",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -368,15 +368,14 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 37,
+      "played": 38,
       "wins": 19,
-      "draws": 11,
+      "draws": 12,
       "losses": 7,
-      "points": 68,
+      "points": 69,
       "gf": 47,
       "ga": 23,
       "form": [
-        "D",
         "W",
         "W",
         "D",
@@ -385,6 +384,7 @@
         "D",
         "D",
         "W",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -571,12 +571,6 @@
       "away": "Ctaum-cpt",
       "id": 1776670017308,
       "postponedBy": "KING_KHESWA."
-    },
-    {
-      "home": "Dontwindraw",
-      "away": "leomessi",
-      "id": 1776670017312,
-      "postponedBy": null
     }
   ],
   "results": [
@@ -3938,7 +3932,13 @@
       "away": "DARK-_-CEO",
       "result": "draw",
       "id": 1776748998532
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "leomessi",
+      "result": "draw",
+      "id": 1776749012579
     }
   ],
-  "lastUpdated": "2026-04-21T05:23:19.145Z"
+  "lastUpdated": "2026-04-21T05:23:33.200Z"
 }
