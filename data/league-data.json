@@ -56,21 +56,21 @@
       "name": "Sibonelo_Kheswa",
       "username": "KING_KHESWA.",
       "phone": "0607557805",
-      "played": 41,
-      "wins": 27,
+      "played": 42,
+      "wins": 28,
       "draws": 8,
       "losses": 6,
-      "points": 89,
-      "gf": 68,
+      "points": 92,
+      "gf": 69,
       "ga": 19,
       "form": [
-        "W",
         "D",
         "L",
         "W",
         "W",
         "D",
         "D",
+        "W",
         "W",
         "W",
         "W"
@@ -186,15 +186,14 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 41,
+      "played": 42,
       "wins": 23,
       "draws": 11,
-      "losses": 7,
+      "losses": 8,
       "points": 80,
       "gf": 72,
-      "ga": 25,
+      "ga": 26,
       "form": [
-        "L",
         "D",
         "W",
         "W",
@@ -203,7 +202,8 @@
         "D",
         "W",
         "W",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -553,12 +553,6 @@
       "away": "Ctaum-cpt",
       "id": 1776670017308,
       "postponedBy": "KING_KHESWA."
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "KING_KHESWA.",
-      "id": 1776749120220,
-      "postponedBy": null
     },
     {
       "home": "DARK-_-CEO",
@@ -4001,7 +3995,16 @@
       "awayGoals": 2,
       "id": 1776772988439,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_bhaze_1776772987089.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "KING_KHESWA.",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 1,
+      "id": 1776785823170,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Ctaum-cpt_vs_KING_KHESWA._1776785821476.jpg"
     }
   ],
-  "lastUpdated": "2026-04-21T12:03:11.687Z"
+  "lastUpdated": "2026-04-21T15:37:06.511Z"
 }
