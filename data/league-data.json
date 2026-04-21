@@ -30,24 +30,24 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 41,
+      "played": 42,
       "wins": 7,
-      "draws": 13,
+      "draws": 14,
       "losses": 21,
-      "points": 34,
+      "points": 35,
       "gf": 21,
       "ga": 45,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "L",
         "L",
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 40,
+      "played": 41,
       "wins": 24,
-      "draws": 9,
+      "draws": 10,
       "losses": 7,
-      "points": 81,
+      "points": 82,
       "gf": 60,
       "ga": 24,
       "form": [
-        "W",
         "L",
         "W",
         "D",
@@ -151,7 +150,8 @@
         "D",
         "W",
         "L",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 39,
+      "played": 40,
       "wins": 2,
-      "draws": 13,
+      "draws": 14,
       "losses": 24,
-      "points": 19,
+      "points": 20,
       "gf": 3,
       "ga": 65,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -255,7 +254,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -446,21 +446,21 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 40,
+      "played": 41,
       "wins": 11,
-      "draws": 21,
+      "draws": 22,
       "losses": 8,
-      "points": 54,
+      "points": 55,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "D",
         "L",
         "D",
         "D",
         "W",
         "L",
+        "D",
         "D",
         "D",
         "D"
@@ -548,18 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Yungboyshlime",
-      "away": "MGSatarou",
-      "id": 1776670017296,
-      "postponedBy": null
-    },
-    {
-      "home": "DiliboL",
-      "away": "Sailor",
-      "id": 1776670017300,
-      "postponedBy": null
-    },
     {
       "home": "KING_KHESWA.",
       "away": "Ctaum-cpt",
@@ -3938,7 +3926,19 @@
       "away": "SMANGALISO",
       "result": "away",
       "id": 1776749025649
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "MGSatarou",
+      "result": "draw",
+      "id": 1776749043162
+    },
+    {
+      "home": "DiliboL",
+      "away": "Sailor",
+      "result": "draw",
+      "id": 1776749043777
     }
   ],
-  "lastUpdated": "2026-04-21T05:23:46.268Z"
+  "lastUpdated": "2026-04-21T05:24:04.399Z"
 }
