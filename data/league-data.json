@@ -82,16 +82,15 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 42,
+      "played": 43,
       "wins": 4,
       "draws": 20,
-      "losses": 18,
+      "losses": 19,
       "points": 32,
       "gf": 8,
-      "ga": 54,
+      "ga": 57,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -394,21 +394,21 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 39,
-      "wins": 23,
+      "played": 40,
+      "wins": 24,
       "draws": 8,
       "losses": 7,
-      "points": 76,
-      "gf": 58,
+      "points": 79,
+      "gf": 61,
       "ga": 22,
       "form": [
         "W",
         "W",
         "W",
         "W",
+        "D",
+        "D",
         "W",
-        "D",
-        "D",
         "W",
         "W",
         "W"
@@ -552,12 +552,6 @@
       "home": "Yungboyshlime",
       "away": "MGSatarou",
       "id": 1776670017296,
-      "postponedBy": null
-    },
-    {
-      "home": "Lukie",
-      "away": "CRANK_",
-      "id": 1776670017298,
       "postponedBy": null
     },
     {
@@ -3933,7 +3927,16 @@
       "homeGoals": 3,
       "awayGoals": 2,
       "id": 1776748898926
+    },
+    {
+      "home": "Lukie",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1776748962531,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_CRANK__1776748932631.jpg"
     }
   ],
-  "lastUpdated": "2026-04-21T05:21:39.551Z"
+  "lastUpdated": "2026-04-21T05:22:46.215Z"
 }
