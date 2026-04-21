@@ -472,16 +472,15 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 41,
+      "played": 42,
       "wins": 3,
       "draws": 22,
-      "losses": 16,
+      "losses": 17,
       "points": 30,
       "gf": 9,
-      "ga": 43,
+      "ga": 46,
       "form": [
         "D",
-        "D",
         "L",
         "L",
         "L",
@@ -489,7 +488,8 @@
         "D",
         "D",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -498,12 +498,12 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 34,
-      "wins": 17,
+      "played": 35,
+      "wins": 18,
       "draws": 5,
       "losses": 12,
-      "points": 56,
-      "gf": 45,
+      "points": 59,
+      "gf": 48,
       "ga": 28,
       "form": [
         "W",
@@ -512,8 +512,8 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W"
       ],
@@ -570,12 +570,6 @@
       "home": "E1even-Starz",
       "away": "SMANGALISO",
       "id": 1776670017304,
-      "postponedBy": null
-    },
-    {
-      "home": "Barca.",
-      "away": "Zan-Ten",
-      "id": 1776670017306,
       "postponedBy": null
     },
     {
@@ -3936,7 +3930,15 @@
       "awayGoals": 3,
       "id": 1776748962531,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Lukie_vs_CRANK__1776748932631.jpg"
+    },
+    {
+      "home": "Barca.",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1776748983882
     }
   ],
-  "lastUpdated": "2026-04-21T05:22:46.215Z"
+  "lastUpdated": "2026-04-21T05:23:04.498Z"
 }
