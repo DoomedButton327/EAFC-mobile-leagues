@@ -4,24 +4,24 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 42,
+      "played": 43,
       "wins": 10,
       "draws": 15,
-      "losses": 17,
+      "losses": 18,
       "points": 45,
-      "gf": 32,
-      "ga": 40,
+      "gf": 34,
+      "ga": 43,
       "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "D",
+        "D",
+        "D",
+        "D",
         "W",
-        "L",
-        "L",
-        "L",
-        "L",
-        "D",
-        "D",
-        "D",
-        "D",
-        "W"
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 42,
-      "wins": 6,
+      "played": 43,
+      "wins": 7,
       "draws": 17,
       "losses": 19,
-      "points": 35,
-      "gf": 15,
-      "ga": 47,
+      "points": 38,
+      "gf": 18,
+      "ga": 49,
       "form": [
-        "D",
         "L",
         "D",
         "L",
@@ -281,6 +280,7 @@
         "L",
         "D",
         "D",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -606,12 +606,6 @@
       "home": "leomessi",
       "away": "Barca.",
       "id": 1776749120236,
-      "postponedBy": null
-    },
-    {
-      "home": "SMANGALISO",
-      "away": "bhaze",
-      "id": 1776749120238,
       "postponedBy": null
     }
   ],
@@ -3998,7 +3992,16 @@
       "away": "Sailor",
       "result": "draw",
       "id": 1776749043777
+    },
+    {
+      "home": "SMANGALISO",
+      "away": "bhaze",
+      "result": "home",
+      "homeGoals": 3,
+      "awayGoals": 2,
+      "id": 1776772988439,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/SMANGALISO_vs_bhaze_1776772987089.jpg"
     }
   ],
-  "lastUpdated": "2026-04-21T05:25:20.833Z"
+  "lastUpdated": "2026-04-21T12:03:11.687Z"
 }
