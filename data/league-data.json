@@ -75,7 +75,7 @@
         "W",
         "W"
       ],
-      "postponements": 20,
+      "postponements": 19,
       "suspended": false
     },
     {
@@ -588,7 +588,7 @@
       "home": "KING_KHESWA.",
       "away": "Ctaum-cpt",
       "id": 1776670017308,
-      "postponedBy": null
+      "postponedBy": "KING_KHESWA."
     },
     {
       "home": "RFT07",
@@ -3933,5 +3933,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/—_Select_Fixture_—_1776692716798.jpg"
     }
   ],
-  "lastUpdated": "2026-04-20T13:45:31.259Z"
+  "lastUpdated": "2026-04-21T05:21:17.067Z"
 }
