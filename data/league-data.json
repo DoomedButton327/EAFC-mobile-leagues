@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 40,
+      "played": 41,
       "wins": 2,
       "draws": 14,
-      "losses": 24,
+      "losses": 25,
       "points": 20,
       "gf": 3,
-      "ga": 65,
+      "ga": 68,
       "form": [
-        "D",
         "D",
         "L",
         "W",
@@ -255,7 +254,8 @@
         "D",
         "D",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -498,12 +498,12 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 35,
-      "wins": 18,
+      "played": 36,
+      "wins": 19,
       "draws": 5,
       "losses": 12,
-      "points": 59,
-      "gf": 48,
+      "points": 62,
+      "gf": 51,
       "ga": 28,
       "form": [
         "W",
@@ -511,8 +511,8 @@
         "W",
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W",
         "W",
         "W"
@@ -576,12 +576,6 @@
       "home": "RFT07",
       "away": "Nigelmj21",
       "id": 1776749120230,
-      "postponedBy": null
-    },
-    {
-      "home": "Yungboyshlime",
-      "away": "Zan-Ten",
-      "id": 1776749120232,
       "postponedBy": null
     },
     {
@@ -4007,7 +4001,16 @@
       "awayGoals": 1,
       "id": 1776785853732,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/KING_KHESWA._vs_Ctaum-cpt_1776785852227.jpg"
+    },
+    {
+      "home": "Yungboyshlime",
+      "away": "Zan-Ten",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1776845538330,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Yungboyshlime_vs_Zan-Ten_1776845536286.jpg"
     }
   ],
-  "lastUpdated": "2026-04-21T15:37:37.406Z"
+  "lastUpdated": "2026-04-22T08:12:21.484Z"
 }
