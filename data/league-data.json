@@ -30,23 +30,23 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 42,
+      "played": 43,
       "wins": 7,
-      "draws": 14,
+      "draws": 15,
       "losses": 21,
-      "points": 35,
+      "points": 36,
       "gf": 21,
       "ga": 45,
       "form": [
         "D",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
+        "L",
         "D",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
-        "L",
         "D"
       ],
       "postponements": 19,
@@ -446,20 +446,20 @@
       "name": "Mogau",
       "username": "MGSatarou",
       "phone": "0826993315",
-      "played": 41,
+      "played": 42,
       "wins": 11,
-      "draws": 22,
+      "draws": 23,
       "losses": 8,
-      "points": 55,
+      "points": 56,
       "gf": 34,
       "ga": 27,
       "form": [
-        "D",
         "L",
         "D",
         "D",
         "W",
         "L",
+        "D",
         "D",
         "D",
         "D",
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "MGSatarou",
-      "away": "Sailor",
-      "id": 1776749120228,
-      "postponedBy": null
-    },
     {
       "home": "CRANK_",
       "away": "DiliboL",
@@ -4013,7 +4007,13 @@
       "away": "E1even-Starz",
       "result": "draw",
       "id": 1776845591871
+    },
+    {
+      "home": "MGSatarou",
+      "away": "Sailor",
+      "result": "draw",
+      "id": 1776845597565
     }
   ],
-  "lastUpdated": "2026-04-22T08:13:12.491Z"
+  "lastUpdated": "2026-04-22T08:13:18.184Z"
 }
