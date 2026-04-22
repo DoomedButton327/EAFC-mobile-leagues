@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 40,
-      "wins": 21,
+      "played": 41,
+      "wins": 22,
       "draws": 6,
       "losses": 13,
-      "points": 69,
+      "points": 72,
       "gf": 60,
       "ga": 31,
       "form": [
-        "D",
         "D",
         "W",
         "W",
@@ -177,7 +176,8 @@
         "W",
         "L",
         "D",
-        "L"
+        "L",
+        "W"
       ],
       "postponements": 19,
       "suspended": false
@@ -342,15 +342,14 @@
       "name": "hlonono",
       "username": "wham",
       "phone": "0674010696",
-      "played": 42,
+      "played": 43,
       "wins": 1,
       "draws": 15,
-      "losses": 26,
+      "losses": 27,
       "points": 18,
       "gf": 4,
       "ga": 77,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -359,7 +358,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 20,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "Dontwindraw",
       "away": "E1even-Starz",
       "id": 1776749120224,
-      "postponedBy": null
-    },
-    {
-      "home": "RoyalAM",
-      "away": "wham",
-      "id": 1776749120226,
       "postponedBy": null
     },
     {
@@ -4013,7 +4007,13 @@
       "awayGoals": 2,
       "id": 1776845561866,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Nigelmj21_1776845560872.jpg"
+    },
+    {
+      "home": "RoyalAM",
+      "away": "wham",
+      "result": "home",
+      "id": 1776845578893
     }
   ],
-  "lastUpdated": "2026-04-22T08:12:45.028Z"
+  "lastUpdated": "2026-04-22T08:12:59.519Z"
 }
