@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 43,
+      "played": 44,
       "wins": 4,
-      "draws": 20,
+      "draws": 21,
       "losses": 19,
-      "points": 32,
+      "points": 33,
       "gf": 8,
       "ga": 57,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -99,7 +98,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -524,15 +524,14 @@
       "name": "Dude",
       "username": "DARK-_-CEO",
       "phone": "0786090530",
-      "played": 18,
+      "played": 19,
       "wins": 1,
-      "draws": 9,
+      "draws": 10,
       "losses": 8,
-      "points": 12,
+      "points": 13,
       "gf": 3,
       "ga": 19,
       "form": [
-        "L",
         "D",
         "W",
         "L",
@@ -541,6 +540,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DARK-_-CEO",
-      "away": "Lukie",
-      "id": 1776749120222,
-      "postponedBy": null
-    },
     {
       "home": "Dontwindraw",
       "away": "E1even-Starz",
@@ -4013,7 +4007,13 @@
       "away": "wham",
       "result": "home",
       "id": 1776845578893
+    },
+    {
+      "home": "DARK-_-CEO",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1776845590280
     }
   ],
-  "lastUpdated": "2026-04-22T08:12:59.519Z"
+  "lastUpdated": "2026-04-22T08:13:10.898Z"
 }
