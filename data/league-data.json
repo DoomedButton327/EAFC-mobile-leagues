@@ -212,24 +212,24 @@
       "name": "uSONGO oMNYAMA oNGEHLULWA",
       "username": "E1even-Starz",
       "phone": "0661750311",
-      "played": 41,
+      "played": 42,
       "wins": 0,
-      "draws": 23,
+      "draws": 24,
       "losses": 18,
-      "points": 23,
+      "points": 24,
       "gf": 2,
       "ga": 48,
       "form": [
         "D",
         "D",
-        "D",
         "L",
         "D",
         "D",
         "L",
         "L",
         "L",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -368,22 +368,22 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 38,
+      "played": 39,
       "wins": 19,
-      "draws": 12,
+      "draws": 13,
       "losses": 7,
-      "points": 69,
+      "points": 70,
       "gf": 47,
       "ga": 23,
       "form": [
         "W",
-        "W",
         "D",
         "W",
         "W",
         "D",
         "D",
         "W",
+        "D",
         "D",
         "D"
       ],
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dontwindraw",
-      "away": "E1even-Starz",
-      "id": 1776749120224,
-      "postponedBy": null
-    },
     {
       "home": "MGSatarou",
       "away": "Sailor",
@@ -4013,7 +4007,13 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1776845590280
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "E1even-Starz",
+      "result": "draw",
+      "id": 1776845591871
     }
   ],
-  "lastUpdated": "2026-04-22T08:13:10.898Z"
+  "lastUpdated": "2026-04-22T08:13:12.491Z"
 }
