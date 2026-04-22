@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 41,
+      "played": 42,
       "wins": 24,
-      "draws": 10,
+      "draws": 11,
       "losses": 7,
-      "points": 82,
+      "points": 83,
       "gf": 60,
       "ga": 24,
       "form": [
-        "L",
         "W",
         "D",
         "W",
@@ -151,6 +150,7 @@
         "W",
         "L",
         "W",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -394,24 +394,24 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 40,
+      "played": 41,
       "wins": 24,
-      "draws": 8,
+      "draws": 9,
       "losses": 7,
-      "points": 79,
+      "points": 80,
       "gf": 61,
       "ga": 22,
       "form": [
         "W",
         "W",
         "W",
-        "W",
         "D",
         "D",
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "CRANK_",
-      "away": "DiliboL",
-      "id": 1776749120234,
-      "postponedBy": null
-    },
     {
       "home": "leomessi",
       "away": "Barca.",
@@ -4013,7 +4007,13 @@
       "away": "Sailor",
       "result": "draw",
       "id": 1776845597565
+    },
+    {
+      "home": "CRANK_",
+      "away": "DiliboL",
+      "result": "draw",
+      "id": 1776845599855
     }
   ],
-  "lastUpdated": "2026-04-22T08:13:18.184Z"
+  "lastUpdated": "2026-04-22T08:13:20.472Z"
 }
