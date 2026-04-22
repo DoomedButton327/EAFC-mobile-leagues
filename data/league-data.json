@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 41,
+      "played": 42,
       "wins": 24,
-      "draws": 9,
+      "draws": 10,
       "losses": 8,
-      "points": 81,
+      "points": 82,
       "gf": 70,
       "ga": 22,
       "form": [
-        "D",
         "D",
         "D",
         "L",
@@ -333,6 +332,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 19,
@@ -472,15 +472,14 @@
       "name": "A H 〽️ A D",
       "username": "Barca.",
       "phone": "0741645995",
-      "played": 42,
+      "played": 43,
       "wins": 3,
-      "draws": 22,
+      "draws": 23,
       "losses": 17,
-      "points": 30,
+      "points": 31,
       "gf": 9,
       "ga": 46,
       "form": [
-        "D",
         "L",
         "L",
         "L",
@@ -489,7 +488,8 @@
         "D",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -547,14 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "leomessi",
-      "away": "Barca.",
-      "id": 1776749120236,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -4013,7 +4006,13 @@
       "away": "DiliboL",
       "result": "draw",
       "id": 1776845599855
+    },
+    {
+      "home": "leomessi",
+      "away": "Barca.",
+      "result": "draw",
+      "id": 1776845600773
     }
   ],
-  "lastUpdated": "2026-04-22T08:13:20.472Z"
+  "lastUpdated": "2026-04-22T08:13:21.393Z"
 }
