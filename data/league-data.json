@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 41,
-      "wins": 22,
+      "played": 42,
+      "wins": 23,
       "draws": 6,
       "losses": 13,
-      "points": 72,
-      "gf": 60,
+      "points": 75,
+      "gf": 63,
       "ga": 31,
       "form": [
-        "D",
         "W",
         "W",
         "W",
@@ -177,6 +176,7 @@
         "L",
         "D",
         "L",
+        "W",
         "W"
       ],
       "postponements": 19,
@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 42,
+      "played": 43,
       "wins": 24,
       "draws": 10,
-      "losses": 8,
+      "losses": 9,
       "points": 82,
       "gf": 70,
-      "ga": 22,
+      "ga": 25,
       "form": [
-        "D",
         "D",
         "L",
         "L",
@@ -333,7 +332,8 @@
         "D",
         "L",
         "D",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -564,12 +564,6 @@
       "home": "MGSatarou",
       "away": "Sailor",
       "id": 1776922757406,
-      "postponedBy": null
-    },
-    {
-      "home": "leomessi",
-      "away": "RoyalAM",
-      "id": 1776922757408,
       "postponedBy": null
     },
     {
@@ -4079,7 +4073,15 @@
       "awayGoals": 1,
       "id": 1777004839444,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Ctaum-cpt_1777004838121.jpg"
+    },
+    {
+      "home": "leomessi",
+      "away": "RoyalAM",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1777004911914
     }
   ],
-  "lastUpdated": "2026-04-24T04:27:55.614Z"
+  "lastUpdated": "2026-04-24T04:28:32.528Z"
 }
