@@ -413,7 +413,7 @@
         "W",
         "D"
       ],
-      "postponements": 19,
+      "postponements": 18,
       "suspended": false
     },
     {
@@ -594,7 +594,7 @@
       "home": "CRANK_",
       "away": "Nigelmj21",
       "id": 1776922757420,
-      "postponedBy": null
+      "postponedBy": "CRANK_"
     }
   ],
   "results": [
@@ -4081,5 +4081,5 @@
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_Ctaum-cpt_1777004838121.jpg"
     }
   ],
-  "lastUpdated": "2026-04-24T04:27:22.665Z"
+  "lastUpdated": "2026-04-24T04:27:55.614Z"
 }
