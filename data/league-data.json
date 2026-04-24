@@ -82,15 +82,14 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 44,
+      "played": 45,
       "wins": 4,
-      "draws": 21,
+      "draws": 22,
       "losses": 19,
-      "points": 33,
+      "points": 34,
       "gf": 8,
       "ga": 57,
       "form": [
-        "L",
         "D",
         "D",
         "L",
@@ -99,6 +98,7 @@
         "D",
         "D",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -368,21 +368,21 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 39,
+      "played": 40,
       "wins": 19,
-      "draws": 13,
+      "draws": 14,
       "losses": 7,
-      "points": 70,
+      "points": 71,
       "gf": 47,
       "ga": 23,
       "form": [
-        "W",
         "D",
         "W",
         "W",
         "D",
         "D",
         "W",
+        "D",
         "D",
         "D",
         "D"
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "Dontwindraw",
-      "away": "Lukie",
-      "id": 1776922757412,
-      "postponedBy": null
-    },
     {
       "home": "DiliboL",
       "away": "Yungboyshlime",
@@ -4084,7 +4078,13 @@
       "away": "Sailor",
       "result": "draw",
       "id": 1777005016808
+    },
+    {
+      "home": "Dontwindraw",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1777005017454
     }
   ],
-  "lastUpdated": "2026-04-24T04:30:17.419Z"
+  "lastUpdated": "2026-04-24T04:30:18.066Z"
 }
