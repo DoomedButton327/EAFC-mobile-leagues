@@ -134,15 +134,14 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 42,
+      "played": 43,
       "wins": 24,
-      "draws": 11,
+      "draws": 12,
       "losses": 7,
-      "points": 83,
+      "points": 84,
       "gf": 60,
       "ga": 24,
       "form": [
-        "W",
         "D",
         "W",
         "W",
@@ -150,6 +149,7 @@
         "W",
         "L",
         "W",
+        "D",
         "D",
         "D"
       ],
@@ -238,15 +238,14 @@
       "name": "Sibusiso Makhanye❤️😎🇿🇦",
       "username": "Yungboyshlime",
       "phone": "0810878650",
-      "played": 41,
+      "played": 42,
       "wins": 2,
-      "draws": 14,
+      "draws": 15,
       "losses": 25,
-      "points": 20,
+      "points": 21,
       "gf": 3,
       "ga": 68,
       "form": [
-        "D",
         "L",
         "W",
         "L",
@@ -255,7 +254,8 @@
         "D",
         "L",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DiliboL",
-      "away": "Yungboyshlime",
-      "id": 1776922757414,
-      "postponedBy": null
-    },
     {
       "home": "CRANK_",
       "away": "Nigelmj21",
@@ -4084,7 +4078,13 @@
       "away": "Lukie",
       "result": "draw",
       "id": 1777005017454
+    },
+    {
+      "home": "DiliboL",
+      "away": "Yungboyshlime",
+      "result": "draw",
+      "id": 1777005018102
     }
   ],
-  "lastUpdated": "2026-04-24T04:30:18.066Z"
+  "lastUpdated": "2026-04-24T04:30:18.710Z"
 }
