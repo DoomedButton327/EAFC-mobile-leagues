@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 43,
+      "played": 44,
       "wins": 10,
-      "draws": 15,
+      "draws": 16,
       "losses": 18,
-      "points": 45,
-      "gf": 34,
-      "ga": 43,
+      "points": 46,
+      "gf": 35,
+      "ga": 44,
       "form": [
-        "L",
         "L",
         "L",
         "L",
@@ -21,7 +20,8 @@
         "D",
         "D",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -498,15 +498,14 @@
       "name": "👑•",
       "username": "Zan-Ten",
       "phone": "+27 71 005 0307",
-      "played": 36,
+      "played": 37,
       "wins": 19,
-      "draws": 5,
+      "draws": 6,
       "losses": 12,
-      "points": 62,
-      "gf": 51,
-      "ga": 28,
+      "points": 63,
+      "gf": 52,
+      "ga": 29,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -515,7 +514,8 @@
         "W",
         "W",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -588,12 +588,6 @@
       "home": "DiliboL",
       "away": "Yungboyshlime",
       "id": 1776922757414,
-      "postponedBy": null
-    },
-    {
-      "home": "Zan-Ten",
-      "away": "bhaze",
-      "id": 1776922757416,
       "postponedBy": null
     },
     {
@@ -4073,7 +4067,16 @@
       "away": "Barca.",
       "result": "draw",
       "id": 1776845600773
+    },
+    {
+      "home": "Zan-Ten",
+      "away": "bhaze",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1777004789682,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/Zan-Ten_vs_bhaze_1777004787891.jpg"
     }
   ],
-  "lastUpdated": "2026-04-23T05:39:18.011Z"
+  "lastUpdated": "2026-04-24T04:26:32.926Z"
 }
