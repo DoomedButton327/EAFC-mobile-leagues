@@ -186,16 +186,15 @@
       "name": "@Ctaum",
       "username": "Ctaum-cpt",
       "phone": "W.A 0764797158",
-      "played": 44,
+      "played": 45,
       "wins": 23,
       "draws": 12,
-      "losses": 9,
+      "losses": 10,
       "points": 81,
       "gf": 74,
-      "ga": 29,
+      "ga": 32,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "W",
@@ -203,7 +202,8 @@
         "D",
         "L",
         "L",
-        "D"
+        "D",
+        "L"
       ],
       "postponements": 19,
       "suspended": false
@@ -394,16 +394,15 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 42,
-      "wins": 24,
+      "played": 43,
+      "wins": 25,
       "draws": 10,
       "losses": 7,
-      "points": 81,
-      "gf": 62,
+      "points": 84,
+      "gf": 65,
       "ga": 23,
       "form": [
         "W",
-        "W",
         "D",
         "D",
         "W",
@@ -411,7 +410,8 @@
         "W",
         "W",
         "D",
-        "D"
+        "D",
+        "W"
       ],
       "postponements": 18,
       "suspended": false
@@ -558,12 +558,6 @@
       "home": "DiliboL",
       "away": "leomessi",
       "id": 1777005433714,
-      "postponedBy": null
-    },
-    {
-      "home": "Ctaum-cpt",
-      "away": "CRANK_",
-      "id": 1777005447020,
       "postponedBy": null
     },
     {
@@ -4149,7 +4143,15 @@
       "awayGoals": 1,
       "id": 1777103665401,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_Nigelmj21_1777103663708.jpg"
+    },
+    {
+      "home": "Ctaum-cpt",
+      "away": "CRANK_",
+      "result": "away",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "id": 1777103782830
     }
   ],
-  "lastUpdated": "2026-04-25T07:54:28.680Z"
+  "lastUpdated": "2026-04-25T07:56:23.447Z"
 }
