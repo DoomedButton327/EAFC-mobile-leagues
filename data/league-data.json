@@ -4,15 +4,14 @@
       "name": "Thandobhaze0023",
       "username": "bhaze",
       "phone": "0679687240",
-      "played": 44,
+      "played": 45,
       "wins": 10,
-      "draws": 16,
+      "draws": 17,
       "losses": 18,
-      "points": 46,
+      "points": 47,
       "gf": 35,
       "ga": 44,
       "form": [
-        "L",
         "L",
         "L",
         "D",
@@ -21,6 +20,7 @@
         "D",
         "W",
         "L",
+        "D",
         "D"
       ],
       "postponements": 20,
@@ -264,15 +264,14 @@
       "name": "SMANGALISO",
       "username": "SMANGALISO",
       "phone": "0780070989",
-      "played": 44,
+      "played": 45,
       "wins": 7,
-      "draws": 17,
+      "draws": 18,
       "losses": 20,
-      "points": 38,
+      "points": 39,
       "gf": 18,
       "ga": 52,
       "form": [
-        "D",
         "L",
         "D",
         "D",
@@ -281,7 +280,8 @@
         "D",
         "W",
         "W",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -552,12 +552,6 @@
       "home": "RoyalAM",
       "away": "Dontwindraw",
       "id": 1777005465715,
-      "postponedBy": null
-    },
-    {
-      "home": "bhaze",
-      "away": "SMANGALISO",
-      "id": 1777005553529,
       "postponedBy": null
     },
     {
@@ -4154,7 +4148,13 @@
       "away": "MGSatarou",
       "result": "draw",
       "id": 1777103902798
+    },
+    {
+      "home": "bhaze",
+      "away": "SMANGALISO",
+      "result": "draw",
+      "id": 1777103904188
     }
   ],
-  "lastUpdated": "2026-04-25T07:58:23.407Z"
+  "lastUpdated": "2026-04-25T07:58:24.795Z"
 }
