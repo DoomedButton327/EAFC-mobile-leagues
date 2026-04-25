@@ -105,32 +105,6 @@
       "suspended": false
     },
     {
-      "name": "Sihle👑",
-      "username": "ExequielThwala",
-      "phone": "0797363716",
-      "played": 25,
-      "wins": 14,
-      "draws": 4,
-      "losses": 7,
-      "points": 46,
-      "gf": 37,
-      "ga": 27,
-      "form": [
-        "L",
-        "L",
-        "D",
-        "D",
-        "W",
-        "W",
-        "L",
-        "D",
-        "W",
-        "L"
-      ],
-      "postponements": 20,
-      "suspended": true
-    },
-    {
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
@@ -4155,5 +4129,5 @@
       "id": 1777103914775
     }
   ],
-  "lastUpdated": "2026-04-25T07:58:35.387Z"
+  "lastUpdated": "2026-04-25T07:59:12.880Z"
 }
