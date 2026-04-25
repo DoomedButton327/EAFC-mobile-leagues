@@ -30,11 +30,11 @@
       "name": "Sailor",
       "username": "Sailor",
       "phone": "0677514331",
-      "played": 44,
+      "played": 45,
       "wins": 7,
-      "draws": 16,
+      "draws": 17,
       "losses": 21,
-      "points": 37,
+      "points": 38,
       "gf": 21,
       "ga": 45,
       "form": [
@@ -44,7 +44,7 @@
         "L",
         "L",
         "L",
-        "L",
+        "D",
         "D",
         "D",
         "D"
@@ -82,22 +82,22 @@
       "name": "Lukie",
       "username": "Lukie",
       "phone": "0684782614",
-      "played": 45,
+      "played": 46,
       "wins": 4,
-      "draws": 22,
+      "draws": 23,
       "losses": 19,
-      "points": 34,
+      "points": 35,
       "gf": 8,
       "ga": 57,
       "form": [
         "D",
-        "D",
         "L",
         "D",
         "L",
         "D",
         "D",
         "L",
+        "D",
         "D",
         "D"
       ],
@@ -552,12 +552,6 @@
       "home": "RoyalAM",
       "away": "Dontwindraw",
       "id": 1777005465715,
-      "postponedBy": null
-    },
-    {
-      "home": "Sailor",
-      "away": "Lukie",
-      "id": 1777005571975,
       "postponedBy": null
     },
     {
@@ -4154,7 +4148,13 @@
       "away": "SMANGALISO",
       "result": "draw",
       "id": 1777103904188
+    },
+    {
+      "home": "Sailor",
+      "away": "Lukie",
+      "result": "draw",
+      "id": 1777103905373
     }
   ],
-  "lastUpdated": "2026-04-25T07:58:24.795Z"
+  "lastUpdated": "2026-04-25T07:58:25.980Z"
 }
