@@ -134,21 +134,21 @@
       "name": "Dilibo",
       "username": "DiliboL",
       "phone": "0760348136",
-      "played": 43,
+      "played": 44,
       "wins": 24,
-      "draws": 12,
+      "draws": 13,
       "losses": 7,
-      "points": 84,
+      "points": 85,
       "gf": 60,
       "ga": 24,
       "form": [
-        "D",
         "W",
         "W",
         "D",
         "W",
         "L",
         "W",
+        "D",
         "D",
         "D",
         "D"
@@ -316,15 +316,14 @@
       "name": "leomessi",
       "username": "leomessi",
       "phone": "0816752213",
-      "played": 43,
+      "played": 44,
       "wins": 24,
-      "draws": 10,
+      "draws": 11,
       "losses": 9,
-      "points": 82,
+      "points": 83,
       "gf": 70,
       "ga": 25,
       "form": [
-        "D",
         "L",
         "L",
         "W",
@@ -333,7 +332,8 @@
         "L",
         "D",
         "D",
-        "L"
+        "L",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "DiliboL",
-      "away": "leomessi",
-      "id": 1777005433714,
-      "postponedBy": null
-    },
     {
       "home": "RoyalAM",
       "away": "Dontwindraw",
@@ -4154,7 +4148,13 @@
       "awayGoals": 0,
       "id": 1777103813930,
       "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/RFT07_vs_KING_KHESWA._1777103812579.jpg"
+    },
+    {
+      "home": "DiliboL",
+      "away": "leomessi",
+      "result": "draw",
+      "id": 1777103901121
     }
   ],
-  "lastUpdated": "2026-04-25T07:56:56.737Z"
+  "lastUpdated": "2026-04-25T07:58:21.730Z"
 }
