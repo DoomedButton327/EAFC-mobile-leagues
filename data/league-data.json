@@ -160,15 +160,14 @@
       "name": "🅿️🅾️🕉️🅱️🅰️",
       "username": "RoyalAM",
       "phone": "0781276230",
-      "played": 42,
+      "played": 43,
       "wins": 23,
-      "draws": 6,
+      "draws": 7,
       "losses": 13,
-      "points": 75,
+      "points": 76,
       "gf": 63,
       "ga": 31,
       "form": [
-        "W",
         "W",
         "W",
         "W",
@@ -177,7 +176,8 @@
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 19,
       "suspended": false
@@ -368,20 +368,20 @@
       "name": "Mansur",
       "username": "Dontwindraw",
       "phone": "+255616 502 631",
-      "played": 40,
+      "played": 41,
       "wins": 19,
-      "draws": 14,
+      "draws": 15,
       "losses": 7,
-      "points": 71,
+      "points": 72,
       "gf": 47,
       "ga": 23,
       "form": [
-        "D",
         "W",
         "W",
         "D",
         "D",
         "W",
+        "D",
         "D",
         "D",
         "D",
@@ -547,14 +547,7 @@
       "suspended": false
     }
   ],
-  "fixtures": [
-    {
-      "home": "RoyalAM",
-      "away": "Dontwindraw",
-      "id": 1777005465715,
-      "postponedBy": null
-    }
-  ],
+  "fixtures": [],
   "results": [
     {
       "home": "bhaze",
@@ -4154,7 +4147,13 @@
       "away": "wham",
       "result": "draw",
       "id": 1777103908232
+    },
+    {
+      "home": "RoyalAM",
+      "away": "Dontwindraw",
+      "result": "draw",
+      "id": 1777103914775
     }
   ],
-  "lastUpdated": "2026-04-25T07:58:28.842Z"
+  "lastUpdated": "2026-04-25T07:58:35.387Z"
 }
