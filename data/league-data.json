@@ -394,23 +394,23 @@
       "name": "MOOSA",
       "username": "CRANK_",
       "phone": "0699906125",
-      "played": 41,
+      "played": 42,
       "wins": 24,
-      "draws": 9,
+      "draws": 10,
       "losses": 7,
-      "points": 80,
-      "gf": 61,
-      "ga": 22,
+      "points": 81,
+      "gf": 62,
+      "ga": 23,
       "form": [
         "W",
         "W",
-        "W",
         "D",
         "D",
         "W",
         "W",
         "W",
         "W",
+        "D",
         "D"
       ],
       "postponements": 18,
@@ -420,15 +420,14 @@
       "name": "El Tigre",
       "username": "Nigelmj21",
       "phone": "0656657141",
-      "played": 42,
+      "played": 43,
       "wins": 11,
-      "draws": 20,
+      "draws": 21,
       "losses": 11,
-      "points": 53,
-      "gf": 39,
-      "ga": 30,
+      "points": 54,
+      "gf": 40,
+      "ga": 31,
       "form": [
-        "D",
         "D",
         "L",
         "L",
@@ -437,7 +436,8 @@
         "D",
         "L",
         "W",
-        "W"
+        "W",
+        "D"
       ],
       "postponements": 20,
       "suspended": false
@@ -548,12 +548,6 @@
     }
   ],
   "fixtures": [
-    {
-      "home": "CRANK_",
-      "away": "Nigelmj21",
-      "id": 1776922757420,
-      "postponedBy": null
-    },
     {
       "home": "RFT07",
       "away": "KING_KHESWA.",
@@ -4146,7 +4140,16 @@
       "homeGoals": 3,
       "awayGoals": 0,
       "id": 1777065358175
+    },
+    {
+      "home": "CRANK_",
+      "away": "Nigelmj21",
+      "result": "draw",
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "id": 1777103665401,
+      "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/match-images/CRANK__vs_Nigelmj21_1777103663708.jpg"
     }
   ],
-  "lastUpdated": "2026-04-24T21:15:58.791Z"
+  "lastUpdated": "2026-04-25T07:54:28.680Z"
 }
