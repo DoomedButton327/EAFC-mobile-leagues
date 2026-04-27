@@ -315,15 +315,14 @@
     "name": "leomessi",
     "username": "leomessi",
     "phone": "0816752213",
-    "played": 36,
-    "wins": 23,
+    "played": 37,
+    "wins": 24,
     "draws": 7,
     "losses": 6,
-    "points": 76,
-    "gf": 70,
+    "points": 79,
+    "gf": 71,
     "ga": 22,
     "form": [
-      "L",
       "W",
       "D",
       "W",
@@ -332,7 +331,8 @@
       "D",
       "D",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -341,15 +341,14 @@
     "name": "hlonono",
     "username": "wham",
     "phone": "0674010696",
-    "played": 37,
+    "played": 38,
     "wins": 1,
     "draws": 11,
-    "losses": 25,
+    "losses": 26,
     "points": 14,
     "gf": 4,
-    "ga": 77,
+    "ga": 78,
     "form": [
-      "D",
       "W",
       "D",
       "L",
@@ -358,7 +357,8 @@
       "L",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
