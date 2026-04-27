@@ -29,15 +29,14 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "0677514331",
-    "played": 37,
+    "played": 38,
     "wins": 7,
     "draws": 14,
-    "losses": 16,
+    "losses": 17,
     "points": 35,
     "gf": 20,
-    "ga": 41,
+    "ga": 42,
     "form": [
-      "D",
       "L",
       "L",
       "D",
@@ -46,7 +45,8 @@
       "D",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -289,12 +289,12 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "0820658330",
-    "played": 36,
-    "wins": 30,
+    "played": 37,
+    "wins": 31,
     "draws": 4,
     "losses": 2,
-    "points": 94,
-    "gf": 81,
+    "points": 97,
+    "gf": 82,
     "ga": 18,
     "form": [
       "W",
@@ -303,10 +303,10 @@
       "W",
       "W",
       "W",
-      "W",
       "D",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
