@@ -133,15 +133,14 @@
     "name": "Dilibo",
     "username": "DiliboL",
     "phone": "0760348136",
-    "played": 36,
-    "wins": 20,
+    "played": 37,
+    "wins": 21,
     "draws": 9,
     "losses": 7,
-    "points": 69,
-    "gf": 59,
-    "ga": 36,
+    "points": 72,
+    "gf": 61,
+    "ga": 37,
     "form": [
-      "W",
       "W",
       "W",
       "W",
@@ -150,7 +149,8 @@
       "W",
       "D",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
@@ -419,16 +419,15 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "0656657141",
-    "played": 35,
+    "played": 36,
     "wins": 9,
     "draws": 19,
-    "losses": 7,
+    "losses": 8,
     "points": 46,
-    "gf": 32,
-    "ga": 20,
+    "gf": 33,
+    "ga": 22,
     "form": [
       "L",
-      "L",
       "D",
       "D",
       "D",
@@ -436,7 +435,8 @@
       "L",
       "D",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
