@@ -58,5 +58,20 @@
     "form": [],
     "postponements": 20,
     "suspended": false
+  },
+  {
+    "name": "Sibonelo_Kheswa",
+    "username": "KING_KHESWA.",
+    "phone": "+27607557805",
+    "played": 0,
+    "wins": 0,
+    "draws": 0,
+    "losses": 0,
+    "points": 0,
+    "gf": 0,
+    "ga": 0,
+    "form": [],
+    "postponements": 20,
+    "suspended": false
   }
 ]
