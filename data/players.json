@@ -8,8 +8,8 @@
     "draws": 0,
     "losses": 0,
     "points": 3,
-    "gf": 3,
-    "ga": 1,
+    "gf": 1,
+    "ga": 0,
     "form": [
       "W"
     ],
@@ -70,8 +70,8 @@
     "draws": 0,
     "losses": 1,
     "points": 0,
-    "gf": 1,
-    "ga": 3,
+    "gf": 0,
+    "ga": 1,
     "form": [
       "L"
     ],
