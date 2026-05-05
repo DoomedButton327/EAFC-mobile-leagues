@@ -37,15 +37,16 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 1,
+    "played": 2,
     "wins": 0,
     "draws": 1,
-    "losses": 0,
+    "losses": 1,
     "points": 1,
     "gf": 0,
-    "ga": 0,
+    "ga": 3,
     "form": [
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -54,16 +55,14 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 1,
+    "played": 0,
     "wins": 0,
     "draws": 0,
-    "losses": 1,
+    "losses": 0,
     "points": 0,
     "gf": 0,
-    "ga": 4,
-    "form": [
-      "L"
-    ],
+    "ga": 0,
+    "form": [],
     "postponements": 20,
     "suspended": false
   },
@@ -98,7 +97,7 @@
     "form": [
       "D"
     ],
-    "postponements": 19,
+    "postponements": 20,
     "suspended": false
   },
   {
@@ -171,14 +170,16 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 0,
-    "wins": 0,
+    "played": 1,
+    "wins": 1,
     "draws": 0,
     "losses": 0,
-    "points": 0,
-    "gf": 0,
+    "points": 3,
+    "gf": 3,
     "ga": 0,
-    "form": [],
+    "form": [
+      "W"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -220,16 +221,15 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 2,
-    "wins": 1,
+    "played": 1,
+    "wins": 0,
     "draws": 0,
     "losses": 1,
-    "points": 3,
-    "gf": 4,
+    "points": 0,
+    "gf": 0,
     "ga": 3,
     "form": [
-      "L",
-      "W"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
