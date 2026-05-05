@@ -72,15 +72,16 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 1,
-    "wins": 0,
+    "played": 2,
+    "wins": 1,
     "draws": 0,
     "losses": 1,
-    "points": 0,
-    "gf": 0,
+    "points": 3,
+    "gf": 3,
     "ga": 1,
     "form": [
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -206,15 +207,16 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 1,
+    "played": 2,
     "wins": 1,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 3,
     "gf": 7,
-    "ga": 0,
+    "ga": 3,
     "form": [
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
