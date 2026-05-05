@@ -54,14 +54,16 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 0,
+    "played": 1,
     "wins": 0,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 0,
     "gf": 0,
-    "ga": 0,
-    "form": [],
+    "ga": 4,
+    "form": [
+      "L"
+    ],
     "postponements": 20,
     "suspended": false
   },
@@ -218,15 +220,16 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 1,
-    "wins": 0,
+    "played": 2,
+    "wins": 1,
     "draws": 0,
     "losses": 1,
-    "points": 0,
-    "gf": 0,
+    "points": 3,
+    "gf": 4,
     "ga": 3,
     "form": [
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
