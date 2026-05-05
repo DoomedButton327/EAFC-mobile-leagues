@@ -24,18 +24,6 @@
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_Nyali11_vs_RFT07_1778014141194.jpg"
   },
   {
-    "id": 1778014127005,
-    "uid": "9ce07645",
-    "loggedAt": "2026-05-05T20:48:38.077Z",
-    "home": "SMANGALISO",
-    "away": "CRANK_",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
-    "date": "2026-05-05",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-05/images/match_SMANGALISO_vs_CRANK__1778014115432.jpg"
-  },
-  {
     "id": 1778014053898,
     "uid": "dedc9394",
     "loggedAt": "2026-05-05T20:47:27.905Z",
