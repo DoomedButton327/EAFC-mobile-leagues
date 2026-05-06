@@ -138,16 +138,15 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 2,
+    "played": 1,
     "wins": 0,
-    "draws": 1,
+    "draws": 0,
     "losses": 1,
-    "points": 1,
+    "points": 0,
     "gf": 1,
     "ga": 3,
     "form": [
-      "L",
-      "D"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -156,16 +155,15 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 2,
+    "played": 1,
     "wins": 1,
     "draws": 0,
-    "losses": 1,
+    "losses": 0,
     "points": 3,
-    "gf": 4,
-    "ga": 4,
+    "gf": 3,
+    "ga": 1,
     "form": [
-      "W",
-      "L"
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -191,15 +189,14 @@
     "name": "Zlatan",
     "username": "Gillie11",
     "phone": "+270660513301",
-    "played": 2,
-    "wins": 2,
+    "played": 1,
+    "wins": 1,
     "draws": 0,
     "losses": 0,
-    "points": 6,
-    "gf": 6,
-    "ga": 2,
+    "points": 3,
+    "gf": 3,
+    "ga": 1,
     "form": [
-      "W",
       "W"
     ],
     "postponements": 20,
@@ -262,16 +259,15 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 2,
+    "played": 1,
     "wins": 0,
-    "draws": 1,
+    "draws": 0,
     "losses": 1,
-    "points": 1,
+    "points": 0,
     "gf": 0,
     "ga": 7,
     "form": [
-      "L",
-      "D"
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -290,7 +286,7 @@
     "form": [
       "L"
     ],
-    "postponements": 19,
+    "postponements": 20,
     "suspended": false
   },
   {
