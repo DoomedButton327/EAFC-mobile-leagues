@@ -149,15 +149,16 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 2,
+    "played": 3,
     "wins": 0,
-    "draws": 1,
+    "draws": 2,
     "losses": 1,
-    "points": 1,
+    "points": 2,
     "gf": 1,
     "ga": 3,
     "form": [
       "L",
+      "D",
       "D"
     ],
     "postponements": 20,
@@ -222,16 +223,17 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 2,
+    "played": 3,
     "wins": 1,
-    "draws": 0,
+    "draws": 1,
     "losses": 1,
-    "points": 3,
+    "points": 4,
     "gf": 7,
     "ga": 3,
     "form": [
       "W",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
