@@ -71,16 +71,17 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 2,
+    "played": 3,
     "wins": 1,
     "draws": 0,
-    "losses": 1,
+    "losses": 2,
     "points": 3,
     "gf": 3,
-    "ga": 1,
+    "ga": 4,
     "form": [
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -175,14 +176,15 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 1,
-    "wins": 1,
+    "played": 2,
+    "wins": 2,
     "draws": 0,
     "losses": 0,
-    "points": 3,
-    "gf": 3,
+    "points": 6,
+    "gf": 6,
     "ga": 0,
     "form": [
+      "W",
       "W"
     ],
     "postponements": 20,
