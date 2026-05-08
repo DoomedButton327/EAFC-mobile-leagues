@@ -102,16 +102,17 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 2,
+    "played": 3,
     "wins": 1,
-    "draws": 1,
+    "draws": 2,
     "losses": 0,
-    "points": 4,
+    "points": 5,
     "gf": 5,
     "ga": 2,
     "form": [
       "D",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -158,15 +159,16 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 3,
+    "played": 4,
     "wins": 0,
-    "draws": 2,
+    "draws": 3,
     "losses": 1,
-    "points": 2,
+    "points": 3,
     "gf": 1,
     "ga": 3,
     "form": [
       "L",
+      "D",
       "D",
       "D"
     ],
