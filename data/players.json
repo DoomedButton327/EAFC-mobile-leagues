@@ -3,17 +3,18 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 3,
+    "played": 4,
     "wins": 3,
     "draws": 0,
-    "losses": 0,
+    "losses": 1,
     "points": 9,
-    "gf": 5,
-    "ga": 0,
+    "gf": 7,
+    "ga": 3,
     "form": [
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -60,16 +61,17 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 2,
-    "wins": 0,
+    "played": 3,
+    "wins": 1,
     "draws": 0,
     "losses": 2,
-    "points": 0,
-    "gf": 0,
-    "ga": 7,
+    "points": 3,
+    "gf": 3,
+    "ga": 9,
     "form": [
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
