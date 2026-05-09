@@ -224,17 +224,18 @@
     "name": "Zlatan",
     "username": "Gillie11",
     "phone": "+270660513301",
-    "played": 3,
+    "played": 4,
     "wins": 3,
-    "draws": 0,
+    "draws": 1,
     "losses": 0,
-    "points": 9,
-    "gf": 8,
-    "ga": 3,
+    "points": 10,
+    "gf": 9,
+    "ga": 4,
     "form": [
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -263,16 +264,17 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 2,
+    "played": 3,
     "wins": 1,
-    "draws": 0,
+    "draws": 1,
     "losses": 1,
-    "points": 3,
-    "gf": 4,
-    "ga": 3,
+    "points": 4,
+    "gf": 5,
+    "ga": 4,
     "form": [
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 17,
     "suspended": false
