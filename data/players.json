@@ -3,18 +3,19 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 4,
-    "wins": 3,
+    "played": 5,
+    "wins": 4,
     "draws": 0,
     "losses": 1,
-    "points": 9,
-    "gf": 7,
+    "points": 12,
+    "gf": 10,
     "ga": 3,
     "form": [
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -285,19 +286,20 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 5,
+    "played": 6,
     "wins": 1,
     "draws": 2,
-    "losses": 2,
+    "losses": 3,
     "points": 5,
     "gf": 6,
-    "ga": 7,
+    "ga": 10,
     "form": [
       "D",
       "L",
       "L",
       "W",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
