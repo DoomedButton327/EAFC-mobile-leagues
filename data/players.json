@@ -24,18 +24,19 @@
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
-    "played": 4,
+    "played": 5,
     "wins": 3,
     "draws": 1,
-    "losses": 0,
+    "losses": 1,
     "points": 10,
     "gf": 12,
-    "ga": 3,
+    "ga": 4,
     "form": [
       "W",
       "D",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -331,19 +332,20 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 5,
-    "wins": 0,
+    "played": 6,
+    "wins": 1,
     "draws": 1,
     "losses": 4,
-    "points": 1,
-    "gf": 4,
+    "points": 4,
+    "gf": 5,
     "ga": 9,
     "form": [
       "L",
       "L",
       "D",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
