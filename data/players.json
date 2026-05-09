@@ -107,18 +107,19 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 4,
+    "played": 5,
     "wins": 2,
     "draws": 2,
-    "losses": 0,
+    "losses": 1,
     "points": 8,
     "gf": 8,
-    "ga": 2,
+    "ga": 3,
     "form": [
       "D",
       "D",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -348,14 +349,15 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 1,
-    "wins": 1,
+    "played": 2,
+    "wins": 2,
     "draws": 0,
     "losses": 0,
-    "points": 3,
-    "gf": 1,
+    "points": 6,
+    "gf": 2,
     "ga": 0,
     "form": [
+      "W",
       "W"
     ],
     "postponements": 18,
