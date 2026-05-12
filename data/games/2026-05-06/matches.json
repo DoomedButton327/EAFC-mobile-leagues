@@ -5,11 +5,12 @@
     "loggedAt": "2026-05-09T21:28:33.226Z",
     "home": "XWRLD_REAPERS",
     "away": "ICONIC-CLUB",
-    "result": "home",
-    "homeGoals": 1,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
     "date": "2026-05-06",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_XWRLD_REAPERS_vs_ICONIC-CLUB_1778362110020.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_XWRLD_REAPERS_vs_ICONIC-CLUB_1778362110020.jpg",
+    "editedAt": "2026-05-12T08:33:14.903Z"
   },
   {
     "id": 1778361882334,
