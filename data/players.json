@@ -24,12 +24,12 @@
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
-    "played": 6,
-    "wins": 4,
+    "played": 7,
+    "wins": 5,
     "draws": 1,
     "losses": 1,
-    "points": 13,
-    "gf": 14,
+    "points": 16,
+    "gf": 17,
     "ga": 4,
     "form": [
       "W",
@@ -37,7 +37,8 @@
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -136,15 +137,16 @@
     "name": "DJ Ronaldo ZA",
     "username": "djronaldoza",
     "phone": "+27711764627",
-    "played": 3,
+    "played": 4,
     "wins": 0,
     "draws": 1,
-    "losses": 2,
+    "losses": 3,
     "points": 1,
     "gf": 0,
-    "ga": 6,
+    "ga": 9,
     "form": [
       "D",
+      "L",
       "L",
       "L"
     ],
