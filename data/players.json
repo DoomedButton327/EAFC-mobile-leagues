@@ -224,12 +224,12 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 7,
-    "wins": 3,
+    "played": 8,
+    "wins": 4,
     "draws": 0,
     "losses": 4,
-    "points": 9,
-    "gf": 13,
+    "points": 12,
+    "gf": 16,
     "ga": 8,
     "form": [
       "W",
@@ -238,7 +238,8 @@
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -335,16 +336,17 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 6,
+    "played": 7,
     "wins": 0,
     "draws": 1,
-    "losses": 5,
+    "losses": 6,
     "points": 1,
     "gf": 0,
-    "ga": 19,
+    "ga": 22,
     "form": [
       "L",
       "D",
+      "L",
       "L",
       "L",
       "L",
@@ -394,7 +396,7 @@
       "W",
       "W"
     ],
-    "postponements": 13,
+    "postponements": 12,
     "suspended": false
   }
 ]
