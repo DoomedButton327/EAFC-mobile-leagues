@@ -140,20 +140,21 @@
     "name": "DJ Ronaldo ZA",
     "username": "djronaldoza",
     "phone": "+27711764627",
-    "played": 6,
+    "played": 7,
     "wins": 2,
     "draws": 1,
-    "losses": 3,
+    "losses": 4,
     "points": 7,
     "gf": 6,
-    "ga": 9,
+    "ga": 10,
     "form": [
       "D",
       "L",
       "L",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 16,
     "suspended": false
@@ -186,12 +187,12 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 9,
-    "wins": 0,
+    "played": 10,
+    "wins": 1,
     "draws": 3,
     "losses": 6,
-    "points": 3,
-    "gf": 1,
+    "points": 6,
+    "gf": 2,
     "ga": 19,
     "form": [
       "L",
@@ -202,7 +203,8 @@
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
