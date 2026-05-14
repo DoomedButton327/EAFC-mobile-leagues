@@ -75,13 +75,13 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 7,
+    "played": 8,
     "wins": 4,
     "draws": 0,
-    "losses": 3,
+    "losses": 4,
     "points": 12,
     "gf": 11,
-    "ga": 11,
+    "ga": 14,
     "form": [
       "L",
       "L",
@@ -89,7 +89,8 @@
       "W",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -242,12 +243,12 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 9,
-    "wins": 5,
+    "played": 10,
+    "wins": 6,
     "draws": 0,
     "losses": 4,
-    "points": 15,
-    "gf": 19,
+    "points": 18,
+    "gf": 22,
     "ga": 8,
     "form": [
       "W",
@@ -257,6 +258,7 @@
       "L",
       "L",
       "L",
+      "W",
       "W",
       "W"
     ],
