@@ -315,11 +315,11 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 9,
+    "played": 10,
     "wins": 6,
-    "draws": 1,
+    "draws": 2,
     "losses": 2,
-    "points": 19,
+    "points": 20,
     "gf": 19,
     "ga": 8,
     "form": [
@@ -331,7 +331,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 16,
     "suspended": false
@@ -364,11 +365,11 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 8,
+    "played": 9,
     "wins": 0,
-    "draws": 1,
+    "draws": 2,
     "losses": 7,
-    "points": 1,
+    "points": 2,
     "gf": 0,
     "ga": 25,
     "form": [
@@ -379,7 +380,8 @@
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 18,
     "suspended": false
