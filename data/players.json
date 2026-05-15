@@ -3,13 +3,13 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 9,
+    "played": 10,
     "wins": 7,
     "draws": 0,
-    "losses": 2,
+    "losses": 3,
     "points": 21,
-    "gf": 23,
-    "ga": 10,
+    "gf": 24,
+    "ga": 12,
     "form": [
       "W",
       "W",
@@ -19,7 +19,8 @@
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -332,15 +333,14 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 11,
-    "wins": 6,
+    "played": 12,
+    "wins": 7,
     "draws": 2,
     "losses": 3,
-    "points": 20,
-    "gf": 19,
-    "ga": 11,
+    "points": 23,
+    "gf": 21,
+    "ga": 12,
     "form": [
-      "W",
       "D",
       "W",
       "L",
@@ -349,7 +349,8 @@
       "W",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 16,
     "suspended": false
