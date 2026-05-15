@@ -75,12 +75,12 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 8,
-    "wins": 4,
+    "played": 9,
+    "wins": 5,
     "draws": 0,
     "losses": 4,
-    "points": 12,
-    "gf": 11,
+    "points": 15,
+    "gf": 13,
     "ga": 14,
     "form": [
       "L",
@@ -90,7 +90,8 @@
       "L",
       "W",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -414,19 +415,20 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 5,
+    "played": 6,
     "wins": 4,
     "draws": 0,
-    "losses": 1,
+    "losses": 2,
     "points": 12,
     "gf": 7,
-    "ga": 2,
+    "ga": 4,
     "form": [
       "W",
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 10,
     "suspended": false
