@@ -21,24 +21,10 @@
     "scheduledDate": "2026-05-12"
   },
   {
-    "id": 1778653501974,
-    "home": "XWRLD_REAPERS",
-    "away": "RoyalAM",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-13"
-  },
-  {
     "id": 1778653504191,
     "home": "Gillie11",
     "away": "SMANGALISO",
     "postponedBy": "Gillie11",
     "scheduledDate": "2026-05-13"
-  },
-  {
-    "id": 1778736409091,
-    "home": "Bhaze",
-    "away": "Gillie11",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-14"
   }
 ]
