@@ -55,13 +55,13 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 8,
+    "played": 9,
     "wins": 1,
     "draws": 1,
-    "losses": 6,
+    "losses": 7,
     "points": 4,
     "gf": 5,
-    "ga": 17,
+    "ga": 20,
     "form": [
       "D",
       "L",
@@ -70,7 +70,8 @@
       "L",
       "L",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -235,15 +236,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 10,
-    "wins": 2,
+    "played": 11,
+    "wins": 3,
     "draws": 3,
     "losses": 5,
-    "points": 9,
-    "gf": 7,
+    "points": 12,
+    "gf": 10,
     "ga": 16,
     "form": [
-      "W",
       "L",
       "D",
       "D",
@@ -252,7 +252,8 @@
       "L",
       "D",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
