@@ -100,13 +100,13 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 7,
+    "played": 8,
     "wins": 5,
     "draws": 0,
-    "losses": 2,
+    "losses": 3,
     "points": 15,
-    "gf": 14,
-    "ga": 4,
+    "gf": 15,
+    "ga": 6,
     "form": [
       "L",
       "W",
@@ -114,7 +114,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 13,
     "suspended": false
@@ -123,13 +124,13 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 8,
-    "wins": 4,
+    "played": 9,
+    "wins": 5,
     "draws": 2,
     "losses": 2,
-    "points": 14,
-    "gf": 14,
-    "ga": 6,
+    "points": 17,
+    "gf": 16,
+    "ga": 7,
     "form": [
       "D",
       "D",
@@ -138,7 +139,8 @@
       "W",
       "W",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
