@@ -358,12 +358,12 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 9,
-    "wins": 2,
+    "played": 10,
+    "wins": 3,
     "draws": 2,
     "losses": 5,
-    "points": 8,
-    "gf": 9,
+    "points": 11,
+    "gf": 12,
     "ga": 12,
     "form": [
       "D",
@@ -374,7 +374,8 @@
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -383,15 +384,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 10,
+    "played": 11,
     "wins": 0,
     "draws": 3,
-    "losses": 7,
+    "losses": 8,
     "points": 3,
     "gf": 0,
-    "ga": 25,
+    "ga": 28,
     "form": [
-      "L",
       "D",
       "L",
       "L",
@@ -400,7 +400,8 @@
       "L",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 18,
     "suspended": false
