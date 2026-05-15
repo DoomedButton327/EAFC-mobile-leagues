@@ -59,11 +59,12 @@
     "loggedAt": "2026-05-13T20:21:58.584Z",
     "home": "Sailor",
     "away": "Nyali11",
-    "result": "home",
-    "homeGoals": 2,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-13",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Sailor_vs_Nyali11_1778703715448.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Sailor_vs_Nyali11_1778703715448.jpg",
+    "editedAt": "2026-05-15T23:45:22.923Z"
   },
   {
     "id": 1778703689106,
