@@ -205,15 +205,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 10,
+    "played": 11,
     "wins": 1,
-    "draws": 3,
+    "draws": 4,
     "losses": 6,
-    "points": 6,
+    "points": 7,
     "gf": 2,
     "ga": 19,
     "form": [
-      "L",
       "D",
       "D",
       "D",
@@ -222,7 +221,8 @@
       "L",
       "L",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -283,11 +283,11 @@
     "name": "Zlatan",
     "username": "Gillie11",
     "phone": "+270660513301",
-    "played": 5,
+    "played": 6,
     "wins": 4,
-    "draws": 1,
+    "draws": 2,
     "losses": 0,
-    "points": 13,
+    "points": 14,
     "gf": 11,
     "ga": 5,
     "form": [
@@ -295,7 +295,8 @@
       "W",
       "W",
       "D",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 18,
     "suspended": false
