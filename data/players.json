@@ -384,15 +384,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 11,
+    "played": 12,
     "wins": 0,
     "draws": 3,
-    "losses": 8,
+    "losses": 9,
     "points": 3,
     "gf": 0,
-    "ga": 28,
+    "ga": 29,
     "form": [
-      "D",
       "L",
       "L",
       "L",
@@ -401,6 +400,7 @@
       "L",
       "L",
       "D",
+      "L",
       "L"
     ],
     "postponements": 18,
@@ -410,12 +410,12 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 9,
-    "wins": 3,
+    "played": 10,
+    "wins": 4,
     "draws": 2,
     "losses": 4,
-    "points": 11,
-    "gf": 10,
+    "points": 14,
+    "gf": 11,
     "ga": 11,
     "form": [
       "L",
@@ -425,7 +425,8 @@
       "W",
       "W",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
