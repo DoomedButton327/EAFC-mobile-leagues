@@ -60,7 +60,7 @@
     "draws": 1,
     "losses": 7,
     "points": 7,
-    "gf": 6,
+    "gf": 8,
     "ga": 20,
     "form": [
       "D",
@@ -217,7 +217,7 @@
     "losses": 7,
     "points": 8,
     "gf": 2,
-    "ga": 20,
+    "ga": 22,
     "form": [
       "D",
       "L",
