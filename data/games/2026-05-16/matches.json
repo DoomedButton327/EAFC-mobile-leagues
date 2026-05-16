@@ -1,14 +1,11 @@
 [
   {
-    "id": 1778920305151,
-    "uid": "67877831",
-    "loggedAt": "2026-05-16T08:31:44.316Z",
-    "home": "Zan-Ten",
-    "away": "RFT07",
-    "result": "away",
+    "id": 1778966625992,
+    "home": "XWRLD_REAPERS",
+    "away": "djronaldoza",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 1,
-    "date": "2026-05-16",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-16/images/match_Zan-Ten_vs_RFT07_1778920301606.jpg"
+    "awayGoals": 0,
+    "date": "2026-05-16"
   }
 ]
