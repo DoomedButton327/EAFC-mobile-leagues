@@ -81,16 +81,15 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 10,
-    "wins": 5,
+    "played": 11,
+    "wins": 6,
     "draws": 0,
     "losses": 5,
-    "points": 15,
-    "gf": 13,
+    "points": 18,
+    "gf": 16,
     "ga": 16,
     "form": [
       "L",
-      "L",
       "W",
       "W",
       "L",
@@ -98,7 +97,8 @@
       "W",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -158,15 +158,14 @@
     "name": "DJ Ronaldo ZA",
     "username": "djronaldoza",
     "phone": "+27711764627",
-    "played": 11,
+    "played": 12,
     "wins": 2,
     "draws": 3,
-    "losses": 6,
+    "losses": 7,
     "points": 9,
     "gf": 6,
-    "ga": 16,
+    "ga": 19,
     "form": [
-      "L",
       "L",
       "L",
       "W",
@@ -175,7 +174,8 @@
       "D",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 16,
     "suspended": false
