@@ -22,7 +22,7 @@
       "W",
       "L"
     ],
-    "postponements": 19,
+    "postponements": 18,
     "suspended": false
   },
   {
@@ -211,15 +211,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 13,
+    "played": 14,
     "wins": 1,
-    "draws": 5,
+    "draws": 6,
     "losses": 7,
-    "points": 8,
+    "points": 9,
     "gf": 2,
     "ga": 22,
     "form": [
-      "D",
       "L",
       "L",
       "L",
@@ -228,7 +227,8 @@
       "W",
       "D",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -311,16 +311,15 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 12,
+    "played": 13,
     "wins": 1,
-    "draws": 3,
+    "draws": 4,
     "losses": 8,
-    "points": 6,
+    "points": 7,
     "gf": 7,
     "ga": 24,
     "form": [
       "D",
-      "D",
       "L",
       "L",
       "L",
@@ -328,7 +327,8 @@
       "L",
       "D",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -363,15 +363,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 12,
+    "played": 13,
     "wins": 4,
     "draws": 2,
-    "losses": 6,
+    "losses": 7,
     "points": 14,
     "gf": 15,
-    "ga": 14,
+    "ga": 17,
     "form": [
-      "L",
       "W",
       "D",
       "W",
@@ -379,6 +378,7 @@
       "W",
       "L",
       "W",
+      "L",
       "L",
       "L"
     ],
@@ -415,15 +415,14 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 11,
-    "wins": 4,
+    "played": 12,
+    "wins": 5,
     "draws": 2,
     "losses": 5,
-    "points": 14,
-    "gf": 13,
+    "points": 17,
+    "gf": 16,
     "ga": 13,
     "form": [
-      "L",
       "D",
       "L",
       "L",
@@ -432,7 +431,8 @@
       "W",
       "D",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
