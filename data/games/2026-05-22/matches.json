@@ -3,10 +3,11 @@
     "id": 1779490456103,
     "home": "Nyali11",
     "away": "RoyalAM",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-22"
+    "date": "2026-05-22",
+    "editedAt": "2026-05-22T22:58:32.568Z"
   },
   {
     "id": 1779490422431,
