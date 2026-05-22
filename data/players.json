@@ -55,11 +55,11 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 12,
+    "played": 13,
     "wins": 2,
-    "draws": 1,
+    "draws": 2,
     "losses": 9,
-    "points": 7,
+    "points": 8,
     "gf": 8,
     "ga": 27,
     "form": [
@@ -67,12 +67,12 @@
       "L",
       "L",
       "L",
-      "L",
       "W",
       "L",
       "W",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
@@ -311,11 +311,11 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 14,
+    "played": 15,
     "wins": 1,
-    "draws": 4,
+    "draws": 5,
     "losses": 9,
-    "points": 7,
+    "points": 8,
     "gf": 7,
     "ga": 27,
     "form": [
@@ -323,12 +323,12 @@
       "L",
       "L",
       "L",
-      "L",
       "D",
       "L",
       "L",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
