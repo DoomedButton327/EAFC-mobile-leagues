@@ -70,8 +70,8 @@
       "L",
       "W",
       "L",
-      "L",
       "D",
+      "L",
       "D"
     ],
     "postponements": 19,
@@ -112,8 +112,8 @@
     "draws": 0,
     "losses": 3,
     "points": 30,
-    "gf": 32,
-    "ga": 10,
+    "gf": 31,
+    "ga": 8,
     "form": [
       "W",
       "W",
@@ -138,18 +138,18 @@
     "draws": 4,
     "losses": 4,
     "points": 22,
-    "gf": 23,
-    "ga": 16,
+    "gf": 21,
+    "ga": 15,
     "form": [
       "W",
+      "W",
       "L",
       "L",
       "W",
       "D",
-      "D",
       "L",
-      "W",
       "D",
+      "W",
       "L"
     ],
     "postponements": 19,
@@ -198,10 +198,10 @@
       "L",
       "D",
       "D",
+      "D",
       "W",
+      "D",
       "L",
-      "D",
-      "D",
       "L"
     ],
     "postponements": 19,
@@ -225,8 +225,8 @@
       "D",
       "L",
       "D",
-      "W",
       "L",
+      "W",
       "L",
       "L"
     ],
@@ -239,11 +239,11 @@
     "phone": "+27682987402",
     "played": 16,
     "wins": 3,
-    "draws": 5,
-    "losses": 8,
-    "points": 14,
+    "draws": 4,
+    "losses": 9,
+    "points": 13,
     "gf": 11,
-    "ga": 24,
+    "ga": 27,
     "form": [
       "L",
       "D",
@@ -254,7 +254,7 @@
       "D",
       "L",
       "L",
-      "D"
+      "L"
     ],
     "postponements": 18,
     "suspended": false
@@ -324,11 +324,11 @@
       "L",
       "D",
       "L",
-      "L",
       "D",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -353,8 +353,8 @@
       "W",
       "W",
       "W",
-      "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 15,
     "suspended": false
@@ -364,11 +364,11 @@
     "username": "Nyali11",
     "phone": "+27786218748",
     "played": 15,
-    "wins": 5,
-    "draws": 3,
+    "wins": 6,
+    "draws": 2,
     "losses": 7,
-    "points": 18,
-    "gf": 18,
+    "points": 20,
+    "gf": 21,
     "ga": 17,
     "form": [
       "W",
@@ -379,7 +379,7 @@
       "L",
       "L",
       "L",
-      "D",
+      "W",
       "W"
     ],
     "postponements": 20,
@@ -405,8 +405,8 @@
       "L",
       "L",
       "L",
-      "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 17,
     "suspended": false
