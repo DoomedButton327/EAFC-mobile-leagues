@@ -211,15 +211,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 14,
-    "wins": 1,
+    "played": 15,
+    "wins": 2,
     "draws": 6,
     "losses": 7,
-    "points": 9,
-    "gf": 2,
-    "ga": 22,
+    "points": 12,
+    "gf": 4,
+    "ga": 23,
     "form": [
-      "L",
       "L",
       "L",
       "L",
@@ -228,7 +227,8 @@
       "D",
       "D",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 13,
+    "played": 14,
     "wins": 3,
     "draws": 4,
-    "losses": 6,
+    "losses": 7,
     "points": 13,
-    "gf": 10,
-    "ga": 19,
+    "gf": 11,
+    "ga": 21,
     "form": [
-      "D",
       "L",
       "W",
       "L",
@@ -254,7 +253,8 @@
       "L",
       "W",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 18,
     "suspended": false
