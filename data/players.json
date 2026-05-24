@@ -133,15 +133,14 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 14,
-    "wins": 6,
+    "played": 15,
+    "wins": 7,
     "draws": 4,
     "losses": 4,
-    "points": 22,
-    "gf": 23,
+    "points": 25,
+    "gf": 27,
     "ga": 16,
     "form": [
-      "W",
       "L",
       "L",
       "W",
@@ -150,7 +149,8 @@
       "L",
       "W",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -389,15 +389,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 16,
+    "played": 17,
     "wins": 0,
     "draws": 4,
-    "losses": 12,
+    "losses": 13,
     "points": 4,
     "gf": 0,
-    "ga": 47,
+    "ga": 51,
     "form": [
-      "L",
       "L",
       "L",
       "D",
@@ -406,7 +405,8 @@
       "L",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 17,
     "suspended": false
