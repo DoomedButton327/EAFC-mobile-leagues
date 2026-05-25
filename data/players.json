@@ -55,15 +55,14 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 14,
-    "wins": 2,
+    "played": 15,
+    "wins": 3,
     "draws": 3,
     "losses": 9,
-    "points": 9,
-    "gf": 8,
+    "points": 12,
+    "gf": 9,
     "ga": 27,
     "form": [
-      "L",
       "L",
       "L",
       "W",
@@ -72,7 +71,8 @@
       "L",
       "L",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -363,15 +363,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 15,
+    "played": 16,
     "wins": 6,
     "draws": 2,
-    "losses": 7,
+    "losses": 8,
     "points": 20,
     "gf": 21,
-    "ga": 17,
+    "ga": 18,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -380,7 +379,8 @@
       "L",
       "L",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
