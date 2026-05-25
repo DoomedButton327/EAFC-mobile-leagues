@@ -17,21 +17,7 @@
     "id": 1779647521816,
     "home": "Kloutt",
     "away": "XWRLD_REAPERS",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-24"
-  },
-  {
-    "id": 1779647519883,
-    "home": "RoyalAM",
-    "away": "CodeTalker",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-24"
-  },
-  {
-    "id": 1779647517001,
-    "home": "ICONIC-CLUB",
-    "away": "RFT07",
-    "postponedBy": null,
+    "postponedBy": "Kloutt",
     "scheduledDate": "2026-05-24"
   },
   {
