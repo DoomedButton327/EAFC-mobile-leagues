@@ -3,15 +3,14 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 13,
+    "played": 14,
     "wins": 10,
-    "draws": 0,
+    "draws": 1,
     "losses": 3,
-    "points": 30,
+    "points": 31,
     "gf": 33,
     "ga": 12,
     "form": [
-      "L",
       "W",
       "L",
       "W",
@@ -20,7 +19,8 @@
       "L",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 17,
     "suspended": false
@@ -133,16 +133,15 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 15,
+    "played": 16,
     "wins": 7,
-    "draws": 4,
+    "draws": 5,
     "losses": 4,
-    "points": 25,
+    "points": 26,
     "gf": 27,
     "ga": 16,
     "form": [
       "L",
-      "L",
       "W",
       "D",
       "D",
@@ -150,7 +149,8 @@
       "W",
       "D",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
