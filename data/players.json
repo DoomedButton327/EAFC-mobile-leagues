@@ -185,15 +185,14 @@
     "name": "Lucky7",
     "username": "CodeTalker",
     "phone": "+27684880622",
-    "played": 16,
+    "played": 17,
     "wins": 4,
-    "draws": 6,
+    "draws": 7,
     "losses": 6,
-    "points": 18,
+    "points": 19,
     "gf": 10,
     "ga": 21,
     "form": [
-      "W",
       "L",
       "L",
       "D",
@@ -202,7 +201,8 @@
       "L",
       "D",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 17,
+    "played": 18,
     "wins": 3,
-    "draws": 4,
+    "draws": 5,
     "losses": 10,
-    "points": 13,
+    "points": 14,
     "gf": 11,
     "ga": 30,
     "form": [
-      "D",
       "L",
       "L",
       "W",
@@ -254,7 +253,8 @@
       "L",
       "L",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 18,
     "suspended": false
@@ -408,7 +408,7 @@
       "D",
       "L"
     ],
-    "postponements": 17,
+    "postponements": 16,
     "suspended": false
   },
   {
