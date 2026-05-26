@@ -55,16 +55,15 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 15,
+    "played": 16,
     "wins": 3,
-    "draws": 3,
+    "draws": 4,
     "losses": 9,
-    "points": 12,
+    "points": 13,
     "gf": 9,
     "ga": 27,
     "form": [
       "L",
-      "L",
       "W",
       "L",
       "W",
@@ -72,7 +71,8 @@
       "L",
       "D",
       "D",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 19,
     "suspended": false
@@ -337,15 +337,14 @@
     "name": "Dilibo👑",
     "username": "DiliboL",
     "phone": "+27760348136",
-    "played": 17,
+    "played": 18,
     "wins": 10,
-    "draws": 3,
+    "draws": 4,
     "losses": 4,
-    "points": 33,
+    "points": 34,
     "gf": 27,
     "ga": 15,
     "form": [
-      "W",
       "W",
       "W",
       "L",
@@ -354,7 +353,8 @@
       "W",
       "W",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 15,
     "suspended": false
