@@ -211,15 +211,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 20,
+    "played": 21,
     "wins": 2,
     "draws": 8,
-    "losses": 10,
+    "losses": 11,
     "points": 14,
     "gf": 4,
-    "ga": 30,
+    "ga": 31,
     "form": [
-      "D",
       "D",
       "L",
       "D",
@@ -228,7 +227,8 @@
       "L",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -389,15 +389,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 18,
-    "wins": 0,
+    "played": 19,
+    "wins": 1,
     "draws": 4,
     "losses": 14,
-    "points": 4,
-    "gf": 0,
+    "points": 7,
+    "gf": 1,
     "ga": 58,
     "form": [
-      "L",
       "D",
       "L",
       "L",
@@ -406,7 +405,8 @@
       "L",
       "D",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 16,
     "suspended": false
