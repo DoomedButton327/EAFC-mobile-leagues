@@ -263,15 +263,14 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 20,
-    "wins": 13,
+    "played": 21,
+    "wins": 14,
     "draws": 1,
     "losses": 6,
-    "points": 40,
-    "gf": 50,
+    "points": 43,
+    "gf": 51,
     "ga": 13,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -280,7 +279,8 @@
       "W",
       "W",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -363,15 +363,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 17,
+    "played": 18,
     "wins": 6,
     "draws": 3,
-    "losses": 8,
+    "losses": 9,
     "points": 21,
     "gf": 21,
-    "ga": 18,
+    "ga": 19,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -380,7 +379,8 @@
       "W",
       "W",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
