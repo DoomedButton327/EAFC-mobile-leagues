@@ -3,7 +3,7 @@
     "id": 1779751805858,
     "home": "RFT07",
     "away": "XWRLD_REAPERS",
-    "postponedBy": "XWRLD_REAPERS",
+    "postponedBy": null,
     "scheduledDate": "2026-05-26"
   },
   {
@@ -14,38 +14,10 @@
     "scheduledDate": "2026-05-27"
   },
   {
-    "id": 1779833023767,
-    "home": "Bhaze",
-    "away": "Kloutt",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-27"
-  },
-  {
     "id": 1779833021329,
     "home": "RFT07",
     "away": "Sailor",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-27"
-  },
-  {
-    "id": 1779833020954,
-    "home": "Nigelmj21",
-    "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-27"
-  },
-  {
-    "id": 1779833023714,
-    "home": "CodeTalker",
-    "away": "SMANGALISO",
-    "postponedBy": null,
-    "scheduledDate": "2026-05-27"
-  },
-  {
-    "id": 1779833016031,
-    "home": "ICONIC-CLUB",
-    "away": "RoyalAM",
-    "postponedBy": null,
+    "postponedBy": "Sailor",
     "scheduledDate": "2026-05-27"
   }
 ]
