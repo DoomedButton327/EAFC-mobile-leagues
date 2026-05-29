@@ -55,15 +55,14 @@
     "name": "Sailor",
     "username": "Sailor",
     "phone": "+27677514331",
-    "played": 17,
+    "played": 18,
     "wins": 3,
-    "draws": 4,
+    "draws": 5,
     "losses": 10,
-    "points": 13,
+    "points": 14,
     "gf": 9,
     "ga": 30,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -72,7 +71,8 @@
       "D",
       "W",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 18,
     "suspended": false
@@ -441,15 +441,14 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 16,
+    "played": 17,
     "wins": 9,
-    "draws": 2,
+    "draws": 3,
     "losses": 5,
-    "points": 29,
+    "points": 30,
     "gf": 24,
     "ga": 13,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -458,7 +457,8 @@
       "W",
       "L",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 8,
     "suspended": false
