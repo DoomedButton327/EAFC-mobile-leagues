@@ -1,25 +1,11 @@
 [
   {
-    "id": 1780177786514,
-    "uid": "34a69bbf",
-    "loggedAt": "2026-05-30T21:49:43.105Z",
-    "home": "Zan-Ten",
-    "away": "RFT07",
+    "id": 1780178126411,
+    "home": "CodeTalker",
+    "away": "XWRLD_REAPERS",
     "result": "away",
     "homeGoals": 0,
-    "awayGoals": 3,
+    "awayGoals": 1,
     "date": "2026-05-30"
-  },
-  {
-    "id": 1780177767146,
-    "uid": "b5bd7713",
-    "loggedAt": "2026-05-30T21:49:26.550Z",
-    "home": "Nigelmj21",
-    "away": "Nyali11",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-05-30",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-30/images/match_Nigelmj21_vs_Nyali11_1780177762928.jpg"
   }
 ]
