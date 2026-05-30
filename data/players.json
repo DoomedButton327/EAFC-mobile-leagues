@@ -185,15 +185,14 @@
     "name": "Lucky7",
     "username": "CodeTalker",
     "phone": "+27684880622",
-    "played": 21,
+    "played": 22,
     "wins": 4,
     "draws": 8,
-    "losses": 9,
+    "losses": 10,
     "points": 20,
     "gf": 10,
-    "ga": 28,
+    "ga": 29,
     "form": [
-      "W",
       "L",
       "D",
       "D",
@@ -202,7 +201,8 @@
       "L",
       "L",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -441,16 +441,15 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 18,
-    "wins": 9,
+    "played": 19,
+    "wins": 10,
     "draws": 3,
     "losses": 6,
-    "points": 30,
-    "gf": 24,
+    "points": 33,
+    "gf": 25,
     "ga": 15,
     "form": [
       "W",
-      "W",
       "D",
       "W",
       "W",
@@ -458,7 +457,8 @@
       "L",
       "L",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 7,
     "suspended": false
