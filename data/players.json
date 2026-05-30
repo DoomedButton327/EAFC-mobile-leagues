@@ -107,12 +107,12 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 18,
-    "wins": 14,
+    "played": 19,
+    "wins": 15,
     "draws": 1,
     "losses": 3,
-    "points": 43,
-    "gf": 41,
+    "points": 46,
+    "gf": 44,
     "ga": 12,
     "form": [
       "W",
@@ -123,8 +123,8 @@
       "W",
       "W",
       "W",
-      "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 12,
     "suspended": false
@@ -363,15 +363,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 19,
+    "played": 20,
     "wins": 7,
     "draws": 3,
-    "losses": 9,
+    "losses": 10,
     "points": 24,
     "gf": 24,
-    "ga": 19,
+    "ga": 22,
     "form": [
-      "W",
       "L",
       "L",
       "L",
@@ -380,7 +379,8 @@
       "L",
       "D",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
