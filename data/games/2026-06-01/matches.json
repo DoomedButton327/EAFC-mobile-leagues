@@ -1,5 +1,50 @@
 [
   {
+    "id": 1780352347481,
+    "home": "Sailor",
+    "away": "Nyali11",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-01"
+  },
+  {
+    "id": 1780352337048,
+    "home": "XWRLD_REAPERS",
+    "away": "Bhaze",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-01"
+  },
+  {
+    "id": 1780352343935,
+    "home": "SMANGALISO",
+    "away": "YungboyShlime",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-01"
+  },
+  {
+    "id": 1780352344860,
+    "home": "RoyalAM",
+    "away": "Zan-Ten",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-01"
+  },
+  {
+    "id": 1780352344029,
+    "home": "Ctaum-cpt",
+    "away": "Nigelmj21",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-01"
+  },
+  {
     "id": 1780352119422,
     "uid": "bdc4fa7a",
     "loggedAt": "2026-06-01T22:15:16.265Z",
