@@ -3,15 +3,14 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 18,
+    "played": 19,
     "wins": 14,
-    "draws": 1,
+    "draws": 2,
     "losses": 3,
-    "points": 43,
+    "points": 44,
     "gf": 44,
     "ga": 13,
     "form": [
-      "W",
       "L",
       "W",
       "W",
@@ -20,7 +19,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 17,
     "suspended": false
@@ -389,15 +389,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 22,
+    "played": 23,
     "wins": 1,
-    "draws": 7,
+    "draws": 8,
     "losses": 14,
-    "points": 10,
+    "points": 11,
     "gf": 1,
     "ga": 54,
     "form": [
-      "D",
       "L",
       "L",
       "L",
@@ -406,7 +405,8 @@
       "D",
       "D",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 16,
     "suspended": false
