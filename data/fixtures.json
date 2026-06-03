@@ -17,27 +17,20 @@
     "id": 1780352621360,
     "home": "DiliboL",
     "away": "SMANGALISO",
-    "postponedBy": null,
+    "postponedBy": "SMANGALISO",
     "scheduledDate": "2026-06-02"
   },
   {
     "id": 1780352622724,
     "home": "Nigelmj21",
     "away": "CodeTalker",
-    "postponedBy": null,
+    "postponedBy": "Nigelmj21",
     "scheduledDate": "2026-06-02"
   },
   {
     "id": 1780352615359,
     "home": "XWRLD_REAPERS",
     "away": "ICONIC-CLUB",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-02"
-  },
-  {
-    "id": 1780352618698,
-    "home": "Ctaum-cpt",
-    "away": "YungboyShlime",
     "postponedBy": null,
     "scheduledDate": "2026-06-02"
   },
