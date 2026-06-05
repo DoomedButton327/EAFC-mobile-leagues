@@ -3,7 +3,7 @@
     "id": 1780352621360,
     "home": "DiliboL",
     "away": "SMANGALISO",
-    "postponedBy": "SMANGALISO",
+    "postponedBy": null,
     "scheduledDate": "2026-06-02"
   },
   {
@@ -18,13 +18,6 @@
     "home": "Nigelmj21",
     "away": "XWRLD_REAPERS",
     "postponedBy": "Nigelmj21",
-    "scheduledDate": "2026-06-04"
-  },
-  {
-    "id": 1780551657396,
-    "home": "Kloutt",
-    "away": "CodeTalker",
-    "postponedBy": null,
     "scheduledDate": "2026-06-04"
   }
 ]
