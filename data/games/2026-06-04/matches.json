@@ -1,5 +1,25 @@
 [
   {
+    "id": 1780636945142,
+    "home": "Kloutt",
+    "away": "CodeTalker",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-04"
+  },
+  {
+    "id": 1780636933106,
+    "uid": "c8e19793",
+    "loggedAt": "2026-06-05T05:22:06.547Z",
+    "home": "SMANGALISO",
+    "away": "Sailor",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-04"
+  },
+  {
     "id": 1780636914774,
     "uid": "86eb866c",
     "loggedAt": "2026-06-05T05:21:49.891Z",
