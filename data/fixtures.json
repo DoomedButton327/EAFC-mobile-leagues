@@ -7,20 +7,6 @@
     "scheduledDate": "2026-06-04"
   },
   {
-    "id": 1780636967136,
-    "home": "Ctaum-cpt",
-    "away": "Sailor",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-05"
-  },
-  {
-    "id": 1780636973858,
-    "home": "RoyalAM",
-    "away": "Nyali11",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-05"
-  },
-  {
     "id": 1780636973454,
     "home": "ICONIC-CLUB",
     "away": "YungboyShlime",
@@ -35,24 +21,17 @@
     "scheduledDate": "2026-06-05"
   },
   {
-    "id": 1780636970709,
-    "home": "Zan-Ten",
-    "away": "CodeTalker",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-05"
-  },
-  {
     "id": 1780636972362,
     "home": "Kloutt",
     "away": "Nigelmj21",
-    "postponedBy": "Nigelmj21",
+    "postponedBy": null,
     "scheduledDate": "2026-06-05"
   },
   {
     "id": 1780636970541,
     "home": "RFT07",
     "away": "CRANK_",
-    "postponedBy": null,
+    "postponedBy": "CRANK_",
     "scheduledDate": "2026-06-05"
   },
   {
