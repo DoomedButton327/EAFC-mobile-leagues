@@ -1,12 +1,5 @@
 [
   {
-    "id": 1780636973454,
-    "home": "ICONIC-CLUB",
-    "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-05"
-  },
-  {
     "id": 1780636972362,
     "home": "Kloutt",
     "away": "Nigelmj21",
@@ -18,13 +11,6 @@
     "home": "RFT07",
     "away": "CRANK_",
     "postponedBy": "CRANK_",
-    "scheduledDate": "2026-06-05"
-  },
-  {
-    "id": 1780636975612,
-    "home": "Bhaze",
-    "away": "SMANGALISO",
-    "postponedBy": null,
     "scheduledDate": "2026-06-05"
   }
 ]
