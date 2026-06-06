@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1780704772531,
+    "uid": "20566efb",
+    "loggedAt": "2026-06-06T00:12:51.502Z",
+    "home": "RoyalAM",
+    "away": "Nyali11",
+    "result": "home",
+    "homeGoals": 2,
+    "awayGoals": 0,
+    "date": "2026-06-05"
+  },
+  {
+    "id": 1780704758111,
+    "uid": "5663ef15",
+    "loggedAt": "2026-06-06T00:12:36.377Z",
+    "home": "Zan-Ten",
+    "away": "CodeTalker",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-05"
+  }
+]
