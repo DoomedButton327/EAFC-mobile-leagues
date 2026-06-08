@@ -185,15 +185,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 26,
+    "played": 27,
     "wins": 2,
     "draws": 13,
-    "losses": 11,
+    "losses": 12,
     "points": 19,
-    "gf": 4,
-    "ga": 30,
+    "gf": 5,
+    "ga": 32,
     "form": [
-      "L",
       "L",
       "D",
       "L",
@@ -202,7 +201,8 @@
       "D",
       "W",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -441,14 +441,16 @@
     "name": "Junaid",
     "username": "BreadNTea-RSA",
     "phone": "+27687182477",
-    "played": 0,
-    "wins": 0,
+    "played": 1,
+    "wins": 1,
     "draws": 0,
     "losses": 0,
-    "points": 0,
-    "gf": 0,
-    "ga": 0,
-    "form": [],
+    "points": 3,
+    "gf": 2,
+    "ga": 1,
+    "form": [
+      "W"
+    ],
     "postponements": 20,
     "suspended": false
   }
