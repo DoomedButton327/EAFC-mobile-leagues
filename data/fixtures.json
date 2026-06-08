@@ -1,29 +1,8 @@
 [
   {
-    "id": 1780636970541,
-    "home": "RFT07",
-    "away": "CRANK_",
-    "postponedBy": "CRANK_",
-    "scheduledDate": "2026-06-05"
-  },
-  {
-    "id": 1780891482041,
-    "home": "CRANK_",
-    "away": "RFT07",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-08"
-  },
-  {
     "id": 1780891481884,
     "home": "XWRLD_REAPERS",
     "away": "Sailor",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-08"
-  },
-  {
-    "id": 1780891483535,
-    "home": "Nyali11",
-    "away": "Kloutt",
     "postponedBy": null,
     "scheduledDate": "2026-06-08"
   },
