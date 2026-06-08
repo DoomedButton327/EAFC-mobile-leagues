@@ -1,17 +1,5 @@
 [
   {
-    "id": 1780953883909,
-    "uid": "46099246",
-    "loggedAt": "2026-06-08T21:24:37.843Z",
-    "home": "SMANGALISO",
-    "away": "Ctaum-cpt",
-    "result": "draw",
-    "homeGoals": 1,
-    "awayGoals": 1,
-    "date": "2026-06-06",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-06-06/images/match_SMANGALISO_vs_Ctaum-cpt_1780953875666.jpg"
-  },
-  {
     "id": 1780784558308,
     "home": "Sailor",
     "away": "DiliboL",
