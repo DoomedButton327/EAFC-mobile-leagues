@@ -185,15 +185,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 28,
+    "played": 29,
     "wins": 3,
-    "draws": 13,
+    "draws": 14,
     "losses": 12,
-    "points": 22,
+    "points": 23,
     "gf": 11,
     "ga": 32,
     "form": [
-      "D",
       "L",
       "D",
       "D",
@@ -202,7 +201,8 @@
       "D",
       "D",
       "L",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 20,
     "suspended": false
@@ -415,15 +415,14 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 28,
+    "played": 29,
     "wins": 11,
-    "draws": 9,
+    "draws": 10,
     "losses": 8,
-    "points": 42,
+    "points": 43,
     "gf": 28,
     "ga": 15,
     "form": [
-      "D",
       "W",
       "L",
       "D",
@@ -432,7 +431,8 @@
       "D",
       "D",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 7,
     "suspended": false
