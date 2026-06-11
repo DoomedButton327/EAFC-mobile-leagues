@@ -1,5 +1,32 @@
 [
   {
+    "id": 1781215438890,
+    "home": "SMANGALISO",
+    "away": "Sailor",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-09"
+  },
+  {
+    "id": 1781215438749,
+    "home": "DiliboL",
+    "away": "YungboyShlime",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-09"
+  },
+  {
+    "id": 1781215439413,
+    "home": "Nyali11",
+    "away": "RoyalAM",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-09"
+  },
+  {
     "id": 1781071765984,
     "uid": "013963d8",
     "loggedAt": "2026-06-10T06:09:16.137Z",
