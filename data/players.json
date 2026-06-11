@@ -22,22 +22,21 @@
       "D",
       "W"
     ],
-    "postponements": 17,
+    "postponements": 16,
     "suspended": false
   },
   {
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
-    "played": 25,
-    "wins": 20,
+    "played": 26,
+    "wins": 21,
     "draws": 2,
     "losses": 3,
-    "points": 62,
-    "gf": 60,
+    "points": 65,
+    "gf": 63,
     "ga": 14,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -46,7 +45,8 @@
       "W",
       "W",
       "L",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 12,
     "suspended": false
@@ -408,22 +408,21 @@
       "D",
       "D"
     ],
-    "postponements": 14,
+    "postponements": 13,
     "suspended": false
   },
   {
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 27,
+    "played": 28,
     "wins": 11,
     "draws": 9,
-    "losses": 7,
+    "losses": 8,
     "points": 42,
     "gf": 28,
-    "ga": 12,
+    "ga": 15,
     "form": [
-      "D",
       "D",
       "W",
       "L",
@@ -432,7 +431,8 @@
       "D",
       "D",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 7,
     "suspended": false
