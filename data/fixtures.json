@@ -3,13 +3,6 @@
     "id": 1781071226946,
     "home": "CRANK_",
     "away": "XWRLD_REAPERS",
-    "postponedBy": "CRANK_",
-    "scheduledDate": "2026-06-09"
-  },
-  {
-    "id": 1781071606378,
-    "home": "Ctaum-cpt",
-    "away": "BreadNTea-RSA",
     "postponedBy": null,
     "scheduledDate": "2026-06-09"
   },
@@ -17,7 +10,7 @@
     "id": 1781215569081,
     "home": "CRANK_",
     "away": "SMANGALISO",
-    "postponedBy": null,
+    "postponedBy": "SMANGALISO",
     "scheduledDate": "2026-06-12"
   },
   {
@@ -38,20 +31,13 @@
     "id": 1781215596551,
     "home": "RFT07",
     "away": "Nyali11",
-    "postponedBy": null,
+    "postponedBy": "RFT07",
     "scheduledDate": "2026-06-12"
   },
   {
     "id": 1781215605911,
     "home": "XWRLD_REAPERS",
     "away": "Bhaze",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-12"
-  },
-  {
-    "id": 1781215623708,
-    "home": "Kloutt",
-    "away": "Sailor",
     "postponedBy": null,
     "scheduledDate": "2026-06-12"
   },
