@@ -7,20 +7,6 @@
     "scheduledDate": "2026-06-12"
   },
   {
-    "id": 1781215580419,
-    "home": "RoyalAM",
-    "away": "ICONIC-CLUB",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-12"
-  },
-  {
-    "id": 1781215592242,
-    "home": "Zan-Ten",
-    "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-12"
-  },
-  {
     "id": 1781215596551,
     "home": "RFT07",
     "away": "Nyali11",
@@ -28,17 +14,10 @@
     "scheduledDate": "2026-06-12"
   },
   {
-    "id": 1781215605911,
-    "home": "XWRLD_REAPERS",
-    "away": "Bhaze",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-12"
-  },
-  {
     "id": 1781215632927,
     "home": "DiliboL",
     "away": "Nigelmj21",
-    "postponedBy": null,
+    "postponedBy": "Nigelmj21",
     "scheduledDate": "2026-06-12"
   }
 ]
