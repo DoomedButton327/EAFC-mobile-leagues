@@ -17,20 +17,13 @@
     "id": 1781215876152,
     "home": "Zan-Ten",
     "away": "BreadNTea-RSA",
-    "postponedBy": null,
+    "postponedBy": "BreadNTea-RSA",
     "scheduledDate": "2026-06-12"
   },
   {
     "id": 1781215869891,
     "home": "DiliboL",
     "away": "ICONIC-CLUB",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-12"
-  },
-  {
-    "id": 1781215872739,
-    "home": "SMANGALISO",
-    "away": "Nigelmj21",
     "postponedBy": null,
     "scheduledDate": "2026-06-12"
   },
