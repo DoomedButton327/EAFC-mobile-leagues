@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1781416182396,
+    "uid": "9dbc9549",
+    "loggedAt": "2026-06-14T05:49:40.216Z",
+    "home": "Ctaum-cpt",
+    "away": "CRANK_",
+    "result": "away",
+    "homeGoals": 2,
+    "awayGoals": 5,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416169742,
+    "uid": "73d0cf16",
+    "loggedAt": "2026-06-14T05:49:26.716Z",
+    "home": "SMANGALISO",
+    "away": "RFT07",
+    "result": "draw",
+    "homeGoals": 2,
+    "awayGoals": 2,
+    "date": "2026-06-13"
+  }
+]
