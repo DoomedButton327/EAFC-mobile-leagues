@@ -1,5 +1,65 @@
 [
   {
+    "id": 1781416245632,
+    "home": "XWRLD_REAPERS",
+    "away": "DARK-_-CEO",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416243591,
+    "home": "ICONIC-CLUB",
+    "away": "Kloutt",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416239280,
+    "home": "Zan-Ten",
+    "away": "RoyalAM",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416234054,
+    "uid": "85d60704",
+    "loggedAt": "2026-06-14T05:50:26.472Z",
+    "home": "Nigelmj21",
+    "away": "Bhaze",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416218628,
+    "uid": "db8c0867",
+    "loggedAt": "2026-06-14T05:50:12.912Z",
+    "home": "Nyali11",
+    "away": "DiliboL",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-13"
+  },
+  {
+    "id": 1781416198878,
+    "uid": "ee03e801",
+    "loggedAt": "2026-06-14T05:49:55.550Z",
+    "home": "YungboyShlime",
+    "away": "BreadNTea-RSA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-13"
+  },
+  {
     "id": 1781416182396,
     "uid": "9dbc9549",
     "loggedAt": "2026-06-14T05:49:40.216Z",
