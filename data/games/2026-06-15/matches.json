@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1781645038052,
+    "uid": "2b218d84",
+    "loggedAt": "2026-06-16T21:23:57.193Z",
+    "home": "ICONIC-CLUB",
+    "away": "BreadNTea-RSA",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "date": "2026-06-15"
+  },
+  {
+    "id": 1781645030415,
+    "uid": "c554b4bb",
+    "loggedAt": "2026-06-16T21:23:46.458Z",
+    "home": "XWRLD_REAPERS",
+    "away": "Ctaum-cpt",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-15"
+  },
+  {
+    "id": 1781645025259,
+    "uid": "54ab4c94",
+    "loggedAt": "2026-06-16T21:23:35.598Z",
+    "home": "RFT07",
+    "away": "Zan-Ten",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-15"
+  }
+]
