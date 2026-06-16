@@ -3,27 +3,13 @@
     "id": 1781644914310,
     "home": "Nigelmj21",
     "away": "SMANGALISO",
-    "postponedBy": null,
+    "postponedBy": "SMANGALISO",
     "scheduledDate": "2026-06-15"
   },
   {
     "id": 1781644922465,
     "home": "Kloutt",
     "away": "Bhaze",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-15"
-  },
-  {
-    "id": 1781644938242,
-    "home": "Nyali11",
-    "away": "CRANK_",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-15"
-  },
-  {
-    "id": 1781644959054,
-    "home": "ICONIC-CLUB",
-    "away": "BreadNTea-RSA",
     "postponedBy": null,
     "scheduledDate": "2026-06-15"
   },
@@ -38,20 +24,6 @@
     "id": 1781644975341,
     "home": "DARK-_-CEO",
     "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-15"
-  },
-  {
-    "id": 1781644987189,
-    "home": "RFT07",
-    "away": "Zan-Ten",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-15"
-  },
-  {
-    "id": 1781645004872,
-    "home": "XWRLD_REAPERS",
-    "away": "Ctaum-cpt",
     "postponedBy": null,
     "scheduledDate": "2026-06-15"
   }
