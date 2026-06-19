@@ -363,15 +363,14 @@
     "name": "DJ THABISO KOMAKO",
     "username": "Kloutt",
     "phone": "+27792135785",
-    "played": 32,
+    "played": 33,
     "wins": 1,
-    "draws": 15,
+    "draws": 16,
     "losses": 16,
-    "points": 18,
+    "points": 19,
     "gf": 1,
     "ga": 60,
     "form": [
-      "D",
       "D",
       "D",
       "D",
@@ -380,7 +379,8 @@
       "D",
       "D",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 16,
     "suspended": false
@@ -415,11 +415,11 @@
     "name": "XWRLD 🕴🏼",
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
-    "played": 32,
+    "played": 33,
     "wins": 11,
-    "draws": 11,
+    "draws": 12,
     "losses": 10,
-    "points": 44,
+    "points": 45,
     "gf": 28,
     "ga": 21,
     "form": [
@@ -427,12 +427,12 @@
       "D",
       "D",
       "D",
-      "D",
       "L",
       "D",
       "D",
       "L",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 7,
     "suspended": false
