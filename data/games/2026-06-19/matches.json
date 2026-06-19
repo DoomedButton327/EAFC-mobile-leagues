@@ -76,10 +76,11 @@
     "id": 1781844707911,
     "home": "Kloutt",
     "away": "XWRLD_REAPERS",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-06-19"
+    "date": "2026-06-19",
+    "editedAt": "2026-06-19T23:05:18.858Z"
   },
   {
     "id": 1781844535923,
