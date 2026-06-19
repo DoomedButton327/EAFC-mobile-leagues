@@ -107,15 +107,14 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 30,
+    "played": 31,
     "wins": 22,
     "draws": 4,
-    "losses": 4,
+    "losses": 5,
     "points": 70,
     "gf": 55,
-    "ga": 14,
+    "ga": 17,
     "form": [
-      "W",
       "D",
       "D",
       "L",
@@ -124,7 +123,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 8,
     "suspended": false
@@ -389,15 +389,14 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 31,
-    "wins": 10,
+    "played": 32,
+    "wins": 11,
     "draws": 11,
     "losses": 10,
-    "points": 41,
-    "gf": 33,
+    "points": 44,
+    "gf": 36,
     "ga": 29,
     "form": [
-      "D",
       "D",
       "W",
       "D",
@@ -406,7 +405,8 @@
       "L",
       "D",
       "L",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 12,
     "suspended": false
