@@ -285,15 +285,14 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 33,
+    "played": 34,
     "wins": 1,
     "draws": 18,
-    "losses": 14,
+    "losses": 15,
     "points": 21,
     "gf": 7,
-    "ga": 40,
+    "ga": 43,
     "form": [
-      "L",
       "D",
       "D",
       "L",
@@ -302,7 +301,8 @@
       "D",
       "D",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -464,16 +464,17 @@
     "name": "Nkosii",
     "username": "DARK-_-CEO",
     "phone": "+27832798832",
-    "played": 2,
-    "wins": 0,
+    "played": 3,
+    "wins": 1,
     "draws": 2,
     "losses": 0,
-    "points": 2,
-    "gf": 0,
+    "points": 5,
+    "gf": 3,
     "ga": 0,
     "form": [
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
