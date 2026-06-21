@@ -1,5 +1,27 @@
 [
   {
+    "id": 1782002966180,
+    "uid": "aa77d411",
+    "loggedAt": "2026-06-21T00:49:20.745Z",
+    "home": "DiliboL",
+    "away": "Nigelmj21",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-20"
+  },
+  {
+    "id": 1782002951673,
+    "uid": "af1fc404",
+    "loggedAt": "2026-06-21T00:49:08.384Z",
+    "home": "Bhaze",
+    "away": "DARK-_-CEO",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-20"
+  },
+  {
     "id": 1782002943633,
     "uid": "ccde5176",
     "loggedAt": "2026-06-21T00:48:58.926Z",
@@ -52,7 +74,8 @@
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 3,
-    "date": "2026-06-20"
+    "date": "2026-06-20",
+    "editedAt": "2026-06-21T00:49:48.085Z"
   },
   {
     "id": 1781910421331,
