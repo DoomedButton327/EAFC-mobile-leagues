@@ -1,5 +1,49 @@
 [
   {
+    "id": 1782002943633,
+    "uid": "ccde5176",
+    "loggedAt": "2026-06-21T00:48:58.926Z",
+    "home": "Nyali11",
+    "away": "RoyalAM",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-20"
+  },
+  {
+    "id": 1782002911984,
+    "uid": "f0c98bf4",
+    "loggedAt": "2026-06-21T00:48:30.484Z",
+    "home": "Kloutt",
+    "away": "CRANK_",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-20"
+  },
+  {
+    "id": 1782002904741,
+    "uid": "b48701a2",
+    "loggedAt": "2026-06-21T00:48:20.168Z",
+    "home": "Ctaum-cpt",
+    "away": "ICONIC-CLUB",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-20"
+  },
+  {
+    "id": 1782002901572,
+    "uid": "e28ccc6b",
+    "loggedAt": "2026-06-21T00:48:12.470Z",
+    "home": "SMANGALISO",
+    "away": "Zan-Ten",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-20"
+  },
+  {
     "id": 1782002886231,
     "uid": "9b43807e",
     "loggedAt": "2026-06-21T00:48:01.071Z",
