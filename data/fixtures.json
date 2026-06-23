@@ -1,23 +1,58 @@
 [
   {
-    "id": 1782116246569,
-    "home": "Kloutt",
-    "away": "DiliboL",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-22"
-  },
-  {
-    "id": 1782116240028,
-    "home": "Bhaze",
-    "away": "Zan-Ten",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-22"
-  },
-  {
     "id": 1782116238073,
     "home": "CRANK_",
     "away": "SMANGALISO",
     "postponedBy": "CRANK_",
     "scheduledDate": "2026-06-22"
+  },
+  {
+    "id": 1782192858121,
+    "home": "DARK-_-CEO",
+    "away": "RFT07",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192855913,
+    "home": "CRANK_",
+    "away": "Bhaze",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192859475,
+    "home": "RoyalAM",
+    "away": "DiliboL",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192859611,
+    "home": "ICONIC-CLUB",
+    "away": "Nyali11",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192856153,
+    "home": "SMANGALISO",
+    "away": "Kloutt",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192857629,
+    "home": "Nigelmj21",
+    "away": "YungboyShlime",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
+  },
+  {
+    "id": 1782192857440,
+    "home": "Ctaum-cpt",
+    "away": "Zan-Ten",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-23"
   }
 ]
