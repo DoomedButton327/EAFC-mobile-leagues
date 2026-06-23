@@ -14,17 +14,10 @@
     "scheduledDate": "2026-06-22"
   },
   {
-    "id": 1782116245699,
-    "home": "RoyalAM",
-    "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-06-22"
-  },
-  {
     "id": 1782116238073,
     "home": "CRANK_",
     "away": "SMANGALISO",
-    "postponedBy": null,
+    "postponedBy": "CRANK_",
     "scheduledDate": "2026-06-22"
   }
 ]
