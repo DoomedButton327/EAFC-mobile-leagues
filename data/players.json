@@ -3,15 +3,14 @@
     "name": "Reginald Frank Thornton",
     "username": "RFT07",
     "phone": "+27820658330",
-    "played": 30,
+    "played": 31,
     "wins": 21,
-    "draws": 4,
+    "draws": 5,
     "losses": 5,
-    "points": 67,
-    "gf": 65,
-    "ga": 25,
+    "points": 68,
+    "gf": 67,
+    "ga": 27,
     "form": [
-      "D",
       "W",
       "L",
       "L",
@@ -20,7 +19,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 16,
     "suspended": false
@@ -441,13 +441,13 @@
     "name": "Junaid",
     "username": "BreadNTea-RSA",
     "phone": "+27687182477",
-    "played": 9,
+    "played": 10,
     "wins": 8,
-    "draws": 1,
+    "draws": 2,
     "losses": 0,
-    "points": 25,
-    "gf": 18,
-    "ga": 5,
+    "points": 26,
+    "gf": 20,
+    "ga": 7,
     "form": [
       "W",
       "D",
@@ -457,7 +457,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "D"
     ],
     "postponements": 18,
     "suspended": false
