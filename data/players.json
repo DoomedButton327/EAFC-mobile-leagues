@@ -107,15 +107,14 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 33,
+    "played": 34,
     "wins": 21,
     "draws": 5,
-    "losses": 7,
+    "losses": 8,
     "points": 68,
     "gf": 52,
-    "ga": 23,
+    "ga": 26,
     "form": [
-      "W",
       "W",
       "W",
       "W",
@@ -124,6 +123,7 @@
       "L",
       "W",
       "D",
+      "L",
       "L"
     ],
     "postponements": 8,
@@ -467,12 +467,12 @@
     "name": "Nkosii",
     "username": "DARK-_-CEO",
     "phone": "+27832798832",
-    "played": 6,
-    "wins": 4,
+    "played": 7,
+    "wins": 5,
     "draws": 2,
     "losses": 0,
-    "points": 14,
-    "gf": 12,
+    "points": 17,
+    "gf": 15,
     "ga": 3,
     "form": [
       "D",
@@ -480,7 +480,8 @@
       "W",
       "W",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
