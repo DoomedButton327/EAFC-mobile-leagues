@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1782633549260,
+    "uid": "7cd17a66",
+    "loggedAt": "2026-06-28T07:59:01.235Z",
+    "home": "RFT07",
+    "away": "Zan-Ten",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-27"
+  },
+  {
+    "id": 1782633533330,
+    "uid": "8f8bf596",
+    "loggedAt": "2026-06-28T07:58:49.276Z",
+    "home": "Ctaum-cpt",
+    "away": "SMANGALISO",
+    "result": "home",
+    "homeGoals": 2,
+    "awayGoals": 1,
+    "date": "2026-06-27"
+  }
+]
