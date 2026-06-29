@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": 1782713967643,
+    "home": "Bhaze",
+    "away": "Kloutt",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713964251,
+    "home": "Nyali11",
+    "away": "YungboyShlime",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713971862,
+    "home": "RFT07",
+    "away": "DiliboL",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713963598,
+    "home": "DARK-_-CEO",
+    "away": "Zan-Ten",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713969863,
+    "home": "SMANGALISO",
+    "away": "BreadNTea-RSA",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713972373,
+    "home": "Ctaum-cpt",
+    "away": "RoyalAM",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  },
+  {
+    "id": 1782713969393,
+    "home": "CRANK_",
+    "away": "ICONIC-CLUB",
+    "postponedBy": null,
+    "scheduledDate": "2026-06-29"
+  }
+]
