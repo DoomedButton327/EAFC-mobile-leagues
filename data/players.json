@@ -29,12 +29,12 @@
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
-    "played": 36,
-    "wins": 29,
+    "played": 37,
+    "wins": 30,
     "draws": 4,
     "losses": 3,
-    "points": 91,
-    "gf": 93,
+    "points": 94,
+    "gf": 96,
     "ga": 16,
     "form": [
       "W",
@@ -42,9 +42,9 @@
       "W",
       "W",
       "W",
+      "D",
+      "D",
       "W",
-      "D",
-      "D",
       "W",
       "W"
     ],
@@ -337,15 +337,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 37,
+    "played": 38,
     "wins": 16,
     "draws": 6,
-    "losses": 15,
+    "losses": 16,
     "points": 54,
     "gf": 49,
-    "ga": 32,
+    "ga": 35,
     "form": [
-      "L",
       "W",
       "L",
       "D",
@@ -354,7 +353,8 @@
       "L",
       "L",
       "D",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -382,7 +382,7 @@
       "D",
       "D"
     ],
-    "postponements": 15,
+    "postponements": 14,
     "suspended": false
   },
   {
