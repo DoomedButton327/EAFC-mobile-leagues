@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1782856155781,
+    "uid": "7c5afe8a",
+    "loggedAt": "2026-06-30T21:49:14.145Z",
+    "home": "BreadNTea-RSA",
+    "away": "YungboyShlime",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-30"
+  },
+  {
+    "id": 1782856129664,
+    "uid": "26d9f98b",
+    "loggedAt": "2026-06-30T21:48:49.656Z",
+    "home": "DARK-_-CEO",
+    "away": "Ctaum-cpt",
+    "result": "draw",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "date": "2026-06-30"
+  }
+]
