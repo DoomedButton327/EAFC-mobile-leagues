@@ -1,5 +1,58 @@
 [
   {
+    "id": 1782797703645,
+    "home": "Bhaze",
+    "away": "Kloutt",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-06-29"
+  },
+  {
+    "id": 1782797694249,
+    "uid": "6a92b166",
+    "loggedAt": "2026-06-30T05:34:51.613Z",
+    "home": "SMANGALISO",
+    "away": "BreadNTea-RSA",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-29"
+  },
+  {
+    "id": 1782797684265,
+    "uid": "aa3f8964",
+    "loggedAt": "2026-06-30T05:34:41.012Z",
+    "home": "Ctaum-cpt",
+    "away": "RoyalAM",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-29"
+  },
+  {
+    "id": 1782797647180,
+    "uid": "a5166cf9",
+    "loggedAt": "2026-06-30T05:33:57.839Z",
+    "home": "RFT07",
+    "away": "DiliboL",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-29"
+  },
+  {
+    "id": 1782797626757,
+    "uid": "0dd14695",
+    "loggedAt": "2026-06-30T05:33:43.267Z",
+    "home": "CRANK_",
+    "away": "ICONIC-CLUB",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-29"
+  },
+  {
     "id": 1782797610783,
     "uid": "02f2a3ad",
     "loggedAt": "2026-06-30T05:33:29.157Z",
