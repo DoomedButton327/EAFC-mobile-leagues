@@ -1,12 +1,5 @@
 [
   {
-    "id": 1782856125588,
-    "home": "Kloutt",
-    "away": "RFT07",
-    "postponedBy": "Kloutt",
-    "scheduledDate": "2026-06-30"
-  },
-  {
     "id": 1782944118171,
     "home": "Kloutt",
     "away": "DiliboL",
@@ -31,7 +24,7 @@
     "id": 1782944117593,
     "home": "CRANK_",
     "away": "SMANGALISO",
-    "postponedBy": null,
+    "postponedBy": "SMANGALISO",
     "scheduledDate": "2026-07-02"
   },
   {
