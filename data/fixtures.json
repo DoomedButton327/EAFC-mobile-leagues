@@ -7,13 +7,6 @@
     "scheduledDate": "2026-07-02"
   },
   {
-    "id": 1783062765553,
-    "home": "Nyali11",
-    "away": "RFT07",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-03"
-  },
-  {
     "id": 1783062771867,
     "home": "RoyalAM",
     "away": "SMANGALISO",
@@ -21,23 +14,9 @@
     "scheduledDate": "2026-07-03"
   },
   {
-    "id": 1783062769636,
-    "home": "BreadNTea-RSA",
-    "away": "ICONIC-CLUB",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-03"
-  },
-  {
     "id": 1783062766308,
     "home": "Zan-Ten",
     "away": "Ctaum-cpt",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-03"
-  },
-  {
-    "id": 1783062767751,
-    "home": "DiliboL",
-    "away": "CRANK_",
     "postponedBy": null,
     "scheduledDate": "2026-07-03"
   },
