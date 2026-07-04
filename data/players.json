@@ -81,15 +81,14 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 35,
+    "played": 36,
     "wins": 7,
     "draws": 10,
-    "losses": 18,
+    "losses": 19,
     "points": 31,
     "gf": 19,
-    "ga": 54,
+    "ga": 57,
     "form": [
-      "D",
       "L",
       "D",
       "L",
@@ -98,7 +97,8 @@
       "L",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -107,15 +107,14 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 37,
+    "played": 38,
     "wins": 21,
-    "draws": 7,
+    "draws": 8,
     "losses": 9,
-    "points": 70,
+    "points": 71,
     "gf": 52,
     "ga": 29,
     "form": [
-      "W",
       "L",
       "L",
       "W",
@@ -124,7 +123,8 @@
       "L",
       "D",
       "D",
-      "L"
+      "L",
+      "D"
     ],
     "postponements": 8,
     "suspended": false
@@ -211,15 +211,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 37,
+    "played": 38,
     "wins": 4,
     "draws": 18,
-    "losses": 15,
+    "losses": 16,
     "points": 30,
     "gf": 14,
-    "ga": 48,
+    "ga": 51,
     "form": [
-      "D",
       "L",
       "L",
       "D",
@@ -228,7 +227,8 @@
       "D",
       "L",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 18,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 42,
-    "wins": 24,
+    "played": 43,
+    "wins": 25,
     "draws": 6,
     "losses": 12,
-    "points": 78,
-    "gf": 87,
+    "points": 81,
+    "gf": 90,
     "ga": 36,
     "form": [
-      "W",
       "L",
       "W",
       "L",
@@ -254,7 +253,8 @@
       "W",
       "W",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -285,15 +285,14 @@
     "name": "Sibusiso Makhanye❤️😎🇿🇦",
     "username": "YungboyShlime",
     "phone": "+27810878650",
-    "played": 41,
+    "played": 42,
     "wins": 1,
-    "draws": 21,
+    "draws": 22,
     "losses": 19,
-    "points": 24,
+    "points": 25,
     "gf": 7,
     "ga": 57,
     "form": [
-      "D",
       "L",
       "L",
       "D",
@@ -302,6 +301,7 @@
       "L",
       "L",
       "L",
+      "D",
       "D"
     ],
     "postponements": 20,
@@ -389,15 +389,14 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 35,
-    "wins": 12,
+    "played": 36,
+    "wins": 13,
     "draws": 13,
     "losses": 10,
-    "points": 49,
-    "gf": 42,
+    "points": 52,
+    "gf": 45,
     "ga": 33,
     "form": [
-      "L",
       "D",
       "D",
       "L",
@@ -406,9 +405,10 @@
       "D",
       "W",
       "D",
-      "L"
+      "L",
+      "W"
     ],
-    "postponements": 11,
+    "postponements": 10,
     "suspended": false
   },
   {
