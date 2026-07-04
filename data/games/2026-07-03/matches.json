@@ -1,5 +1,36 @@
 [
   {
+    "id": 1783148349464,
+    "home": "Nigelmj21",
+    "away": "YungboyShlime",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-03"
+  },
+  {
+    "id": 1783148342487,
+    "uid": "36f87d4a",
+    "loggedAt": "2026-07-04T06:58:58.182Z",
+    "home": "Zan-Ten",
+    "away": "Ctaum-cpt",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-03"
+  },
+  {
+    "id": 1783148316848,
+    "uid": "29be67cb",
+    "loggedAt": "2026-07-04T06:58:33.469Z",
+    "home": "RoyalAM",
+    "away": "SMANGALISO",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-03"
+  },
+  {
     "id": 1783148277047,
     "uid": "aa37b241",
     "loggedAt": "2026-07-04T06:57:52.577Z",
