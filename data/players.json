@@ -185,15 +185,14 @@
     "name": "Thandobhaze",
     "username": "Bhaze",
     "phone": "+27679687240",
-    "played": 37,
-    "wins": 3,
+    "played": 38,
+    "wins": 4,
     "draws": 19,
     "losses": 15,
-    "points": 28,
-    "gf": 12,
+    "points": 31,
+    "gf": 13,
     "ga": 41,
     "form": [
-      "L",
       "D",
       "L",
       "L",
@@ -202,7 +201,8 @@
       "D",
       "D",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 20,
     "suspended": false
@@ -467,15 +467,14 @@
     "name": "Nkosii",
     "username": "DARK-_-CEO",
     "phone": "+27832798832",
-    "played": 10,
+    "played": 11,
     "wins": 6,
     "draws": 4,
-    "losses": 0,
+    "losses": 1,
     "points": 22,
     "gf": 19,
-    "ga": 4,
+    "ga": 5,
     "form": [
-      "D",
       "W",
       "W",
       "W",
@@ -484,7 +483,8 @@
       "W",
       "D",
       "W",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
