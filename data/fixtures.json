@@ -7,17 +7,59 @@
     "scheduledDate": "2026-07-04"
   },
   {
-    "id": 1783322922537,
-    "home": "RoyalAM",
-    "away": "Bhaze",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-06"
-  },
-  {
     "id": 1783322922194,
     "home": "CRANK_",
     "away": "RFT07",
     "postponedBy": "RFT07",
     "scheduledDate": "2026-07-06"
+  },
+  {
+    "id": 1783378957120,
+    "home": "Kloutt",
+    "away": "DARK-_-CEO",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378950087,
+    "home": "Nigelmj21",
+    "away": "Bhaze",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378953044,
+    "home": "YungboyShlime",
+    "away": "SMANGALISO",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378951286,
+    "home": "BreadNTea-RSA",
+    "away": "CRANK_",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378950381,
+    "home": "Ctaum-cpt",
+    "away": "Nyali11",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378950680,
+    "home": "ICONIC-CLUB",
+    "away": "DiliboL",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
+  },
+  {
+    "id": 1783378954031,
+    "home": "Zan-Ten",
+    "away": "RFT07",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-07"
   }
 ]
