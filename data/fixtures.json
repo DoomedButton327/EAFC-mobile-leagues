@@ -3,7 +3,7 @@
     "id": 1782944117593,
     "home": "CRANK_",
     "away": "SMANGALISO",
-    "postponedBy": "SMANGALISO",
+    "postponedBy": null,
     "scheduledDate": "2026-07-02"
   },
   {
@@ -45,7 +45,7 @@
     "id": 1783322922194,
     "home": "CRANK_",
     "away": "RFT07",
-    "postponedBy": null,
+    "postponedBy": "RFT07",
     "scheduledDate": "2026-07-06"
   },
   {
