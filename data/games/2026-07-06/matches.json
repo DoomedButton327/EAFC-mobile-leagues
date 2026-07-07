@@ -41,10 +41,11 @@
     "loggedAt": "2026-07-06T23:01:47.486Z",
     "home": "Kloutt",
     "away": "Nyali11",
-    "result": "away",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 3,
-    "date": "2026-07-06"
+    "awayGoals": 0,
+    "date": "2026-07-06",
+    "editedAt": "2026-07-07T11:32:56.203Z"
   },
   {
     "id": 1783378740211,
