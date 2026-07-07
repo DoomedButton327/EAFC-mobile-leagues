@@ -30,7 +30,8 @@
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 3,
-    "date": "2026-05-12"
+    "date": "2026-05-12",
+    "editedAt": "2026-07-07T12:45:54.547Z"
   },
   {
     "id": 1778653380178,
@@ -52,7 +53,8 @@
     "result": "away",
     "homeGoals": 0,
     "awayGoals": 3,
-    "date": "2026-05-12"
+    "date": "2026-05-12",
+    "editedAt": "2026-07-07T12:45:55.796Z"
   },
   {
     "id": 1778653255147,
