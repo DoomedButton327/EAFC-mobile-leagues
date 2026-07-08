@@ -1,34 +1,37 @@
 [
   {
-    "id": 1783508559898,
-    "uid": "c9757abd",
-    "loggedAt": "2026-07-08T11:02:30.051Z",
-    "home": "Zan-Ten",
-    "away": "RFT07",
-    "result": "away",
+    "id": 1783554475574,
+    "home": "ICONIC-CLUB",
+    "away": "DiliboL",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 3,
+    "awayGoals": 0,
     "date": "2026-07-07"
   },
   {
-    "id": 1783508544055,
-    "uid": "9973d566",
-    "loggedAt": "2026-07-08T11:02:19.346Z",
-    "home": "BreadNTea-RSA",
-    "away": "CRANK_",
-    "result": "away",
+    "id": 1783554473618,
+    "home": "YungboyShlime",
+    "away": "SMANGALISO",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 1,
+    "awayGoals": 0,
     "date": "2026-07-07"
   },
   {
-    "id": 1783508483286,
-    "uid": "d5c5e76f",
-    "loggedAt": "2026-07-08T11:01:21.131Z",
-    "home": "Ctaum-cpt",
-    "away": "Nyali11",
-    "result": "home",
-    "homeGoals": 1,
+    "id": 1783554469189,
+    "home": "Nigelmj21",
+    "away": "Bhaze",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-07"
+  },
+  {
+    "id": 1783554477701,
+    "home": "Kloutt",
+    "away": "DARK-_-CEO",
+    "result": "draw",
+    "homeGoals": 0,
     "awayGoals": 0,
     "date": "2026-07-07"
   }
