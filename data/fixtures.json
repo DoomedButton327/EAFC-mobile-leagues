@@ -7,20 +7,6 @@
     "scheduledDate": "2026-07-09"
   },
   {
-    "id": 1783753178420,
-    "home": "Nyali11",
-    "away": "Nigelmj21",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-10"
-  },
-  {
-    "id": 1783753196063,
-    "home": "BreadNTea-RSA",
-    "away": "Bhaze",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-10"
-  },
-  {
     "id": 1783753204802,
     "home": "DiliboL",
     "away": "Kloutt",
@@ -45,14 +31,7 @@
     "id": 1783753236015,
     "home": "ICONIC-CLUB",
     "away": "SMANGALISO",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-10"
-  },
-  {
-    "id": 1783753250423,
-    "home": "RoyalAM",
-    "away": "Ctaum-cpt",
-    "postponedBy": null,
+    "postponedBy": "SMANGALISO",
     "scheduledDate": "2026-07-10"
   }
 ]
