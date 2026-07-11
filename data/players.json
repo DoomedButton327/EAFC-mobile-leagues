@@ -48,7 +48,7 @@
       "W",
       "D"
     ],
-    "postponements": 11,
+    "postponements": 10,
     "suspended": false
   },
   {
@@ -107,15 +107,14 @@
     "name": "El Tigre",
     "username": "Nigelmj21",
     "phone": "+27656657141",
-    "played": 40,
-    "wins": 21,
+    "played": 41,
+    "wins": 22,
     "draws": 11,
     "losses": 8,
-    "points": 74,
-    "gf": 52,
+    "points": 77,
+    "gf": 54,
     "ga": 26,
     "form": [
-      "W",
       "D",
       "L",
       "D",
@@ -124,7 +123,8 @@
       "D",
       "D",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 8,
     "suspended": false
@@ -211,23 +211,23 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 40,
+    "played": 41,
     "wins": 4,
     "draws": 19,
-    "losses": 17,
+    "losses": 18,
     "points": 31,
     "gf": 14,
-    "ga": 54,
+    "ga": 57,
     "form": [
       "D",
       "D",
       "D",
       "D",
-      "D",
       "L",
       "D",
       "L",
       "D",
+      "L",
       "L"
     ],
     "postponements": 18,
@@ -237,21 +237,21 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 44,
-    "wins": 26,
+    "played": 45,
+    "wins": 27,
     "draws": 6,
     "losses": 12,
-    "points": 84,
-    "gf": 92,
+    "points": 87,
+    "gf": 95,
     "ga": 37,
     "form": [
-      "W",
       "L",
       "W",
       "W",
       "W",
       "D",
       "D",
+      "W",
       "W",
       "W",
       "W"
@@ -337,15 +337,14 @@
     "name": "Mk Liyas",
     "username": "Nyali11",
     "phone": "+27786218748",
-    "played": 43,
+    "played": 44,
     "wins": 17,
     "draws": 8,
-    "losses": 18,
+    "losses": 19,
     "points": 59,
     "gf": 52,
-    "ga": 37,
+    "ga": 39,
     "form": [
-      "L",
       "L",
       "D",
       "W",
@@ -354,7 +353,8 @@
       "L",
       "D",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -408,7 +408,7 @@
       "L",
       "D"
     ],
-    "postponements": 8,
+    "postponements": 7,
     "suspended": false
   },
   {
