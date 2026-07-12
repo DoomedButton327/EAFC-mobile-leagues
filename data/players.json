@@ -29,15 +29,14 @@
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
-    "played": 41,
-    "wins": 33,
+    "played": 42,
+    "wins": 34,
     "draws": 5,
     "losses": 3,
-    "points": 104,
-    "gf": 103,
-    "ga": 16,
+    "points": 107,
+    "gf": 105,
+    "ga": 17,
     "form": [
-      "W",
       "D",
       "D",
       "W",
@@ -46,7 +45,8 @@
       "W",
       "W",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 10,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 45,
+    "played": 46,
     "wins": 27,
     "draws": 6,
-    "losses": 12,
+    "losses": 13,
     "points": 87,
-    "gf": 95,
-    "ga": 37,
+    "gf": 96,
+    "ga": 39,
     "form": [
-      "L",
       "W",
       "W",
       "W",
@@ -254,7 +253,8 @@
       "W",
       "W",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
