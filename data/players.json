@@ -4,11 +4,11 @@
     "username": "RFT07",
     "phone": "+27820658330",
     "played": 42,
-    "wins": 29,
-    "draws": 8,
+    "wins": 30,
+    "draws": 7,
     "losses": 5,
-    "points": 95,
-    "gf": 90,
+    "points": 97,
+    "gf": 93,
     "ga": 30,
     "form": [
       "W",
@@ -18,7 +18,7 @@
       "W",
       "W",
       "D",
-      "D",
+      "W",
       "W",
       "W"
     ],
@@ -365,11 +365,11 @@
     "phone": "+27792135785",
     "played": 43,
     "wins": 2,
-    "draws": 23,
-    "losses": 18,
-    "points": 29,
+    "draws": 22,
+    "losses": 19,
+    "points": 28,
     "gf": 4,
-    "ga": 66,
+    "ga": 69,
     "form": [
       "D",
       "D",
@@ -380,7 +380,7 @@
       "D",
       "D",
       "D",
-      "D"
+      "L"
     ],
     "postponements": 14,
     "suspended": false
