@@ -15,7 +15,8 @@
     "result": "draw",
     "homeGoals": 0,
     "awayGoals": 0,
-    "date": "2026-07-11"
+    "date": "2026-07-11",
+    "editedAt": "2026-07-14T21:55:46.029Z"
   },
   {
     "id": 1783897194985,
@@ -44,7 +45,8 @@
     "result": "away",
     "homeGoals": 1,
     "awayGoals": 2,
-    "date": "2026-07-11"
+    "date": "2026-07-11",
+    "editedAt": "2026-07-14T21:55:08.101Z"
   },
   {
     "id": 1783897153348,
