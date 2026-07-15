@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1784155301110,
+    "uid": "f0e4b9f3",
+    "loggedAt": "2026-07-15T22:41:33.822Z",
+    "home": "Ctaum-cpt",
+    "away": "BreadNTea-RSA",
+    "result": "draw",
+    "homeGoals": 1,
+    "awayGoals": 1,
+    "date": "2026-07-14"
+  },
+  {
+    "id": 1784155292901,
+    "uid": "edb04356",
+    "loggedAt": "2026-07-15T22:41:23.691Z",
+    "home": "Bhaze",
+    "away": "SMANGALISO",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "date": "2026-07-14"
+  }
+]
