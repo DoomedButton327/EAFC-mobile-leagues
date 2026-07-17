@@ -23,10 +23,11 @@
     "loggedAt": "2026-06-23T05:33:10.673Z",
     "home": "RFT07",
     "away": "Nigelmj21",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-06-22"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-22",
+    "editedAt": "2026-07-17T09:14:17.574Z"
   },
   {
     "id": 1782192771630,
