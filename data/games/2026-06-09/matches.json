@@ -26,10 +26,11 @@
     "id": 1781215438890,
     "home": "SMANGALISO",
     "away": "Sailor",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-06-09"
+    "date": "2026-06-09",
+    "editedAt": "2026-07-17T09:17:19.506Z"
   },
   {
     "id": 1781215438749,
