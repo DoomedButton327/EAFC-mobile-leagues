@@ -40,10 +40,11 @@
     "id": 1778132333999,
     "home": "RoyalAM",
     "away": "djronaldoza",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-06"
+    "date": "2026-05-06",
+    "editedAt": "2026-07-17T09:15:24.331Z"
   },
   {
     "id": 1778132330970,
