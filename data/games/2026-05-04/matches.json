@@ -27,11 +27,10 @@
     "id": 1777954490980,
     "home": "CodeTalker",
     "away": "Sailor",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-05-04",
-    "editedAt": "2026-07-17T09:20:00.399Z"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-05-04"
   },
   {
     "id": 1777925895100,
@@ -69,7 +68,7 @@
     "awayGoals": 0,
     "date": "2026-05-04",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Nigelmj21_vs_RFT07_1777921388325.jpg",
-    "editedAt": "2026-07-17T09:07:04.680Z"
+    "editedAt": "2026-05-04T20:16:49.691Z"
   },
   {
     "id": 1777919274045,
@@ -102,9 +101,9 @@
     "loggedAt": "2026-05-04T18:26:54.422Z",
     "home": "Gillie11",
     "away": "Bhaze",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 1,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-04",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Gillie11_vs_Bhaze_1777919210755.jpg",
     "editedAt": "2026-05-08T16:36:27.110Z"
