@@ -5,10 +5,11 @@
     "loggedAt": "2026-06-27T04:40:50.397Z",
     "home": "DARK-_-CEO",
     "away": "RFT07",
-    "result": "draw",
-    "homeGoals": 2,
-    "awayGoals": 2,
-    "date": "2026-06-23"
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-23",
+    "editedAt": "2026-07-17T09:09:45.359Z"
   },
   {
     "id": 1782482051111,
@@ -16,10 +17,11 @@
     "loggedAt": "2026-06-26T13:54:10.651Z",
     "home": "DARK-_-CEO",
     "away": "RFT07",
-    "result": "draw",
-    "homeGoals": 2,
-    "awayGoals": 2,
-    "date": "2026-06-23"
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-06-23",
+    "editedAt": "2026-07-17T09:09:51.045Z"
   },
   {
     "id": 1782482013187,
