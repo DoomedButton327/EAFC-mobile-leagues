@@ -54,10 +54,11 @@
     "loggedAt": "2026-05-15T05:21:22.470Z",
     "home": "Sailor",
     "away": "DiliboL",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-05-14"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-05-14",
+    "editedAt": "2026-07-17T09:21:06.478Z"
   },
   {
     "id": 1778822446486,
