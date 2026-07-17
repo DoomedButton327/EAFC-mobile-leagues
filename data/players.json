@@ -1,31 +1,5 @@
 [
   {
-    "name": "Reginald Frank Thornton",
-    "username": "RFT07",
-    "phone": "+27820658330",
-    "played": 44,
-    "wins": 0,
-    "draws": 0,
-    "losses": 44,
-    "points": 0,
-    "gf": 0,
-    "ga": 132,
-    "form": [
-      "L",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L",
-      "L"
-    ],
-    "postponements": 14,
-    "suspended": false
-  },
-  {
     "name": "Moosa",
     "username": "CRANK_",
     "phone": "+27699906125",
