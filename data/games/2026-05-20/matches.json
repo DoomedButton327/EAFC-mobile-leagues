@@ -52,8 +52,7 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-20",
-    "editedAt": "2026-07-17T09:19:27.867Z"
+    "date": "2026-05-20"
   },
   {
     "id": 1779423063273,
@@ -113,8 +112,8 @@
     "id": 1779322774430,
     "home": "ICONIC-CLUB",
     "away": "CodeTalker",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-20"
   }
