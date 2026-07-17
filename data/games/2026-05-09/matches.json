@@ -8,8 +8,7 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-09",
-    "editedAt": "2026-07-17T09:16:15.318Z"
+    "date": "2026-05-09"
   },
   {
     "id": 1778653265792,
@@ -41,9 +40,9 @@
     "loggedAt": "2026-05-11T20:09:38.058Z",
     "home": "Gillie11",
     "away": "Ctaum-cpt",
-    "result": "home",
-    "homeGoals": 2,
-    "awayGoals": 1,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-09",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-09/images/match_Gillie11_vs_Ctaum-cpt_1778530174617.jpg",
     "editedAt": "2026-07-07T12:45:51.312Z"
