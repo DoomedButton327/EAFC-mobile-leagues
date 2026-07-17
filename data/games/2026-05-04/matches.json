@@ -63,12 +63,12 @@
     "loggedAt": "2026-05-04T19:03:11.146Z",
     "home": "Nigelmj21",
     "away": "RFT07",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 1,
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
     "date": "2026-05-04",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-04/images/match_Nigelmj21_vs_RFT07_1777921388325.jpg",
-    "editedAt": "2026-05-04T20:16:49.691Z"
+    "editedAt": "2026-07-17T09:07:04.680Z"
   },
   {
     "id": 1777919274045,
