@@ -16,8 +16,8 @@
     "loggedAt": "2026-05-24T18:11:33.895Z",
     "home": "DiliboL",
     "away": "CodeTalker",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-23",
     "editedAt": "2026-05-24T18:12:26.288Z"
@@ -77,7 +77,7 @@
     "homeGoals": 0,
     "awayGoals": 3,
     "date": "2026-05-23",
-    "editedAt": "2026-07-17T09:08:08.312Z"
+    "editedAt": "2026-06-21T00:50:08.014Z"
   },
   {
     "id": 1779646195472,
