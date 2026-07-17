@@ -52,10 +52,11 @@
     "loggedAt": "2026-06-28T07:59:01.235Z",
     "home": "RFT07",
     "away": "Zan-Ten",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-06-27"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-27",
+    "editedAt": "2026-07-17T09:09:57.372Z"
   },
   {
     "id": 1782633533330,
