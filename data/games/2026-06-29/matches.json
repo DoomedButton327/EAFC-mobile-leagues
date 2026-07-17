@@ -46,10 +46,11 @@
     "loggedAt": "2026-06-30T05:33:57.839Z",
     "home": "RFT07",
     "away": "DiliboL",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-06-29"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-06-29",
+    "editedAt": "2026-07-17T09:10:03.823Z"
   },
   {
     "id": 1782797626757,
