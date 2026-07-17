@@ -74,12 +74,12 @@
     "loggedAt": "2026-05-13T20:21:22.168Z",
     "home": "RFT07",
     "away": "CodeTalker",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
     "date": "2026-05-13",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_RFT07_vs_CodeTalker_1778703679617.jpg",
-    "editedAt": "2026-07-17T09:07:43.415Z"
+    "editedAt": "2026-06-21T00:49:58.609Z"
   },
   {
     "id": 1778703628867,
@@ -91,8 +91,7 @@
     "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-13",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Bhaze_vs_djronaldoza_1778703621523.jpg",
-    "editedAt": "2026-07-17T09:16:07.463Z"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-13/images/match_Bhaze_vs_djronaldoza_1778703621523.jpg"
   },
   {
     "id": 1778671215405,
@@ -103,7 +102,6 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-13",
-    "editedAt": "2026-07-17T09:16:02.232Z"
+    "date": "2026-05-13"
   }
 ]
