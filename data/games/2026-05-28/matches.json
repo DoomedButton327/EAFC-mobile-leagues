@@ -59,10 +59,11 @@
     "id": 1780036139544,
     "home": "Sailor",
     "away": "XWRLD_REAPERS",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-05-28"
+    "awayGoals": 3,
+    "date": "2026-05-28",
+    "editedAt": "2026-07-17T09:18:14.936Z"
   },
   {
     "id": 1780036059913,
