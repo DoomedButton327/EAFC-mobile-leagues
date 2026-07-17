@@ -15,10 +15,11 @@
     "id": 1780784558308,
     "home": "Sailor",
     "away": "DiliboL",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-06-06"
+    "awayGoals": 3,
+    "date": "2026-06-06",
+    "editedAt": "2026-07-17T09:17:23.770Z"
   },
   {
     "id": 1780784559282,
