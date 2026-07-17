@@ -28,14 +28,14 @@
     "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-24",
-    "editedAt": "2026-07-17T09:08:12.223Z"
+    "editedAt": "2026-06-21T00:50:13.236Z"
   },
   {
     "id": 1779751573114,
     "home": "RoyalAM",
     "away": "CodeTalker",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-24"
   },
@@ -73,8 +73,7 @@
     "homeGoals": 0,
     "awayGoals": 3,
     "date": "2026-05-24",
-    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Sailor_vs_Nyali11_1779751465556.jpg",
-    "editedAt": "2026-07-17T09:19:13.024Z"
+    "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-24/images/match_Sailor_vs_Nyali11_1779751465556.jpg"
   },
   {
     "id": 1779751411657,
