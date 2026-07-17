@@ -18,9 +18,9 @@
     "loggedAt": "2026-05-09T21:24:34.459Z",
     "home": "Gillie11",
     "away": "DiliboL",
-    "result": "draw",
-    "homeGoals": 1,
-    "awayGoals": 1,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-06",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_Gillie11_vs_DiliboL_1778361872070.jpg"
   },
@@ -43,8 +43,7 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-06",
-    "editedAt": "2026-07-17T09:15:24.331Z"
+    "date": "2026-05-06"
   },
   {
     "id": 1778132330970,
@@ -79,7 +78,7 @@
     "awayGoals": 0,
     "date": "2026-05-06",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_RFT07_vs_Sailor_1778132130131.jpg",
-    "editedAt": "2026-07-17T09:20:43.091Z"
+    "editedAt": "2026-06-21T00:49:51.867Z"
   },
   {
     "id": 1778132001148,
@@ -100,9 +99,9 @@
     "loggedAt": "2026-05-07T05:32:52.379Z",
     "home": "CodeTalker",
     "away": "SMANGALISO",
-    "result": "home",
-    "homeGoals": 1,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-06",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_CodeTalker_vs_SMANGALISO_1778131969334.jpg",
     "editedAt": "2026-05-12T15:43:57.483Z"
