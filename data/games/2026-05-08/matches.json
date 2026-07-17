@@ -69,7 +69,7 @@
     "awayGoals": 3,
     "date": "2026-05-08",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_RFT07_vs_Ctaum-cpt_1778309583419.jpg",
-    "editedAt": "2026-07-17T09:07:26.866Z"
+    "editedAt": "2026-07-07T12:45:49.678Z"
   },
   {
     "id": 1778261343524,
@@ -77,8 +77,8 @@
     "loggedAt": "2026-05-08T17:29:01.809Z",
     "home": "Nyali11",
     "away": "CodeTalker",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-08",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-08/images/match_Nyali11_vs_CodeTalker_1778261338609.jpeg"
