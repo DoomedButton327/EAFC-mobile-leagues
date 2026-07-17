@@ -66,9 +66,9 @@
     "loggedAt": "2026-05-12T05:09:04.200Z",
     "home": "Bhaze",
     "away": "CodeTalker",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
     "date": "2026-05-11"
   },
   {
@@ -82,6 +82,6 @@
     "awayGoals": 0,
     "date": "2026-05-11",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-11/images/match_SMANGALISO_vs_Sailor_1778530097616.jpg",
-    "editedAt": "2026-07-17T09:19:38.072Z"
+    "editedAt": "2026-05-12T15:43:49.702Z"
   }
 ]
