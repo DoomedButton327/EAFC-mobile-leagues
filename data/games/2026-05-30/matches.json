@@ -33,10 +33,11 @@
     "id": 1780178174806,
     "home": "Sailor",
     "away": "RoyalAM",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-05-30"
+    "awayGoals": 3,
+    "date": "2026-05-30",
+    "editedAt": "2026-07-17T09:17:45.962Z"
   },
   {
     "id": 1780178138242,
