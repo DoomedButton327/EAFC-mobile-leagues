@@ -5,10 +5,11 @@
     "loggedAt": "2026-05-13T11:20:41.307Z",
     "home": "Bhaze",
     "away": "djronaldoza",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
-    "date": "2026-05-09"
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-05-09",
+    "editedAt": "2026-07-17T09:16:15.318Z"
   },
   {
     "id": 1778653265792,
