@@ -43,7 +43,7 @@
     "awayGoals": 0,
     "date": "2026-05-29",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-29/images/match_Ctaum-cpt_vs_RFT07_1780094211849.jpg",
-    "editedAt": "2026-07-17T09:08:31.691Z"
+    "editedAt": "2026-06-21T00:50:18.263Z"
   },
   {
     "id": 1780094120733,
@@ -62,15 +62,14 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-29",
-    "editedAt": "2026-07-17T09:18:04.362Z"
+    "date": "2026-05-29"
   },
   {
     "id": 1780094075178,
     "home": "Bhaze",
     "away": "CodeTalker",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
     "date": "2026-05-29"
   },
