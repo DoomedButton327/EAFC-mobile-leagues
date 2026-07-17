@@ -63,9 +63,10 @@
     "loggedAt": "2026-07-02T09:23:47.376Z",
     "home": "Nigelmj21",
     "away": "RFT07",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
-    "date": "2026-07-02"
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-02",
+    "editedAt": "2026-07-17T09:10:18.333Z"
   }
 ]
