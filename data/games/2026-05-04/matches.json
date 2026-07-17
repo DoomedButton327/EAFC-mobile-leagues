@@ -27,10 +27,11 @@
     "id": 1777954490980,
     "home": "CodeTalker",
     "away": "Sailor",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-04"
+    "date": "2026-05-04",
+    "editedAt": "2026-07-17T09:20:00.399Z"
   },
   {
     "id": 1777925895100,
