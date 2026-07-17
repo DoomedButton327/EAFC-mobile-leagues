@@ -59,10 +59,11 @@
     "id": 1780094088057,
     "home": "YungboyShlime",
     "away": "Sailor",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-29"
+    "date": "2026-05-29",
+    "editedAt": "2026-07-17T09:18:04.362Z"
   },
   {
     "id": 1780094075178,
