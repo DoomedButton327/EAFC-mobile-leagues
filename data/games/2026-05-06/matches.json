@@ -73,12 +73,12 @@
     "loggedAt": "2026-05-07T05:35:32.712Z",
     "home": "RFT07",
     "away": "Sailor",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-06",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-06/images/match_RFT07_vs_Sailor_1778132130131.jpg",
-    "editedAt": "2026-06-21T00:49:51.867Z"
+    "editedAt": "2026-07-17T09:07:16.775Z"
   },
   {
     "id": 1778132001148,
