@@ -31,8 +31,7 @@
     "result": "home",
     "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-05-22",
-    "editedAt": "2026-07-17T09:19:22.414Z"
+    "date": "2026-05-22"
   },
   {
     "id": 1779517641492,
@@ -82,10 +81,10 @@
     "loggedAt": "2026-05-23T06:22:40.081Z",
     "home": "CodeTalker",
     "away": "RFT07",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-22",
-    "editedAt": "2026-07-17T09:08:02.862Z"
+    "editedAt": "2026-06-21T00:50:05.763Z"
   }
 ]
