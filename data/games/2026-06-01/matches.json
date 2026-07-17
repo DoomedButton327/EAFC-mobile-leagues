@@ -12,10 +12,11 @@
     "id": 1780352347481,
     "home": "Sailor",
     "away": "Nyali11",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-06-01"
+    "awayGoals": 3,
+    "date": "2026-06-01",
+    "editedAt": "2026-07-17T09:17:39.221Z"
   },
   {
     "id": 1780352337048,
