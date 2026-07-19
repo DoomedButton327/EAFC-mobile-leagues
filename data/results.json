@@ -1,5 +1,38 @@
 [
   {
+    "id": 1784425931659,
+    "uid": "cf8e2777",
+    "loggedAt": "2026-07-19T01:52:10.980Z",
+    "home": "DARK-_-CEO",
+    "away": "SMANGALISO",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-07-18"
+  },
+  {
+    "id": 1784425911775,
+    "uid": "4e76b6a9",
+    "loggedAt": "2026-07-19T01:51:47.138Z",
+    "home": "RoyalAM",
+    "away": "CRANK_",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-18"
+  },
+  {
+    "id": 1784425895593,
+    "uid": "730d9903",
+    "loggedAt": "2026-07-19T01:51:32.513Z",
+    "home": "DARK-_-CEO",
+    "away": "SMANGALISO",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-07-17"
+  },
+  {
     "id": 1784425868715,
     "uid": "140fa4ec",
     "loggedAt": "2026-07-19T01:51:04.168Z",
