@@ -133,15 +133,14 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 50,
-    "wins": 17,
+    "played": 51,
+    "wins": 18,
     "draws": 21,
     "losses": 12,
-    "points": 72,
-    "gf": 53,
+    "points": 75,
+    "gf": 54,
     "ga": 32,
     "form": [
-      "W",
       "D",
       "D",
       "D",
@@ -150,7 +149,8 @@
       "L",
       "D",
       "D",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 48,
+    "played": 49,
     "wins": 32,
     "draws": 7,
-    "losses": 9,
+    "losses": 10,
     "points": 103,
     "gf": 109,
-    "ga": 29,
+    "ga": 30,
     "form": [
-      "D",
       "W",
       "L",
       "W",
@@ -254,7 +253,8 @@
       "D",
       "D",
       "W",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 18,
     "suspended": false
