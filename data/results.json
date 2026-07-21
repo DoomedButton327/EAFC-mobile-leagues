@@ -1,5 +1,43 @@
 [
   {
+    "id": 1784608329552,
+    "home": "YungboyShlime",
+    "away": "Nyali11",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 1784608336149,
+    "home": "Kloutt",
+    "away": "Bhaze",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 1784608328724,
+    "home": "DiliboL",
+    "away": "ICONIC-CLUB",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 1784608330990,
+    "uid": "3718e764",
+    "loggedAt": "2026-07-21T04:32:05.582Z",
+    "home": "SMANGALISO",
+    "away": "Nigelmj21",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-20"
+  },
+  {
     "id": 1784608317370,
     "uid": "4ac92727",
     "loggedAt": "2026-07-21T04:31:49.902Z",
