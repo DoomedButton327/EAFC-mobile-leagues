@@ -52,10 +52,11 @@
     "loggedAt": "2026-07-19T01:52:48.799Z",
     "home": "CRANK_",
     "away": "Ctaum-cpt",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-07-17"
+    "awayGoals": 3,
+    "date": "2026-07-17",
+    "editedAt": "2026-07-21T04:30:42.167Z"
   },
   {
     "id": 1784425931659,
