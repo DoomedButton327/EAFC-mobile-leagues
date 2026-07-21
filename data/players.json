@@ -48,7 +48,7 @@
       "L",
       "W"
     ],
-    "postponements": 9,
+    "postponements": 8,
     "suspended": false
   },
   {
@@ -81,15 +81,14 @@
     "name": "👑•",
     "username": "Zan-Ten",
     "phone": "+27710050307",
-    "played": 45,
+    "played": 46,
     "wins": 12,
     "draws": 16,
-    "losses": 17,
+    "losses": 18,
     "points": 52,
     "gf": 34,
-    "ga": 47,
+    "ga": 50,
     "form": [
-      "D",
       "D",
       "L",
       "D",
@@ -98,7 +97,8 @@
       "W",
       "D",
       "L",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 20,
     "suspended": false
@@ -211,15 +211,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 47,
-    "wins": 12,
+    "played": 48,
+    "wins": 13,
     "draws": 19,
     "losses": 16,
-    "points": 55,
-    "gf": 39,
+    "points": 58,
+    "gf": 42,
     "ga": 51,
     "form": [
-      "D",
       "L",
       "D",
       "L",
@@ -228,7 +227,8 @@
       "W",
       "D",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
@@ -445,15 +445,14 @@
     "name": "Junaid",
     "username": "BreadNTea-RSA",
     "phone": "+27687182477",
-    "played": 20,
+    "played": 21,
     "wins": 13,
     "draws": 6,
-    "losses": 1,
+    "losses": 2,
     "points": 45,
     "gf": 37,
-    "ga": 12,
+    "ga": 15,
     "form": [
-      "W",
       "D",
       "W",
       "W",
@@ -462,7 +461,8 @@
       "D",
       "W",
       "D",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 16,
     "suspended": false
@@ -471,15 +471,14 @@
     "name": "Nkosii",
     "username": "DARK-_-CEO",
     "phone": "+27832798832",
-    "played": 18,
-    "wins": 9,
+    "played": 19,
+    "wins": 10,
     "draws": 6,
     "losses": 3,
-    "points": 33,
-    "gf": 25,
+    "points": 36,
+    "gf": 28,
     "ga": 8,
     "form": [
-      "W",
       "D",
       "L",
       "D",
@@ -488,7 +487,8 @@
       "D",
       "L",
       "W",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
