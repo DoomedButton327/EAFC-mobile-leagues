@@ -1,5 +1,38 @@
 [
   {
+    "id": 1784700843892,
+    "uid": "de0b952f",
+    "loggedAt": "2026-07-22T06:13:57.543Z",
+    "home": "CRANK_",
+    "away": "XWRLD_REAPERS",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-07-20"
+  },
+  {
+    "id": 1784700821817,
+    "uid": "a6594773",
+    "loggedAt": "2026-07-22T06:13:37.442Z",
+    "home": "RoyalAM",
+    "away": "XWRLD_REAPERS",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-07-21"
+  },
+  {
+    "id": 1784700804237,
+    "uid": "44283921",
+    "loggedAt": "2026-07-22T06:13:19.894Z",
+    "home": "Ctaum-cpt",
+    "away": "DiliboL",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-21"
+  },
+  {
     "id": 1784700791250,
     "uid": "6a0cfd54",
     "loggedAt": "2026-07-22T06:13:07.616Z",
