@@ -1793,10 +1793,11 @@
     "loggedAt": "2026-05-23T06:23:41.006Z",
     "home": "Zan-Ten",
     "away": "Bhaze",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-05-22"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-05-22",
+    "editedAt": "2026-07-22T10:57:39.446Z"
   },
   {
     "id": 1779517369224,
@@ -1873,10 +1874,11 @@
     "loggedAt": "2026-05-24T18:10:10.016Z",
     "home": "Zan-Ten",
     "away": "RoyalAM",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
-    "date": "2026-05-23"
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-05-23",
+    "editedAt": "2026-07-22T10:57:44.869Z"
   },
   {
     "id": 1779646208081,
@@ -3625,10 +3627,11 @@
     "loggedAt": "2026-06-28T07:59:01.235Z",
     "home": "RFT07",
     "away": "Zan-Ten",
-    "result": "away",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 3,
-    "date": "2026-06-27"
+    "awayGoals": 0,
+    "date": "2026-06-27",
+    "editedAt": "2026-07-22T10:58:10.766Z"
   },
   {
     "id": 1782633533330,
