@@ -147,10 +147,11 @@
     "id": 1784426014652,
     "home": "Nigelmj21",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-18"
+    "date": "2026-07-18",
+    "editedAt": "2026-07-22T10:26:00.486Z"
   },
   {
     "id": 1784426012053,
@@ -279,10 +280,11 @@
     "id": 1784326837667,
     "home": "Nyali11",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-17"
+    "date": "2026-07-17",
+    "editedAt": "2026-07-22T10:26:03.581Z"
   },
   {
     "id": 1784326837346,
@@ -668,11 +670,11 @@
     "loggedAt": "2026-05-08T07:26:29.602Z",
     "home": "Kloutt",
     "away": "Zan-Ten",
-    "result": "away",
-    "homeGoals": 0,
-    "awayGoals": 3,
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
     "date": "2026-05-06",
-    "editedAt": "2026-05-13T11:33:15.889Z"
+    "editedAt": "2026-07-22T10:26:10.143Z"
   },
   {
     "id": 1778132333999,
@@ -809,12 +811,12 @@
     "loggedAt": "2026-05-08T07:22:36.752Z",
     "home": "Zan-Ten",
     "away": "RFT07",
-    "result": "home",
-    "homeGoals": 3,
+    "result": "draw",
+    "homeGoals": 0,
     "awayGoals": 0,
     "date": "2026-05-07",
     "imageUrl": "https://raw.githubusercontent.com/DoomedButton327/EAFC-mobile-leagues/main/data/games/2026-05-07/images/match_Zan-Ten_vs_RFT07_1778224954075.jpg",
-    "editedAt": "2026-05-13T11:33:17.575Z"
+    "editedAt": "2026-07-22T10:26:18.033Z"
   },
   {
     "id": 1778224931895,
@@ -1038,11 +1040,11 @@
     "loggedAt": "2026-05-12T05:12:23.099Z",
     "home": "Zan-Ten",
     "away": "YungboyShlime",
-    "result": "home",
-    "homeGoals": 3,
-    "awayGoals": 0,
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
     "date": "2026-05-11",
-    "editedAt": "2026-05-13T11:33:20.540Z"
+    "editedAt": "2026-07-22T10:26:28.938Z"
   },
   {
     "id": 1778562664907,
