@@ -2982,10 +2982,11 @@
     "id": 1781215803388,
     "home": "Zan-Ten",
     "away": "YungboyShlime",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-06-12"
+    "awayGoals": 3,
+    "date": "2026-06-12",
+    "editedAt": "2026-07-22T10:27:37.816Z"
   },
   {
     "id": 1781215801934,
@@ -3038,10 +3039,11 @@
     "id": 1781416239280,
     "home": "Zan-Ten",
     "away": "RoyalAM",
-    "result": "draw",
+    "result": "away",
     "homeGoals": 0,
-    "awayGoals": 0,
-    "date": "2026-06-13"
+    "awayGoals": 3,
+    "date": "2026-06-13",
+    "editedAt": "2026-07-22T10:27:42.641Z"
   },
   {
     "id": 1781416234054,
@@ -3152,11 +3154,11 @@
     "loggedAt": "2026-06-16T21:23:35.598Z",
     "home": "RFT07",
     "away": "Zan-Ten",
-    "result": "away",
+    "result": "draw",
     "homeGoals": 0,
-    "awayGoals": 3,
+    "awayGoals": 0,
     "date": "2026-06-15",
-    "editedAt": "2026-06-21T00:50:39.655Z"
+    "editedAt": "2026-07-22T10:27:48.062Z"
   },
   {
     "id": 1781844640693,
@@ -3238,10 +3240,11 @@
     "id": 1781910254040,
     "home": "RoyalAM",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-06-19"
+    "date": "2026-06-19",
+    "editedAt": "2026-07-22T10:27:54.929Z"
   },
   {
     "id": 1781910261895,
@@ -3746,10 +3749,11 @@
     "id": 1782856206175,
     "home": "Nigelmj21",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-06-30"
+    "date": "2026-06-30",
+    "editedAt": "2026-07-22T10:29:31.696Z"
   },
   {
     "id": 1782856167230,
