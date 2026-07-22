@@ -133,15 +133,14 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 52,
-    "wins": 18,
+    "played": 53,
+    "wins": 19,
     "draws": 22,
     "losses": 12,
-    "points": 76,
-    "gf": 54,
-    "ga": 32,
+    "points": 79,
+    "gf": 57,
+    "ga": 33,
     "form": [
-      "W",
       "D",
       "D",
       "W",
@@ -150,7 +149,8 @@
       "D",
       "W",
       "W",
-      "D"
+      "D",
+      "W"
     ],
     "postponements": 19,
     "suspended": false
@@ -393,15 +393,14 @@
     "name": "SMANGALISO",
     "username": "SMANGALISO",
     "phone": "+27780070989",
-    "played": 50,
+    "played": 51,
     "wins": 25,
     "draws": 12,
-    "losses": 13,
+    "losses": 14,
     "points": 87,
-    "gf": 75,
-    "ga": 41,
+    "gf": 76,
+    "ga": 44,
     "form": [
-      "L",
       "D",
       "D",
       "W",
@@ -410,7 +409,8 @@
       "W",
       "W",
       "L",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 6,
     "suspended": false
