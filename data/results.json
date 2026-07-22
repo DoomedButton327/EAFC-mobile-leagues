@@ -1,5 +1,23 @@
 [
   {
+    "id": 1784700876729,
+    "home": "Nigelmj21",
+    "away": "Kloutt",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-21"
+  },
+  {
+    "id": 1784700878087,
+    "home": "Bhaze",
+    "away": "DARK-_-CEO",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-21"
+  },
+  {
     "id": 1784700843892,
     "uid": "de0b952f",
     "loggedAt": "2026-07-22T06:13:57.543Z",
@@ -169,9 +187,9 @@
     "away": "Ctaum-cpt",
     "result": "away",
     "homeGoals": 0,
-    "awayGoals": 3,
+    "awayGoals": 1,
     "date": "2026-07-17",
-    "editedAt": "2026-07-21T04:30:42.167Z"
+    "editedAt": "2026-07-22T06:14:45.645Z"
   },
   {
     "id": 1784425931659,
