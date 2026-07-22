@@ -3803,10 +3803,11 @@
     "id": 1783062755928,
     "home": "Nyali11",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-02"
+    "date": "2026-07-02",
+    "editedAt": "2026-07-22T10:29:36.614Z"
   },
   {
     "id": 1783062757271,
@@ -3960,10 +3961,11 @@
     "id": 1783322912525,
     "home": "YungboyShlime",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-04"
+    "date": "2026-07-04",
+    "editedAt": "2026-07-22T10:29:42.765Z"
   },
   {
     "id": 1783205356929,
@@ -4001,10 +4003,11 @@
     "id": 1783378940796,
     "home": "DiliboL",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-06"
+    "date": "2026-07-06",
+    "editedAt": "2026-07-22T10:29:48.114Z"
   },
   {
     "id": 1783378923555,
@@ -4107,10 +4110,11 @@
     "id": 1783753379659,
     "home": "YungboyShlime",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-10"
+    "date": "2026-07-10",
+    "editedAt": "2026-07-22T10:29:53.083Z"
   },
   {
     "id": 1783753377239,
@@ -4189,10 +4193,11 @@
     "id": 1783897194985,
     "home": "Nigelmj21",
     "away": "Zan-Ten",
-    "result": "draw",
-    "homeGoals": 0,
+    "result": "home",
+    "homeGoals": 3,
     "awayGoals": 0,
-    "date": "2026-07-11"
+    "date": "2026-07-11",
+    "editedAt": "2026-07-22T10:29:59.351Z"
   },
   {
     "id": 1783897196989,
@@ -4318,10 +4323,11 @@
     "loggedAt": "2026-07-15T22:41:42.621Z",
     "home": "Zan-Ten",
     "away": "RFT07",
-    "result": "home",
-    "homeGoals": 3,
+    "result": "draw",
+    "homeGoals": 0,
     "awayGoals": 0,
-    "date": "2026-07-14"
+    "date": "2026-07-14",
+    "editedAt": "2026-07-22T10:30:07.950Z"
   },
   {
     "id": 1784155301110,
