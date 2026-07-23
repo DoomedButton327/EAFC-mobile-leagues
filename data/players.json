@@ -133,15 +133,14 @@
     "name": "mansur",
     "username": "ICONIC-CLUB",
     "phone": "+255616502631",
-    "played": 53,
+    "played": 54,
     "wins": 19,
     "draws": 22,
-    "losses": 12,
+    "losses": 13,
     "points": 79,
-    "gf": 57,
-    "ga": 33,
+    "gf": 58,
+    "ga": 35,
     "form": [
-      "D",
       "D",
       "W",
       "L",
@@ -150,7 +149,8 @@
       "W",
       "W",
       "D",
-      "W"
+      "W",
+      "L"
     ],
     "postponements": 19,
     "suspended": false
@@ -412,7 +412,7 @@
       "W",
       "L"
     ],
-    "postponements": 6,
+    "postponements": 5,
     "suspended": false
   },
   {
@@ -464,22 +464,21 @@
       "W",
       "L"
     ],
-    "postponements": 15,
+    "postponements": 14,
     "suspended": false
   },
   {
     "name": "Nkosii",
     "username": "DARK-_-CEO",
     "phone": "+27832798832",
-    "played": 20,
-    "wins": 10,
+    "played": 21,
+    "wins": 11,
     "draws": 7,
     "losses": 3,
-    "points": 37,
-    "gf": 28,
-    "ga": 8,
+    "points": 40,
+    "gf": 30,
+    "ga": 9,
     "form": [
-      "L",
       "D",
       "D",
       "W",
@@ -488,6 +487,7 @@
       "W",
       "L",
       "D",
+      "W",
       "W"
     ],
     "postponements": 18,
