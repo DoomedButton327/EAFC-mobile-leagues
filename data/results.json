@@ -1,5 +1,27 @@
 [
   {
+    "id": 1784868422243,
+    "uid": "6dcb88f8",
+    "loggedAt": "2026-07-24T04:47:00.768Z",
+    "home": "SMANGALISO",
+    "away": "YungboyShlime",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-23"
+  },
+  {
+    "id": 1784868367740,
+    "uid": "a7a16655",
+    "loggedAt": "2026-07-24T04:45:58.492Z",
+    "home": "YungboyShlime",
+    "away": "BreadNTea-RSA",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-22"
+  },
+  {
     "id": 1784868353866,
     "uid": "9b67e08d",
     "loggedAt": "2026-07-24T04:45:52.916Z",
