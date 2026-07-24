@@ -1,44 +1,9 @@
 [
   {
-    "id": 1784711176518,
-    "home": "SMANGALISO",
-    "away": "CRANK_",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-22"
-  },
-  {
-    "id": 1784783418839,
-    "home": "Bhaze",
-    "away": "ICONIC-CLUB",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-23"
-  },
-  {
-    "id": 1784783415577,
-    "home": "CRANK_",
-    "away": "BreadNTea-RSA",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-23"
-  },
-  {
     "id": 1784783415139,
     "home": "XWRLD_REAPERS",
     "away": "Nigelmj21",
     "postponedBy": "XWRLD_REAPERS",
-    "scheduledDate": "2026-07-23"
-  },
-  {
-    "id": 1784783412365,
-    "home": "RoyalAM",
-    "away": "Nyali11",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-23"
-  },
-  {
-    "id": 1784783410352,
-    "home": "Kloutt",
-    "away": "DiliboL",
-    "postponedBy": null,
     "scheduledDate": "2026-07-23"
   },
   {
@@ -47,5 +12,54 @@
     "away": "DARK-_-CEO",
     "postponedBy": "XWRLD_REAPERS",
     "scheduledDate": "2026-07-23"
+  },
+  {
+    "id": 1784868470841,
+    "home": "Nyali11",
+    "away": "DiliboL",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868476201,
+    "home": "Nigelmj21",
+    "away": "ICONIC-CLUB",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868471194,
+    "home": "Bhaze",
+    "away": "BreadNTea-RSA",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868473068,
+    "home": "DARK-_-CEO",
+    "away": "CRANK_",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868477219,
+    "home": "RoyalAM",
+    "away": "Ctaum-cpt",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868477751,
+    "home": "YungboyShlime",
+    "away": "XWRLD_REAPERS",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
+  },
+  {
+    "id": 1784868479866,
+    "home": "SMANGALISO",
+    "away": "Kloutt",
+    "postponedBy": null,
+    "scheduledDate": "2026-07-24"
   }
 ]
