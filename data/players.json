@@ -211,15 +211,14 @@
     "name": "🅿️🅾️🕉️🅱️🅰️",
     "username": "RoyalAM",
     "phone": "+27682987402",
-    "played": 51,
+    "played": 52,
     "wins": 18,
     "draws": 18,
-    "losses": 15,
+    "losses": 16,
     "points": 72,
     "gf": 55,
-    "ga": 48,
+    "ga": 51,
     "form": [
-      "D",
       "L",
       "W",
       "D",
@@ -228,7 +227,8 @@
       "W",
       "W",
       "D",
-      "D"
+      "D",
+      "L"
     ],
     "postponements": 18,
     "suspended": false
@@ -237,15 +237,14 @@
     "name": "Ctaum",
     "username": "Ctaum-cpt",
     "phone": "+27764797158",
-    "played": 53,
-    "wins": 35,
+    "played": 54,
+    "wins": 36,
     "draws": 7,
     "losses": 11,
-    "points": 112,
-    "gf": 116,
+    "points": 115,
+    "gf": 119,
     "ga": 33,
     "form": [
-      "W",
       "L",
       "W",
       "D",
@@ -254,7 +253,8 @@
       "W",
       "W",
       "D",
-      "L"
+      "L",
+      "W"
     ],
     "postponements": 18,
     "suspended": false
