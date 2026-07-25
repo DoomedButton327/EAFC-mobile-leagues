@@ -1,5 +1,32 @@
 [
   {
+    "id": 1785017397941,
+    "home": "Kloutt",
+    "away": "XWRLD_REAPERS",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-25"
+  },
+  {
+    "id": 1785017402965,
+    "home": "DARK-_-CEO",
+    "away": "DiliboL",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-25"
+  },
+  {
+    "id": 1785017404073,
+    "home": "XWRLD_REAPERS",
+    "away": "DARK-_-CEO",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-23"
+  },
+  {
     "id": 1785017391912,
     "uid": "8ef153f6",
     "loggedAt": "2026-07-25T22:09:42.229Z",
