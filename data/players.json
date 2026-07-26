@@ -147,8 +147,8 @@
       "W",
       "D",
       "W",
-      "L",
       "D",
+      "L",
       "D",
       "D"
     ],
@@ -224,8 +224,8 @@
       "D",
       "L",
       "W",
-      "W",
       "D",
+      "W",
       "D",
       "L",
       "D"
@@ -329,8 +329,8 @@
       "D",
       "D",
       "L",
-      "L",
       "D",
+      "L",
       "D",
       "D"
     ],
@@ -407,9 +407,9 @@
       "L",
       "W",
       "L",
+      "D",
       "W",
       "L",
-      "D",
       "L"
     ],
     "postponements": 5,
@@ -420,11 +420,11 @@
     "username": "XWRLD_REAPERS",
     "phone": "+27750656258",
     "played": 43,
-    "wins": 20,
-    "draws": 11,
+    "wins": 21,
+    "draws": 10,
     "losses": 12,
-    "points": 71,
-    "gf": 57,
+    "points": 73,
+    "gf": 60,
     "ga": 22,
     "form": [
       "L",
@@ -436,7 +436,7 @@
       "W",
       "W",
       "D",
-      "D"
+      "W"
     ],
     "postponements": 5,
     "suspended": false
@@ -473,22 +473,22 @@
     "phone": "+27832798832",
     "played": 25,
     "wins": 12,
-    "draws": 9,
-    "losses": 4,
-    "points": 45,
+    "draws": 8,
+    "losses": 5,
+    "points": 44,
     "gf": 33,
-    "ga": 12,
+    "ga": 15,
     "form": [
       "L",
       "W",
       "L",
       "D",
       "W",
-      "W",
-      "W",
       "L",
+      "W",
+      "W",
       "D",
-      "D"
+      "L"
     ],
     "postponements": 17,
     "suspended": false
