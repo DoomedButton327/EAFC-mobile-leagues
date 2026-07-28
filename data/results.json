@@ -1,5 +1,47 @@
 [
   {
+    "id": 1785218511200,
+    "home": "Kloutt",
+    "away": "Nyali11",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 1,
+    "date": "2026-07-27"
+  },
+  {
+    "id": 1785218501431,
+    "uid": "150d4a0e",
+    "loggedAt": "2026-07-28T06:01:36.126Z",
+    "home": "Ctaum-cpt",
+    "away": "XWRLD_REAPERS",
+    "result": "home",
+    "homeGoals": 1,
+    "awayGoals": 0,
+    "date": "2026-07-27"
+  },
+  {
+    "id": 1785218478645,
+    "uid": "7222e7ef",
+    "loggedAt": "2026-07-28T06:01:09.543Z",
+    "home": "YungboyShlime",
+    "away": "DARK-_-CEO",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-27"
+  },
+  {
+    "id": 1785218463224,
+    "uid": "d30b038c",
+    "loggedAt": "2026-07-28T06:00:59.040Z",
+    "home": "XWRLD_REAPERS",
+    "away": "Nigelmj21",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-27"
+  },
+  {
     "id": 1785218447147,
     "uid": "3d817d17",
     "loggedAt": "2026-07-28T06:00:46.807Z",
@@ -16,10 +58,11 @@
     "loggedAt": "2026-07-28T06:00:01.471Z",
     "home": "Ctaum-cpt",
     "away": "CRANK_",
-    "result": "home",
-    "homeGoals": 2,
-    "awayGoals": 0,
-    "date": "2026-07-27"
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 3,
+    "date": "2026-07-27",
+    "editedAt": "2026-07-28T06:01:27.172Z"
   },
   {
     "id": 1785218393060,
