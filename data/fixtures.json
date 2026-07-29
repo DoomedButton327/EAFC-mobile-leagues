@@ -1,44 +1,9 @@
 [
   {
-    "id": 1785218521785,
-    "home": "ICONIC-CLUB",
-    "away": "YungboyShlime",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
-    "id": 1785218525706,
-    "home": "RoyalAM",
-    "away": "XWRLD_REAPERS",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
-    "id": 1785218521585,
-    "home": "Bhaze",
-    "away": "DARK-_-CEO",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
     "id": 1785218522289,
     "home": "BreadNTea-RSA",
     "away": "Kloutt",
     "postponedBy": "BreadNTea-RSA",
-    "scheduledDate": "2026-07-28"
-  },
-  {
-    "id": 1785218527147,
-    "home": "CRANK_",
-    "away": "DiliboL",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
-    "id": 1785218603603,
-    "home": "XWRLD_REAPERS",
-    "away": "CRANK_",
-    "postponedBy": null,
     "scheduledDate": "2026-07-28"
   }
 ]
