@@ -21,30 +21,16 @@
     "scheduledDate": "2026-07-28"
   },
   {
-    "id": 1785218519487,
-    "home": "Nigelmj21",
-    "away": "Nyali11",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
     "id": 1785218522289,
     "home": "BreadNTea-RSA",
     "away": "Kloutt",
-    "postponedBy": null,
+    "postponedBy": "BreadNTea-RSA",
     "scheduledDate": "2026-07-28"
   },
   {
     "id": 1785218527147,
     "home": "CRANK_",
     "away": "DiliboL",
-    "postponedBy": null,
-    "scheduledDate": "2026-07-28"
-  },
-  {
-    "id": 1785218580739,
-    "home": "SMANGALISO",
-    "away": "XWRLD_REAPERS",
     "postponedBy": null,
     "scheduledDate": "2026-07-28"
   },

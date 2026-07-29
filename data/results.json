@@ -1,5 +1,27 @@
 [
   {
+    "id": 1785298647368,
+    "uid": "f46ec83e",
+    "loggedAt": "2026-07-29T04:17:19.204Z",
+    "home": "Nigelmj21",
+    "away": "Nyali11",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-28"
+  },
+  {
+    "id": 1785298622953,
+    "uid": "e4f3e9c8",
+    "loggedAt": "2026-07-29T04:16:54.017Z",
+    "home": "SMANGALISO",
+    "away": "XWRLD_REAPERS",
+    "result": "away",
+    "homeGoals": 1,
+    "awayGoals": 2,
+    "date": "2026-07-28"
+  },
+  {
     "id": 1785298597631,
     "uid": "f28e5940",
     "loggedAt": "2026-07-29T04:16:28.022Z",
