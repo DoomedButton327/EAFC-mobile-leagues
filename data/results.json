@@ -1,5 +1,75 @@
 [
   {
+    "id": 1785485768324,
+    "home": "DARK-_-CEO",
+    "away": "DiliboL",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-30",
+    "editedAt": "2026-07-31T08:16:07.343Z"
+  },
+  {
+    "id": 1785485763265,
+    "home": "RoyalAM",
+    "away": "Nigelmj21",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": 1785485767698,
+    "home": "SMANGALISO",
+    "away": "YungboyShlime",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": 1785485764216,
+    "home": "Kloutt",
+    "away": "Bhaze",
+    "result": "draw",
+    "homeGoals": 0,
+    "awayGoals": 0,
+    "date": "2026-07-30"
+  },
+  {
+    "id": 1785485763159,
+    "uid": "f8d615f2",
+    "loggedAt": "2026-07-31T08:15:54.768Z",
+    "home": "DARK-_-CEO",
+    "away": "XWRLD_REAPERS",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 0,
+    "date": "2026-07-29"
+  },
+  {
+    "id": 1785485757182,
+    "uid": "8a59a76f",
+    "loggedAt": "2026-07-31T08:15:47.595Z",
+    "home": "XWRLD_REAPERS",
+    "away": "ICONIC-CLUB",
+    "result": "away",
+    "homeGoals": 0,
+    "awayGoals": 3,
+    "date": "2026-07-30"
+  },
+  {
+    "id": 1785485727426,
+    "uid": "2ca9de83",
+    "loggedAt": "2026-07-31T08:15:25.106Z",
+    "home": "CRANK_",
+    "away": "BreadNTea-RSA",
+    "result": "home",
+    "homeGoals": 3,
+    "awayGoals": 1,
+    "date": "2026-07-30"
+  },
+  {
     "id": 1785485720224,
     "uid": "9d4b39cc",
     "loggedAt": "2026-07-31T08:15:12.547Z",
